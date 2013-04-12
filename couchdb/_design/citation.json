@@ -1,0 +1,13 @@
+{
+   "_id": "_design/citation",
+   "_rev": "7-bd44926986d6d9dabe2513d07cdf02e5",
+   "language": "javascript",
+   "indexes": {
+       "all": {
+           "index": "function(doc) { if (doc.citation_string) {  index(\"default\", doc.citation_string, {\"store\": \"yes\"}); } }"
+       },
+       "journal": {
+           "index": "function(doc) { if (doc.journal) {  index(\"default\", doc.journal.name, {\"store\": \"yes\"}); } }"
+       }
+   }
+}

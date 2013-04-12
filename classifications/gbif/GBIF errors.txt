@@ -1,0 +1,7 @@
+GBIF errors
+-----------
+
+
+Mormopterus nonghensis" 4832110 should be 
+
+Mormopterus nonghenensis (see Mormopterus (Hydromops) nonghenensis ION 690716 http://dx.doi.org/10.1080/02724634.1988.10011710

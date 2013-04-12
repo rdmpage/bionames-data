@@ -1,0 +1,15 @@
+{
+   "_id": "_design/cleaning",
+   "_rev": "3-448b8b24674eb85ef1cc0608e3c3b157",
+   "language": "javascript",
+   "views": {
+       "publications_without_author": {
+           "map": "function(doc) \n{ \n  var types = ['article','book','chapter','generic','journal'];\n  var type = types.indexOf(doc.type);\n  if (type != -1) \n  {\n     if (!doc.author)\n     {\n        emit(doc.year, 1);\n     }\n  }\n}",
+           "reduce": "function (key, values, rereduce) {\n    return sum(values);\n}"
+       },
+       "alldocs": {
+           "map": "function(doc) { \n   emit(doc._id, 1);\n\n}",
+           "reduce": "function (key, values, rereduce) {\n    return sum(values);\n}"
+       }
+   }
+}

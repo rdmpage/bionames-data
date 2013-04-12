@@ -1,0 +1,17 @@
+{
+   "_id": "_design/classification",
+   "_rev": "3-f8d8b4ea0d6bf2d3992f12c3b5a75868",
+   "language": "javascript",
+   "views": {
+       "gbif_num_leaves": {
+           "map": "function(doc) {\n\n  if(doc.type == 'taxonConcept')\n  {\n    // GBIF\n    if (doc.source == \"http://ecat-dev.gbif.org/checklist/1\")\n    {\n\n    if (doc.children)\n    {\n      // we only want count of total number of leaves that\n      // descend from this node\n    }\n    else\n    { \n      for (var i in doc.ancestors)\n      {\n         emit(doc.ancestors[i].sourceIdentifier, 1);\n      }\n    }\n  }\n  }\n\n}\n",
+           "reduce": "function (key, values, rereduce) {\n    return sum(values);\n}"
+       },
+       "gbif_path": {
+           "map": "function(doc) {\n\n  if(doc.type == 'taxonConcept')\n  {\n  if (doc.source == \"http://ecat-dev.gbif.org/checklist/1\")\n    {\n \n      var key = [];\n      for (var i in doc.ancestors)\n      {\n        key.push(parseInt(doc.ancestors[i].sourceIdentifier));\n      }\n      key.push(parseInt(doc.sourceIdentifier));\n \n      emit(key, doc.canonicalName);\n   }\n    \n  }\n\n}"
+       },
+       "gbif_synonyms": {
+           "map": "function(doc) {\n  if(doc.type == 'taxonConcept') {\n    if (doc.source == \"http://ecat-dev.gbif.org/checklist/1\") {\n       if (doc.synonyms) {\n          for (var i in doc.synonyms) {\n            emit(doc.canonicalName, doc.synonyms[i].canonicalName);\n            emit(doc.synonyms[i].canonicalName, doc.canonicalName);\n          }\n       }\n    }\n  }\n}"
+       }
+   }
+}
