@@ -1,7 +1,6 @@
 {
    "_id": "_design/count",
-   "_rev": "11-5c0398d58762172bb25081172a079302",
-   "language": "javascript",
+    "language": "javascript",
    "views": {
        "publications_by_year": {
            "map": "function(doc) \n{ \n  var types = ['article','book','chapter','generic','journal'];\n  var type = types.indexOf(doc.type);\n  if (type != -1) \n  {\n \n  if (doc.year)\n  {\n     emit(doc.year, 1);\n  }\n}\n}",

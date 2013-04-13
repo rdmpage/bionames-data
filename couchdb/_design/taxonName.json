@@ -1,6 +1,5 @@
 {
    "_id": "_design/taxonName",
-   "_rev": "7-f34f9c6bc98486aa6ed578b687da5bfe",
    "language": "javascript",
    "views": {
        "nameString": {

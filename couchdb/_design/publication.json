@@ -1,6 +1,5 @@
 {
    "_id": "_design/publication",
-   "_rev": "27-63f3b60e05a61a7dedde959bad47bbdb",
    "language": "javascript",
    "views": {
        "publisher": {

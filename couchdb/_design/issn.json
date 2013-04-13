@@ -1,6 +1,5 @@
 {
    "_id": "_design/issn",
-   "_rev": "17-6e271dae473ceaeba705c0a9a519b541",
    "language": "javascript",
    "views": {
        "year": {

@@ -1,6 +1,5 @@
 {
    "_id": "_design/darwincore",
-   "_rev": "32-27787a6ae338accbfcb2781facc57ecc",
    "language": "javascript",
    "lists": {
        "tsv": "function(head,req) { var headers = ''; var row; start({ 'headers': { 'Content-Type': 'text/tsv' } }); while(row = getRow()) { if (headers == '') { headers='ReferenceID\\tPrimaryTitle\\tCreated\\tURL\\tDOI'; send(headers +'\\n'); } send(row.key + '\\t' + row.value + '\\n'); } }"

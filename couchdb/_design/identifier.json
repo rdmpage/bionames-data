@@ -1,6 +1,5 @@
 {
    "_id": "_design/identifier",
-   "_rev": "32-38ed9d1a5a488bbe0f7901f231a3961d",
    "language": "javascript",
    "views": {
        "doi": {

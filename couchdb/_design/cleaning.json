@@ -1,6 +1,5 @@
 {
    "_id": "_design/cleaning",
-   "_rev": "3-448b8b24674eb85ef1cc0608e3c3b157",
    "language": "javascript",
    "views": {
        "publications_without_author": {

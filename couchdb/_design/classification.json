@@ -1,6 +1,5 @@
 {
    "_id": "_design/classification",
-   "_rev": "3-f8d8b4ea0d6bf2d3992f12c3b5a75868",
    "language": "javascript",
    "views": {
        "gbif_num_leaves": {
@@ -8,10 +7,14 @@
            "reduce": "function (key, values, rereduce) {\n    return sum(values);\n}"
        },
        "gbif_path": {
-           "map": "function(doc) {\n\n  if(doc.type == 'taxonConcept')\n  {\n  if (doc.source == \"http://ecat-dev.gbif.org/checklist/1\")\n    {\n \n      var key = [];\n      for (var i in doc.ancestors)\n      {\n        key.push(parseInt(doc.ancestors[i].sourceIdentifier));\n      }\n      key.push(parseInt(doc.sourceIdentifier));\n \n      emit(key, doc.canonicalName);\n   }\n    \n  }\n\n}"
+           "map": "/* Create view that indexes year counts by classification path */\nfunction(doc) {\n  if(doc.type == 'taxonConcept') {\n\t  if (doc.source == \"http://ecat-dev.gbif.org/checklist/1\") {\n\t   if (doc.identifier) {\n\t\t  if (doc.identifier.ion) { \t\t\t\t\t\n\t\t    for (var j in doc.identifier.ion) {\n\t\t\t  if (doc.identifier.ion[j].year) {\n\t\t\t    for (var i in doc.ancestors) {\n\t\t\t\t  emit([doc.ancestors[i].sourceIdentifier,parseInt(doc.identifier.ion[j].year[0])], 1);\n\t\t\t   }\n\t\t    }\n\t\t  }              \n\t\t}\n\t  }\n\t}   \n  }\n}"
        },
        "gbif_synonyms": {
            "map": "function(doc) {\n  if(doc.type == 'taxonConcept') {\n    if (doc.source == \"http://ecat-dev.gbif.org/checklist/1\") {\n       if (doc.synonyms) {\n          for (var i in doc.synonyms) {\n            emit(doc.canonicalName, doc.synonyms[i].canonicalName);\n            emit(doc.synonyms[i].canonicalName, doc.canonicalName);\n          }\n       }\n    }\n  }\n}"
+       },
+       "gbif_year": {
+           "map": "/* Create view that indexes year counts for names by classification path */\nfunction(doc) {\n  var pattern = /\\s+([1|2][0-9]{3})$/;\n  if(doc.type == 'taxonConcept') {\n    if (doc.source == \"http://ecat-dev.gbif.org/checklist/1\") {\n     if (doc.identifier) {\n      if (doc.identifier.ion) {           \n        for (var j in doc.identifier.ion) {\n          var year = 0;\n          if (doc.identifier.ion[j].year) {\n            year = doc.identifier.ion[j].year[0];\n          }\n          else {\n            if (doc.identifier.ion[j].taxonAuthor) {\n              var match = pattern.exec(doc.identifier.ion[j].taxonAuthor);\t\t\t\t\t\t\t\t\t\n              if (match) {\n                year = match[1];\n              }\n            }\n          }\n          if (year != 0) {\n            for (var i in doc.ancestors) {\n              emit([parseInt(doc.ancestors[i].sourceIdentifier),parseInt(year)], 1);\n            }\n          }          \n        }              \n      }\n    }\n  }   \n}\n}",
+           "reduce": "function (key, values, rereduce) {\n    return sum(values);\n}"
        }
    }
 }

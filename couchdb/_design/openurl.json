@@ -1,6 +1,5 @@
 {
    "_id": "_design/openurl",
-   "_rev": "2-32c8b3a44498b04c2ef25279744d1cbf",
    "language": "javascript",
    "views": {
        "journal_to_issn": {
