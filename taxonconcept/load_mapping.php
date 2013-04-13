@@ -76,6 +76,8 @@ function load_mapping($filename)
 					// get details on name cluster
 					$c = get_cluster($result->fields['cluster_id']);
 					
+					//print_r($c);
+					
 					$cluster = new stdclass;
 					//$cluster->id = $result->fields['cluster_id'];
 					
@@ -94,6 +96,12 @@ function load_mapping($filename)
 					if (isset($c->publishedInCitation))
 					{
 						$cluster->publishedInCitation = $c->publishedInCitation;
+						
+						// year
+						if (isset($c->year))
+						{
+							$cluster->year = $c->year;
+						}												
 					}
 												
 					if (!isset($taxonconcept->identifier->ion))
@@ -101,13 +109,7 @@ function load_mapping($filename)
 						$taxonconcept->identifier->ion = new stdclass;
 					}
 	
-					if (!isset($taxonconcept->identifier->ion->{$result->fields['cluster_id']}))
-					{
-						$taxonconcept->identifier->ion->{$result->fields['cluster_id']} = $cluster;
-					}
-					
-					//print_r($taxonconcept->identifier);
-					
+					$taxonconcept->identifier->ion->{$result->fields['cluster_id']} = $cluster;
 					
 					// update
 					$couch->add_update_or_delete_document($taxonconcept,  $taxonconcept->_id);

@@ -3,3 +3,5 @@ config.inc.php
 adodb5/
 
 taxonconcept/tmp/
+
+cookie.txt

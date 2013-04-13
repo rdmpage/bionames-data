@@ -136,20 +136,4 @@ while (count($issns) > 0)
 }
 
 
-/*
-
-$filename = 'frogid.txt';
-
-$file_handle = fopen($filename, "r");
-
-while (!feof($file_handle)) 
-{
-	$id = trim(fgets($file_handle));
-	
-	get_reference(get_id_sql($id));
-}
-*/
-
-
-
 ?>
