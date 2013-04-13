@@ -1,0 +1,29 @@
+Notes on Chiroptera
+
+
+Missing bat names from GBIF
+
+
+Year 1840
+
+http://rdmpage.cloudant.com/bionames/_design/classification/_view/gbif_year?key=%5B734,1840%5D&reduce=false
+
+{"total_rows":7953,"offset":44,"rows":[
+{"id":"gbif\/2432281","key":[734,1840],"value":1},
+{"id":"gbif\/2432761","key":[734,1840],"value":1},
+{"id":"gbif\/2432780","key":[734,1840],"value":1},
+{"id":"gbif\/3239718","key":[734,1840],"value":1},
+{"id":"gbif\/4265946","key":[734,1840],"value":1},
+{"id":"gbif\/5218486","key":[734,1840],"value":1},
+{"id":"gbif\/5218623","key":[734,1840],"value":1},
+{"id":"gbif\/6623539","key":[734,1840],"value":1}
+]}
+
+missing from GBIF
+
+cluster_id	name
+4662826		Vespertilio carolii Temminck 1840	(synonym of Myotis lucifugus http://dx.doi.org/10.2307/3503792 )
+4649737		Vespertilio dasythrix Temminck 1840	(= Miniopterus schreibersii dasythrix)
+
+
+Miniopterus schreibersii dasythrix is in GBIF (4266206) but this combination isn't in ION
