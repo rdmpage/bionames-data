@@ -101,7 +101,7 @@ function get_doi_thumbnail(&$reference, $doi)
 				$mime_type = 'image/gif';
 				break;
 			case IMAGETYPE_JPEG:
-				$$mime_type = 'image/jpg';
+				$mime_type = 'image/jpg';
 				break;
 			case IMAGETYPE_PNG:
 				$mime_type = 'image/png';
