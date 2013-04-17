@@ -1,0 +1,9 @@
+{
+   "_id": "_design/bhl",
+   "language": "javascript",
+   "views": {
+       "name_synonym": {
+           "map": "// http://stackoverflow.com/a/1885660/9684\n\n/* destructively finds the intersection of \n * two arrays in a simple fashion.  \n *\n * PARAMS\n *  a - first array, must already be sorted\n *  b - second array, must already be sorted\n *\n * NOTES\n *  State of input arrays is undefined when\n *  the function returns.  They should be \n *  (prolly) be dumped.\n *\n *  Should have O(n) operations, where n is \n *    n = MIN(a.length, b.length)\n */\nfunction intersection_destructive(a, b)\n{\n  var result = new Array();\n  while( a.length > 0 && b.length > 0 )\n  {  \n     if      (a[0] < b[0] ){ a.shift(); }\n     else if (a[0] > b[0] ){ b.shift(); }\n     else /* they're equal */\n     {\n       result.push(a.shift());\n       b.shift();\n     }\n  }\n\n  return result;\n}\n\nfunction(doc) {\n  if (doc.names) {\n    var n = doc. names.length;\n    for (i = 0; i < n-1; i++) {\n      for (j = i + 1; j < n; j++) {\n         var s1 = doc.names[i].namestring;\n         var s2 = doc.names[j].namestring;\n         \n         var pos1 = s1.lastIndexOf(' ');\n         var pos2 = s2.lastIndexOf(' ');\n         if ((pos1 != -1) && (pos2 != -1)) {\n         \tvar epithet1 = s1.substring(pos1);\n         \tvar epithet2 = s2.substring(pos2);\n         \t\n         \tif (epithet1 == epithet2) {\n                  for (k in doc.names[i].pages) {\n                    if (doc.names[j].pages.indexOf(doc.names[i].pages[k]) != -1) {\n          \t      //emit (s1, doc.names[i].pages[k]);\n          \t      emit (s1, { \"name\": s2, \"PageID\": doc.names[i].pages[k] });\n                      emit (s2, { \"name\": s1, \"PageID\": doc.names[i].pages[k] });\n                      //emit (s2, s1);\n         \t     }         \t\t      \n        \t   }\n         \t}\n         }\n       }\n     }    \n   }\n }        \n"
+       }
+   }
+}
