@@ -27,3 +27,34 @@ cluster_id	name
 
 
 Miniopterus schreibersii dasythrix is in GBIF (4266206) but this combination isn't in ION
+
+
+Close matches
+
+Molossops temminickii GBIF
+Molossops temminckii ION & GBIF urn:lsid:organismnames.com:name:896717
+
+Molossops neglectus Williams & Genoways, 1980
+---------------------------------------------
+
+Molossops neglectus Williams & Genoways, 1980 GBIF 2433004
+Molossops neglectus ION 896724
+Molossops (Molossops) neglectus ION 215708 (has publication)
+
+Tadarida (Chaerophon) gallagheri ION 2118452 has DOI, but GBIF has Tadarida gallagheri
+
+Glyphonycteris daviesi Hill, 1964
+---------------------------------
+http://bionames.org/bionames-api/concept.php?id=gbif/4265381
+
+basionym is Barticonycteris daviesi Hill 1964 ION 2539049 DOI 10.1515/mamm.1964.28.4.553 
+
+Chaerephon nigeriae Thomas, 1913
+---------------------------------
+
+Chaerephon nigeriae Thomas, 1913 gbif/5218711
+Tadarida nigeriae (Thomas, 1913) gbif/5787337
+
+synonyms, see http://bionames.org/archive/viewer.php?sha1=2597f5db3c4a6bac00b338d848c15b73880f5c46 (also has Nyctinomus spillmanni as synonym, see http://localhost/~rpage/bionames/www/search/Nyctinomus%20spillmanni DOI:10.5169/seals-88695
+
+
