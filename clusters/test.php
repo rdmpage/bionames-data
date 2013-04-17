@@ -31,6 +31,12 @@ $id = 182937; // Abacetus
 
 //$id = 3757717; // Euthymia saussurei
 
+$id=4236213;
+//$id=4236233;
+//$id=4236235;
+
+$id = 1361010; // Molossops (Cynomops) greenhalli - bat name but not in GBIF in this form
+
 add_cluster_from_id($id);
 
 ?>
