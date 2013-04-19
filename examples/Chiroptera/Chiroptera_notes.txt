@@ -57,4 +57,73 @@ Tadarida nigeriae (Thomas, 1913) gbif/5787337
 
 synonyms, see http://bionames.org/archive/viewer.php?sha1=2597f5db3c4a6bac00b338d848c15b73880f5c46 (also has Nyctinomus spillmanni as synonym, see http://localhost/~rpage/bionames/www/search/Nyctinomus%20spillmanni DOI:10.5169/seals-88695
 
+spillmanni is a treated as a subspecies of nigeriae in same ref
+
+In Mendeley:
+http://www.mendeley.com/research/chaerephon-nigeriae-6/
+canonical UUID 24d74630-8d46-11e0-a443-0024e8453de6
+doi: 10.1644/1545-1410(2002)710<0001:CN>2.0.CO;2
+
+URL http://api.mendeley.com/oapi/library/groups/1072441/4238055432/
+
+(file hash is same as in BioNames archive)
+
+Mormopterus beccarii subsp. astrolabiensis Meyer, 1899
+------------------------------------------------------
+
+Mormopterus beccarii subsp. astrolabiensis Meyer, 1899 GBIF 4266551
+
+Mormopterus beccarii astrolabiensis MSW
+
+originally "Nyctinomus astrolabiensis" http://biostor.org/reference/127609
+Säugethiere von Celébe-s und Philippinen-Archipel; II. Celébes-Sammlungen der Herren Sarasin
+Abhandlungen und Berichte des Königl. Zoologischen und Anthropologisch-Etnographischen Museums zu Dresden (1899)
+
+Chaerephon aloysiisabaudiae
+---------------------------
+
+Chaerephon aloysiisabaudiae
+http://bionames.org/bionames-api/concept.php?id=gbif/5218717
+
+Tadarida aloysiisabaudiae
+http://bionames.org/bionames-api/concept.php?id=gbif/5787344
+
+
+Nyctinomus aloysii-sabaudiae http://biostor.org/reference/127610
+
+[need to handle lexical variants for names like this…]
+
+Chaerephon pumilus
+-----------------
+
+Chaerephon pumila (Cretzschmar, 1830) gbif/5218712
+Chaerephon pumilus Cretzschmar, 1830-, 1831 gbif/5707216
+
+see http://bionames.org/archive/pdf/20/d8/c1/20d8c10f7a56ca034d4054142099b095559afc88/20d8c10f7a56ca034d4054142099b095559afc88.pdf
+
+Original description Dysopes pumilus, see http://biostor.org/reference/127614
+
+Desmodus youngii
+-----------------
+
+Original description http://biostor.org/reference/127616
+
+Neoromicia helios
+-----------------
+
+Neoromicia helios (Heller, 1912)
+Pipistrellus helios (not in ION, described in http://biostor.org/reference/100220 )
+
+GBIF has both names...
+Neoromicia helios gbif/4265918
+Pipistrellus helios gbif/5787606
+
+Missing from GBIF
+----------------
+
+Rhogeessa bickhami
+Rhogeessa menchuae
+
+
+
 
