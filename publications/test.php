@@ -90,6 +90,54 @@ $sicis = array('b9075e4c24562ec633d7b99f0b1f6f5d');
 
 $sicis=array('1f702d6ade7ef44f6d5348954c70e5b3');
 
+//$sicis=array('0d7b02f51a93214b6e1a93023b44f5ee',
+$sicis=array('0ec514c0a244349a972265f3dbc4f842');
+
+$sicis = array('4621684d42845e5744afb3080fe1ab4d');
+
+$sicis=array('c088c765ef1f2cbe496c049986b42546');
+
+$sicis = array('6534b6a14721fa5f142db4845d024c77');
+
+$sicis=array('9e842f089e0976d9982851948da8fe1e');
+$sicis = array('bacc0f85a920a5d780eb8e91e60e2afa');
+
+$sicis = array('37e829a6e7ec449e8b2c34bf421955c3');
+
+$sicis=array('76e8f7e589c7e772dad9bacbe1ec193a');
+$sicis =array('448c7b9ff5ed1e0427c703afe2aa6703');
+$sicis = array('c66a4e64516cad960bce191560a28bf3');
+$sicis=array('5d3dda28cb400762c4ce02590037f516');
+
+$sicis=array('0a3ff70b340327459806968abbe1c173');
+$sicis=array('5387ec4a9eaea95fceb63bb7c85dc906');
+$sicis=array('f36329e8cb5220ededb76a40c2d55d29');
+$sicis=array('89d30ae0cab3c1557c7eff9e0663bbe3');
+$sicis=array('edc3aa4d8190060425130ec612c33e8d');
+$sicis=array('8d0cb2ed855042a0682ccff23c083484');
+$sicis=array('4b124d7de3e7307128544941f9c3c684');
+$sicis=array('c87ef34591a6a09189fc38f9c99385f1');
+
+$sicis=array('314086de91bd913a609eb024c292ab31');
+$sicis=array('944adbb0c8e570adab9fadd7a20e4070');
+
+$sicis=array('74d4b5822f120386a4620c8d7d3a0dcc');
+
+$sicis=array('8ad5d24b191fbb8297c5a7dd8d1c426a');
+
+$sicis=array('263ccbb8f0185c4bad1176c94e1780fa');
+
+$sicis=array('8c88fb55ce8d7b4d6d73233dd1d6703c');
+$sicis=array('a145b60fcfa5bb5bc4dcaa1a6fef1362');
+$sicis=array('3e4dd179f87ddd29604a86a01cee50a3');
+$sicis=array('17797536956db38110e450b91d174dec');
+$sicis=array('57989b1e39da5951991ced6f318f9bfc');
+
+$sicis=array('1fbf64206b4e17d44ae81ca8653b485b');
+
+$sicis=array('824d1ee84684a6b3f8b764d7cd5863aa');
+$sicis=array('84010af7e4c704890f21ea438b03b1b2');
+
 foreach ($sicis as $sici)
 {
 	get_reference (get_sici_sql($sici));

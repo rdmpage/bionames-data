@@ -80,7 +80,18 @@ function get_ion_names($name)
 	
 	$clusters = array();
 	
-	$sql = 'SELECT DISTINCT cluster_id FROM names WHERE nameComplete = ' . $ion_db->qstr($name);
+	// Handle subgenera by having a query that can find them as well
+	// For example GBIF has Myotis pruinosus Yoshiyuki, 1971 and ION has Myotis (Leuconoe) pruinosus
+	if (preg_match('/^(?<genus>\w+)\s+(?<rest>.*)$/', $name, $m))
+	{
+		$sql = 'SELECT DISTINCT cluster_id FROM names WHERE nameComplete LIKE ' . $ion_db->qstr($m['genus'] . ' %' . $m['rest']);	
+	}
+	else
+	{
+		$sql = 'SELECT DISTINCT cluster_id FROM names WHERE nameComplete = ' . $ion_db->qstr($name);
+	}
+	
+	echo $sql . "\n";
 	
 	$result = $ion_db->Execute($sql);
 	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql . ' ' . $ion_db->ErrorMsg());
@@ -105,6 +116,8 @@ function store_mapping($sql_commands)
 {
 	$db = NewADOConnection('mysql');
 	$db->Connect("localhost", 'root', '', 'ion');
+	
+	//print_r($sql_commands);
 	
 	foreach ($sql_commands as $sql)
 	{

@@ -70,6 +70,12 @@ function get_concept($id)
 		
 		p($concept);
 		
+		if ($result->fields['namePublishedIn'] != null)
+		{
+			$concept->namePublishedIn = utf8_encode($result->fields['namePublishedIn']);
+		}
+		
+		
 		$concept->parent_id  = $result->fields['parentNameUsageID'];
 		$concept->children = array();
 	
@@ -228,9 +234,9 @@ function get_concept($id)
 	}
 }
 
-/*
 
-if (0)
+/*
+if (1)
 {
 	
 	$id = 2428884; // Ptychadenidae Dubois, 1987
@@ -241,6 +247,9 @@ if (0)
 	$id = 5815619;
 	
 	$id = 2425583;
+	
+	$id = 2432840;
+	$id = 734;
 	
 	get_concept($id);
 }
@@ -258,7 +267,7 @@ else
 		get_concept($id);
 	}
 }	
-
 */
+
 
 ?>

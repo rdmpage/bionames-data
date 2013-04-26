@@ -124,6 +124,45 @@ Missing from GBIF
 Rhogeessa bickhami
 Rhogeessa menchuae
 
+Micronycteris homezi Pirlot, 1967
+---------------------------------
+
+http://bionames.org/bionames-api/concept.php?id=gbif/4265443
+
+originally Micronycteris megalotis homezi ION 1361023 (DOI 10.1515/mamm.1967.31.2.260)
+
+
+Myotis moluccarum Thomas, 1915
+------------------------------
+
+Basionym is Leuconoe moluccarum Thomas, 1915  http://biostor.org/reference/127642
+
+
+Leuconoe lepidus Thomas, 1915  http://biostor.org/reference/127642
+
+See http://hdl.handle.net/2246/1784 for more info
+
+Glauconycteris superba
+----------------------
+
+Nice example with iNaturalist obs and rediscovery (see EOL collection)
+
+GBIF error
+----------
+
+Molossops greenhalli
+--------------------
+
+Molossops greenhalli gbif/2433001
+Cynomops greenhalli Goodwin, 1958 gbif/4266508
+Cynomops mexicanus Jones & Genoways, 1967 gbif/4266504
+
+Molossops greenhalli mexicanus
+Molossops (Cynomops) greenhalli 
+
+
+Neomplatymops mattogrossensis = Molossops mattogrossensis
+Cabreramops aequatorianus = Molossops aequatorianus
 
 
 

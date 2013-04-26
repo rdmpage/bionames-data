@@ -1,0 +1,10 @@
+{
+   "_id": "_design/search",
+   "_rev": "13-2ae7e440e4eccf533557a4648d0a3524",
+   "language": "javascript",
+   "indexes": {
+       "all": {
+           "index": "function(doc) { if (doc.nameComplete) {  index(\"name\", doc.nameComplete, {\"store\": \"yes\"}); }  if (doc.canonicalName) {  index(\"canonicalName\", doc.canonicalName, {\"store\": \"yes\"}); } if (doc.type) { index(\"type\", doc.type, {\"store\": \"yes\"}); } }"
+       }
+   }
+}

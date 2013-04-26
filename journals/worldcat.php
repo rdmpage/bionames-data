@@ -21,6 +21,69 @@ $issns = array('0022-2933', '0374-5481');
 $issns = array('0374-5481');
 
 $issns = array('0077-7749');
+$issns = array('0031-0220');
+$issns = array('0079-8835');
+$issns = array('0025-1461');
+
+
+$issns = array('0007-1498'); // breaks code epically :(
+
+$issns=array('0022-2372');
+$issns=array('0027-4100');
+$issns=array('0149-175X');
+$issns=array('0374-5481');
+$issns=array('0003-0082');
+$issns=array('0370-2774');
+$issns=array('0006-7172');
+$issns=array('1616-5047');
+$issns=array('1508-1109');
+$issns=array('0008-4301');
+$issns=array('0082-5107');
+$issns=array('0016-6995');
+$issns=array('0077-2070');
+$issns=array('0067-1975');
+$issns=array('1217-8837');
+$issns=array('0384-8159'); // another example
+$issns=array('0067-4745');
+$issns=array('0923-9308');
+$issns=array('0376-0375');
+$issns=array('0008-6452');
+$issns=array('0028-0119');
+$issns=array('0012-723X');
+$issns=array('0310-0049');
+$issns=array('0580-3896');
+$issns=array('0067-2238');
+$issns=array('0508-4865');
+$issns=array('0096-2961');
+$issns=array('0370-047X');
+$issns=array('0015-0754');
+$issns=array('1280-9551');
+$issns=array('0041-1752');
+$issns=array('1935-3952');
+$issns=array('0037-2102');
+$issns=array('0035-418X');
+$issns=array('0546-0670');
+$issns=array('0006-324X');
+$issns=array('0272-4634');
+$issns=array('0003-0090');
+$issns=array('0312-3162');
+
+$issns=array('0006-6982');
+$issns=array('0084-5620');
+$issns=array('0028-1042');
+$issns=array('0289-0003');
+$issns=array('0096-3801');
+$issns=array('0065-1710');
+$issns=array('0024-0672');
+
+$issns=array('0366-3515');
+$issns=array('0038-4909');
+$issns=array('0370-3908');
+
+$issns=array('1175-5326');
+
+$issns=array('0749-8934');
+$issns=array('1000-0739');
 
 $issns_processed = array();
 
@@ -28,8 +91,15 @@ while (count($issns) > 0)
 {
 	echo "ISSNs to process\n";
 	print_r($issns);
+
 	echo "ISSNs done\n";
 	print_r($issns_processed);
+	
+	/*
+	echo "ISSNs to process (array_diff)\n";
+	$issns = array_diff($issns, $issns_processed);
+	print_r($issns);
+	*/
 	
 	$issn = array_shift($issns);
 	$issns_processed[] = $issn;

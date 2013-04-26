@@ -59,6 +59,9 @@ $ids=array(114818,14769,100838,123,51755,108947);
 
 $ids=array(107030);
 
+$ids=array(65541);
+$ids=array(127656);
+
 // to do...
 foreach ($ids as $id)
 {

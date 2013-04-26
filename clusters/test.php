@@ -37,6 +37,22 @@ $id=4236213;
 
 $id = 1361010; // Molossops (Cynomops) greenhalli - bat name but not in GBIF in this form
 
+$id = 1361023; // Micronycteris megalotis homezi
+
+$id = 3364466; // Chaerophon (Lophomops) nigri
+
+$id = 155605;
+
+$id=157613;
+$id = 3016054;
+$id = 1506323;
+
+$id = 690716; // Mormopterus (Hydromops) nonghenensis
+$id = 4331720;
+$id = 4273520;
+$id = 391313;
+$id = 4516787;
+
 add_cluster_from_id($id);
 
 ?>
