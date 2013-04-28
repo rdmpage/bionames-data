@@ -137,6 +137,12 @@ $sicis=array('1fbf64206b4e17d44ae81ca8653b485b');
 
 $sicis=array('824d1ee84684a6b3f8b764d7cd5863aa');
 $sicis=array('84010af7e4c704890f21ea438b03b1b2');
+$sicis=array('deaacefc5c83935f810910d60e54186f');
+$sicis=array('93bf9e0262aa47dc0b7fc782e0f90549');
+$sicis=array('11259de28050f97a79d6501791da5f7c');
+$sicis=array('9090a6ce13ff6ecffa063764ced04ebd');
+
+$sicis=array('d0b054be02026d9fbc3110ba198fb3ea');
 
 foreach ($sicis as $sici)
 {

@@ -206,6 +206,8 @@ function get_gbif_names($name)
 
 	$sql = 'SELECT * FROM taxon WHERE canonicalName = ' . $gbif_db->qstr($name) . ' AND kingdom="Animalia"';
 	
+	echo $sql . "\n";
+	
 	$result = $gbif_db->Execute($sql);
 	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql . ' ' . $gbif_db->ErrorMsg());
 

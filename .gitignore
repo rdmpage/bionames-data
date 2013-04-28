@@ -5,3 +5,7 @@ adodb5/
 taxonconcept/tmp/
 
 cookie.txt
+
+# Databases
+*.db
+*.cdb

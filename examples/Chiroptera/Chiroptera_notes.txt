@@ -147,7 +147,29 @@ Glauconycteris superba
 
 Nice example with iNaturalist obs and rediscovery (see EOL collection)
 
-GBIF error
+
+Chalinolobus neocalidonicus
+|||||||||||  |||||| |||||||
+Chalinolobus neocaledonicus
+
+
+
+Mormopterus nonghensis
+----------------------
+
+This extinct bat is in GBIF but not automatically linked to ION
+
+Mormopterus (Hydromops) nonghenensis ION 690716
+Mormopterus nonghensis GBIF 4832110 (from Interim Register of Marine and Nonmarine Genera)
+
+Mormopterus (Hydromops) nonghenensis
+|||||||||||             |||||||  |||
+Mormopterus             nonghen  sis
+
+Even if we correct for subgenus the names aren't the same because species name differs, so we need approximate string matching to ION (including names with subgenus removed)
+
+
+GBIF errors
 ----------
 
 Molossops greenhalli
@@ -163,6 +185,45 @@ Molossops (Cynomops) greenhalli
 
 Neomplatymops mattogrossensis = Molossops mattogrossensis
 Cabreramops aequatorianus = Molossops aequatorianus
+
+Pipistrellus petersi = Falsistrellus petersi 
+
+Major mess with these genera:
+
+Vespertilionidae Gray, 1821
+Glauconycteris Dobson, 1875
+Glauconycteris alboguttata J. A. Allen, 1917
+Glauconycteris alboguttatus
+Glauconycteris argentata Dobson, 1875
+Glauconycteris beatrix Thomas, 1901
+Glauconycteris curryae Eger & Schlitter, 2001
+Glauconycteris egeria Thomas, 1913
+Glauconycteris gleni Peterson & Smith, 1973
+Glauconycteris humeralis J. A. Allen, 1917
+Glauconycteris kenyacola Peterson, 1982
+Glauconycteris machadoi Hayman, 1963
+Glauconycteris poensis Gray, 1842
+Glauconycteris superba Hayman, 1939
+Glauconycteris variegata Tomes, 1861
+
+Vespertilionidae Gray, 1821
+Chalinolobus Peters, 1867
+Chalinolobus alboguttatus (J. A. Allen, 1917)
+Chalinolobus argentatus (Dobson, 1875)
+Chalinolobus beatrix (Thomas, 1901)
+Chalinolobus dwyeri Ryan, 1966
+Chalinolobus egeria (Thomas, 1913)
+Chalinolobus gleni (Peterson & Smith, 1973)
+Chalinolobus gouldii (Gray, 1841)
+Chalinolobus kenyacola (Peterson, 1982)
+Chalinolobus morio (Gray, 1841)
+Chalinolobus neocaledonicus Revilliod, 1914
+Chalinolobus nigrogriseus (Gould, 1852)
+Chalinolobus picatus (Gould, 1852)
+Chalinolobus poensis (Gray, 1842)
+Chalinolobus superbus (Hayman, 1939)
+Chalinolobus tuberculatus (Forster, 1844)
+Chalinolobus variegatus (Tomes, 1861)
 
 
 

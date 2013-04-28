@@ -151,7 +151,7 @@ function map($namestring, $source = 'gbif', $eol_lookup = true, $threshold = 50,
 		default;
 			$concepts = get_gbif_names($namestring);
 			
-			//print_r($concepts);
+			print_r($concepts);
 			
 			foreach ($concepts as $c)
 			{
