@@ -144,6 +144,19 @@ $sicis=array('9090a6ce13ff6ecffa063764ced04ebd');
 
 $sicis=array('d0b054be02026d9fbc3110ba198fb3ea');
 
+$sicis=array('7781e3bfc905f2e459c40686bd08cbfe');
+
+$sicis=array('6b9aaff1bc63b04589facfcbf29d619c');
+
+$sicis=array('0321f309b42be667d00b03ce05a2e393');
+$sicis=array('533f55c034b3407c9d718f6662b07f66');
+$sicis=array('b325f0bc68a9c678f4a1fdf9950b131f');
+$sicis=array('04bcede7e57df3ef9c904de2eae2e942');
+
+$sicis=array('46e82b3bf186083b569e0846d3a0b48b');
+
+$sicis=array('66c9beb1e990e896cadadfc634a826e6');
+
 foreach ($sicis as $sici)
 {
 	get_reference (get_sici_sql($sici));

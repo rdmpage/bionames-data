@@ -1,6 +1,6 @@
 <?php
 
-// load some data
+// load some data from NCBI
 
 // Example
 
@@ -28,8 +28,6 @@ $base_path = 'examples/Chiroptera-NCBI';
 $names_filename = $base_filename . '_names.txt'; // canonical names
 
 // A classification is a set of taxonomic concepts from an external provider
-$classification_filename = $base_filename . '_gbif.txt'; // GBIF taxon ids we want to load
-
 $classification_filename = $base_filename . '_ncbi.txt'; // NCBI taxon ids we want to load
 
 
@@ -63,7 +61,6 @@ if ($flags['clusters'])
 if ($flags['classification'])
 {
 	// Load a classification
-	$command = "php classifications/gbif/load_gbif.php " . $base_path . "/" . $classification_filename;
 	$command = "php classifications/ncbi/load_ncbi.php " . $base_path . "/" . $classification_filename;
 	echo "\n==> Loading classification for $base_filename...\n";
 	echo $command . "\n";

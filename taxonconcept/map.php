@@ -17,6 +17,7 @@ require_once (dirname(dirname(__FILE__)) . '/clusters/cluster.php');
 
 require_once (dirname(__FILE__) . '/eol.php');
 require_once (dirname(__FILE__) . '/gbif.php');
+require_once (dirname(__FILE__) . '/ncbi.php');
 
 $config['matching_program'] = '/Users/rpage/Development/maximum-weighted-bipartite-matching/matching';
 
@@ -46,6 +47,7 @@ function compare ($str1, $str2)
 	return $l;
 }
 
+/*
 //--------------------------------------------------------------------------------------------------
 function p(&$o)
 {
@@ -69,7 +71,7 @@ function p(&$o)
 			
 	}
 }
-
+*/
 
 //--------------------------------------------------------------------------------------------------
 // Get name clusters from ION
@@ -82,9 +84,16 @@ function get_ion_names($name)
 	
 	// Handle subgenera by having a query that can find them as well
 	// For example GBIF has Myotis pruinosus Yoshiyuki, 1971 and ION has Myotis (Leuconoe) pruinosus
-	if (preg_match('/^(?<genus>\w+)\s+(?<rest>.*)$/', $name, $m))
+	if (0)
 	{
-		$sql = 'SELECT DISTINCT cluster_id FROM names WHERE nameComplete LIKE ' . $ion_db->qstr($m['genus'] . ' %' . $m['rest']);	
+		if (preg_match('/^(?<genus>\w+)\s+(?<rest>.*)$/', $name, $m))
+		{
+			$sql = 'SELECT DISTINCT cluster_id FROM names WHERE nameComplete LIKE ' . $ion_db->qstr($m['genus'] . ' %' . $m['rest']);	
+		}
+		else
+		{
+			$sql = 'SELECT DISTINCT cluster_id FROM names WHERE nameComplete = ' . $ion_db->qstr($name);
+		}
 	}
 	else
 	{
@@ -112,6 +121,7 @@ function get_ion_names($name)
 	return $clusters;
 }
 
+//--------------------------------------------------------------------------------------------------
 function store_mapping($sql_commands)
 {
 	$db = NewADOConnection('mysql');
@@ -124,12 +134,7 @@ function store_mapping($sql_commands)
 		$result = $db->Execute($sql);
 		if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql . ' ' . $db->ErrorMsg());
 	}
-	
-	
 }
-
-
-
 
 //--------------------------------------------------------------------------------------------------
 function map($namestring, $source = 'gbif', $eol_lookup = true, $threshold = 50, $store = true)
@@ -139,7 +144,7 @@ function map($namestring, $source = 'gbif', $eol_lookup = true, $threshold = 50,
 	$dot_filename = '';
 	
 	// Get sets of names from ION and concept database
-	$clusters = get_ion_names($namestring);
+//	$clusters = get_ion_names($namestring);
 	
 	$concepts = array();
 	
@@ -147,12 +152,21 @@ function map($namestring, $source = 'gbif', $eol_lookup = true, $threshold = 50,
 	
 	switch ($source)
 	{
+		case 'ncbi':
+			$concepts = get_ncbi_names($namestring);
+			if (count($concepts) != 0)
+			{
+				if (isset($concepts[0]->canonicalName))
+				{
+					$clusters = get_ion_names($concepts[0]->canonicalName);
+				}
+			}
+			break;
+	
 		case 'gbif':
 		default;
+			$clusters = get_ion_names($namestring);
 			$concepts = get_gbif_names($namestring);
-			
-			print_r($concepts);
-			
 			foreach ($concepts as $c)
 			{
 				if (isset($c->acceptedNameUsageID))
@@ -429,12 +443,15 @@ function map($namestring, $source = 'gbif', $eol_lookup = true, $threshold = 50,
 	echo "-- Match '$namestring' SQL\n";
 	
 	$sql = array();
-	$sql[] = 'DELETE FROM names_to_concept WHERE namestring="' . addcslashes($namestring, '"') . '";';
 		
 	foreach ($match->matching as $m)
 	{
+		// GBIF
 		if (preg_match('/^gbif(?<id>\d+)$/', $id_map[$m[0]], $v))
 		{
+			// Delete any previous GBIF map
+			$sql[] = 'DELETE FROM names_to_concept WHERE namestring="' . addcslashes($namestring, '"') . '" AND gbif_id <> 0;';
+		
 			$keys = array();
 			$values=array();
 			
@@ -466,6 +483,46 @@ function map($namestring, $source = 'gbif', $eol_lookup = true, $threshold = 50,
 					
 			$sql[] .= "INSERT INTO names_to_concept(" . join(",", $keys) . ") VALUES (" . join(",", $values) . ");";
 		}
+		
+		// NCBI
+		if (preg_match('/^ncbi(?<id>\d+)$/', $id_map[$m[0]], $v))
+		{
+			// Delete any previous NCBI map
+			$sql[] = 'DELETE FROM names_to_concept WHERE namestring="' . addcslashes($namestring, '"') . '" AND ncbi_id = ' . $v['id'] . ';';
+
+			$keys = array();
+			$values=array();
+			
+			$keys[] 	= 'cluster_id';
+			$values[] 	= $id_map[$m[1]];
+			
+			$keys[] 	= 'namestring';
+			$values[] 	= '"' . addcslashes($namestring, '"') . '"';
+
+			$keys[] 	= 'name';
+			$values[] 	= '"' . addcslashes($label_map[$m[1]], '"') . '"';
+					
+			// Link to NCBI tax_id
+			$keys[] 	= 'ncbi_id';
+			$values[] 	= $v['id'];
+			
+			$keys[] 	= 'ncbi_name';
+			$values[] 	= '"' . addcslashes($label_map[$m[0]], '"') . '"';
+
+			if ($dot_filename != '')
+			{
+				$keys[] 	= 'ncbi_graph';
+				$graph = file_get_contents($dot_filename);
+				$graph = str_replace("\n", "", $graph);
+				$graph = addcslashes($graph, '"');
+				$values[] 	= '"' . $graph . '"';
+			}
+					
+			$sql[] .= "INSERT INTO names_to_concept(" . join(",", $keys) . ") VALUES (" . join(",", $values) . ");";
+			
+			print_r($sql);
+		}
+		
 	}
 	
 	
@@ -475,18 +532,37 @@ function map($namestring, $source = 'gbif', $eol_lookup = true, $threshold = 50,
 		echo "-- EOL\n";
 		foreach ($match->matching as $m)
 		{
+			// GBIF
 			if (preg_match('/^gbif(?<id>\d+)$/', $id_map[$m[0]], $values))
 			{
-				$eol_page_id = gbif_to_eol ($values['id']);
+				$eol_page_id = gbif_to_eol ('gbif');
 				
 				//echo $values['id'] . ' ' . $eol_page_id . "\n";
 				//exit();
 				
 				if ($eol_page_id != 0)
 				{
-					$sql[] .= "UPDATE names_to_concept SET gbif_eol_id=" . $eol_page_id . " WHERE cluster_id=" . $id_map[$m[1]] . ";";									
+					$sql[] .= "UPDATE names_to_concept SET gbif_eol_id=" . $eol_page_id . " WHERE gbif_id=" . $values['id']  . ";";									
 				}
 			}
+			
+			// NCBI
+			if (preg_match('/^ncbi(?<id>\d+)$/', $id_map[$m[0]], $values))
+			{
+				$eol_page_id = concept_to_eol($values['id'], 'ncbi');
+				
+				echo $values['id'] . ' ' . $eol_page_id . "\n";
+				//exit();
+				
+				if ($eol_page_id != 0)
+				{
+					$sql[] .= "UPDATE names_to_concept SET ncbi_eol_id=" . $eol_page_id . " WHERE ncbi_id=" . $values['id'] 
+						. " AND ncbi_name=" .  '"' . addcslashes($label_map[$m[0]], '"') . '"' . ";";									
+				}
+			
+			}
+			
+			
 		}
 	}
 	

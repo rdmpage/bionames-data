@@ -1,0 +1,1728 @@
+Falsistrellus petersi
+Falsistrellus
+Lonchophylla mordax concava
+Pteropus capistratus
+Pteropus faunulus
+Hypsugo crassulus bellieri
+Hypsugo crassulus
+Pipistrellus sp. 1 SaSt-2013
+Neoromicia sp. 1 SaSt-2013
+Neoromicia cf. rendalli SaSt-2013
+Neoromicia roseveari
+Miniopterus cf. arenarius VG-2013
+Corynorhinus townsendii australis
+Stenonycterini
+Stenonycteris
+Epomophorini-Myonycterini lineage
+Epomophorini
+Myonycterini
+Myonycteris leptodon
+Myonycteris angolensis smithii
+Myonycteris angolensis ruwenzorii
+Megaloglossus azagnyi
+Myotis sp. 8 W Ecuador
+Myotis sp. 7 W Ecuador
+Myotis sp. 6 Peru
+Myotis sp. 6 Paraguay
+Myotis sp. 5 Mexico
+Myotis sp. 4 W Ecuador
+Myotis sp. 3 W Ecuador
+Myotis sp. 2 W Ecuador
+Myotis sp. 2 E Ecuador
+Myotis sp. 1 Venezuela
+Myotis sp. 2 RJL-2012
+Myotis cf. yumanensis
+Myotis cf. thysanodes
+Myotis cf. simus
+Myotis cf. riparius
+Myotis cf. nigricans
+Myotis cf. keaysi
+Myotis cf. californicus
+Myotis cf. albescens
+Neoromicia tenuipinnis
+Rhinolophus cf. hildebrandti
+Hipposideros sp. JAE-2012
+Hipposideros pygmaeus
+Hipposideros lekaguli
+Hipposideros coronatus
+Rhinolophus ferrumequinum quelpartis
+Hipposideros griffini
+Hipposideros larvatus s.l. SJP-2012
+Hipposideros alongensis sungi
+Hipposideros alongensis alongensis
+Hipposideros alongensis
+Hipposideros turpis turpis
+Plecotus cf. kozlovi
+Pipistrellus cf. pygmaeus
+Pipistrellus cf. kuhlii
+Myotis cf. aurascens
+Myotis cf. alcathoe
+Eptesicus bobrinskoi
+Murina cf. huttoni
+Murina cineracea
+Murina jaintiana
+Murina pluvialis
+Murina sp. A MR-2012
+Myotis nesopolus nesopolus
+Myotis nesopolus
+Myotis martiniquensis nyctor
+Myotis sp. RJL-2012
+Neoromicia sp. SRH-2012
+Neoromicia malagasyensis
+Neoromicia matroka
+Neoromicia zuluensis
+Hypsugo anchietae
+Myotis nigricans PS2
+unclassified Cynopterus
+Peropteryx sp. BOLD:AAI2457
+Rhinolophus sp. BOLD:AAB4878
+Chiroptera sp. BOLD:AAA6452
+Cynopterus sp. A JLE-2012
+Rhinolophus cf. chaseni SVK-2012
+Rhinolophus sp. 2 XY-2012
+Rhinolophus sp. 1 XY-2012
+Pteropus KTJD-2011
+Rousettus celebensis
+Pipistrellus sp. DR-2011
+Coleura seychellensis
+Emballonura dianae
+Coelops robinsoni
+Hipposideros sp. A SWM-2011
+Hipposideros sp. B SWM-2011
+Hipposideros boeadii
+Hipposideros scutinares
+Hipposideros pelingensis
+Hipposideros obscurus
+Molossops mattogrossensis
+Eumops dabbenei
+Myopterus daubentonii
+Myopterus
+Eumops wilsoni
+Eumops ferox
+Eumops patagonicus
+Natalus sp. LMGC-2011
+Myotis cf. nattereri IC-2011
+Artibeus sp. BOLD:AAA2332
+Artibeus sp. BOLD:AAA2160
+Artibeus sp. BOLD:AAA2159
+Sturnira perla
+Hypsignathus sp. FCA-2011
+Styloctenium mindorensis
+Styloctenium
+Eonycteris robusta
+Casinycteris argynnis
+Casinycteris
+Pipistrellus ceylonicus
+Pipistrellus sp. kuhlii/deserti Pkuh-II
+Pipistrellus sp. kuhlii/deserti Pkuh-I
+Rhinolophus inops/subrufus
+Rhinolophus inops/arcuatus
+Rhinolophus sp. LEP-2011
+Rhinolophus inops
+Rhinolophus virgo
+Rhinolophus celebensis
+Rhinolophus ferrumequinum korai
+Chiroptera sp. BOLD:AAU3777
+Chiroptera sp. BOLD:AAU3776
+Chiroptera sp. BOLD:AAO1765
+Chiroptera sp. BOLD:AAK8797
+Chiroptera sp. BOLD:AAH8358
+Chiroptera sp. BOLD:AAE6670
+Chiroptera sp. BOLD:AAD8132
+Chiroptera sp. BOLD:AAD4873
+Chiroptera sp. BOLD:AAD1601
+Chiroptera sp. BOLD:AAD1297
+Chiroptera sp. BOLD:AAC9992
+Chiroptera sp. BOLD:AAC7539
+Chiroptera sp. BOLD:AAC1299
+Chiroptera sp. BOLD:AAB6224
+Chiroptera sp. BOLD:AAB3099
+Chiroptera sp. BOLD:AAA9800
+Chiroptera sp. BOLD:AAA8809
+Chiroptera sp. BOLD:AAA6350
+Myotis nigricans PS1
+Natalus stramineus mexicanus
+Hypsugo cf. darwinii
+Hypsugo sp. Hsav-III-1
+Murina sp. b JLE-2011
+Murina sp. a JLE-2011
+Lophostoma silvicolum occidentalis
+Rhinopoma hardwickii cystops
+Plecotus sp. MIBZPL03414
+Plecotus sp. MIBZPL01189
+Plecotus sp. MIBZPL00270
+Plecotus sp. MIBZPL00269
+Plecotus sp. MIBZPL00268
+Plecotus sp. MIBZPL00265
+Plecotus sp. MIBZPL00262
+unclassified Plecotus
+Pipistrellus sp. MIBZPL02288
+Pipistrellus sp. MIBZPL01241
+Pipistrellus sp. MIBZPL01239
+Pipistrellus sp. MIBZPL03828
+Pipistrellus sp. MIBZPL03827
+Pipistrellus sp. MIBZPL03826
+Pipistrellus sp. MIBZPL03825
+Pipistrellus sp. MIBZPL03824
+Pipistrellus sp. MIBZPL03823
+Pipistrellus sp. MIBZPL03822
+Pipistrellus sp. MIBZPL03821
+Pipistrellus sp. MIBZPL03820
+Pipistrellus sp. MIBZPL03819
+Pipistrellus sp. MIBZPL03818
+Pipistrellus sp. MIBZPL03817
+Pipistrellus sp. MIBZPL03816
+Pipistrellus sp. MIBZPL03815
+unclassified Pipistrellus
+Myotis sp. MIBZPL01230
+Myotis sp. MIBZPL01228
+Myotis sp. MIBZPL01319
+Myotis sp. MIBZPL01303
+Myotis sp. MIBZPL01302
+Myotis sp. MIBZPL01301
+Myotis sp. MIBZPL01289
+Myotis sp. MIBZPL01287
+Myotis sp. MIBZPL01281
+Myotis sp. MIBZPL01256
+Myotis sp. MIBZPL01235
+Myotis sp. MIBZPL01223
+Myotis sp. MIBZPL01222
+Myotis sp. MIBZPL01221
+Myotis sp. MIBZPL01216
+Myotis sp. MIBZPL01214
+Myotis sp. MIBZPL01211
+Myotis cf. muricola BOLD:AAA8747
+Myotis cf. muricola BOLD:AAA8748
+Murina cf. cyclotis BOLD:AAC4219
+Hipposideros cf. pomona BOLD:AAS6441
+Rhinolophus cf. pusillus BOLD:AAB9127
+Rhinolophus cf. chaseni BOLD:AAB4878
+Myotis cf. ater BOLD:AAA8748
+Pipistrellus cf. tenuis BOLD:AAB2554
+Myotis cf. nattereri TD-2011
+Mops bakarii
+Myotis sp. AVB-2011
+Artibeus sp. AVB-2011
+Taphozous hildegardeae
+Taphozous sp. IVK-2011
+Scotophilus sp. IVK-2011
+Scotoecus sp. IVK-2011
+Rhinolophus sp. IVK-2011
+Pipistrellus sp. IVK-2011
+Neoromicia sp. IVK-2011
+Miniopterus sp. IVK-2011
+Hipposideros sp. IVK-2011
+Chaerephon sp. IVK-2011
+Hipposideros aff. ruber
+Rhinolophus sp. AVB-2011
+Pipistrellus sp. AVB-2011
+Rhinolophus cf. lepidus
+Eumops maurus
+Lichonycteris obscura
+Molossops temminckii
+Scotonycteris zenkeri
+Scotonycteris
+Pipistrellus nanulus
+Sauromys
+Mormopterus jugularis
+Chaerephon jobimena
+Myotis sp. MMMD-2011
+Molossus cf. coibensis
+Choeroniscus sp. BOLD:AAC3416
+Molossus coibensis
+Anoura cultrata
+Phyllostomus latifolius
+Mimon cozumelae
+Hypsugo alaschanicus
+Barbastella darjelingensis
+Pipistrellus kuhlii lepidus
+Miniopterinae
+Chiroptera sp. BOLD:AAO2496
+Chiroptera sp. BOLD:AAO2468
+Chiroptera sp. BOLD:AAO1832
+Chiroptera sp. BOLD:AAO1629
+Chiroptera sp. BOLD:AAO1567
+Chiroptera sp. BOLD:AAO1562
+Chiroptera sp. BOLD:AAO1393
+Chiroptera sp. BOLD:AAO0822
+Chiroptera sp. BOLD:AAN9981
+Chiroptera sp. BOLD:AAN9773
+Chiroptera sp. BOLD:AAN9771
+Chiroptera sp. BOLD:AAN9716
+Chiroptera sp. BOLD:AAN4101
+Chiroptera sp. BOLD:AAN3808
+Chiroptera sp. BOLD:AAN3459
+Chiroptera sp. BOLD:AAN3348
+Chiroptera sp. BOLD:AAN3259
+Chiroptera sp. BOLD:AAN3075
+Chiroptera sp. BOLD:AAN2861
+Chiroptera sp. BOLD:AAN2818
+Chiroptera sp. BOLD:AAN2688
+Chiroptera sp. BOLD:AAN2671
+Chiroptera sp. BOLD:AAN2670
+Chiroptera sp. BOLD:AAN2669
+Chiroptera sp. BOLD:AAN2666
+Chiroptera sp. BOLD:AAN2561
+Chiroptera sp. BOLD:AAN2514
+Chiroptera sp. BOLD:AAN2509
+Chiroptera sp. BOLD:AAK9006
+Chiroptera sp. BOLD:AAK6473
+Chiroptera sp. BOLD:AAK5959
+Chiroptera sp. BOLD:AAK0536
+Chiroptera sp. BOLD:AAJ3874
+Chiroptera sp. BOLD:AAJ2726
+Chiroptera sp. BOLD:AAJ0261
+Chiroptera sp. BOLD:AAF3921
+Chiroptera sp. BOLD:AAF1080
+Chiroptera sp. BOLD:AAE8331
+Chiroptera sp. BOLD:AAE6507
+Chiroptera sp. BOLD:AAE5107
+Chiroptera sp. BOLD:AAD6796
+Chiroptera sp. BOLD:AAD6578
+Chiroptera sp. BOLD:AAD3719
+Chiroptera sp. BOLD:AAC9705
+Chiroptera sp. BOLD:AAC8894
+Chiroptera sp. BOLD:AAC5425
+Chiroptera sp. BOLD:AAC5354
+Chiroptera sp. BOLD:AAC3742
+Chiroptera sp. BOLD:AAC3741
+Chiroptera sp. BOLD:AAC2867
+Chiroptera sp. BOLD:AAC0448
+Chiroptera sp. BOLD:AAC0447
+Chiroptera sp. BOLD:AAB9950
+Chiroptera sp. BOLD:AAB9572
+Chiroptera sp. BOLD:AAB9060
+Chiroptera sp. BOLD:AAB8311
+Chiroptera sp. BOLD:AAB6408
+Chiroptera sp. BOLD:AAB6385
+Chiroptera sp. BOLD:AAB5823
+Chiroptera sp. BOLD:AAB5807
+Chiroptera sp. BOLD:AAB5743
+Chiroptera sp. BOLD:AAB4238
+Chiroptera sp. BOLD:AAB2719
+Chiroptera sp. BOLD:AAB1869
+Chiroptera sp. BOLD:AAB1868
+Chiroptera sp. BOLD:AAA9168
+Chiroptera sp. BOLD:AAA9090
+Chiroptera sp. BOLD:AAA8314
+Chiroptera sp. BOLD:AAA7750
+Chiroptera sp. BOLD:AAA6103
+Chiroptera sp. BOLD:AAA6041
+Chiroptera sp. BOLD:AAA5902
+Chiroptera sp. BOLD:AAA5412
+Chiroptera sp. BOLD:AAA4512
+Chiroptera sp. BOLD:AAA4430
+Chiroptera sp. BOLD:AAA3113
+Chiroptera sp. BOLD:AAA2961
+Chiroptera sp. BOLD:AAA2454
+Chiroptera sp. BOLD:AAA2245
+Chiroptera sp. BOLD:AAA1564
+Chiroptera sp. BOLD:AAA1248
+Chiroptera sp. BOLD:AAA1246
+Chiroptera sp. BOLD:AAA0003
+Micronycteris buriri
+Miniopterus sp. BRA-2011
+Miniopterus sororculus
+Myotis adversus tanimbarensis
+Myotis adversus adversus
+Vampyrodes major
+Chiroptera sp. BOLD:AAM7559
+Chiroptera sp. BOLD:AAM4700
+Chiroptera sp. BOLD:AAM2888
+Chiroptera sp. BOLD:AAE7621
+Chiroptera sp. BOLD:AAE1185
+Chiroptera sp. BOLD:AAE0577
+Chiroptera sp. BOLD:AAD9402
+Chiroptera sp. BOLD:AAD3874
+Chiroptera sp. BOLD:AAC4061
+Chiroptera sp. BOLD:AAC2864
+Chiroptera sp. BOLD:AAB6783
+Chiroptera sp. BOLD:AAB6222
+Chiroptera sp. BOLD:AAB5595
+Chiroptera sp. BOLD:AAB5104
+Chiroptera sp. BOLD:AAB2781
+Chiroptera sp. BOLD:AAA9642
+Chiroptera sp. BOLD:AAA9061
+Chiroptera sp. BOLD:AAA8683
+Chiroptera sp. BOLD:AAA7734
+Chiroptera sp. BOLD:AAA7459
+Chiroptera sp. BOLD:AAA6499
+Chiroptera sp. BOLD:AAA6450
+Chiroptera sp. BOLD:AAA6335
+Chiroptera sp. BOLD:AAA5616
+Chiroptera sp. BOLD:AAA5413
+Chiroptera sp. BOLD:AAA4504
+Chiroptera sp. BOLD:AAA4431
+Chiroptera sp. BOLD:AAA4162
+Chiroptera sp. BOLD:AAA2705
+Chiroptera sp. BOLD:AAA2653
+Chiroptera sp. BOLD:AAA2648
+Chiroptera sp. BOLD:AAA2579
+Chiroptera sp. BOLD:AAA2524
+Chiroptera sp. BOLD:AAA2396
+Chiroptera sp. BOLD:AAA2332
+Chiroptera sp. BOLD:AAA2300
+Chiroptera sp. BOLD:AAA2293
+Chiroptera sp. BOLD:AAA2244
+Chiroptera sp. BOLD:AAA2243
+Chiroptera sp. BOLD:AAA2160
+Chiroptera sp. BOLD:AAA2159
+Chiroptera sp. BOLD:AAA2133
+Chiroptera sp. BOLD:AAA1465
+Chiroptera sp. BOLD:AAA1268
+Chiroptera sp. BOLD:AAA1247
+Chiroptera sp. BOLD:AAA1225
+Kerivoula sp. FAK-2010
+Glauconycteris variegata
+Glauconycteris egeria
+Glauconycteris argentata
+Glauconycteris
+Histiotus magellanicus
+Coleura afra
+Epomophorus labiatus
+Chiroptera sp. BOLD:AAM0883
+Chiroptera sp. BOLD:AAL5777
+Chiroptera sp. BOLD:AAL5772
+Chiroptera sp. BOLD:AAF5805
+Chiroptera sp. BOLD:AAC9527
+Chiroptera sp. BOLD:AAC8422
+Chiroptera sp. BOLD:AAC3088
+Chiroptera sp. BOLD:AAB9238
+Chiroptera sp. BOLD:AAB8309
+Chiroptera sp. BOLD:AAA8748
+Chiroptera sp. BOLD:AAA4089
+Artibeus sp. JRA-2010
+Myotis sp. 07BC0899YU
+Phyllonycteris obtusa
+Hipposideros bicolor '131 KHz'
+Hipposideros bicolor '142 KHz'
+Murina harpioloides
+Arielulus aureocollaris
+Rhinolophus siamensis
+Rhinolophus coelophyllus
+Rhinolophus chaseni
+Rhinolophus cf. thomasi CMF-2010
+Rhinolophus cf. pusillus CMF-2010
+Rhinolophus cf. lepidus CMF-2010
+Rhinolophus cf. ferrumequinum CMF-2010
+Rhinolophus sp. B JLE-2010
+Pipistrellus paterculus
+Pipistrellus cf. coromandra CMF-2010
+Pipistrellus javanicus babu
+Pipistrellus sp. G CMF-2010
+Phoniscus jagorii
+Phoniscus
+Philetor brachypterus
+Philetor
+Nyctalus sp. A JLE-2010
+Myotis adversus taiwanensis
+Myotis gomantongensis
+Myotis cf. laniger CMF-2010
+Myotis cf. ater CMF-2010
+Myotis sp. E CMF-2010
+Murina cf. huttoni CMF-2010
+Murina cf. cyclotis 2 CMF-2010
+Murina sp. H JLE-2010
+Murina sp. F JLE-2010
+Murina sp. E JLE-2010
+Murina sp. D CMF-2010
+Murina sp. B CMF-2010
+Murina sp. A CMF-2010
+Mops mops
+Miniopterus medius
+Kerivoula krauensis
+Kerivoula kachinensis
+Kerivoula picta
+Eptesicus sp. A JLE-2010
+Kerivoula cf. lenis CMF-2010
+Kerivoula cf. hardwickii CMF-2010
+Hypsugo pulveratus
+Hypsugo sp. A CMF-2010
+Hipposideros turpis pendelburyi
+Hipposideros sp. C CMF-2010
+Hipposideros lylei
+Hipposideros lankadiva
+Hipposideros halophyllus
+Hipposideros cf. larvatus CMF-2010
+Hipposideros cf. cineraceus CMF-2010
+Hipposideros cf. ater CMF-2010
+Hesperoptenus tickelli
+Hesperoptenus blanfordi
+Cynopterus titthaecheilus
+Cynopterus cf. brachyotis CMF-2010
+Arielulus circumdatus
+unclassified Myotis
+Myotis anjouanensis
+Chiroptera sp. BOLD:AAL4116
+Chiroptera sp. BOLD:AAK8598
+Chiroptera sp. BOLD:AAK7760
+Chiroptera sp. BOLD:AAJ4556
+Chiroptera sp. BOLD:AAJ2519
+Chiroptera sp. BOLD:AAI8257
+Chiroptera sp. BOLD:AAI6650
+Chiroptera sp. BOLD:AAI3440
+Chiroptera sp. BOLD:AAF5109
+Chiroptera sp. BOLD:AAF5010
+Chiroptera sp. BOLD:AAE3205
+Chiroptera sp. BOLD:AAD8838
+Chiroptera sp. BOLD:AAD7720
+Chiroptera sp. BOLD:AAD7561
+Chiroptera sp. BOLD:AAD6799
+Chiroptera sp. BOLD:AAD6797
+Chiroptera sp. BOLD:AAD2238
+Chiroptera sp. BOLD:AAC9465
+Chiroptera sp. BOLD:AAC5524
+Chiroptera sp. BOLD:AAC5514
+Chiroptera sp. BOLD:AAC4846
+Chiroptera sp. BOLD:AAC4219
+Chiroptera sp. BOLD:AAC2947
+Chiroptera sp. BOLD:AAC2946
+Chiroptera sp. BOLD:AAC2754
+Chiroptera sp. BOLD:AAC1909
+Chiroptera sp. BOLD:AAC1895
+Chiroptera sp. BOLD:AAC1494
+Chiroptera sp. BOLD:AAC1210
+Chiroptera sp. BOLD:AAC1209
+Chiroptera sp. BOLD:AAC0085
+Chiroptera sp. BOLD:AAB9974
+Chiroptera sp. BOLD:AAB9061
+Chiroptera sp. BOLD:AAB8126
+Chiroptera sp. BOLD:AAB7230
+Chiroptera sp. BOLD:AAB7229
+Chiroptera sp. BOLD:AAB5809
+Chiroptera sp. BOLD:AAB5742
+Chiroptera sp. BOLD:AAB4878
+Chiroptera sp. BOLD:AAB4801
+Chiroptera sp. BOLD:AAB4668
+Chiroptera sp. BOLD:AAB4312
+Chiroptera sp. BOLD:AAB3205
+Chiroptera sp. BOLD:AAB2554
+Chiroptera sp. BOLD:AAB1237
+Chiroptera sp. BOLD:AAA9952
+Chiroptera sp. BOLD:AAA9336
+Chiroptera sp. BOLD:AAA9064
+Chiroptera sp. BOLD:AAA8747
+Chiroptera sp. BOLD:AAA7783
+Chiroptera sp. BOLD:AAA6105
+Chiroptera sp. BOLD:AAA5920
+Chiroptera sp. BOLD:AAA5873
+Chiroptera sp. BOLD:AAA4283
+Chiroptera sp. BOLD:AAA3811
+Chiroptera sp. BOLD:AAA3386
+Chiroptera sp. BOLD:AAA2799
+Chiroptera sp. BOLD:AAA2651
+Chiroptera sp. BOLD:AAA2574
+Chiroptera sp. BOLD:AAA2242
+Chiroptera sp. BOLD:AAA1667
+Chiroptera sp. BOLD:AAA1464
+Chiroptera sp. BOLD:AAA1245
+Chiroptera sp. BOLD:AAA1219
+Chiroptera sp. BOLD:AAA1218
+Chiroptera sp. BOLD:AAA0874
+Chiroptera sp. BOLD:AAA0002
+Otonycteris leucophaea
+Chaerephon pusillus
+Chaerephon atsinanana
+Cynomops abrasus
+Murina eleryi
+Eptesicus gobiensis
+unclassified Chiroptera
+Parastrellus hesperus
+Parastrellus
+Myotis moluccarum
+Eptesicus dimissus
+Corynorhinus mexicanus
+Cistugo seabrae
+Cistugo
+Rousettus obliviosus
+Leptonycteris yerbabuenae
+Rhinolophus sp. HHS-2009a
+Murina tubinaris
+Murina tiensa
+Murina peninsularis
+Murina gracilis
+Murina bicolor
+Harpiola isodon
+Harpiola
+Murina hilgendorfi
+Murina aenea
+Kerivoula minuta
+Platyrrhinus sp. PPMV-2009b
+Platyrrhinus sp. PPMV-2009a
+Myotis sp. 1 HEN0826
+Miniopterus griffithsi
+Alionycteris paucidentata
+Alionycteris
+Sphaerias blanfordi
+Sphaerias
+Eumops bonariensis
+Miniopterus sp. BBRA-2009d
+Miniopterus sp. BBRA-2009c
+Miniopterus sp. BBRA-2009b
+Miniopterus petersoni
+Hipposideros doriae
+Miniopterus griveaudi griveaudi
+Miniopterus sp. FMNH 172602
+Miniopterus sp. FMNH 167450
+Rhinolophus sp. GZNU20080502002
+Pteropus sp. CCS-2009a
+Hipposideros beatus
+Hipposideros caffer tephrus
+Eudiscopus denticulus
+Eudiscopus
+Kerivoula titania
+Myotis rosseti
+Myotis csorbai
+Myotis annamiticus
+Myotis sp. 2 ZZ-2009
+Myotis sp. 1 ZZ-2009
+Murina aurata
+Rhinolophus swinnyi
+Rhinolophus shameli
+Rhinolophus ferrumequinum nippon
+Rhinolophus malayanus
+Rhinolophus maclaudi
+Rhinolophus denti
+Hipposideros fulvus
+Dermanura incomitata
+Lasiurus intermedius
+Pteropus seychellensis seychellensis
+Pteropus seychellensis comoroensis
+Pteropus voeltzkowi
+Pteropus livingstonii
+Pteropus aldabrensis
+Pteropus seychellensis
+Myotis longipes
+Hipposideros sp. 1 KS-2008
+Hipposideros jonesi
+Hipposideros gigas
+Hipposideros fuliginosus
+Murina sp. HZ-2008
+Harpyionycteris celebensis
+Miniopterus sp. Comoros clade 2
+Asellia tridens
+Asellia
+Platyrrhinus matapalensis
+Platyrrhinus masu
+Platyrrhinus ismaeli
+Platyrrhinus albericoi
+Platyrrhinus helleri incarum
+Platyrrhinus lineatus nigellus
+Platyrrhinus vittatus
+Platyrrhinus recifinus
+Platyrrhinus infuscus
+Lophostoma evotis
+Myotis siligorensis alticraniatus
+Myotis sp. AVB-2008
+Laephotis botswanae
+Neoromicia nanus
+Neoromicia
+Miniopterus griveaudi
+Eptesicus nasutus
+Eptesicus andersoni andersoni
+Eptesicus andersoni pallescens
+Eptesicus andersoni
+Eptesicus bottae ognevi
+Eptesicus serotinus mirza
+Eptesicus serotinus turcomanus
+Eptesicus isabellinus boscai
+Eptesicus isabellinus isabellinus
+Eptesicus bottae hingstoni
+Eptesicus bottae innesi
+Eptesicus bottae taftanimontis
+Tadarida fulminans
+Scotophilus marovaza
+Scotophilus tandrefana
+Scotophilus viridis nigritellus
+Scotophilus robustus
+Dermanura rosenbergi
+Dermanura rava
+Dermanura bogotensis
+Dermanura
+Rhinolophus xinanzhongguoensis
+Miniopterus schreibersii schreibersii
+Rhinolophus beddomei
+Latidens salimalii
+Latidens
+Chaerephon leucogaster
+Tadarida sp. 7070
+Triaenops afer
+Triaenops sp. PPV-2008
+Rhinolophus rufus
+Rhinolophus subrufus
+Tylonycteris robustula
+Pipistrellus stenopterus
+Hesperoptenus tomesi
+Hesperoptenus
+Glischropus tylopus
+Glischropus
+Arielulus cuprosus
+Arielulus
+Murina rozendaali
+Saccolaimus saccolaimus
+Rhinolophus robinsoni
+Eonycteris major
+Myotis petax
+Mormopterus acetabulosus
+Mormopterus sp. BBvV-2008
+Pteropus mariannus
+Pteropus molossinus
+Dobsonia magna
+Rhinolophus sp. 2 KS-2008
+Rhinolophus sp. 1 KS-2008
+Myotis flavus
+Myotis watasei
+Rhinolophus simulator
+Rhinolophus ruwenzorii
+Rhinolophus landeri
+Rhinolophus eloquens
+Rhinolophus blasii
+Desmalopex microleucopterus
+Desmalopex
+Pipistrellus sp. CO3
+Pipistrellus sp. CO2
+Pipistrellus sp. CO1
+Rhinolophus lepidus cuneatus
+Myotis sp. R1
+Myotis sp. N3
+Myotis sp. N2
+Myotis sp. N1
+Myotis sp. C5
+Myotis sp. C4
+Myotis sp. C3
+Myotis sp. C2
+Myotis sp. C1
+Hypsugo sp. R1
+Hypsugo sp. N7
+Hypsugo sp. N2
+Hypsugo sp. N1
+Hypsugo sp. C4
+Hypsugo sp. C2
+Hypsugo sp. C1
+Myotis escalerai
+Eumops sp. MMM-2008
+Eumops glaucinus floridanus
+Eumops underwoodi
+Desmalopex leucopterus
+Acerodon jubatus
+Eptesicus isabellinus
+Nanonycteris veldkampii
+Nanonycteris
+Kerivoula whiteheadi
+Kerivoula intermedia
+Kerivoula lenis
+Murina sp. V4
+Plecotus sp. V3
+Nycteris tragata
+Rhinolophus osgoodi
+Murina sp. GGL-2007
+Rhinolophus paradoxolophus
+Chaerephon plicatus
+Myotis daubentonii daubentonii
+Rhinolophus thomasi
+Rhinolophus marshalli
+Rhinolophus formosae
+Rhinopoma microphyllum microphyllum
+Rhinopoma microphyllum harrisoni
+Rhinopoma microphyllum kinneari
+Peropteryx sp. RSV 2330
+Peropteryx sp. ROM 104396
+Hipposideros ruber
+Taphozous longimanus
+Emballonura nigrescens
+Centronycteris centralis
+Peropteryx trinitatis
+Diclidurus ingens
+Balantiopteryx infusca
+Balantiopteryx io
+Lasiurus egregius
+Centronycteris maximiliani
+Coleura
+Centronycteris
+Taphozoinae
+Emballonurinae
+Murina sp. hn1151
+Myotis laniger
+Myotis fimbriatus
+Barbastella beijingensis
+Mops leucostigma
+Mops midas
+Corynorhinus townsendii pallescens
+Corynorhinus townsendii townsendii
+Emballonura serii
+Mosia nigrescens
+Mosia
+Macroglossus sp. TK20306
+Hypsignathus monstrosus
+Hypsignathus
+Pteropus macrotis
+Saccolaimus flaviventris
+Saccolaimus
+Emballonura raffrayana
+Emballonura beccarii
+Taphozous hilli
+Taphozous australis
+Aethalops aequalis
+Miniopterus newtonii
+Miniopterus africanus
+Miniopterus magnater
+Pipistrellus sp. PH-2007
+Otomops cf. formosus
+Otomops wroughtoni
+Rhogeessa velilla
+Rhogeessa gracilis
+Rhogeessa genowaysi
+Rhinolophus trifoliatus
+Rhinolophus stheno
+Otomops madagascariensis
+Artibeus sp. FURB
+Artibeus cf. jamaicensis
+Rhinolophus sp. GZNU200303
+Myotis sp. GZNU200306
+Hipposideros sp. GZNU200307
+Myotis altarium
+Megaerops wetmorei
+Rousettus spinalatus
+Myotis sp. FFM-2006
+Myotis oxygnathus
+Hypsugo ariel
+Hypsugo sp. FFM-2006A
+Hypsugo sp. FFM-2006B
+Pipistrellus sp. FFM-2006
+Pipistrellus hanaki
+Pipistrellus rueppellii
+Pipistrellus deserti
+Platyrrhinus lineatus
+Mimon bennettii
+Artibeus cf. obscurus
+Aselliscus tricuspidatus
+Miniopterus sp. sororculus
+Miniopterus majori
+Miniopterus gleni
+Molossus sp. BOLD:AAX4787
+Carollia brevicauda PS2
+Carollia brevicauda PS1
+Trachops cirrhosus PS3
+Trachops cirrhosus PS2
+Trachops cirrhosus PS1
+Saccopteryx gymnura
+Saccopteryx canescens
+Platyrrhinus helleri PS3
+Platyrrhinus helleri PS2
+Platyrrhinus helleri PS1
+Platyrrhinus aurarius
+Phylloderma stenops PS2
+Phylloderma stenops PS1
+Peropteryx leucoptera
+Noctilio albiventris PS2
+Noctilio albiventris PS1
+Myotis riparius PS3
+Myotis riparius PS2
+Myotis riparius PS1
+Molossops neglectus
+Lophostoma schulzi
+Lophostoma carrikeri
+Lophostoma brasiliense
+Lonchorhina inusitata
+Glyphonycteris sylvestris
+Glyphonycteris
+Eumops hansae
+Eptesicus chiriquinus
+Diclidurus isabellus
+Cyttarops alecto
+Cyttarops
+Cynomops planirostris
+Artibeus glaucus bogotensis
+Anoura latidens
+Artibeus schwartzi
+Artibeus planirostris trinitatis
+Artibeus planirostris planirostris
+Artibeus planirostris hercules
+Artibeus planirostris grenadensis
+Artibeus planirostris fallax
+Artibeus jamaicensis parvipes
+Artibeus jamaicensis jamaicensis
+Artibeus jamaicensis aequatorialis
+Nyctalus leisleri verrucosus
+Hipposideros speoris
+Rhinolophus yunnanensis
+Rhinolophus sp. 1234
+Myotis bombinus amurensis
+Myotis bombinus
+Myotis nattereri tschuliensis
+Myotis blythii ancilla
+Myotis cf. pequinius
+Myotis pequinius
+Myotis punicus
+Myotis cf. muricola
+Myotis cf. browni
+Myotis gracilis
+Pteropus dasymallus formosus
+Myotis latirostris
+Myotis sodalis
+Myotis martiniquensis
+Myotis lucifugus lucifugus
+Myotis lucifugus relictus
+Myotis lucifugus alascensis
+Myotis grisescens
+Myotis chiloensis
+Myotis atacamensis
+Scotophilus nigrita
+Harpyionycteris whiteheadi
+Harpyionycteris
+Cynopterus nusatenggara
+Rhinolophus blythi
+Myotis ater
+Murina sp. GGJ-2006
+Nyctalus plancyi
+Megaerops kusnotoi
+Epomophorus gambianus
+Pipistrellus rusticus
+Myotis sp. PH-2006
+Artibeus glaucus rosenbergii
+Vampyressa thyone
+Vampyressa melissa
+Vampyressa nymphaea
+Platyrrhinus dorsalis
+Ia io
+Ia
+Plecotus strelkovi
+Plecotus turkmenicus
+Plecotus ognevi
+Plecotus sacrimontis
+Plecotus kozlovi
+Plecotus homochrous
+Myotis blythii omari
+Macroglossus sp. TK 20305
+Hipposideros grandis
+Hipposideros khasiana
+Hipposideros larvatus sensu lato
+Carollia benkeithi
+Myzopoda schliemanni
+Emballonura tiavato
+Hipposideros ater gilberti
+Rhinolophus mehelyi
+Eptesicus bottae anatolicus
+Hypsugo cadornae
+Micronycteris sp. TK136752
+Micronycteris matses
+Micronycteris cf. schmidtorum
+Rhinolophus luctus
+Rhinolophus borneensis
+Hipposideros pomona
+Hipposideros rotalis
+Hipposideros khaokhouayensis
+Hipposideros calcaratus
+Triaenops auritus
+Triaenops rufus
+Triaenops persicus
+Otopteropus cartilagonodus
+Otopteropus
+Ptenochirus minor
+Pteropus conspicillatus
+Penthetor lucasi
+Penthetor
+Macroglossus sobrinus
+Dyacopterus spadiceus
+Dyacopterus
+Myotis auriculus
+Rhinolophus acuminatus
+Melonycteris woodfordi woodfordi
+Melonycteris woodfordi
+Melonycteris fardoulisi maccoyi
+Melonycteris fardoulisi fardoulisi
+Melonycteris fardoulisi mengermani
+Melonycteris fardoulisi schouteni
+Tonatia sp. ECT-2005
+Scotophilus viridis
+Myotis cf. nipalensis kukunorensis
+Myotis cf. nipalensis
+Myotis nipalensis
+Cynomops paranus
+Cynomops
+Myotis aurascens
+Myotis hajastanicus
+Thyroptera lavali
+Tadarida aegyptiaca
+Rhinolophus hildebrandti
+Rhinolophus fumigatus
+Rhinolophus capensis
+Epomophorus minor
+Nycteris javanica
+Hipposideros caffer
+Cloeotis percivali
+Cloeotis
+Anthops ornatus
+Anthops
+Taphozous mauritianus
+Haplonycteris fischeri
+Haplonycteris
+Megaerops ecaudatus
+Cynopterus horsfieldii
+Nyctalus azoreum
+Murina cf. cyclotis
+Harpiocephalus mordax
+Kerivoula cf. papillosa
+Pipistrellus hesperidus
+Laephotis wintoni
+Myotis sicarius
+Myotis scotti
+Miniopterus natalensis
+Miniopterus manavi
+Miniopterus macrocneme
+Miniopterus schreibersii pallidus
+Brachyphylla pumila
+Brachyphylla nana
+Erophylla bombifrons
+Chilonatalus tumidifrons
+Chilonatalus
+Nyctiellus lepidus
+Nyctiellus
+Natalus saturatus
+Natalus jamaicensis
+Natalus major
+Chaerephon jobensis
+Chaerephon nigeriae
+Chaerephon chapini
+Artibeus amplus
+Pteronotus fuliginosus
+Pteronotus rubiginosus
+Pteronotus pusillus
+Centurio senex greenhalli
+Hipposideros ater
+Hipposideros coxi
+Hipposideros dyacorum
+Hipposideros ridleyi
+Plecotus christii
+Plecotus macrobullaris macrobullaris
+Plecotus teneriffae gaisleri
+Rhinonicteris
+Rhinolophus sp. JMW-2004b
+Rhinolophus sp. JMW-2004a
+Hipposideros sp. JMW-2004b
+Hipposideros sp. JMW-2004a
+Emballonura sp. JMW-2004
+Rhinonicteris aurantia
+Paranyctimene raptor
+Paranyctimene
+Nyctimene aello
+Boneia bidens
+Boneia
+Scotorepens sp. JMW-2004
+Scotorepens
+Pipistrellus javanicus x tenuis
+Nyctophilus arnhemensis
+Myotis simus
+Chalinolobus nigrogriseus
+Phyllonycteris poeyi
+Phyllops falcatus
+Molossus ater
+Mormopterus beccarii
+Cheiromeles parvidens
+Cheiromeles torquatus
+Cheiromeles
+Nycteris hispida
+Cardioderma cor
+Cardioderma
+Hipposideros dinops
+Hipposideros cineraceus
+Myotis annectans
+Cistugo lesueuri
+Lophostoma silvicolum
+Lophostoma
+Pteropodidae sp. TTS-2004
+Rhogeessa io
+Micronycteris giovanniae
+Myotis sp. TK 48587
+Eptesicus sagittula
+Tylonycteris pachypus
+Tylonycteris
+Scotomanes ornatus
+Scotomanes
+Scotoecus hirundo
+Scotoecus
+Scotophilus nux
+Scotophilus dinganii
+Scotophilus borbonicus
+Rhogeessa aeneus
+Rhogeessa mira
+Pipistrellus tenuis
+Pipistrellus javanicus
+Pipistrellus coromandra
+Nyctophilus geoffroyi
+Neoromicia somalicus
+Neoromicia rendalli
+Eptesicus vulturnus
+Myotis septentrionalis
+Myotis siligorensis
+Myotis ridleyi
+Myotis fortidens
+Myotis elegans
+Myotis austroriparius
+Murina huttoni
+Miniopterus pusillus
+Miniopterus fraterculus
+Lasiurus blossevillii
+Lasiurus atratus
+Lasiurus borealis
+Lasiurus seminolus
+Lasiurus ega
+Laephotis namibensis
+Laephotis
+Kerivoula pellucida
+Hypsugo eisentrauti
+Histiotus macrotus
+Histiotus
+Chalinolobus variegatus
+Chalinolobus poensis
+Chalinolobus argentatus
+Eptesicus hottentotus
+Chalinolobus gouldii
+Sauromys petrophilus
+Otomops martiensseni
+Otomops
+Nyctinomops femorosaccus
+Mormopterus planiceps
+Mops condylurus
+Mops
+Triaenops furculus
+Triaenops
+Pipistrellus sp. Be_2137_9
+Pipistrellus sp. Be_2136_8
+Pipistrellus sp. Be_2151_13
+Pipistrellus sp. Be_2142_10
+Myotis ciliolabrum
+Myotis evotis
+Myotis californicus
+Myotis keenii
+Lasiurus cinereus
+Micronycteris brosseti
+Artibeus jamaicensis paulus
+Artibeus jamaicensis richardsoni
+Chaerephon ansorgei
+Scotophilus leucogaster
+Antrozous dubiaquercus
+Molossops
+Nycteris arge
+Rhinolophus alcyone
+Hipposideros cyclops
+Hipposideros abae
+Taphozous nudiventris
+Saccopteryx leptura
+Rhynchonycteris naso
+Rhynchonycteris
+Peropteryx macrotis
+Peropteryx kappleri
+Peropteryx
+Cormura brevirostris
+Cormura
+Balantiopteryx plicata
+Platyrrhinus brachycephalus
+Micronycteris microtis
+Micronycteris homezi
+Lonchorhina orinocensis
+Choeroniscus minor
+Pipistrellus sp. Be_2145
+Pipistrellus sp. Be_2129
+Pipistrellus sp. Be_2152
+Pipistrellus pygmaeus
+Molossus sp. CRB2031
+Saccopteryx sp. CRB2490
+Myotis sp. CRB1612
+Sturnira sp. CAI-2003B
+Sturnira sp. CAI-2003A
+Plecotus macrobullaris
+Chaerephon pumilus
+Chaerephon
+Tadarida brasiliensis mexicana
+Tadarida brasiliensis intermedia
+Tadarida brasiliensis cynocephala
+Tadarida brasiliensis brasiliensis
+Lonchophylla chocoana
+Corynorhinus
+Myotis vivesi
+Myotis tricolor
+Plecotus sp. JJJ-2003
+Plecotus sp.
+Plecotus wardi
+Plecotus cf. kolombatovici
+Myotis formosus
+Myotis davidii
+Myotis chinensis
+Uroderma magnirostrum
+Plecotus sardus
+Miniopterus sp. BBRA-2002
+Miniopterus propitristis
+Miniopterus tristis
+Miniopterus inflatus
+Miniopterus minor
+Craseonycteridae
+Artibeus jamaicensis triomylus
+Artibeus jamaicensis yucatanicus
+Diclidurus scutatus
+Craseonycteris thonglongyai
+Craseonycteris
+Carollia sowelli
+Myotis goudoti
+Myotis ricketti
+Pipistrellus cf. javanicus
+Rhinolophus macrotis
+Vampyressa brocki
+Sturnira parvidens
+Plecotus balensis
+Myotis pruinosus
+Pteropus rufus
+Rhinolophus cornutus
+Sturnira luisi zygomaticus
+Sturnira luisi vulcanensis
+Sturnira luisi thomasi
+Sturnira luisi serotinus
+Sturnira luisi paulsoni
+Sturnira luisi angeli
+Sturnira oporaphilum
+Sturnira nana
+Sturnira mordax
+Sturnira magna
+Sturnira luisi
+Sturnira ludovici
+Sturnira hondurensis
+Sturnira erythromos
+Sturnira bogotensis
+Sturnira bidens
+Sturnira aratathomasi
+Platalina genovensium
+Lonchophylla robusta
+Lonchophylla mordax
+Lonchophylla handleyi
+Rhinolophus rex
+Rhinolophus pearsonii
+Rhinolophus lepidus
+Hipposideros pratti
+Aselliscus stoliczkanus
+Aselliscus
+Plecotus teneriffae
+Barbastella sp. 7184
+Murina ussuriensis
+Murina sp. 7386
+Murina ryukyuna
+Murina puta
+Murina leucogaster
+Murina florium
+Myotis yanbarensis
+Myotis macrodactylus
+Myotis sp. KK0005
+Myotis frater
+Nyctalus velutinus
+Nyctalus aviator
+Barbastella leucomelas
+Miniopterus fuscus
+Miniopterus fuliginosus
+Tadarida insignis
+Phyllostomus elongatus
+Emballonura alecto
+Taphozous melanopogon
+Coelops frithii
+Coelops
+Rhinolophus perditus
+Rhinolophinae
+Hipposiderinae
+Hipposideros terasensis
+Hipposideros armiger
+Hipposideros turpis
+Pipistrellus maderensis
+Nycteris grandis
+Rhinolophus creaghi
+Murina cyclotis
+Neoromicia brunneus
+Eptesicus brasiliensis
+Chalinolobus beatrix
+Monophyllus plethodon
+Glossophaga morenoi
+Glossophaga longirostris
+Glossophaga leachii
+Glossophaga commissarisi
+Emballonura monticola
+Hipposideros larvatus
+Nycteris macrotis
+Rhinopoma microphyllum
+Rhinopoma muscatellum
+Tonatia saurophila
+Chironax melanocephalus
+Chironax
+Emballonura semicaudata
+Hipposideros cervinus
+Pteropus woodfordi
+Pteropus vetulus
+Pteropus samoensis
+Pteropus pohlei
+Pteropus personatus
+Pteropus ornatus
+Pteropus ocularis
+Pteropus niger
+Pteropus neohibernicus
+Pteropus fundatus
+Pteropus cognatus
+Pteropus capistratus ennisae
+Pteropus anetianus
+Pteralopex acrodonta
+Dobsonia viridis
+Dobsonia praedatrix
+Dobsonia pannietensis
+Dobsonia minor
+Dobsonia inermis
+Dobsonia andersoni
+Nyctimene vizcaccia
+Nyctimene certans
+Nyctimene cephalotes
+Rhinolophus monoceros
+Plecotus kolombatovici
+Plecotus austriacus austriacus
+Pipistrellus pygmaeus x mediterraneus
+Eptesicus bottae
+Pteropus lylei
+Myotis lucifugus carissima
+Pteropus speciosus
+Pteropus pumilus
+Lasiurus sp.
+Myotis welwitschii
+Rhinolophus pumilus
+Rhinolophus pusillus
+Scotophilus heathii
+Myotis yumanensis
+Myotis volans
+Myotis schaubi
+Myotis ruber
+Myotis oxyotus
+Myotis muricola browni
+Myotis muricola
+Myotis montivagus
+Myotis macrotarsus
+Myotis keaysi
+Myotis hasseltii
+Myotis dominicensis
+Myotis dasycneme
+Myotis albescens
+Eptesicus diminutus
+Lasiurus sp. MVZ_AD522
+Myotis daubentonii nathalinae
+Hipposideros bicolor
+Myotis alcathoe
+Myotis ikonnikovi
+Thyroptera discifera
+Natalus stramineus
+Chilonatalus micropus
+Myzopoda aurita
+Myzopoda
+Myzopodidae
+Kerivoula hardwickii
+Rhogeessa tumida
+Rhogeessa parvula
+Scotophilus kuhlii
+Scotophilus
+Rhogeessa alleni
+Rhogeessa
+Otonycteris hemprichii
+Otonycteris
+Euderma maculatum
+Euderma
+Nycticeinops schlieffeni
+Myotis thysanodes
+Myotis nigricans
+Myotis levis
+Myotis bocagii
+Mesophylla macconnelli
+Stenoderma rufum
+Erophylla sezekorni
+Erophylla
+Lionycteris spurrelli
+Diphylla ecaudata
+Diclidurus albus
+Diaemus youngi
+Chrotopterus auritus
+Platalina
+Lionycteris
+Furipterus horrens
+Furipterus
+Furipteridae
+Balantiopteryx
+Diclidurus
+Diphylla
+Diaemus
+Chrotopterus
+Vampyrum spectrum
+Trachops cirrhosus
+Phylloderma stenops
+Mimon crenulatum
+Micronycteris schmidtorum
+Micronycteris nicefori
+Micronycteris minuta
+Micronycteris megalotis
+Micronycteris hirsuta
+Glyphonycteris daviesi
+Micronycteris brachyotis
+Macrophyllum macrophyllum
+Lonchorhina aurita
+Vampyrum
+Trachops
+Phylloderma
+Mimon
+Micronycteris
+Macrophyllum
+Lonchorhina
+Musonycteris harrisoni
+Monophyllus redmani
+Hylonycteris underwoodi
+Choeronycteris mexicana
+Choeroniscus godmani
+Musonycteris
+Monophyllus
+Lichonycteris
+Hylonycteris
+Choeronycteris
+Choeroniscus
+Vampyrodes caraccioli
+Vampyressa pusilla
+Vampyressa bidens
+Sphaeronycteris toxophyllum
+Pygoderma bilabiatum
+Ectophylla alba
+Ariteus flavescens
+Ardops nichollsi
+Ametrida centurio
+Vampyrodes
+Vampyressa
+Stenoderma
+Sphaeronycteris
+Pygoderma
+Phyllops
+Mesophylla
+Ectophylla
+Ariteus
+Ardops
+Ametrida
+Anoura geoffroyi
+Chalinolobus tuberculatus
+Pteropus giganteus
+Myotis sp. AM_M21963
+Myotis sp. AM_M15111
+Myotis macropus
+Eptesicus regulus
+Myotis horsfieldii
+Rhinophylla pumilio
+Rhinophylla fischerae
+Lonchophylla thomasi
+Lonchophylla
+Lonchophyllinae
+Phyllonycteris aphylla
+Phyllonycteris
+Phyllonycterinae
+Rhinophylla alethina
+Rhinophylla
+Carollia subrufa
+Carollia castanea
+Carollia brevicauda
+Pteropus vampyrus
+Ptenochirus jagori
+Ptenochirus
+Myotis blythii blythii
+Myotis myotis myotis
+Myotis cf. punicus
+Pteropus dasymallus
+Thyroptera tricolor
+Thyroptera
+Thyropteridae
+Rhinopoma hardwickii
+Rhinopoma
+Rhinopomatidae
+Nyctinomops macrotis
+Myotis riparius
+Molossus rufus
+Macrotus waterhousii
+Harpiocephalus harpia
+Harpiocephalus
+Eumops auripendulus
+Eptesicus furinalis
+Corynorhinus townsendii
+Pteronotus personatus
+Pteronotus gymnonotus
+Pteronotus quadridens
+Pteronotus macleayii
+Mormoops blainvillii
+Miniopterus australis
+Miniopterus schreibersii orianae
+Miniopterus schreibersii oceanensis
+Miniopterus schreibersii blepotis
+Miniopterus schreibersii bassanii
+Taphozous sp.
+Pteropus rayneri
+Hipposideros commersoni
+Emballonura atrata
+Emballonura
+Neoromicia capensis
+Hypsugo savii
+Hypsugo
+Plecotus austriacus
+Myotis blythii
+Myotis nattereri
+Myotis emarginatus
+Myotis mystacinus
+Myotis brandtii
+Myotis capaccinii
+Rhinolophus euryale
+Pipistrellus abramus
+Vespertilio sinensis
+Myotis daubentonii
+Noctilio leporinus
+Noctilio albiventris
+Mystacina tuberculata
+Mystacina
+Mystacinidae
+Noctilio
+Noctilionidae
+Pteronotus davyi
+Pteropus scapulatus
+Rhinolophus rouxii rouxii
+Phyllostomus discolor
+Rhinolophus sinicus
+Rhinolophus rouxii
+Myonycteris torquata
+Myonycteris relicta
+Macroglossinae
+Nyctimene major
+Myonycteris brachycephala
+Myonycteris
+Micropteropus pusillus
+Micropteropus
+Megaerops niphanae
+Megaerops
+Epomops franqueti
+Epomops
+Balionycteris maculata
+Balionycteris
+Aethalops alecto
+Aethalops
+Pteropodinae
+Syconycteris sp.
+Rousettus madagascariensis
+Stenonycteris lanosus
+Rousettus aegyptiacus princeps
+Rousettus aegyptiacus aegyptiacus
+Rhinolophus hipposideros
+Pteropus tonganus
+Pteropus rodricensis
+Melonycteris melanops
+Eidolon helvum
+Rhinolophus philippinensis
+Rhinolophus megaphyllus
+Rhinolophus euryotis
+Rhinolophus arcuatus
+Lasiurus xanthinus
+Lasiurus
+Plecotus auritus
+Murina suilla
+Murina
+Natalus tumidirostris
+Natalus
+Vespertilio murinus
+Vespertilio
+Tadarida teniotis
+Saccopteryx bilineata
+Saccopteryx
+Rhinolophus sedulus
+Rhinolophus ferrumequinum
+Rhinolophus clivosus
+Rhinolophus affinis
+Pteronotus parnellii
+Pteronotus
+Pipistrellus pipistrellus
+Pipistrellus nathusii
+Pipistrellus kuhlii
+Nyctophilus gouldi
+Nyctophilus
+Nycticeinops
+Nycteris thebaica
+Nycteris
+Nyctalus leisleri
+Nyctalus lasiopterus
+Myotis lucifugus
+Myotis bechsteinii
+Myotis adversus
+Mormoops megalophylla
+Mormoops
+Leptonycteris nivalis
+Kerivoula papillosa
+Kerivoula
+Hipposideros diadema
+Eptesicus serotinus
+Eptesicus nilssoni
+Epomophorus crypturus
+Barbastella barbastellus
+Barbastella
+Nycteridae
+Natalidae
+Mormoopidae
+Thoopterus nigrescens
+Thoopterus
+Syconycteris australis
+Syconycteris
+Rousettus amplexicaudatus
+Pteropus admiralitatum
+Pteralopex atrata
+Pteralopex
+Nyctimene robinsoni
+Notopteris macdonaldi
+Notopteris
+Molossus sinaloae
+Melonycteris fardoulisi
+Melonycteris
+Megaloglossus woermanni
+Megaloglossus
+Myonycteris angolensis
+Hipposideros galeritus
+Hipposideros
+Epomophorus wahlbergi
+Epomophorus
+Eonycteris spelaea
+Eonycteris
+Eidolon dupraenum
+Eidolon
+Cynopterus brachyotis
+Aproteles bulmerae
+Aproteles
+Acerodon celebensis
+Acerodon
+Rhinolophidae
+Leptonycteris curasoae
+Leptonycteris
+Nyctalus noctula
+Nyctalus
+Myotis myotis
+Artibeus glaucus watsoni
+Artibeus anderseni
+Artibeus intermedius
+Artibeus inopinatus
+Artibeus hirsutus
+Artibeus fraterculus
+Artibeus fimbriatus
+Chalinolobus morio
+Chalinolobus
+Rhinolophus darlingi
+Rhinolophus
+Nyctimene albiventer
+Nyctimene
+Dobsonia moluccensis
+Dobsonia
+Artibeus toltecus
+Artibeus aztecus
+Phyllostominae
+Desmodontinae
+Glossophaginae
+Brachyphyllinae
+Stenodermatinae
+Carollia perspicillata
+Carollia
+Carolliinae
+Artibeus planirostris
+Artibeus phaeotis
+Artibeus obscurus
+Artibeus glaucus gnomus
+Artibeus glaucus
+Artibeus concolor
+Artibeus cinereus
+Chiroderma villosum
+Chiroderma improvisum
+Chiroderma doriae
+Emballonuridae
+Microchiroptera
+Megachiroptera
+Eptesicus fuscus
+Eptesicus
+Macroglossus minimus
+Macroglossus
+Plecotus rafinesquii
+Plecotus
+Pipistrellus subflavus
+Pipistrellus
+Nycticeius humeralis
+Nycticeius
+Myotis leibii
+Lasionycteris noctivagans
+Lasionycteris
+Idionycteris phyllotis
+Idionycteris
+Uroderma bilobatum
+Uroderma
+Sturnira tildae
+Sturnira lilium
+Sturnira
+Platyrrhinus helleri
+Platyrrhinus
+Artibeus hartii
+Chiroderma trinitatum
+Chiroderma salvini
+Chiroderma
+Centurio senex
+Centurio
+Anoura caudifer
+Anoura
+Glossophaga soricina
+Glossophaga
+Artibeus lituratus
+Artibeus fuliginosus
+Tomopeas ravus
+Tomopeas
+Promops centralis
+Promops
+Nyctinomops laticaudatus
+Nyctinomops aurispinosus
+Nyctinomops
+Mormopterus kalinowskii
+Mormopterus
+Molossus molossus
+Molossus
+Eumops perotis
+Eumops glaucinus
+Eumops
+Taphozous georgianus
+Taphozous
+Antrozous pallidus
+Antrozous
+Tadarida brasiliensis
+Tadarida
+Molossidae
+Myotis velifer
+Myotis
+Miniopterus schreibersii
+Miniopterus
+Vespertilionidae
+Desmodus rotundus
+Desmodus
+Tonatia bidens
+Tonatia
+Phyllostomus hastatus
+Phyllostomus
+Brachyphylla cavernarum
+Brachyphylla
+Macrotus californicus
+Macrotus
+Artibeus jamaicensis
+Artibeus
+Phyllostomidae
+Megaderma spasma
+Megaderma lyra
+Megaderma
+Macroderma gigas
+Macroderma
+Megadermatidae
+Rousettus leschenaultii
+Rousettus aegyptiacus
+Rousettus
+Pteropus hypomelanus
+Pteropus temminckii
+Pteropus poliocephalus
+Pteropus alecto
+Pteropus
+Cynopterus sphinx
+Cynopterus
+Pteropodidae
+Chiroptera

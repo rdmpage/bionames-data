@@ -191,12 +191,14 @@ class Parser
 		{
 			return $result;
 		}
-
+		if (preg_match('/[A-Z]+-\d+/', $result->scientificName->verbatim))
+		{
+			return $result;
+		}
 		if (preg_match('/\s+group$/', $result->scientificName->verbatim))
 		{
 			return $result;
 		}
-		
 		// Fungi/Metazoa group
 		if (preg_match('/\//', $result->scientificName->verbatim))
 		{

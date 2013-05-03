@@ -62,6 +62,9 @@ $ids=array(107030);
 $ids=array(65541);
 $ids=array(127656);
 $ids=array(102751);
+$ids=array(65873);
+$ids=array(1291);
+$ids=array(65875);
 
 // to do...
 foreach ($ids as $id)

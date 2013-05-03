@@ -188,6 +188,8 @@ Cabreramops aequatorianus = Molossops aequatorianus
 
 Pipistrellus petersi = Falsistrellus petersi 
 
+Molossops abrasus=Cynomops abrasus
+
 Major mess with these genera:
 
 Vespertilionidae Gray, 1821
@@ -224,6 +226,14 @@ Chalinolobus poensis (Gray, 1842)
 Chalinolobus superbus (Hayman, 1939)
 Chalinolobus tuberculatus (Forster, 1844)
 Chalinolobus variegatus (Tomes, 1861)
+
+
+
+NCBI vs GBIF
+------------
+
+Molossops abrasus = GBIF
+Cynomops abrasus = NCBI
 
 
 

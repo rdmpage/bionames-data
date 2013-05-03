@@ -9,3 +9,6 @@ cookie.txt
 # Databases
 *.db
 *.cdb
+
+# PDF extraction
+pdf-name-extraction/*

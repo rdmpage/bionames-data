@@ -6,7 +6,7 @@ require_once (dirname(__FILE__) . '/map.php');
 
 
 //--------------------------------------------------------------------------------------------------
-function get_concept($id)
+function get_gbif_concept($id)
 {
 	$gbif_db = NewADOConnection('mysql');
 	$gbif_db->Connect("localhost", 'root', '', 'gbif');
@@ -273,7 +273,7 @@ map($namestring, 'gbif');
 $id = 2225762; // Helice (crab)
 $id = 2425583; // Pristimantis ridens (frog)
 $id = 2432120; // Microgale fotsifotsy
-get_concept($id);
+get_gbif_concept($id);
 */
 
 ?>
