@@ -6,6 +6,52 @@ require_once (dirname(dirname(__FILE__)) . '/lib.php');
 require_once (dirname(__FILE__) . '/reference.php');
 
 //--------------------------------------------------------------------------------------------------
+function get_doi_thumbnail(&$reference, $doi)
+{
+	global $db;
+	
+	
+	$thumbnail = '';
+
+	$sql = "SELECT * FROM doi_thumbnails WHERE doi = " . $db->qstr($doi) . " LIMIT 1;";
+	
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+	
+	if ($result->NumRows() == 1)
+	{
+		$thumbnail = $result->fields['path'];
+		
+		$filename = '/Users/rpage/Sites/itaxon/thumbnails/' . $thumbnail;
+		
+		$image_type = exif_imagetype($filename);
+		switch ($image_type)
+		{
+			case IMAGETYPE_GIF:
+				$mime_type = 'image/gif';
+				break;
+			case IMAGETYPE_JPEG:
+				$mime_type = 'image/jpg';
+				break;
+			case IMAGETYPE_PNG:
+				$mime_type = 'image/png';
+				break;
+			case IMAGETYPE_TIFF_II:
+			case IMAGETYPE_TIFF_MM:
+				$mime_type = 'image/tif';
+				break;
+			default:
+				$mime_type = 'image/gif';
+				break;
+		}
+		
+		$image = file_get_contents($filename);
+		$base64 = chunk_split(base64_encode($image));
+		$reference->thumbnail = 'data:' . $mime_type . ';base64,' . $base64;				
+	}
+}
+
+//--------------------------------------------------------------------------------------------------
 function have_identifier($namespace, $identifier)
 {
 	global $config;
@@ -23,6 +69,8 @@ function have_identifier($namespace, $identifier)
 	}
 
 	$url = '_design/identifier/_view/' . $namespace . '?key=' . $couch_id;
+	
+	$url .= '&stale=ok';	
 	
 	//echo $url . "\n";
 	

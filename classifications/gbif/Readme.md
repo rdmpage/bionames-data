@@ -22,3 +22,45 @@ Chalinolobus neocalidonicus
 	Chalinolobus neocaledonicus
 1 strings retrieved (0.009159 sec)
 
+### GBIF tree for animals
+
+	SELECT id, `parentNameUsageID` INTO OUTFILE "/tmp/gbif_nodes.txt"
+	FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n'
+	FROM taxon WHERE kingdom = 'Animalia' AND `parentNameUsageID` IS NOT NULL;
+
+	Query OK, 1829461 rows affected (44.13 sec)
+
+make tree
+
+import
+
+### GBIF names
+
+	USE gbif;
+	SELECT DISTINCT canonicalName INTO OUTFILE "/tmp/gbif_names.txt"
+	FIELDS TERMINATED BY '\t' LINES TERMINATED BY '\n'
+	FROM taxon WHERE kingdom = 'Animalia';
+
+	Query OK, 2353846 rows affected (7 min 57.70 sec)
+
+### GBIF - ION mapping
+
+From bionames-data root:
+
+	cd taxonconcept
+
+	cp /tmp/gbif_names.txt .
+
+	php make_gbif_mapping.php gbif_names.txt
+
+### Upload mapping
+
+Get list of all GBIF ids that have been mapped to names:
+
+	SELECT DISTINCT gbif_id FROM names_to_concept;
+
+Store those ids, then run:
+
+	php load_gbif_mapping.php gbif_mapping.txt 
+
+

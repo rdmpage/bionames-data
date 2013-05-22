@@ -14,19 +14,27 @@ function concept_to_eol($id, $namespace = 'gbif')
 			
 		case 'gbif':
 			$hierarchy_id = 800;
+			break;
+			
 		default:
 			break;
 	}
 	
 	$url = 'http://eol.org/api/search_by_provider/1.0/' . $id . '.json?hierarchy_id=' . $hierarchy_id;
 	
+	$url .= '&cache_ttl=';
+	
 	$json = get($url);
 	
 	//echo $url . "\n";
 	
+	//echo "json=$json\n";
+	
 	if ($json != '')
 	{	
 		$obj = json_decode($json);
+		
+		//print_r($obj);
 		
 		if (count($obj))
 		{		

@@ -24,7 +24,7 @@ while (!feof($file_handle))
 	$name = trim(fgets($file_handle));
 	
 	//map($name, 'gbif', true);
-	map($name, 'ncbi', true);
+	map($name, 'ncbi', false);
 }
 
 ?>

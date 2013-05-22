@@ -2,6 +2,19 @@ config.inc.php
 
 adodb5/
 
+cleaning/ion-ris/junk
+
+journals/images
+
+manuscript
+
+phylota
+
+publications/junk
+
+taxonconcept/gbif/
+taxonconcept/junk/
+taxonconcept/local/
 taxonconcept/tmp/
 
 cookie.txt

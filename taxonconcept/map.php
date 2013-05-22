@@ -100,6 +100,8 @@ function get_ion_names($name)
 		$sql = 'SELECT DISTINCT cluster_id FROM names WHERE nameComplete = ' . $ion_db->qstr($name);
 	}
 	
+	$sql .= ' AND cluster_id IS NOT NULL';
+	
 	echo $sql . "\n";
 	
 	$result = $ion_db->Execute($sql);
@@ -535,9 +537,9 @@ function map($namestring, $source = 'gbif', $eol_lookup = true, $threshold = 50,
 			// GBIF
 			if (preg_match('/^gbif(?<id>\d+)$/', $id_map[$m[0]], $values))
 			{
-				$eol_page_id = gbif_to_eol ('gbif');
+				$eol_page_id = concept_to_eol ($values['id'], 'gbif');
 				
-				//echo $values['id'] . ' ' . $eol_page_id . "\n";
+				echo $values['id'] . ' ' . $eol_page_id . "\n";
 				//exit();
 				
 				if ($eol_page_id != 0)

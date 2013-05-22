@@ -19,8 +19,11 @@ SELECT id FROM taxon WHERE `order` = "Chiroptera Blumenbach, 1779" and `parentNa
 $base_filename = 'Eleutherodactylus';
 $base_filename = 'Chiroptera';
 $base_filename = 'Chiroptera';
+$base_filename = 'Hippoboscidae';
 
 $base_path = 'examples/Chiroptera-NCBI';
+
+$base_path = 'examples/Hippoboscidae';
 
 // Files we need:
 
@@ -30,15 +33,13 @@ $names_filename = $base_filename . '_names.txt'; // canonical names
 // A classification is a set of taxonomic concepts from an external provider
 $classification_filename = $base_filename . '_gbif.txt'; // GBIF taxon ids we want to load
 
-$classification_filename = $base_filename . '_ncbi.txt'; // NCBI taxon ids we want to load
-
 
 $flags = array();
 $flags['publications'] 		= false; // load publications
 $flags['clusters'] 			= false; // load clusters
-$flags['classification'] 	= true; // load classification
-$flags['make_mapping'] 		= false; // make mapping between clusters and classification
-$flags['mapping'] 			= false; // load mapping
+$flags['classification'] 	= false; // load classification
+$flags['make_mapping'] 		= true; // make mapping between clusters and classification
+$flags['mapping'] 			= true; // load mapping
 
 
 if ($flags['publications'])
@@ -64,7 +65,6 @@ if ($flags['classification'])
 {
 	// Load a classification
 	$command = "php classifications/gbif/load_gbif.php " . $base_path . "/" . $classification_filename;
-	$command = "php classifications/ncbi/load_ncbi.php " . $base_path . "/" . $classification_filename;
 	echo "\n==> Loading classification for $base_filename...\n";
 	echo $command . "\n";
 	//exit();
@@ -75,7 +75,7 @@ if ($flags['classification'])
 if ($flags['make_mapping'])
 {
 	// Load mapping for this classification
-	$command = "php taxonconcept/make_mapping.php " . $base_path . "/" . $names_filename;
+	$command = "php taxonconcept/make_gbif_mapping.php " . $base_path . "/" . $names_filename;
 	echo "\n==> Creating mapping for $base_filename...\n";
 	echo $command . "\n";
 	system($command);
@@ -84,7 +84,7 @@ if ($flags['make_mapping'])
 if ($flags['mapping'])
 {
 	// Load mapping for this classification
-	$command = "php taxonconcept/load_mapping.php " . $base_path . "/" . $classification_filename;
+	$command = "php taxonconcept/load_gbif_mapping.php " . $base_path . "/" . $classification_filename;
 	echo "\n==> Loading mapping for $base_filename...\n";
 	echo $command . "\n";
 	system($command);

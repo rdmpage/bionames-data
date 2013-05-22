@@ -199,6 +199,12 @@ class Parser
 		{
 			return $result;
 		}
+		// Rhinolophus JLE sp. B
+		if (preg_match('/\s+sp\.\s+/', $result->scientificName->verbatim))
+		{
+			return $result;
+		}
+		
 		// Fungi/Metazoa group
 		if (preg_match('/\//', $result->scientificName->verbatim))
 		{

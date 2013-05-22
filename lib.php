@@ -144,7 +144,7 @@ function get($url, $userAgent = '', $content_type = '')
 	curl_setopt ($ch, CURLOPT_URL, $url); 
 	curl_setopt ($ch, CURLOPT_RETURNTRANSFER, 1); 
 	curl_setopt ($ch, CURLOPT_FOLLOWLOCATION,	1); 
-	//curl_setopt ($ch, CURLOPT_HEADER,		  1);  
+	curl_setopt ($ch, CURLOPT_HEADER,		  1);  
 
 	curl_setopt ($ch, CURLOPT_COOKIEJAR, 'cookie.txt');
 	
@@ -176,7 +176,10 @@ function get($url, $userAgent = '', $content_type = '')
 	{
 		$info = curl_getinfo($ch);
 		
-		 //$header = substr($curl_result, 0, $info['header_size']);
+		//print_r($info);
+		
+		 
+		$header = substr($curl_result, 0, $info['header_size']);
 		//echo $header;
 		
 		
@@ -186,7 +189,8 @@ function get($url, $userAgent = '', $content_type = '')
 		
 		if (HttpCodeValid ($http_code))
 		{
-			$data = $curl_result;
+			$data = substr($curl_result, $info['header_size']);
+			//$data = $curl_result;
 		}
 	}
 	return $data;

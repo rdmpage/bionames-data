@@ -44,9 +44,10 @@ function p(&$o)
 
 
 //--------------------------------------------------------------------------------------------------
-function get_concept($id)
+function get_concept($id, &$docs)
 {
 	global $ncbi_db;
+	global $config;
 	global $couch;
 
 	$sql = 'SELECT * FROM ncbi_names INNER JOIN ncbi_nodes USING(tax_id) WHERE tax_id = ' . $id . ' AND name_class = "scientific name" LIMIT 1';
@@ -204,11 +205,34 @@ function get_concept($id)
 		}
 		*/
 		
-		print_r($concept);
+		//print_r($concept);
 		
 		//echo json_encode($concept);
 		
-		$couch->add_update_or_delete_document($concept,  $concept->_id);
+		if ($docs == null)
+		{
+			$couch->add_update_or_delete_document($concept,  $concept->_id);
+		}
+		else
+		{
+			echo ".";
+			$docs->docs [] = $concept;
+			
+			if (count($docs->docs ) == 1000)
+			{
+				echo "tax_id=$id\n";
+				echo "CouchDB...\n";
+				$resp = $couch->send("POST", "/" . $config['couchdb_options']['database'] . '/_bulk_docs', json_encode($docs));
+				
+				//echo json_encode($docs);
+				
+				echo $resp;
+				//exit();
+			
+				$docs->docs  = array();
+			}
+		}
+		
 		
 	}
 }

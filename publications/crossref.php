@@ -31,7 +31,7 @@ function do_issn($issn, &$reference)
 // Use content negotian and citeproc, may fail with some DOIs
 // e.g. [14/12/2012 12:52] curl --proxy wwwcache.gla.ac.uk:8080 -D - -L -H   "Accept: application/citeproc+json;q=1.0" "http://dx.doi.org/10.1080/03946975.2000.10531130" 
 
-function get_doi_metadata($doi)
+function get_doi_metadata($doi, &$json)
 {
 	$reference = null;
 	
@@ -140,6 +140,14 @@ function get_doi_metadata($doi)
 				if (isset($a->given))
 				{			
 					$author->firstname = $a->given;
+					
+					// Initials without space
+					if (preg_match('/^[A-Z]+$/', $a->given))
+					{
+						$initials = str_split($a->given);
+						$author->firstname = join(' ', $initials);						
+					}					
+					
 					$author->firstname = preg_replace('/\.([A-Z])/Uu', ' $1', $author->firstname);
 					$author->firstname = preg_replace('/\./Uu', '', $author->firstname);
 					$author->firstname = mb_convert_case($author->firstname, MB_CASE_TITLE, 'UTF-8');

@@ -65,6 +65,15 @@ $ids=array(102751);
 $ids=array(65873);
 $ids=array(1291);
 $ids=array(65875);
+$ids=array(106260);
+$ids=array(50072,120824);
+$ids=array(110907);
+$ids=array(53142);
+
+// Notulae Ichthyologiae Orientalis V. A. synopsis of the oriental cyprinid genus Sikukia VI. 
+// Status of the Kampuchea cyprinid Albulichthy krempfi
+// http://zoobank.org/References/0C7FC4A1-B8A9-4804-811C-AA7BB06A4000
+$ids=array(116847); 
 
 // to do...
 foreach ($ids as $id)

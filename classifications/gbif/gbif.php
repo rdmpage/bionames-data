@@ -45,9 +45,10 @@ function p(&$o)
 
 
 //--------------------------------------------------------------------------------------------------
-function get_concept($id)
+function get_concept($id, &$docs)
 {
 	global $gbif_db;
+	global $config;
 	global $couch;
 
 	$sql = 'SELECT * FROM taxon WHERE id = ' . $id . ' LIMIT 1';
@@ -179,7 +180,30 @@ function get_concept($id)
 			$concept->references[] = $reference;
 			$result->MoveNext();	
 		}
-	
+		
+		// tree
+		$sql = 'SELECT * FROM `tree` WHERE id = ' . $concept->sourceIdentifier . ' LIMIT 1';
+		
+		$result = $gbif_db->Execute($sql);
+		if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+		
+		if ($result->NumRows() == 1)
+		{
+			$concept->node = new stdclass;
+			foreach ($result->fields as $k => $v)
+			{
+				switch ($k)
+				{
+					case 'angle':
+						$concept->node->{$k} = (Double)$v;
+						break;
+						
+					default:
+						$concept->node->{$k} = (Integer)$v;
+						break;
+				}
+			}
+		}
 		
 		// map	
 		if (0)
@@ -225,11 +249,31 @@ function get_concept($id)
 			}
 		}
 		
-		print_r($concept);
+		//print_r($concept);
 		
 		//echo json_encode($concept);
 		
-		$couch->add_update_or_delete_document($concept,  $concept->_id);
+		//$couch->add_update_or_delete_document($concept,  $concept->_id);
+		
+		if (1)
+		{
+			echo ".";
+			$docs->docs [] = $concept;
+			
+			if (count($docs->docs ) == 1000)
+			{
+				echo "CouchDB...\n";
+				$resp = $couch->send("POST", "/" . $config['couchdb_options']['database'] . '/_bulk_docs', json_encode($docs));
+				
+				//echo json_encode($docs);
+				
+				echo $resp;
+				//exit();
+			
+				$docs->docs  = array();
+			}
+		}
+		
 		
 	}
 }

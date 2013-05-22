@@ -37,7 +37,7 @@ function get_sha1(&$reference, $pdf)
 		$reference->file->url = $result->fields['pdf'];
 		
 		// thumbnail
-		$url = 'http://bionames.org/archive/documentcloud/pages/' . $reference->file->sha1 . '/1-small';
+		$url = 'http://bionames.org/bionames-archive/documentcloud/pages/' . $reference->file->sha1 . '/1-small';
 
 		$image = get($url);
 		
@@ -56,14 +56,14 @@ function get_sha1(&$reference, $pdf)
 // PDF thumbnail where we don't have full PDF (e.g., Zootaxa preview)
 function get_pdf_thumbnail(&$reference, $pdf)
 {
-	$url = 'http://bionames.org/archive/pdfstore?url=' . urlencode($pdf) . '&noredirect&format=json';
+	$url = 'http://bionames.org/bionames-archive/pdfstore?url=' . urlencode($pdf) . '&noredirect&format=json';
 	$json = get($url);
 	
 	$obj = json_decode($json);
 	
 	if ($obj->http_code == 200)
 	{		
-		$url = 'http://bionames.org/archive/documentcloud/pages/' . $obj->sha1 . '/1-small';
+		$url = 'http://bionames.org/bionames-archive/documentcloud/pages/' . $obj->sha1 . '/1-small';
 		$image = get($url);
 		
 		if ($image != '')
@@ -76,50 +76,7 @@ function get_pdf_thumbnail(&$reference, $pdf)
 }
 
 
-//--------------------------------------------------------------------------------------------------
-function get_doi_thumbnail(&$reference, $doi)
-{
-	global $db;
-	
-	$thumbnail = '';
 
-	$sql = "SELECT * FROM doi_thumbnails WHERE doi = " . $db->qstr($doi) . " LIMIT 1;";
-	
-	$result = $db->Execute($sql);
-	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
-	
-	if ($result->NumRows() == 1)
-	{
-		$thumbnail = $result->fields['path'];
-		
-		$filename = '/Users/rpage/Sites/itaxon/thumbnails/' . $thumbnail;
-		
-		$image_type = exif_imagetype($filename);
-		switch ($image_type)
-		{
-			case IMAGETYPE_GIF:
-				$mime_type = 'image/gif';
-				break;
-			case IMAGETYPE_JPEG:
-				$mime_type = 'image/jpg';
-				break;
-			case IMAGETYPE_PNG:
-				$mime_type = 'image/png';
-				break;
-			case IMAGETYPE_TIFF_II:
-			case IMAGETYPE_TIFF_MM:
-				$mime_type = 'image/tif';
-				break;
-			default:
-				$mime_type = 'image/gif';
-				break;
-		}
-		
-		$image = file_get_contents($filename);
-		$base64 = chunk_split(base64_encode($image));
-		$reference->thumbnail = 'data:' . $mime_type . ';base64,' . $base64;				
-	}
-}
 
 
 //--------------------------------------------------------------------------------------------------
@@ -144,9 +101,10 @@ function get_sici_sql($sici)
 
 
 //--------------------------------------------------------------------------------------------------
-function get_reference($sql)
+function get_reference($sql, &$docs, $augment = true)
 {
 	global $db;
+	global $config;
 	global $couch;
 	
 
@@ -156,6 +114,9 @@ function get_reference($sql)
 	
 	while (!$result->EOF) 
 	{
+		//print_r($result->fields);exit();
+	
+	
 		$reference = new stdclass;
 		$reference->type = 'generic';
 		
@@ -230,6 +191,24 @@ function get_reference($sql)
 			$issn->type = 'issn';
 			$reference->journal->identifier[] = $issn;
 		}
+		
+		/*
+		if ($result->fields['oclc'] != null)
+		{
+			$oclc = new stdclass;
+			$oclc->id = $result->fields['oclc'];
+			$oclc->type = 'oclc';
+		
+			if ($result->fields['isPartOf'] == 'N')
+			{
+				if (isset($reference->journal))
+				{
+					$reference->journal->identifier[] = $oclc;
+				}
+			}
+		}
+		*/
+		
 			
 		if ($result->fields['year'] != null)
 		{
@@ -259,7 +238,7 @@ function get_reference($sql)
 		//----------------------------------------------------------------------------------------------
 		// identifiers
 		$reference->identifier = array();
-		$keys = array('doi', 'biostor', 'cinii', 'googleBooks', 'handle', 'isbn', 'jstor', 'pmc', 'pmid', 'url', 'pdf', 'canonical_uuid');
+		$keys = array('doi', 'biostor', 'cinii', 'googleBooks', 'handle', 'isbn', 'jstor', 'pmc', 'pmid', 'url', 'pdf', 'canonical_uuid', 'oclc');
 		
 		foreach ($keys as $k)
 		{
@@ -293,10 +272,61 @@ function get_reference($sql)
 							{
 								$reference->book = new stdclass;
 								$reference->type = "chapter";
+								
+								if (isset($reference->journal))
+								{
+									if (isset($reference->journal->name))
+									{
+										$reference->book->title = $reference->journal->name;
+									}
+									if (isset($reference->journal->pages))
+									{
+										$reference->book->pages = $reference->journal->pages;
+									}
+									unset($reference->journal);
+								}
 							}
 							$reference->book->identifier[] = $identifier;
 						}
 						break;
+						
+					// Tricky, use for journal or chapter (just chapter for now)
+					case 'oclc':
+						$identifier = new stdclass;
+						$identifier->type = $k;
+						$identifier->id = $result->fields[$k];
+					
+						if ($result->fields['isPartOf'] == 'Y')
+						{
+							if (!isset($reference->book))
+							{
+								$reference->book = new stdclass;
+								$reference->type = "chapter";
+								
+								if (isset($reference->journal))
+								{
+									if (isset($reference->journal->name))
+									{
+										$reference->book->title = $reference->journal->name;
+									}
+									if (isset($reference->journal->pages))
+									{
+										$reference->book->pages = $reference->journal->pages;
+									}
+									unset($reference->journal);
+								}
+							}
+							$reference->book->identifier[] = $identifier;
+						}
+						else
+						{
+							if (isset($reference->journal))
+							{
+								$reference->journal->identifier[] = $oclc;
+							}
+						}
+						break;
+						
 						
 					case 'biostor':
 					case 'cinii':
@@ -382,242 +412,276 @@ function get_reference($sql)
 			}
 		}
 		
-		echo "Add metadata...\n";
-
 		
-		$keys = array('doi', 'biostor', 'cinii', 'googleBooks', 'handle', 'isbn', 'jstor', 'pmc', 'pmid', 'url', 'pdf', 'canonical_uuid');
-		
-		
-		//----------------------------------------------------------------------------------------------
-		// could get all names linked to these identifiers to "tag" article	
-		
-		//----------------------------------------------------------------------------------------------
-		// add data from external identifiers
-		
-		foreach ($reference->identifier as $identifier)
+		if ($augment)
 		{
-			// DOI
-			// We may have a thumbnail
-			if ($identifier->type == 'doi')
-			{
-				echo "DOI...\n";
 
-				get_doi_thumbnail(&$reference, $identifier->id);
-				
-				// enhance metadata
-				$r = get_doi_metadata($identifier->id);
-				
-				//print_r($r);
-				//exit();
-				
-				if ($r)
+			echo "Add metadata...\n";
+
+		
+			$keys = array('doi', 'biostor', 'cinii', 'googleBooks', 'handle', 'isbn', 'jstor', 'pmc', 'pmid', 'url', 'pdf', 'canonical_uuid');
+		
+		
+			//----------------------------------------------------------------------------------------------
+			// could get all names linked to these identifiers to "tag" article	
+		
+			//----------------------------------------------------------------------------------------------
+			// add data from external identifiers
+		
+			foreach ($reference->identifier as $identifier)
+			{
+				// DOI
+				// We may have a thumbnail
+				if ($identifier->type == 'doi')
 				{
-				
-				
-					// authors
-					if (isset($r->author) && !isset($reference->author))
+					echo "DOI...\n";
+					
+						// Skip Turkish Journal of Zoology
+					if (preg_match('/10.3906/', $identifier->id)) 
 					{
-						$reference->author = $r->author;
+						break;
+					}
+	
+					get_doi_thumbnail(&$reference, $identifier->id);
+					
+					// enhance metadata
+					$json = '';
+					$r = get_doi_metadata($identifier->id, $json);
+					
+					// archive DOI JSON
+					if ($json != '')
+					{
+						$sql = 'REPLACE INTO doi(doi,json) VALUES(' . $db->qstr($identifier->id) . ',' . $db->qstr($json) . ')';
+						$cache_result = $db->Execute($sql);
+						if ($cache_result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
 					}
 					
-					if (isset($r->publisher))
+					//print_r($r);
+					//exit();
+					
+					if ($r)
 					{
-						$reference->publisher = $r->publisher;
-					}
-
-				
-				}
-			}
-			
-			// BioStor REMEMBER THIS IS NOT CALLING BIBJSON!!!
-			// thumbnail
-			if ($identifier->type == 'biostor')
-			{
-				biostor_enhance($reference, $identifier->id);
-			
-				/*
-				$url = 'http://biostor.org/reference/' . $identifier->id . '.json';
-				$json = get($url);
-
-				if ($json != '')
-				{				
-					$obj = json_decode($json);
 					
-					$biostor = new stdclass;
-					$biostor->time = date(DATE_ISO8601, time());
-					$biostor->url = $url;
-					$reference->provenance['biostor'] = $biostor;
 					
-					$reference->thumbnail = $obj->thumbnails[0];	
-					
-					//print_r($obj);
-					
-					// title
-					$reference->title = $obj->title;
-					
-					// authors
-					if (isset($obj->authors) && !isset($reference->author))
-					{
-						foreach ($obj->authors as $author)
+						// authors
+						if (isset($r->author) && !isset($reference->author))
 						{
-							$a = new stdclass;
-							$a->name = '';
-							if (isset($author->forename))
-							{
-								$a->firstname = $author->forename;
-								$a->name .= $a->firstname;
-							}
-							if (isset($author->surname))
-							{
-								$a->lastname = $author->surname;
-								if ($a->name != '')
-								{
-									$a->name .= ' ';
-								}
-								$a->name .= $a->lastname;
-							}
-							$reference->author[] = $a;
+							$reference->author = $r->author;
 						}
-					}
-					
-					// untested
-					// Get any additional identifiers from BioStor (e.g., DOIs)
-					foreach ($obj->identifiers as $k => $v)
-					{
-						switch ($k)
+						
+						if (isset($r->publisher))
 						{
-							case 'doi':
-								$have_doi = false;
-								foreach ($reference->identifier as $id)
+							$reference->publisher = $r->publisher;
+						}
+	
+					
+					}
+				}
+				
+				// BioStor REMEMBER THIS IS NOT CALLING BIBJSON!!!
+				// thumbnail
+				if ($identifier->type == 'biostor')
+				{
+					biostor_enhance($reference, $identifier->id);
+				
+					/*
+					$url = 'http://biostor.org/reference/' . $identifier->id . '.json';
+					$json = get($url);
+	
+					if ($json != '')
+					{				
+						$obj = json_decode($json);
+						
+						$biostor = new stdclass;
+						$biostor->time = date(DATE_ISO8601, time());
+						$biostor->url = $url;
+						$reference->provenance['biostor'] = $biostor;
+						
+						$reference->thumbnail = $obj->thumbnails[0];	
+						
+						//print_r($obj);
+						
+						// title
+						$reference->title = $obj->title;
+						
+						// authors
+						if (isset($obj->authors) && !isset($reference->author))
+						{
+							foreach ($obj->authors as $author)
+							{
+								$a = new stdclass;
+								$a->name = '';
+								if (isset($author->forename))
 								{
-									if ($id->type == 'doi')
+									$a->firstname = $author->forename;
+									$a->name .= $a->firstname;
+								}
+								if (isset($author->surname))
+								{
+									$a->lastname = $author->surname;
+									if ($a->name != '')
 									{
-										$have_doi = true;
+										$a->name .= ' ';
 									}
+									$a->name .= $a->lastname;
 								}
-								if (!$have_doi)
-								{
-									$x = new stdclass;
-									$x->type = 'doi';
-									$x->id = $v;
-									
-									$reference->identifier[] = $x;
-								}								
-								break;
-								
-							default:
-								break;
+								$reference->author[] = $a;
+							}
 						}
-					}
-					
-					// geo
-					if (isset($obj->geometry))
-					{
-						$reference->geometry = $obj->geometry;
-					}
-					
-					// taxon names
-					
-					
-					// specimens
-					
-					
-					
-					
-				}
-				*/
-			}
-			
-			// Gallica
-			// thumbnail
-			if ($identifier->type == 'ark')
-			{		
-				if (!isset($reference->thumbnail))
-				{
-					if (preg_match('/(?<namespace>\d+)\/(?<id>.*)\/f(?<page>\d+)$/', $identifier->id, $m))
-					{
-						$namespace 	= $m['namespace'];
-						$arkid 		= $m['id'];
-						$start_page = $m['page'];
-												
-						$url = 'http://bionames.org/gallica/' . $arkid . '/start/' . $start_page . '/pages/1-small';
-		
-						$image = get($url);
 						
-						if ($image != '')
-						{				
-							$mime_type = 'image/png';
-							$base64 = chunk_split(base64_encode($image));
-							$reference->thumbnail = 'data:' . $mime_type . ';base64,' . $base64;		
-						}
-					}
-				}
-			}		
-			
-			// CiNii
-			// could get thumbnail for subscription articles via RDF
-			// could get author details and Japanese details
-			if ($identifier->type == 'cinii')
-			{
-			
-				$rdf_url = 'http://ci.nii.ac.jp/naid/' . $identifier->id . '.rdf';
-				$rdf = get($rdf_url);
-				
-				if ($rdf != '')
-				{
-					//echo $rdf;
-					
-					$cinii = new stdclass;
-					$cinii->time = date(DATE_ISO8601, time());
-					$cinii->url = $rdf_url;
-					$reference->provenance['cinii'] = $cinii;
-					
-					$dom= new DOMDocument;
-					$dom->loadXML($rdf);
-					$xpath = new DOMXPath($dom);
-					
-					$xpath->registerNamespace('dc',      'http://purl.org/dc/elements/1.1/');
-					$xpath->registerNamespace('dcterms', 'http://purl.org/dc/terms/');
-					$xpath->registerNamespace('rdfs',    'http://www.w3.org/2000/01/rdf-schema#');
-					$xpath->registerNamespace('rdf',     'http://www.w3.org/1999/02/22-rdf-syntax-ns#');
-					
-					$xpath->registerNamespace('foaf',    'http://xmlns.com/foaf/0.1/');
-					$xpath->registerNamespace('prism',   'http://prismstandard.org/namespaces/basic/2.0/');
-					$xpath->registerNamespace('con',     'http://www.w3.org/2000/10/swap/pim/contact#');
-					$xpath->registerNamespace('cinii',   'http://ci.nii.ac.jp/ns/1.0/');
-					
-					// Thumbnail
-					$nodeCollection = $xpath->query ('//foaf:depiction/foaf:Image/@rdf:about');
-					foreach ($nodeCollection as $node)
-					{
-						
-						$thumbnail_url = $node->firstChild->nodeValue;
-						$image = get($thumbnail_url);
-						
-						if ($image != '')
-						{				
-							$mime_type = 'image/png';
-							$base64 = chunk_split(base64_encode($image));
-							$reference->thumbnail = 'data:' . $mime_type . ';base64,' . $base64;		
-						}						
-						
-					}
-					
+						// untested
+						// Get any additional identifiers from BioStor (e.g., DOIs)
+						foreach ($obj->identifiers as $k => $v)
+						{
+							switch ($k)
+							{
+								case 'doi':
+									$have_doi = false;
+									foreach ($reference->identifier as $id)
+									{
+										if ($id->type == 'doi')
+										{
+											$have_doi = true;
+										}
+									}
+									if (!$have_doi)
+									{
+										$x = new stdclass;
+										$x->type = 'doi';
+										$x->id = $v;
 										
+										$reference->identifier[] = $x;
+									}								
+									break;
+									
+								default:
+									break;
+							}
+						}
+						
+						// geo
+						if (isset($obj->geometry))
+						{
+							$reference->geometry = $obj->geometry;
+						}
+						
+						// taxon names
+						
+						
+						// specimens
+						
+						
+						
+						
+					}
+					*/
+				}
+				
+				// Gallica
+				// thumbnail
+				if ($identifier->type == 'ark')
+				{		
+					if (!isset($reference->thumbnail))
+					{
+						if (preg_match('/(?<namespace>\d+)\/(?<id>.*)\/f(?<page>\d+)$/', $identifier->id, $m))
+						{
+							$namespace 	= $m['namespace'];
+							$arkid 		= $m['id'];
+							$start_page = $m['page'];
+													
+							$url = 'http://bionames.org/bionames-gallica/' . $arkid . '/start/' . $start_page . '/pages/1-small';
+			
+							$image = get($url);
+							
+							if ($image != '')
+							{				
+								$mime_type = 'image/png';
+								$base64 = chunk_split(base64_encode($image));
+								$reference->thumbnail = 'data:' . $mime_type . ';base64,' . $base64;		
+							}
+						}
+					}
+				}		
+				
+				// CiNii
+				// could get thumbnail for subscription articles via RDF
+				// could get author details and Japanese details
+				if ($identifier->type == 'cinii')
+				{
+				
+					$rdf_url = 'http://ci.nii.ac.jp/naid/' . $identifier->id . '.rdf';
+					$rdf = get($rdf_url);
 					
+					if ($rdf != '')
+					{
+						//echo $rdf;
+						
+						$cinii = new stdclass;
+						$cinii->time = date(DATE_ISO8601, time());
+						$cinii->url = $rdf_url;
+						$reference->provenance['cinii'] = $cinii;
+						
+						$dom= new DOMDocument;
+						$dom->loadXML($rdf);
+						$xpath = new DOMXPath($dom);
+						
+						$xpath->registerNamespace('dc',      'http://purl.org/dc/elements/1.1/');
+						$xpath->registerNamespace('dcterms', 'http://purl.org/dc/terms/');
+						$xpath->registerNamespace('rdfs',    'http://www.w3.org/2000/01/rdf-schema#');
+						$xpath->registerNamespace('rdf',     'http://www.w3.org/1999/02/22-rdf-syntax-ns#');
+						
+						$xpath->registerNamespace('foaf',    'http://xmlns.com/foaf/0.1/');
+						$xpath->registerNamespace('prism',   'http://prismstandard.org/namespaces/basic/2.0/');
+						$xpath->registerNamespace('con',     'http://www.w3.org/2000/10/swap/pim/contact#');
+						$xpath->registerNamespace('cinii',   'http://ci.nii.ac.jp/ns/1.0/');
+						
+						// Thumbnail
+						$nodeCollection = $xpath->query ('//foaf:depiction/foaf:Image/@rdf:about');
+						foreach ($nodeCollection as $node)
+						{						
+							$thumbnail_url = $node->firstChild->nodeValue;
+							$image = get($thumbnail_url);
+							
+							if ($image != '')
+							{				
+								$mime_type = 'image/png';
+								$base64 = chunk_split(base64_encode($image));
+								$reference->thumbnail = 'data:' . $mime_type . ';base64,' . $base64;		
+							}													
+						}
+						
+						// Author(s)
+						if (!isset($reference->author))
+						{
+							$reference->author = array();
+							$nodeCollection = $xpath->query ('//rdf:Description[@xml:lang="en"]/dc:creator');
+							foreach ($nodeCollection as $node)
+							{			
+								$author = new stdclass;
+								if (preg_match('/^(?<firstname>.*)\s+(?<lastname>\w+(-\w+)?)$/Uu', $node->firstChild->nodeValue, $m))
+								{
+									$author->firstname = $m['firstname'];
+									$author->lastname = $m['lastname'];
+									$author->name = $author->firstname . ' ' . $author->lastname;
+								}
+								else
+								{
+									$author->name = $node->firstChild->nodeValue;
+								}
+								$reference->author[] = $author;
+							}
+						}
+					}
+				}
+				
+				// PubMed get abstract, maybe sequence links...
+				if ($identifier->type == 'pmid')
+				{
 				}
 				
 				
 			}
-			
-			// PubMed get abstract, maybe sequence links...
-			if ($identifier->type == 'pmid')
-			{
-			}
-			
-			
 		}
-		
 		echo "Clean...\n";
 		
 		//----------------------------------------------------------------------------------------------
@@ -631,7 +695,7 @@ function get_reference($sql)
 			unset($reference->identifier);
 		}
 		
-		//print_r($reference);
+		print_r($reference);
 		
 		echo "Mendeley...\n";
 		if (1)
@@ -684,15 +748,35 @@ function get_reference($sql)
 		}
 		*/
 		
-		if (1)
+		if (0)
 		{
 			echo json_format(json_encode($reference));
 		}
-
-		if (1)
+		
+		// Individual load
+		if ($docs == null)
 		{
 			echo "CouchDB...\n";
 			$couch->add_update_or_delete_document($reference,  $reference->_id);
+		}
+		else		
+		{
+			// Bulk load
+			echo ".";
+			$docs->docs [] = $reference;
+			
+			if (count($docs->docs ) == 100)
+			{
+				echo "CouchDB...\n";
+				$resp = $couch->send("POST", "/" . $config['couchdb_options']['database'] . '/_bulk_docs', json_encode($docs));
+				
+				//echo json_encode($docs);
+				
+				echo $resp;
+				//exit();
+			
+				$docs->docs  = array();
+			}
 		}
 		
 		
