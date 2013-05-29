@@ -441,6 +441,10 @@ function get_reference($sql, &$docs, $augment = true)
 					{
 						break;
 					}
+					if (preg_match('/10.11369/', $identifier->id)) 
+					{
+						break;
+					}
 	
 					get_doi_thumbnail(&$reference, $identifier->id);
 					

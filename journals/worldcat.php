@@ -151,7 +151,7 @@ $issns=array('0033-2615','0085-5626');
 $issns = array('0007-1498');
 
 $issns=array(
-'0001-3765',
+/*'0001-3765',
 '0001-4036',
 '0001-4087',
 '0001-5202',
@@ -1182,7 +1182,7 @@ $issns=array(
 '1092-6194',
 '1094-0782',
 '1094-8074',
-'1098-7096',
+'1098-7096',*/
 '1103-5897',
 '1110-8703',
 '1121-1423',
@@ -1359,7 +1359,7 @@ $issns=array(
 '1768-1448',
 '1781-1104',
 '1791-6763',
-'1808-9798',
+/*'1808-9798',
 '1812-5670',
 '1814-3326',
 '1817-3381',
@@ -1419,12 +1419,17 @@ $issns=array(
 '2194-900X',
 '2233-7687',
 '2234-6953',
-'8756-971X'
+'8756-971X'*/
 );
 
 //$issns=array('8756-971X');
 
+//$issns=array('1863-9135');
+//$issns=array('1134-6094');
+
 $issns_processed = array();
+
+$count = 0;
 
 while (count($issns) > 0)
 {
@@ -1448,7 +1453,10 @@ while (count($issns) > 0)
 	$json = get($url);
 	if ($json != '')
 	{
-		//echo $json;
+		echo $json;
+		
+		$filename = 'issn/' . str_replace('-','', $issn) . '.json';
+		file_put_contents($filename, $json);
 		
 		$obj = json_decode($json);
 		
@@ -1548,6 +1556,14 @@ while (count($issns) > 0)
 		}
 		
 	}
+	
+	if (($count++ % 10) == 0)
+	{
+		$rand = rand(2000000, 6000000);
+    	echo '...sleeping for ' . round(($rand / 1000000),2) . ' seconds' . "\n";
+    	usleep($rand);
+    }
+	
 }
 
 

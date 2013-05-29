@@ -5,3 +5,8 @@ GBIF errors
 Mormopterus nonghensis" 4832110 should be 
 
 Mormopterus nonghenensis (see Mormopterus (Hydromops) nonghenensis ION 690716 http://dx.doi.org/10.1080/02724634.1988.10011710
+
+
+Acanthidium
+
+homonym, GBIF has the bee genus linked to the Hymenoptera (GBIF 1337567 , record comes from IRMNG Homonym List )

@@ -753,20 +753,22 @@ $journal = 'Insecutor Inscitiae Menstruus';
 
 $journal = 'Public Health Reports';
 
+$journal = 'Professional Papers US Geological Survey';
+
 $sql = 'SELECT * from names WHERE publication LIKE "%' . $journal . '%" AND publicationParsed="N"';
 
 //$sql = 'SELECT * from siboga WHERE publication LIKE "%' . $journal . '%" AND publicationParsed="N"';
 
-$sql = 'SELECT * from names WHERE taxonAuthor like "Peters 1878"  AND publication IS NOT NULL AND publicationParsed="N"';
+//$sql = 'SELECT * from names WHERE taxonAuthor like "Peters 1878"  AND publication IS NOT NULL AND publicationParsed="N"';
 
-$sql = 'SELECT * from names WHERE genusPart="Molossops" AND publication IS NOT NULL AND publicationParsed="N"';
+//$sql = 'SELECT * from names WHERE genusPart="Molossops" AND publication IS NOT NULL AND publicationParsed="N"';
 
 //$sql = 'SELECT * from names WHERE sici="edc3aa4d8190060425130ec612c33e8d"';
 
-$sql = 'SELECT * from names WHERE publication like "A new Fruit Bat from N. Loochoo. Lansania Tokyo, 1 1929: pp. 125-128%"';
+//$sql = 'SELECT * from names WHERE publication like "A new Fruit Bat from N. Loochoo. Lansania Tokyo, 1 1929: pp. 125-128%"';
 
 
-$sql = 'SELECT * FROM names WHERE sici="c8f0880b16a4943f669ff45437b0e8e7"';
+//$sql = 'SELECT * FROM names WHERE sici="0ebbfa5133152ae79160a255c5d15689"';
 
 //$sql = 'SELECT * from names WHERE year=1920 AND publication IS NOT NULL AND publicationParsed="N"';
 
@@ -809,7 +811,7 @@ $sql = 'SELECT * FROM names WHERE sici="c8f0880b16a4943f669ff45437b0e8e7"';
 //$sql = 'select * from names where id=3691743';
 //$sql = 'select * from names where id=558168';
 
-//$sql = 'select * from names where taxonAuthor like "Benedict 1902" AND publicationParsed="N" and publication IS NOT NULL';
+$sql = 'select * from names where taxonAuthor like "Kirkaldy 1905" AND publicationParsed="N" and publication IS NOT NULL';
 
 //$sql = 'select * from names where genusPart="Hydractinia" AND publicationParsed="N" and publication IS NOT NULL';
 

@@ -8,7 +8,7 @@ require_once (dirname(__FILE__) . '/reference.php');
 function biostor_enhance (&$reference, $biostor_id)
 {
 	// Get BioStor-specific JSON
-	$url = 'http://biostor.org/reference/' . $biostor_id . '.json';
+	$url = 'http://direct.biostor.org/reference/' . $biostor_id . '.json';
 	$json = get($url);
 
 	if ($json != '')

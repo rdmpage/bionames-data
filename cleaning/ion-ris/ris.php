@@ -734,6 +734,8 @@ $sql = 'SELECT * from names WHERE issn = "0077-7749"';
 
 $sql = 'SELECT * from names WHERE issn = "0370-2774"';
 
+$sql = 'SELECT * from names WHERE issn = "0021-8375"';
+
 
 //$sql = 'SELECT * from names WHERE taxonAuthor like "Fain %"';
 
@@ -748,7 +750,7 @@ $sql = 'SELECT * from names WHERE issn = "0370-2774"';
 //$sql .= " AND volume IN( 71,72,73)";
 
 
-//$sql .= " AND year > 2006";
+//$sql .= " AND year >= 2010";
 
 //$sql .= " AND year IN (1953,1954,1955)";
 

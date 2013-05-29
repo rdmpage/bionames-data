@@ -1,16 +1,25 @@
+.DS_Store
 config.inc.php
 
 adodb5/
 
 cleaning/ion-ris/junk
+cleaning/ion-ris/*.ris
+
+darwincore/junk
 
 journals/images
+journals/issn
 
 manuscript
 
 phylota
 
+pdf/
+
 publications/junk
+
+taxonconcept/gbif_mapping.txt
 
 taxonconcept/gbif/
 taxonconcept/junk/
