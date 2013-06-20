@@ -73,7 +73,21 @@ $ids=array(53142);
 // Notulae Ichthyologiae Orientalis V. A. synopsis of the oriental cyprinid genus Sikukia VI. 
 // Status of the Kampuchea cyprinid Albulichthy krempfi
 // http://zoobank.org/References/0C7FC4A1-B8A9-4804-811C-AA7BB06A4000
-$ids=array(116847); 
+$ids=array(); 
+
+$ids=array(127780);
+
+// On the genus Chalinolobus, with descriptions of new or little-known species
+$ids=array(127781);
+
+// Description of a Species of Orang, from the north-eastern province of British East India, lately the kingdom of Assam
+$ids=array(127799);
+
+// Elenco dei Cefalopodi della «Vettor Pisani»
+$ids=array(127801);
+
+// The genus Selenops (Araneae) in South Africa
+$ids=array(127984);
 
 // to do...
 foreach ($ids as $id)

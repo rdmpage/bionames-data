@@ -23,7 +23,7 @@ foreach ($files1 as $directory)
 			{	
 				$id = 'gbif/' . $m['id'];
 				
-				if ($m['id'] > 6119329)
+				if ($m['id'] > 6526423)
 				{
 				
 					$path = $basedir . '/' . $directory . '/' . $filename;

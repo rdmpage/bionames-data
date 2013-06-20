@@ -6,6 +6,7 @@ require_once (dirname(__FILE__) . '/cluster.php');
 
 
 $filename = 'cluster_ids.txt';
+$filename = 'missing-2013-06-12.txt';
 
 $file = @fopen($filename, "r") or die("couldn't open $filename");
 

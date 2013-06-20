@@ -112,7 +112,7 @@ function load_mapping($filename)
 					$taxonconcept->identifier->ion->{$result->fields['cluster_id']} = $cluster;
 					
 					// update
-					if (0) 
+					if (1) 
 					{
 						$couch->add_update_or_delete_document($taxonconcept,  $taxonconcept->_id);
 					}

@@ -811,11 +811,11 @@ $sql = 'SELECT * from names WHERE publication LIKE "%' . $journal . '%" AND publ
 //$sql = 'select * from names where id=3691743';
 //$sql = 'select * from names where id=558168';
 
-$sql = 'select * from names where taxonAuthor like "Kirkaldy 1905" AND publicationParsed="N" and publication IS NOT NULL';
+$sql = 'select * from names where taxonAuthor like "Mello-Leitao 1929" AND publicationParsed="N" and publication IS NOT NULL';
 
 //$sql = 'select * from names where genusPart="Hydractinia" AND publicationParsed="N" and publication IS NOT NULL';
 
-
+$sql = 'select * from names where sici="4b7222a1e6315b58bbb2452fe3890ab3"';
 
 
 //echo $sql . "\n";
@@ -2233,6 +2233,11 @@ while (!$result->EOF)
 			{
 				$obj->journal = $mm['journal'];
 				$obj->series = $mm['series'];
+			}
+
+			if (preg_match('/\s+Bd$/Uu', $obj->journal))
+			{
+				$obj->journal = preg_replace('/\s+Bd$/', '', $obj->journal);
 			}
 			
 			if (0)

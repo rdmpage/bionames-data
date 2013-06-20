@@ -29,6 +29,8 @@ $doi = '10.1007/BF02684242';
 
 $doi = '10.1071/ZO9550071';
 
+$doi = '10.1186/1471-2148-11-175';
+
 $docs = null;
 
 $reference = get_doi_metadata($doi, $docs);

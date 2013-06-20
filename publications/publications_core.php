@@ -37,7 +37,7 @@ function get_sha1(&$reference, $pdf)
 		$reference->file->url = $result->fields['pdf'];
 		
 		// thumbnail
-		$url = 'http://bionames.org/bionames-archive/documentcloud/pages/' . $reference->file->sha1 . '/1-small';
+		$url = 'http://direct.bionames.org/bionames-archive/documentcloud/pages/' . $reference->file->sha1 . '/1-small';
 
 		$image = get($url);
 		
@@ -56,14 +56,17 @@ function get_sha1(&$reference, $pdf)
 // PDF thumbnail where we don't have full PDF (e.g., Zootaxa preview)
 function get_pdf_thumbnail(&$reference, $pdf)
 {
-	$url = 'http://bionames.org/bionames-archive/pdfstore?url=' . urlencode($pdf) . '&noredirect&format=json';
+	$url = 'http://direct.bionames.org/bionames-archive/pdfstore?url=' . urlencode($pdf) . '&noredirect&format=json';
 	$json = get($url);
 	
 	$obj = json_decode($json);
 	
 	if ($obj->http_code == 200)
 	{		
-		$url = 'http://bionames.org/bionames-archive/documentcloud/pages/' . $obj->sha1 . '/1-small';
+		$url = 'http://direct.bionames.org/bionames-archive/documentcloud/pages/' . $obj->sha1 . '/1-small';
+		
+		exit();
+		
 		$image = get($url);
 		
 		if ($image != '')
@@ -287,6 +290,15 @@ function get_reference($sql, &$docs, $augment = true)
 								}
 							}
 							$reference->book->identifier[] = $identifier;
+							
+							if ($identifier->type == 'isbn')
+							{
+								get_isbn_thumbnail(&$reference, $identifier->id);
+							}
+							if ($identifier->type == 'oclc')
+							{
+								get_oclc_thumbnail(&$reference, $identifier->id);
+							}
 						}
 						break;
 						
@@ -322,7 +334,12 @@ function get_reference($sql, &$docs, $augment = true)
 						{
 							if (isset($reference->journal))
 							{
-								$reference->journal->identifier[] = $oclc;
+								$reference->journal->identifier[] = $identifier;
+							}
+							else
+							{
+								$reference->type = "book";
+								$reference->identifier[] = $identifier;
 							}
 						}
 						break;
@@ -430,6 +447,25 @@ function get_reference($sql, &$docs, $augment = true)
 		
 			foreach ($reference->identifier as $identifier)
 			{
+			
+			
+				// isbn
+				// We may have a thumbnail
+				if ($identifier->type == 'isbn')
+				{
+					echo "ISBN...\n";
+						
+					get_isbn_thumbnail(&$reference, $identifier->id);
+				}
+			
+				if ($identifier->type == 'oclc')
+				{
+					echo "OCLC...\n";
+						
+					get_oclc_thumbnail(&$reference, $identifier->id);
+				}
+			
+			
 				// DOI
 				// We may have a thumbnail
 				if ($identifier->type == 'doi')

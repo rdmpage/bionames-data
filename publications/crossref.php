@@ -38,7 +38,7 @@ function get_doi_metadata($doi, &$json)
 	$url = 'http://dx.doi.org/' . $doi;
 	$json = get($url, '', "application/citeproc+json;q=1.0");
 	
-	//echo $url;
+	echo $url;
 	echo $json;
 	//exit();
 	

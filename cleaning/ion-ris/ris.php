@@ -734,7 +734,9 @@ $sql = 'SELECT * from names WHERE issn = "0077-7749"';
 
 $sql = 'SELECT * from names WHERE issn = "0370-2774"';
 
-$sql = 'SELECT * from names WHERE issn = "0021-8375"';
+$sql = 'SELECT * from names WHERE issn = "1536-2442"';
+
+//$sql = 'SELECT * from names WHERE journal = "Nautilus Boston Mass"';
 
 
 //$sql = 'SELECT * from names WHERE taxonAuthor like "Fain %"';

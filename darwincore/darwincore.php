@@ -194,7 +194,7 @@ $location->appendChild($metadata->createTextNode($media_filename));
 		
 
 $coreid = $extension->appendChild($metadata->createElement('coreid'));
-$coreid->setAttribute('index', 	'0');
+$coreid->setAttribute('index', 	'1'); // index of taxon id
 
 $index = 0;
 foreach ($media_fields as $key => $namespace)

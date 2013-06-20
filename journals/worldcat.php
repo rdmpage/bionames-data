@@ -1427,6 +1427,10 @@ $issns=array(
 //$issns=array('1863-9135');
 //$issns=array('1134-6094');
 
+$issns=array('0103-2526','0037-8437','0379-0207');
+
+$issns=array('0250-6378');
+
 $issns_processed = array();
 
 $count = 0;

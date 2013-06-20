@@ -1,0 +1,8 @@
+digraph {
+
+
+start -> Cynomops -> greenhalli -> end;
+start -> Molossops -> Cynomops -> greenhalli -> end;
+start -> Molossops -> greenhalli ->greenhalli -> end;
+
+}
