@@ -1,0 +1,283 @@
+Plan
+====
+
+Surfacing the deep data of taxonomy
+
+
+==3
+
+-dark taxa as symptom
+
+
+
+Abstract
+
+Taxonomic databases are perpetuating approaches to citing literature that may have been appropriate before the Internet, but now 
+
+Introduction
+------------
+
+My purpose in this article is to 
+
+Beyond 5x3 index cards
+----------------------
+
+If a goal of taxonomy is to make basic taxonomic information available to the wider biological community, then by some measures the discipline is doing well. There are numerous large databases of taxonomic names online (e.g., Catalogue of Life, Encyclopedia of Life, Index Fungorum, Index of Organism Names, Index of Plant Names, Tropicos). But if we look more closely, this largesse obscures some fundamental problems. For example, today it should be virtually impossible to create homonyms, that is, use the same name for more than once taxon. Given a comprehensive taxonomic database it should be trivial to determine whether a name had ever been previously used. Yet we still have spectacular cases of homonymy, such as the name "Leviathan" being used for an extinct mammoth [] and a newly discovered fossil whale []. The case of Leviathan is revealling. Once the homonymy was uncovered, [x] published the replacement name "L". This erratum cites the original publication of Leviathan [], but if the reader visits the corresponding page on the journal Nature's website there is no link to the digitised version of this publication, despite it being available in the Biodiversity Heritage Library []. This lack of a link is symptomatic of the poor state of digital access to taxonomic literature. Reading the list of literature cited in a modern taxonomic paper online it is striking that while citations of papers on phylogenetics, ecology, or methodology typically include links directly to that article (for example, using DOIs), the taxonomic literature is largely devoid of such links. In an age when most readers will expect any literature worth reading to be online, the lack of links to the primary taxonomic literature consigns that literature to a ghetto, where only the most determined and well-resourced readers will dare to venture. For many readers the lack of a link means a dead-end in their search for information.
+
+Ironically, most taxonomic databases perpetuate this Balkanisation of taxonomic literature by failing to link to the (rapidly growing) literature that is online (as we shall see below, the amount of digitally available taxonomic literature is actually quite large). Most taxonomic databases are little more than online collections of 5x3 index cards (a technology Linnaeus himself pioneered, 10.1016/j.shpsc.2011.10.021). When literature is cited, it is often simply as a text string. In the digital age, this is a dead end, and the user has to resort to using a search engine to locate the reference.
+
+Searching for taxonomic literature can itself be an exercise in frustration. Many citations to the taxonomic literature are obscure unless you are familiar with the conventions. For example, if you are searching for the original publication of the name Tachyglossus Illiger, 1811 (a genus of spiny ant eaters) then Nomenclature Zoologica [cite] gives this as "Prod., 114." I suspect that most readers will find this less than helpful. The citation refers to page 114 of "Caroli Illigeri D. Acad. Reg. Scient. Berolinens. et Bavaricae Sod. Museo Zoologico Berolin. praefecti professoris extraord. Prodromus systematis mammalium et avium : additis terminis zoographicis utriusque classis, eorumque versione germanica", which is in BHL [http://dx.doi.org/10.5962/bhl.title.42403]. Given the length of the title of Illiger's work, one can see the desirability of abbreviating it for a printed list such as NZ. But there are many ways to abbreviate this title, which results in a plethora of ways the same publication is cited.
+
+Beyond ambiguity
+----------------
+
+One approach to tackling this plethora of ambiguous, if not downright obscure, citations is to use globally unique identifiers to refer to the publications. In the case of Illiger, this publication has a DOI (10.5962/bhl.title.42403). DOIs are widely used in the publishing industry to identify articles (such as this the one you are reading), and are increasingly being used as identifiers for other digital objects, such as data sets. By providing a unique, stable identifiers for articles, the publishing industry has simplified the task converting lists of literature cited into clickable links. Taxonomic databases have been slow to adopt these identifiers, despite DOIs being used for over a decade.
+
+
+É
+
+
+
+Part of the difficulty in citing the older literature is that many of the conventions we take for granted in modern scientific articles are lacking. Modern articles have titles, and are published in journals which usually have an unambiguous name, volume number, and pagination. This need not be the case for older articles. For example, the article [10.1644/756] cites the following paper:
+
+Ogilby, W. 1838. On a collection of Mammalia procured by Captain Alexander during his journey into the country of the Damaras. Proceedings of the Zoological Society of London 1838:5Ð15.
+
+This journal has been digitised by both Wiley and BHL. Wiley makes pages 5-15 available as an article with the DOI 10.1111/j.1096-3642.1838.tb01402.x and attributes the authorship to Richard Owen, not W Ogilby. In fact, pages 5-15 comprise [two] articles, one by Ogilby and one by Owen.
+
+The first paragraph contains the text
+
+"A selection of the Mammalia procured by Captain Alexander during his recent journey into the country of the Damaras, on the South West Coast of Africa, was exhibited, and Mr. Ogilby directed the attention of the Society to the new and rare species which it contained."
+
+This has been transformed into the article "On a collection of Mammalia procured by Captain Alexander during his journey into the country of the Damaras". 
+
+
+
+Dark taxa rising
+----------------
+
+
+
+
+One could argue that newer technologies such as DNA barcoding make classical taxonomy less relevant, and perhaps the effort in digitising older literature and exposing the taxonomic names it contains is misplaced. But this argument overlooks the potential wealth of ecological information in this literature (in many cases concerning localities subsequently considerably altered by human activities). Another argument for exposing older taxonomic names is that in some groups older names previously sunk in synonymy may yet become relevant. For example, the name Elephantulus x was until recently treated as a synonym of Elephantulus edwardii []. Recent sequencing uncovered clusters of variation within Elephantulus edwardii, one of which includes individuals from the type locality of E. x. Rather than coin a new name for this cluster, we can rescue an existing name from synonymy.
+
+The flood of genomics data has lead to an increasing number of "dark taxa' [cite] in the sequence databases, that is, taxa that lack formal Linnean names. Part of this is due to a recent influx of DNA barcoding sequences, which at the time of writing are being suppressed by Genbank. But even without the barcoding sequences dark taxa are increasing in number. It is difficult to establish whether these unnamed taxa represent undiscovered lineages, or simply taxa we have already described. If the former, then we have greatly underestimated the diversity of some groups, if the later then we should ask why the results of taxonomic research are not being used by researchers sequencing those taxa. 
+
+
+The problem
+
+
+Identifiers and deep linking
+
+
+Access to taxonomic information
+
+Digital identifiers give us a way to refer to objects, but this does not address the other great challenge facing 
+
+[cite Donat]
+
+Access to a considerable amount of taxonomic information is outside our immediate control, and is part of a much bigger issue. However, we can control what we do in the future.
+
+
+Where next?
+
+Of the n names in the ION database that have a citation string, some x percent can be linked to a digital identifiers. This means that, potentially, we can independently check the 
+
+This leaves some y percent of our taxonomic knowledge that is essentially pre-digital, and which we have to take on faith, rather than be able to read for ourselves online.
+
+If we view the future of science as being driven by large quantities of computable data, then taxonomy is to have a future it needs to expose its data as quickly as possible. Genomics is here, swamping taxonomy...
+
+
+
+
+
+-------------
+
+
+But these arguments accept the premise that digital libraries such as BHL are primarily made up of old literature
+
+-------------
+
+Accessibility of publications
+
+
+Accessibility of data is 
+
+This study concludes that taxonomy is in robust health. The authors provide the scripts used to undertake the analyses, but not the data they analysed. This data is not readily available, in that the authors had to contact
+
+Some taxonomic databases limit access by virtue of obscurity (for example, not providing a dump of the complete dataset), others explicitly limit access or reuse. The most egregious recent example of this is The Plant List [citation needed] which adopted the CC-BY-NC-ND license. The "no derivatives" condition explicitly states that the data cannot be reused. Given that a major reason anyone would want to download the data is so that they can repurpose it, this is an extraordinarily poorly thought-out restriction, and symptomatic of the field's reluctance to share.
+
+
+--------------
+
+
+Conclusions
+
+In many way taxonomists [have I written this somewhere else, controlled vocabularies, etc.).
+
+Perhaps it is the very success of these efforts that has delayed adoption of digital tools.
+
+
+-------------
+
+
+These variations in interpretation of basic bibliographic elements such as title and pagination title 
+
+
+BioStor http://biostor.org/reference/102400
+
+Ogilby is actually only pages 5-6
+
+
+
+This title now has a DOI (10.5962/bhl.title.42403).
+
+
+
+example of crap citation
+
+Tachyglossus Illiger 1811 "Prod., 114." in NZ
+
+What is "Prod., 114."
+
+It is http://biodiversitylibrary.org/bibliography/42403
+
+Caroli Illigeri D. Acad. Reg. Scient. Berolinens. et Bavaricae Sod. Museo Zoologico Berolin. praefecti professoris extraord. Prodromus systematis mammalium et avium : additis terminis zoographicis utriusque classis, eorumque versione germanica
+
+http://dx.doi.org/10.5962/bhl.title.42403
+
+example of old name resurfacing
+
+Heliophobius emini, see http://biostor.org/reference/102397 10.1111/j.1469-7998.2011.00863.x
+
+
+
+Challenging citations
+
+10.1111/j.1096-3642.1838.tb01402.x
+
+Wiley metadata Owen, (two articles in one)
+
+First paragraph:
+
+"A selection of the Mammalia procured by Captain Alexander during his recent journey into the country of the Damaras, on the South West Coast of Africa, was exhibited, and Mr. Ogilby directed the attention of the Society to the new and rare species which it contained."
+
+Citation by 10.1644/756
+
+Ogilby, W. 1838. On a collection of Mammalia procured by Captain Alexander during his journey into the country of the Damaras. Proceedings of the Zoological Society of London 1838:5Ð15.
+
+BioStor http://biostor.org/reference/102400
+
+Ogilby is actually only pages 5-6
+
+
+--------
+
+http://localhost/~rpage/bionames/www/search/Zaglossus%20attenboroughi%20Flannery%20%26%20Groves%2C%201998
+
+e.g. where EOL has very little direct links
+
+
+-----------
+
+dark taxon example
+
+http://localhost/~rpage/bionames/www/phylota/ti28736_cl6_db184
+
+http://www.bioone.org/doi/abs/10.1644/07-MAMM-A-254.1
+
+
+
+
+Homonyms as failure (whale example)
+
+Dark taxa as failing of information access
+
+- show example
+
+Number of species and numbers of taxonomists, data not directly available, will come back to bite us.
+
+
+Literature
+==========
+
+
+Beyond 5 x 3 cards 
+
+Linnaeus doi:10.1016/j.shpsc.2011.10.021
+
+
+Rotifer LAN as example
+
+Microcitations, conserve space and assume reader has access to large library. Neither restriction nor assumption now holds, yet practice continues.
+
+Multiplicity of citation styles, journal names.
+
+-End of experts, now we can just "look and see".
+
+
+Access
+=====
+
+BioStor coverage over time, the 20th C gap.
+
+
+Linking is more than links
+==========================
+
+Lincoln Stein and beyond simple links
+
+Nodes and knuckles
+
+Lack of use of identifiers
+
+
+Entity mapping, shared identifiers
+==================================
+
+Model of links, inferences possible from links
+
+
+Future
+=====
+
+
+==============
+
+data bases have errors
+
+Anostostoma opacum Brunner von Wattenwyl, 1888
+
+http://orthoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=11633
+
+Brunner von Wattenwyl. 1888. Verh. der Zoologisch-Botanischen Gesellsch. Wien 38:27 >> Anostostoma opacum  
+
+Linkt to http://www.biodiversitylibrary.org/item/47683
+
+Actual page 271
+
+http://biodiversitylibrary.org/page/13295689
+
+Missed by OCR as well
+
+
+============
+
+
+
+
+Entity mapping, role of identifiers
+
+examples, such as:
+
+-citations (citation mutation)
+-journal name variation
+-taxonomic name variation
+
+
+Web interface
+
+
+Species discovery curves
+
+doi:10.1098/rspb.2007.0464
+

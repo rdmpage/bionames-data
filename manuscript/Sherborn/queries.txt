@@ -1,0 +1,55 @@
+
+DOIs by decade
+
+select floor(year/10)*10 as d, count(id) from names 
+where doi is not null
+group by d
+order by d
+
+BioStor by decade
+
+select floor(year/10)*10 as d, count(id) from names 
+where biostor is not null
+group by d
+order by d
+
+
+-- numbers of names by decade
+select floor(year/10)*10 as d, count(id) from names
+where publication is not null 
+group by d
+order by d
+
+NULL	186
+1800	27
+1810	1
+1820	7
+1830	2
+1840	2
+1850	24
+1860	11582
+1870	19570
+1880	28813
+1890	34155
+1900	46271
+1910	66789
+1920	89363
+1930	96745
+1940	64753
+1950	96682
+1960	119579
+1970	191900
+1980	214648
+1990	192852
+2000	195100
+2010	26570
+5060	5
+6200	2
+6610	2
+
+
+select floor(year/10)*10 as d, count(id)
+from names 
+where publication is not null
+group by d
+

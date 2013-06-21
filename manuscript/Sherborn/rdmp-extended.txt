@@ -1,0 +1,12 @@
+Linking taxonomic names to literature in the digital age
+
+Rod Page
+
+Taxonomy is in many ways still pre-digital. Most taxonomic
+databases are little more than digitised index cards linking names to often-cryptic bibliographic citations, oblivious to the growing volume of scientific literature that is now online. A growing fraction of taxonomic literature is becoming freely available, either through adoption of Open Access publishing models, or through digitising efforts such as the Biodiversity Heritage Library. Yet much of the most basic information about biodiversity, namely taxonomic description, remains either behind a pay wall, or only available in paper form.
+
+The lack of accessibility of taxonomic information has practical consequences for modern taxonomy, such as the recent case where a spectacular fossil whale described in the journal Nature had to be rapidly renamed becase the authors were unaware of a prexisting use of the name they had chosen. Modern papers have bibliographies that are digitally linked to online versions of the cited articles. Often there are prominent gaps in these citations where the cited references do not exist online, in many cases the missing citations are to taxonomic work. The impression is that taxonomic litrature is in a pre-digital ghetto. Yet in many cases the taxonomic work may actually be available, but the tools the publisher uses are unaware of the digitisation efforts that are bring this literature online.
+
+This paper explores the extent to which taxonomic literature is available online, and documents the construction of a database that links animal names to the primary literature using digital identifiers such as DOIs, or directly to the literature where it is freely available (http://iphylo.org/~rpage/itaxon).  To date some 20% of animal names have been linked to the primary literature.
+
+Looking towards the future, the paper explores what happens once we have a database of names and embedded literature. Specifically, perhaps it is time to rethink the way we publish taxonomic papers. By including them in a database where names are linked to literature, we can envisage a single place where the complete taxonomic history of a name is available, embedded in the context of the primary literature.
