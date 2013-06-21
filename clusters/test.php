@@ -214,6 +214,10 @@ $ids=array(
 
 $ids=array(491220);
 
+$ids=array(
+3851219,2155378,3851248,825597
+);
+
 foreach ($ids as $id)
 {
 	add_cluster_from_id($id);
