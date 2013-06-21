@@ -815,7 +815,7 @@ $sql = 'select * from names where taxonAuthor like "Mello-Leitao 1929" AND publi
 
 //$sql = 'select * from names where genusPart="Hydractinia" AND publicationParsed="N" and publication IS NOT NULL';
 
-$sql = 'select * from names where sici="4b7222a1e6315b58bbb2452fe3890ab3"';
+$sql = 'select * from names where sici="c4ff418080db2dde651146d6fe56ddef"';
 
 
 //echo $sql . "\n";

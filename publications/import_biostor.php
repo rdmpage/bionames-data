@@ -89,6 +89,9 @@ $ids=array(127801);
 // The genus Selenops (Araneae) in South Africa
 $ids=array(127984);
 
+// The American species of snapping shrimps of the genus Synalpheus
+$ids=array(535);
+
 // to do...
 foreach ($ids as $id)
 {

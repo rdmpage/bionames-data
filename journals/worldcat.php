@@ -1429,7 +1429,7 @@ $issns=array(
 
 $issns=array('0103-2526','0037-8437','0379-0207');
 
-$issns=array('0250-6378');
+$issns=array('0032-3780');
 
 $issns_processed = array();
 
