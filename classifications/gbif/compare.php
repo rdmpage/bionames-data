@@ -114,6 +114,10 @@ function get_species ($genus)
 $one = get_species('Raorchestes');
 $two = get_species('Philautus');
 
+$one = get_species('Chaerephon');
+$two = get_species('Tadarida');
+
+
 $species = array_merge($one,$two);
 
 foreach ($species as $species_1)

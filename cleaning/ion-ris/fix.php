@@ -755,7 +755,31 @@ $journal = 'Public Health Reports';
 
 $journal = 'Professional Papers US Geological Survey';
 
+$journal = 'Boletin del Museo Nacional de Historia Natural Chile';
+
+$journal = 'Entomologist\'s Monthly Magazine';
+
+$journal = 'Australian Entomologist, 39(4)';
+$journal = 'Veliger, 51(3)';
+
+$journal = 'Allan Hancock Pacific Expedition';
+
+$journal = 'Psyche (Cambridge)';
+
 $sql = 'SELECT * from names WHERE publication LIKE "%' . $journal . '%" AND publicationParsed="N"';
+
+//$sql .= ' AND year=2012';
+
+//$sql = 'SELECT * from names WHERE journal="' . $journal . '"';
+
+//$sql = 'SELECT * FROM names WHERE taxonAuthor LIKE "Veron %" AND publicationParsed="N"';
+
+//$sql = 'SELECT * FROM names WHERE id > 5015135 AND publication IS NOT NULL AND publicationParsed="N"';
+//$sql = 'SELECT * FROM names WHERE id > 4964979 AND journal like "(Lepidoptera: Gelechiidae) revealed by molecular data and morphology-how many species are there? Zootaxa"';
+
+//$sql = 'select * from names where id in (4991615)';
+
+//$sql = 'select * from names where title="Braconid wasps from the Cape Verde Islands 3. Braconinae, Cheloninae, Hormiinae, Microgastrinae and Opiinae (Hymenoptera: Braconidae). Mitteilungen des Internationalen Entomologischen Vereins E.V"';
 
 //$sql = 'SELECT * from siboga WHERE publication LIKE "%' . $journal . '%" AND publicationParsed="N"';
 
@@ -763,12 +787,12 @@ $sql = 'SELECT * from names WHERE publication LIKE "%' . $journal . '%" AND publ
 
 //$sql = 'SELECT * from names WHERE genusPart="Molossops" AND publication IS NOT NULL AND publicationParsed="N"';
 
-//$sql = 'SELECT * from names WHERE sici="edc3aa4d8190060425130ec612c33e8d"';
+//$sql = 'SELECT * from names WHERE sici="d959c62dcc76d3c9e278d554c1794448"';
 
 //$sql = 'SELECT * from names WHERE publication like "A new Fruit Bat from N. Loochoo. Lansania Tokyo, 1 1929: pp. 125-128%"';
 
 
-//$sql = 'SELECT * FROM names WHERE sici="0ebbfa5133152ae79160a255c5d15689"';
+$sql = 'SELECT * FROM names WHERE sici="a3670217aae89ec21015112dde1f453a"';
 
 //$sql = 'SELECT * from names WHERE year=1920 AND publication IS NOT NULL AND publicationParsed="N"';
 
@@ -797,7 +821,7 @@ $sql = 'SELECT * from names WHERE publication LIKE "%' . $journal . '%" AND publ
 
 //$sql .= ' AND year > 1920 and year < 1950';
 
-//$sql .= ' AND year = 1910';
+//$sql .= ' AND year = 1993';
 
 
 //$sql = 'SELECT * FROM names where id=1902290';
@@ -811,12 +835,11 @@ $sql = 'SELECT * from names WHERE publication LIKE "%' . $journal . '%" AND publ
 //$sql = 'select * from names where id=3691743';
 //$sql = 'select * from names where id=558168';
 
-$sql = 'select * from names where taxonAuthor like "Mello-Leitao 1929" AND publicationParsed="N" and publication IS NOT NULL';
+//$sql = 'select * from names where taxonAuthor like "Sars 1885" AND publicationParsed="N" and publication IS NOT NULL';
 
 //$sql = 'select * from names where genusPart="Hydractinia" AND publicationParsed="N" and publication IS NOT NULL';
 
-$sql = 'select * from names where sici="c4ff418080db2dde651146d6fe56ddef"';
-
+//$sql = 'select * from names where sici in ("87bd82bdbd7f28207ede62399ee4fadf","0b6aba912e841207b322622b4b0c33a7","a2f0323fefb10a9409d9b7c70b0748e8","747fd7094b2033aed3d327f8d2f6714c","778c751ca5a12025f2604952113b56a7","31ad2c6e7e1d37867e97dab65549b065","292a33a7fe3cba4cf5b2cce882ca656e","87bd82bdbd7f28207ede62399ee4fadf")';
 
 //echo $sql . "\n";
 
@@ -852,7 +875,104 @@ while (!$result->EOF)
 	
 	$matched = false;
 	
-	// (?<title>\[Title unknown.\])\s+(?<journal>.*),\s+(?<volume>[ivxlc]+)\s+(?<year>[0-9]{4}):\s+Unpaginated\.
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.(?<journal>.*),\s+(?<volume>[0-9]{4})\s*Article ID\s*\d+\s+(?<year>[0-9]{4}):\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+	
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.\s+(?<journal>.*),\s+(?<volume>\d+)Special Issue,\s+\d+\s+\w+\s+(?<year>[0-9]{4}):\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+	
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.\s+(?<journal>.*),\s+(?<volume>\d+)(\((?<issue>\d+)\)),\s+([A-Z][a-z]+)\s+\d+\s+(?<year>[0-9]{4}):\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.\s+(?<journal>Mitteilungen des.*)\s+(?<volume>\d+)(\((?<issue>\d+)\))?,\s+\d+\s+\w+\s+(?<year>[0-9]{4}):\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+	
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>\[.*\])\s+(?<journal>.*)\s+(?<volume>\d+)(\((?<issue>\d+)\))?,\s+\w+\s+(?<year>[0-9]{4}):\s+(?<spage>\d+)(-(?<epage>\d+))?\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)[\.|\?]\s+(?<journal>.*)\s+(?<volume>\d+)\((?<issue>\d+)\),\s+\w+\s+(?<year>[0-9]{4}):\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>(.*)[\.|\?])\s+(?<journal>.*)\s+(?<volume>\d+)(\((?<issue>\d+)\))?,\s+\w+\s+\d+\s+(?<year>[0-9]{4}):\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+	
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.\s+(?<journal>.*)\s+(?<volume>\d+)\((?<issue>\d+)\),\s+\d+( de)?\s+\w+\s+(?<year>[0-9]{4}):\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+	
+	
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.\s+(?<journal>.*)\s+(?<volume>\d+),\s+([A-Z]\w+)\s+[0-9]{1,2}\s+(?<year>[0-9]{4}):(\s+\d+),\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+	
 	
 	if (!$matched)
 	{
@@ -2098,7 +2218,7 @@ while (!$result->EOF)
 
 	if (!$matched)
 	{
-		if (preg_match('/\[Title unknown\.?\]\.?\s+(?<journal>.*),\s+(?<volume>[ixvcl]+|\d+)\s+(?<year>[0-9]{4}):\s+Unpaginated\./u', $obj->publication, $m))
+		if (preg_match('/(?<title>.*)\.\s+(?<journal>.*)\s+(?<volume>[ixvlc]+)\s+(?<year>[0-9]{4}):\s+pp.\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
 		{
 			//print_r($m);
 			$matched = true;
@@ -2106,6 +2226,16 @@ while (!$result->EOF)
 		}
 	}		
 
+
+	if (!$matched)
+	{
+		if (preg_match('/\[Title unknown\.?\]\.?\s+(?<journal>.*),\s+(?<volume>[ixvcl]+|\d+)\s+(?<year>[0-9]{4}):\s+Unpaginated\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
 
 
 	// no pagination?
@@ -2175,6 +2305,15 @@ while (!$result->EOF)
 		
 		if (isset($obj->journal))
 		{
+		
+			$obj->journal = trim($obj->journal);
+			
+			if (preg_match('/,$/Uu', $obj->journal))
+			{
+				$obj->journal = preg_replace('/,$/', '', $obj->journal);
+			}
+			
+		
 					
 			if (preg_match('/^(?<number>[xvcil]+)\.\s+(?<journal>.*)$/Uu', $obj->journal, $mm))
 			{
@@ -2331,6 +2470,15 @@ while (!$result->EOF)
 		if (isset($obj->pagination) && !isset($obj->spage))
 		{
 			if (preg_match('/^\((?<spage>\d+)-(?<epage>\d+)\)$/', $obj->pagination, $mm))
+			{
+				$obj->spage = $mm['spage'];
+				$obj->epage = $mm['epage'];		
+			}
+		}
+
+		if (isset($obj->pagination) && !isset($obj->spage))
+		{
+			if (preg_match('/^pp.\s+(?<spage>\d+)-(?<epage>\d+)$/', $obj->pagination, $mm))
 			{
 				$obj->spage = $mm['spage'];
 				$obj->epage = $mm['epage'];		

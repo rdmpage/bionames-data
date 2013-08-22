@@ -31,9 +31,13 @@ $doi = '10.1071/ZO9550071';
 
 $doi = '10.1186/1471-2148-11-175';
 
+
+$doi = '10.1016/j.crvi.2013.05.005'; // Resurrection of New Caledonian maskray Neotrygon trigonoides (Myliobatoidei: Dasyatidae) from synonymy with N. kuhlii, based on cytochrome-oxidase I gene sequences and spotting patterns
+
 $docs = null;
 
 $reference = get_doi_metadata($doi, $docs);
+
 
 
 if ($reference)

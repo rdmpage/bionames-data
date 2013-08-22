@@ -20,20 +20,28 @@ $file = @fopen($filename, "r") or die("couldn't open $filename");
 $file_handle = fopen($filename, "r");
 
 
-$skip = true;
+$skip = false;
 
 while (!feof($file_handle)) 
 {
 	$name = trim(fgets($file_handle));
 	
-	if ($name == 'Nemichthys gaussiana')
+	if (preg_match('/^#/', $name))
 	{
-		$skip = false;
+		// skip
 	}
-	
-	if (!$skip)
+	else
 	{
-		map($name, 'gbif', false);
+		
+		if ($name == 'Nemichthys gaussiana')
+		{
+			$skip = false;
+		}
+		
+		if (!$skip)
+		{
+			map($name, 'gbif', false);
+		}
 	}
 }
 

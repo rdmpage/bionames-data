@@ -82,13 +82,12 @@ function get_ion_names($name)
 	
 	$clusters = array();
 	
-	// Handle subgenera by having a query that can find them as well
-	// For example GBIF has Myotis pruinosus Yoshiyuki, 1971 and ION has Myotis (Leuconoe) pruinosus
 	if (0)
 	{
-		if (preg_match('/^(?<genus>\w+)\s+(?<rest>.*)$/', $name, $m))
+		if (preg_match('/^(?<genus>\w+) (?<species>\w+)$/', $name, $m))
 		{
-			$sql = 'SELECT DISTINCT cluster_id FROM names WHERE nameComplete LIKE ' . $ion_db->qstr($m['genus'] . ' %' . $m['rest']);	
+			$sql = 'SELECT DISTINCT cluster_id FROM names WHERE genusPart = ' . $ion_db->qstr($m['genus'])
+				. ' AND specificEpithet=' . $ion_db->qstr($m['species']);	
 		}
 		else
 		{
@@ -96,8 +95,24 @@ function get_ion_names($name)
 		}
 	}
 	else
-	{
-		$sql = 'SELECT DISTINCT cluster_id FROM names WHERE nameComplete = ' . $ion_db->qstr($name);
+	{		
+		// Handle subgenera by having a query that can find them as well
+		// For example GBIF has Myotis pruinosus Yoshiyuki, 1971 and ION has Myotis (Leuconoe) pruinosus
+		if (1)
+		{
+			if (preg_match('/^(?<genus>\w+)\s+(?<rest>.*)$/', $name, $m))
+			{
+				$sql = 'SELECT DISTINCT cluster_id FROM names WHERE nameComplete LIKE ' . $ion_db->qstr($m['genus'] . ' %' . $m['rest']);	
+			}
+			else
+			{
+				$sql = 'SELECT DISTINCT cluster_id FROM names WHERE nameComplete = ' . $ion_db->qstr($name);
+			}
+		}
+		else
+		{
+			$sql = 'SELECT DISTINCT cluster_id FROM names WHERE nameComplete = ' . $ion_db->qstr($name);
+		}
 	}
 	
 	$sql .= ' AND cluster_id IS NOT NULL';
@@ -117,7 +132,7 @@ function get_ion_names($name)
 		$result->MoveNext();
 	}
 	
-	//print_r($clusters);
+	print_r($clusters);
 	//exit();
 	
 	return $clusters;

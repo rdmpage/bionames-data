@@ -29,6 +29,31 @@ function clean_publication ($publication, $taxon_author = null)
 }
 
 //--------------------------------------------------------------------------------------------------
+function get_group($id)
+{
+	$group = null;
+	
+	$db = NewADOConnection('mysql');
+	$db->Connect("localhost", 
+	'root' , '' , 'ion');
+
+	// Ensure fields are (only) indexed by column name
+	$ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
+
+	$sql = 'SELECT * FROM names INNER JOIN names_ion_groups ON names.`group` = names_ion_groups.name WHERE names.id = ' . $id . ' LIMIT 1';
+
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+	
+	if ($result->NumRows() == 1)
+	{
+		$group = json_decode($result->fields['json']);		
+	}
+
+	return $group;
+}
+
+//--------------------------------------------------------------------------------------------------
 function get_cluster($cluster_id)
 {
 	global $couch;
@@ -150,6 +175,14 @@ function get_cluster($cluster_id)
 			if (($cluster->rankString == '') && isset($name->rankString))
 			{
 				$cluster->rankString = $name->rankString;
+			}
+			
+			// Group
+			$group = get_group(str_replace('urn:lsid:organismnames.com:name:','', $name->id));
+			if ($group)
+			{
+				$name->group = $group;
+				$cluster->group = $group;	
 			}
 			
 			

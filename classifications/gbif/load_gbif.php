@@ -26,7 +26,7 @@ while (!feof($file_handle))
 {
 	$id = trim(fgets($file_handle));
 	
-	get_concept($id);
+	get_concept($id, $docs);
 }
 
 if (count($docs->docs ) != 0)

@@ -38,7 +38,11 @@ function get_sha1(&$reference, $pdf)
 		
 		// thumbnail
 		$url = 'http://direct.bionames.org/bionames-archive/documentcloud/pages/' . $reference->file->sha1 . '/1-small';
-
+		
+		//$url = 'http://direct.bionames.org/bionames-archive/pdf/3a/2e/93/3a2e93dc51b584d0c50952fd86bb11934cbd2ded/images/thumbnails/page-0.png';
+//		$url = 'http://direct.bionames.org/bionames-archive/pdf/7a/fe/bc/7afebc75c3dc3695fa52ed48acb7e09525313b14/images/thumbnails/page-0.png';
+//		$url = 'http://direct.bionames.org/bionames-archive/pdf/e3/2f/09/e32f09354895373b2bb7f406f7b4ffaba93b726c/images/thumbnails/page-0.png';
+//		$url = 'http://direct.bionames.org/bionames-archive/pdf/98/b9/78/98b97815ac832055260477a8d3760ab55dd9c2b3/images/thumbnails/page-0.png';
 		$image = get($url);
 		
 		if ($image != '')
@@ -64,9 +68,6 @@ function get_pdf_thumbnail(&$reference, $pdf)
 	if ($obj->http_code == 200)
 	{		
 		$url = 'http://direct.bionames.org/bionames-archive/documentcloud/pages/' . $obj->sha1 . '/1-small';
-		
-		exit();
-		
 		$image = get($url);
 		
 		if ($image != '')
@@ -499,7 +500,7 @@ function get_reference($sql, &$docs, $augment = true)
 					//print_r($r);
 					//exit();
 					
-					if ($r)
+					if (isset($r))
 					{
 					
 					
@@ -516,12 +517,14 @@ function get_reference($sql, &$docs, $augment = true)
 	
 					
 					}
+					
 				}
 				
 				// BioStor REMEMBER THIS IS NOT CALLING BIBJSON!!!
 				// thumbnail
 				if ($identifier->type == 'biostor')
 				{
+					echo "Biostor...\n";
 					biostor_enhance($reference, $identifier->id);
 				
 					/*

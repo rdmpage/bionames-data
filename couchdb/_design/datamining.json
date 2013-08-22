@@ -1,0 +1,10 @@
+{
+   "_id": "_design/datamining",
+   "_rev": "1-5895b14c606892bc8b9098f04b2a84ba",
+   "language": "javascript",
+   "views": {
+       "co_occur": {
+           "map": "function(doc) {\n  if (doc.names) {\n    var n = doc.names.length;\n    for (i = 0; i < n-1; i++) {\n      for (j = i + 1; j < n; j++) {\n         var s1 = doc.names[i].namestring;\n         var s2 = doc.names[j].namestring;\n\n\t\t  for (k in doc.names[i].pages) {\n\t\t\tif (doc.names[j].pages.indexOf(doc.names[i].pages[k]) != -1) {\n\t\t      emit (s1, { \"name\": s2, \"PageID\": doc.names[i].pages[k] });\n\t\t\t  emit (s2, { \"name\": s1, \"PageID\": doc.names[i].pages[k] });\n\t\t\t}\n\t\t }         \t\t      \n       }\n     }    \n   }\n }  "
+       }
+   }
+}

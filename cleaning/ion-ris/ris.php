@@ -734,9 +734,15 @@ $sql = 'SELECT * from names WHERE issn = "0077-7749"';
 
 $sql = 'SELECT * from names WHERE issn = "0370-2774"';
 
-$sql = 'SELECT * from names WHERE issn = "1536-2442"';
+$sql = 'SELECT * from names WHERE issn = "0037-9271"';
 
-//$sql = 'SELECT * from names WHERE journal = "Nautilus Boston Mass"';
+$sql = 'SELECT * from names WHERE issn = "0033-2615"';
+
+
+//$sql = 'SELECT * FROM names WHERE id > 4964979 AND publication IS NOT NULL';
+
+
+//$sql = 'SELECT * from names WHERE journal = "Italian Journal of Zoology (Modena)"';
 
 
 //$sql = 'SELECT * from names WHERE taxonAuthor like "Fain %"';
@@ -752,7 +758,7 @@ $sql = 'SELECT * from names WHERE issn = "1536-2442"';
 //$sql .= " AND volume IN( 71,72,73)";
 
 
-//$sql .= " AND year >= 2010";
+//$sql .= " AND year >= 2008";
 
 //$sql .= " AND year IN (1953,1954,1955)";
 

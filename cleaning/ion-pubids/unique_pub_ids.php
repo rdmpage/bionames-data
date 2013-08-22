@@ -19,6 +19,7 @@ $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
 
 $filename = 'pub_ids.txt';
 $filename = 'fix.txt';
+//$filename = '4964980.txt';
 
 $file_handle = fopen($filename, "r");
 

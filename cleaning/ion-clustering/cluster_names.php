@@ -259,6 +259,9 @@ $filename = 'namestring.txt';
 
 $filename = 'tests/Cynopterus brachyotis.txt';
 
+$filename = 'names4964979.txt';
+
+
 $file_handle = fopen($filename, "r");
 
 while (!feof($file_handle)) 

@@ -3,6 +3,7 @@ config.inc.php
 
 adodb5/
 
+cleaning/ion-clustering/tmp
 cleaning/ion-ris/junk
 cleaning/ion-ris/*.ris
 
@@ -17,6 +18,8 @@ journals/issn
 phylota
 
 pdf/
+
+pdf-join/junk
 
 publications/junk
 
