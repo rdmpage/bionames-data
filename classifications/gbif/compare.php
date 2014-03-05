@@ -73,6 +73,7 @@ function p(&$o)
 
 
 
+
 //--------------------------------------------------------------------------------------------------
 // get species names for genus
 function get_species ($genus)
@@ -111,6 +112,31 @@ function get_species ($genus)
 	return $species;
 }
 
+//--------------------------------------------------------------------------------------------------
+function get_genera($family)
+{
+	global $gbif_db;
+	global $config;
+	
+	$genera = array();
+
+	$sql = 'SELECT DISTINCT canonicalName FROM taxon WHERE family = ' . $gbif_db->qstr($family) . ' AND taxonRank="genus" AND taxonomicStatus="accepted"';
+	
+	$result = $gbif_db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+	
+	while (!$result->EOF) 
+	{
+		$genera[] =  $result->fields['canonicalName'];
+		
+		$result->MoveNext();	
+	}
+
+	return $genera;
+}
+
+
+/*
 $one = get_species('Raorchestes');
 $two = get_species('Philautus');
 
@@ -119,6 +145,18 @@ $two = get_species('Tadarida');
 
 
 $species = array_merge($one,$two);
+*/
+
+$family = 'Molossidae Gervais, 1856';
+
+$genera = get_genera($family);
+print_r($genera);
+
+$species = array();
+foreach ($genera as $genus)
+{
+	$species = array_merge($species, get_species($genus));
+}
 
 foreach ($species as $species_1)
 {

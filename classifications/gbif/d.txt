@@ -1,0 +1,370 @@
+Apetaenus	australis Hutton 1902
+Apetaenus	enderleini Munari 2007
+Apetaenus	litoralis Eaton 1875
+Apetaenus	littorea Hutton 1902
+Apetaenus	littoreus Hutton 1902
+Apetaenus	marionensis Munari 2008
+Apetaenus	watsoni Hardy 1962
+Canacea	aldrichi Cresson 1936
+Canacea	currani Wirth 1970
+Canacea	macateei Malloch 1924
+Canacea	snodgrasii Coquillett 1901
+Horaismoptera	grisea Seguy 1933
+Horaismoptera	hennigi Sabrosky 1978
+Horaismoptera	microphthalma Bezzi 1908
+Horaismoptera	vulpina Hendel 1907
+Isocanace	albiceps Malloch 1925
+Isocanace	atra Wirth 1964
+Isocanace	australis Mathis 1982
+Isocanace	briani Mathis 1982
+Isocanace	crosbyi Mathis 1999
+Isocanace	flava Canzoneri & Meneghini 1969
+Isocanace	freidbergi Mathis 1999
+Isocanace	marksae Wirth 1964
+Isocanace	sinensis Wirth 1951
+Nocticanace	actites Mathis & Wirth 1979
+Nocticanace	affinis Munari 2008
+Nocticanace	arnaudi Wirth 1954
+Nocticanace	ashlocki Wirth 1969
+Nocticanace	australina Mathis 1996
+Nocticanace	caffaria Cresson 1934
+Nocticanace	cancer Wirth 1969
+Nocticanace	chilensis Cresson 1931
+Nocticanace	curioi Wirth 1969
+Nocticanace	cyclura Mathis & Wirth 1979
+Nocticanace	danjoensis Miyagi 1973
+Nocticanace	darwini Wirth 1969
+Nocticanace	flavipalpis Mathis & Wirth 1979
+Nocticanace	galapagenis Curran 1934
+Nocticanace	hachijuoensis Miyagi 1965
+Nocticanace	japonica Miyagi 1965
+Nocticanace	kraussi Munari 2010
+Nocticanace	litoralis Delfinado 1971
+Nocticanace	littorea Mathis & Freidberg 1991
+Nocticanace	mahensis Lamb 1912
+Nocticanace	malayensis Miyagi 1973
+Nocticanace	marshallensis Wirth 1951
+Nocticanace	pacifera Sasakawa 1955
+Nocticanace	pacificus Sasakawa 1955
+Nocticanace	panamensis Mathis 1989
+Nocticanace	peculiaris Malloch 1933
+Nocticanace	propristyla Miyagi 1973
+Nocticanace	scapania Wirth 1969
+Nocticanace	sinaiensis Mathis 1982
+Nocticanace	sinensis Delfinado 1971
+Nocticanace	spinicosta Wirth 1969
+Nocticanace	takagii Miyagi 1965
+Nocticanace	taprobane Mathis 1982
+Nocticanace	texensis Wheeler 1952
+Nocticanace	usingeri Wirth 1969
+Nocticanace	wirthi Mathis 1989
+Nocticanace	zimmermani Wirth 1951
+Pelomyiella	cinerella Haliday 1837
+Pelomyiella	hungarica Czerny 1928
+Pelomyiella	mallochi Sturtevant 1923
+Pelomyiella	maritima Melander 1913
+Pelomyiella	melanderi Sturtevant 1923
+Pelomyiella	mongolica Soos 1978
+Pelomyiella	nigra Soos 1978
+Pelomyiella	obscurior Becker 1907
+Pelomyiella	opacula Zetterstedt 1860
+Sigaloethina	endiomena Munari 2005
+Sigaloethina	phaia Munari 2004
+Tethina	acrostichalis Freidberg & Beschovski 1996
+Tethina	albitarsa Foster 1998
+Tethina	alboguttata Strobl 1900
+Tethina	albosetulosa Strobl 1900
+Tethina	albula Loew 1869
+Tethina	amphitrite Munari & Baez 2000
+Tethina	angustifrons Melander 1952
+Tethina	angustipennis Melander 1952
+Tethina	aurisetulosa Lamb 1914
+Tethina	bermudaensis Melander 1952
+Tethina	brasiliensis Prado & Tavares 1966
+Tethina	callosirostris Munari 2008
+Tethina	canzonerii Munari 1981
+Tethina	carioca Prado & Tavares 1966
+Tethina	carolae Munari & Stuke 2011
+Tethina	cinerea Loew 1862
+Tethina	cohiba Foster 1998
+Tethina	czernyi Hendel 1934
+Tethina	denudata Melander 1952
+Tethina	dubiosa Collin 1966
+Tethina	dunae Munari 2007
+Tethina	ferruginea Lamb 1914
+Tethina	flavigenis Hendel 1934
+Tethina	flavoidea Beschovski 1997
+Tethina	gatti Munari & Ebejer 2001
+Tethina	gobii Beschovski & Nartshuk 1997
+Tethina	grisea Fallen 1823
+Tethina	grossipes Becker 1908
+Tethina	guttata Freidberg & Beschovski 1996
+Tethina	heringi Hendel 1934
+Tethina	hirsuta Munari 2000
+Tethina	histrica Munari 2009
+Tethina	horningi Harrison 1976
+Tethina	horripilans Melander 1952
+Tethina	illota Haliday 1838
+Tethina	incisuralis Macquart 1851
+Tethina	inopinata Munari & Canzoneri 1992
+Tethina	insulans Curran 1932
+Tethina	insularis Aldrich 1931
+Tethina	intermedia Collin 1966
+Tethina	karatasensis Munari 1981
+Tethina	lavendula Melander 1952
+Tethina	lisae Foster 1998
+Tethina	litocola Munari & Ebejer 2001
+Tethina	longilabella Munari 2007
+Tethina	longirostris Loew 1865
+Tethina	lusitanica Munari 2009
+Tethina	luteosetosa Beschovski & Nartshuk 1997
+Tethina	mariae Munari 1997
+Tethina	marmorata Becker 1908
+Tethina	melitensis Munari & Ebejer 2001
+Tethina	merzi Munari 1999
+Tethina	milichioides Melander 1913
+Tethina	mima Munari 1996
+Tethina	minoia Munari 1999
+Tethina	minutissima Bezzi 1908
+Tethina	multipilosa Beschovski & Nartshuk 1997
+Tethina	munarii Carles-Tolra 1993
+Tethina	nigripes Czerny 1928
+Tethina	nigriseta Malloch 1924
+Tethina	nigrofemorata Beschovski 1997
+Tethina	obscurior Becker 1907
+Tethina	ochracea Hendel 1913
+Tethina	omanensis Munari 2007
+Tethina	orientalis Hendel 1934
+Tethina	pallidiseta Malloch 1935
+Tethina	pallipes Loew 1865
+Tethina	parvula Loew 1869
+Tethina	penita Collin 1966
+Tethina	pictipennis Freidberg & Beschovski 1996
+Tethina	pleuralis Munari 2010
+Tethina	prognatha Melander 1952
+Tethina	robusta Foster 2000
+Tethina	saigusai Sasakawa 1986
+Tethina	salinicola Beschovski 1998
+Tethina	sasakawai Foster & Mathis 2008
+Tethina	seriata Melander 1952
+Tethina	sexseriata Hendel 1913
+Tethina	shalom Freidberg & Beschovski 1996
+Tethina	simplex Collin 1966
+Tethina	soikai Munari 1981
+Tethina	spinigera Munari 2008
+Tethina	spinulosa Cole 1923
+Tethina	stobaeana Munari 1996
+Tethina	strobliana Mercier 1923
+Tethina	stukei Munari 2010
+Tethina	subpunctata Beschovski 1994
+Tethina	tamaricis Bigot 1888
+Tethina	tethys Munari & Baez 2000
+Tethina	texana Malloch 1913
+Tethina	thula Sasakawa 1986
+Tethina	tibiseta Malloch 1935
+Tethina	tschirnhausi Munari 1999
+Tethina	variseta Melander 1952
+Tethina	xanthopoda Williston 1896
+Tethina	yaromi Freidberg & Beschovski 1996
+Tethina	yemenensis Munari 2007
+Afrotethina	aemiliani Munari 1986
+Afrotethina	aurisetulosa Lamb 1914
+Afrotethina	brevicostata Munari 1990
+Afrotethina	femoralis Munari 1981
+Afrotethina	kaplanae Munari 1994
+Afrotethina	martinezi Munari 2005
+Afrotethina	persimilis Munari 1991
+Afrotethina	stuckenbergi Munari 1990
+Paracanace	aicen Mathis & Wirth 1978
+Paracanace	blantoni Wirth 1956
+Paracanace	cavagnaroi Wirth 1969
+Paracanace	hoguei Mathis & Wirth 1978
+Paracanace	lebam Mathis & Wirth 1978
+Paracanace	maritima Wirth 1951
+Paracanace	oliveirai Wirth 1956
+Paracanace	wirthi Mathis 1997
+Masoniella	advena Foster & Mathis 2003
+Masoniella	argentinaensis Foster & Mathis 2003
+Masoniella	darwini Munari 2010
+Masoniella	delicata Foster & Mathis 2003
+Masoniella	flabella Foster & Mathis 2003
+Masoniella	spatulata Foster & Mathis 2003
+Plesiotethina	australis Munari 2000
+Procanace	acuminata Hardy & Delfinado 1980
+Procanace	aestuaricola Miyagi 1965
+Procanace	bifurcata Hardy & Delfinado 1980
+Procanace	canzonerii Mathis & Freidberg 1991
+Procanace	cogani Mathis 1988
+Procanace	confusa Hardy & Delfinado 1980
+Procanace	constricta Hardy & Delfinado 1980
+Procanace	cressoni Wirth 1951
+Procanace	dianneae Mathis 1988
+Procanace	flavescens Miyagi 1965
+Procanace	flaviantennalis Miyagi 1965
+Procanace	fulva Miyagi 1965
+Procanace	gressitti Delfinado 1970
+Procanace	grisescens Hendel 1913
+Procanace	hendeli Delfinado 1971
+Procanace	macquariensis Womersley 1937
+Procanace	mcalpinei Mathis 1996
+Procanace	nakazatoi Miyagi 1965
+Procanace	nigroviridis Cresson 1926
+Procanace	novaeguineae Delfinado 1970
+Procanace	pauliani Mathis & Wirth 1979
+Procanace	pninae Mathis & Freidberg 1991
+Procanace	quadrisetosa Hardy & Delfinado 1980
+Procanace	rivalis Miyagi 1965
+Procanace	suigoensis Miyagi 1965
+Procanace	taiwanensis Delfinado 1971
+Procanace	townesi Wirth 1951
+Procanace	williamsi Wirth 1951
+Procanace	wirthi Hardy & Delfinado 1980
+Suffomyia	dancei Munari 2008
+Suffomyia	ismayi McAlpine 2007
+Suffomyia	sabroskyi McAlpine 2007
+Suffomyia	scutellaris Freidberg 1995
+Tethinosoma	fulvifrons Hutton 1901
+Trichocanace	atra Wirth 1964
+Trichocanace	marksae Wirth 1964
+Trichocanace	sinensis Wirth 1951
+Xanthocanace	capensis Wirth 1956
+Xanthocanace	collessi Mathis 1996
+Xanthocanace	hamifer Munari 2008
+Xanthocanace	kaplanorum Mathis & Freidberg 1982
+Xanthocanace	magna Hendel 1913
+Xanthocanace	nigrifrons Malloch 1924
+Xanthocanace	orientalis Hendel 1913
+Xanthocanace	pollinosa Miyagi 1963
+Xanthocanace	ranula Loew 1874
+Xanthocanace	sabroskyi Mathis & Freidberg 1982
+Xanthocanace	seoulensis Miyagi 1963
+Xanthocanace	zeylanica Delfinado 1975
+Canaceoides	angulatus Wirth 1969
+Canaceoides	balboai Wirth 1969
+Canaceoides	caffaria Cresson 1934
+Canaceoides	hawaiiensis Wirth 1969
+Canaceoides	nudatus Cresson 1926
+Canaceoides	panamensis Curran 1934
+Canaceoides	scutellatus Wirth 1969
+Canaceoides	setosus Wirth 1969
+Canaceoides	spinosus Wirth 1969
+Canaceoides	tenuistylus Wirth 1969
+Chaetocanace	biseta Hendel 1913
+Chaetocanace	brincki Delfinado 1975
+Chaetocanace	flavipes Mathis 1996
+Chaetocanace	koongarra Mathis 1996
+Chaetocanace	longicauda Mathis 1996
+Neopelomyia	longicera Foster 1976
+Neopelomyia	rostrata Hendel 1911
+Pelomyia	advena Foster & Mathis 2003
+Pelomyia	argentinaensis Foster & Mathis 2003
+Pelomyia	aurantifrons Foster & Mathis 2003
+Pelomyia	boliviensis Foster & Mathis 2003
+Pelomyia	coronata Loew 1866
+Pelomyia	crassiseta Foster & Mathis 2003
+Pelomyia	crassispina Foster & Mathis 2003
+Pelomyia	curva Foster & Mathis 2003
+Pelomyia	delicata Foster & Mathis 2003
+Pelomyia	dentata Foster & Mathis 2003
+Pelomyia	flabella Foster & Mathis 2003
+Pelomyia	freidbergi Foster & Mathis 2003
+Pelomyia	fuegina Munari 2010
+Pelomyia	granditarsa Foster & Mathis 2003
+Pelomyia	grisecoxa Foster & Mathis 2003
+Pelomyia	intermedia Malloch 1934
+Pelomyia	irwini Foster & Mathis 2003
+Pelomyia	lobina Foster & Mathis 2003
+Pelomyia	melanocera Foster & Mathis 2003
+Pelomyia	nigripalpis Foster & Mathis 2003
+Pelomyia	nigritarsis Foster & Mathis 2003
+Pelomyia	nubila Melander 1952
+Pelomyia	occidentalis Williston 1893
+Pelomyia	peruviana Malloch 1934
+Pelomyia	planibulla Foster & Mathis 2003
+Pelomyia	robustiseta Foster & Mathis 2003
+Pelomyia	spatulata Foster & Mathis 2003
+Pelomyia	steyskali Hardy & Delfinado 1980
+Pelomyia	trivittata Malloch 1934
+Pelomyia	undulata Foster & Mathis 2003
+Pelomyia	univittata Foster & Mathis 2003
+Pelomyia	viedmae Malloch 1934
+Pelomyia	vockerothi Foster & Mathis 2003
+Pseudorhicnoessa	femoralis Munari 1981
+Pseudorhicnoessa	rattii Munrai 1981
+Pseudorhicnoessa	spinipes Malloch 1914
+Pseudorhicnoessa	tibiseta Malloch 1935
+Thitena	cadaverina Munari 2004
+Zalea	clava McAlpine 2007
+Zalea	dayi McAlpine 2007
+Zalea	earlyi McAlpine 2007
+Zalea	horningi Harrison 1976
+Zalea	johnsi McAlpine 2007
+Zalea	lithax McAlpine 2007
+Zalea	major McAlpine 1982
+Zalea	mathisi McAlpine 2007
+Zalea	minor McAlpine 1982
+Zalea	ohauorae McAlpine 2007
+Zalea	uda McAlpine 2007
+Zalea	wisei McAlpine 2007
+Canace	actites Mathis 1982
+Canace	albiceps Malloch 1925
+Canace	biseta Hendel 1913
+Canace	blantoni Wirth 1956
+Canace	cala Cresson 1934
+Canace	cavagnaroi Wirth 1969
+Canace	chilensis Cresson 1931
+Canace	currani Wirth 1970
+Canace	flava Canzoneri & Meneghini 1969
+Canace	glauca Wirth 1956
+Canace	magna Hendel 1913
+Canace	mahensis Lamb 1912
+Canace	maritima Wirth 1951
+Canace	nasica Haliday 1839
+Canace	oliveirai Wirth 1956
+Canace	orientalis Hendel 1913
+Canace	ranula Loew 1874
+Canace	rossi Canzoneri 1982
+Canace	rossii Canzoneri 1982
+Canace	salonitana Strobl 1900
+Canace	snodgrasii Coquillett 1901
+Canace	spinosa Wirth 1956
+Canace	zvuv Mathis & Freidberg 1991
+Dasyrhicnoessa	adelpha Munari 2005
+Dasyrhicnoessa	aquila Munari 2002
+Dasyrhicnoessa	atripes Munari 2004
+Dasyrhicnoessa	bicolor Munari 2002
+Dasyrhicnoessa	boninensis Sasakawa 1994
+Dasyrhicnoessa	celata Munari 2010
+Dasyrhicnoessa	ciliata Munari 2004
+Dasyrhicnoessa	clandestina Munari 2002
+Dasyrhicnoessa	fulva Hendel 1913
+Dasyrhicnoessa	fulvescens Malloch 1935
+Dasyrhicnoessa	humilis Munari 2004
+Dasyrhicnoessa	insularis Aldrich 1931
+Dasyrhicnoessa	longisetosa Munari 2004
+Dasyrhicnoessa	macalpinei Munari 2004
+Dasyrhicnoessa	mathisi Munari 2002
+Dasyrhicnoessa	occidentalis Munari 1986
+Dasyrhicnoessa	ostentatrix Munari 2004
+Dasyrhicnoessa	pallida Munari 2004
+Dasyrhicnoessa	phyllodes Sasakawa 1994
+Dasyrhicnoessa	platypes Saskawa 1986
+Dasyrhicnoessa	priapus Munari 2004
+Dasyrhicnoessa	serratula Malloch 1935
+Dasyrhicnoessa	sexeriata Hendel 1913
+Dasyrhicnoessa	tripunctata Sasakawa 1974
+Dasyrhicnoessa	vockerothi Hardy & Delfinado 1980
+Dasyrhicnoessa	yoshiyasui Sasakawa 1986
+Dynomiella	australica Mathis 1996
+Dynomiella	cala Cresson 1934
+Dynomiella	glauca Wirth 1956
+Dynomiella	spinosa Wirth 1956
+Dynomiella	stuckenbergi Wirth 1956
+Listriomastix	litorea Enderlein 1909
+Rhicnoessa	costalis Coquillett 1901
+Rhicnoessa	fulva Hendel 1913
+Rhicnoessa	grisea Fallén 1823
+Rhicnoessa	minutissima Bezzi 1908
+Rhicnoessa	orientalis Hendel 1934
+Rhicnoessa	sexeriata Hendel 1913
+Rhicnoessa	strobliana Mercier 1923

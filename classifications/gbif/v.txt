@@ -1,0 +1,1455 @@
+Antrozous	dubiaquercus Van Gelder 1959
+Antrozous	pallidus pacificus Merriam 1897
+Antrozous	pacificus Merriam 1897
+Antrozous	pallidus LeConte 1856
+Antrozous	pallidus obscurus Baker 1967
+Antrozous	obscurus Baker 1967
+Antrozous	pallidus packardi Martin & Schmidly 1982
+Antrozous	packardi Martin & Schmidly 1982
+Antrozous	pallidus pallidus
+Antrozous	pallidus
+Antrozous	pallidus bunkeri Hibbard 1934
+Antrozous	bunkeri Hibbard 1934
+Antrozous	pallidus minor Miller 1902
+Antrozous	minor Miller 1902
+Antrozous	pallidus koopmani Orr & Silva-Taboada 1960
+Antrozous	koopmani Orr & Silva-Taboada 1960
+Euderma	maculatum Allen 1891
+Hesperoptenus	blanfordi Dobson 1877
+Hesperoptenus	doriae Peters 1868
+Hesperoptenus	gaskelli Hill 1983
+Hesperoptenus	tickelli Blyth 1851
+Hesperoptenus	tomesi Thomas 1905
+Hypsugo	alaschanicus Bobrinskii 1926
+Hypsugo	anchietae Seabra 1900
+Hypsugo	anthonyi Tate 1942
+Hypsugo	arabicus Harrison 1979
+Hypsugo	ariel Thomas 1904
+Hypsugo	bodenheimeri Harrison 1960
+Hypsugo	cadornae Thomas 1916
+Hypsugo	crassulus Thomas 1904
+Hypsugo	eisentrauti Hill 1968
+Hypsugo	imbricatus Horsfield 1824
+Hypsugo	joffrei Thomas 1915
+Hypsugo	kitcheneri Thomas 1915
+Hypsugo	lophurus Thomas 1915
+Hypsugo	macrotis Temminck 1840
+Hypsugo	musciculus Thomas 1913
+Hypsugo	pulveratus Peters 1870
+Hypsugo	savii caucasicus Satunin 1901
+Hypsugo	caucasicus Satunin 1901
+Hypsugo	savii ochromixtus Cabrera 1904
+Hypsugo	ochromixtus Cabrera 1904
+Hypsugo	savii austenianus Dobson 1871
+Hypsugo	austenianus Dobson 1871
+Hypsugo	savii savii Bonaparte 1837
+Hypsugo	savii Bonaparte 1837
+Hypsugo	vordermanni Jentink 1890
+Kerivoula	aerosa Tomes 1858
+Kerivoula	africana Dobson 1878
+Kerivoula	agnella Thomas 1908
+Kerivoula	argentata nidicola Kirk 1865
+Kerivoula	nidicola Kirk 1865
+Kerivoula	argentata zuluensis Roberts 1924
+Kerivoula	zuluensis Roberts 1924
+Kerivoula	argentata argentata
+Kerivoula	argentata
+Kerivoula	argentata Tomes 1861
+Kerivoula	atrox Miller 1905
+Kerivoula	cuprosa Thomas 1912
+Kerivoula	eriophora Heuglin 1877
+Kerivoula	flora Thomas 1914
+Kerivoula	hardwickii Horsfield 1824
+Kerivoula	intermedia Hill & Francis 1984
+Kerivoula	jagorii Peters 1866
+Kerivoula	kachinensis Bates Struebig Rossiter Kingston Sia Sein
+Kerivoula	krauensis Francis Kingston & Zubaid 2007
+Kerivoula	lanosa muscilla Thomas 1906
+Kerivoula	muscilla Thomas 1906
+Kerivoula	lanosa Smith 1847
+Kerivoula	lanosa harrisoni Thomas 1901
+Kerivoula	harrisoni Thomas 1901
+Kerivoula	lanosa lanosa
+Kerivoula	lanosa
+Kerivoula	lanosa lucia Hinton 1920
+Kerivoula	lucia Hinton 1920
+Kerivoula	lenis Thomas 1916
+Kerivoula	minuta Miller 1898
+Kerivoula	muscina Tate 1941
+Kerivoula	myrella Thomas 1914
+Kerivoula	papillosa malayana Chasen 1940
+Kerivoula	malayana Chasen 1940
+Kerivoula	papillosa papillosa
+Kerivoula	papillosa
+Kerivoula	papillosa Temminck 1840
+Kerivoula	papuensis Dobson 1878
+Kerivoula	pellucida Waterhouse 1845
+Kerivoula	phalaena Thomas 1912
+Kerivoula	picta picta Pallas 1767
+Kerivoula	picta Pallas 1767
+Kerivoula	picta bellissima Thomas 1906
+Kerivoula	bellissima Thomas 1906
+Kerivoula	smithii Thomas 1880
+Kerivoula	titania Bates Struebig Hayes Furey Mya Mya Thong Tien Son Harrison Francis & Csorba 2007
+Kerivoula	whiteheadi whiteheadi
+Kerivoula	whiteheadi
+Kerivoula	whiteheadi Thomas 1894
+Kerivoula	whiteheadi bicolor Thomas 1904
+Kerivoula	bicolor Thomas 1904
+Kerivoula	whiteheadi pusilla Thomas 1894
+Kerivoula	pusilla Thomas 1894
+Miomyotis	floridanus
+Miostrellus	risgoviensis
+Nycticeius	aenobarbus Temminck 1840
+Nycticeius	balstoni Thomas 1906
+Nycticeius	cubanus Gundlach 1861
+Nycticeius	greyii Gray 1842
+Nycticeius	humeralis mexicanus Davis 1944
+Nycticeius	mexicanus Davis 1944
+Nycticeius	humeralis humeralis
+Nycticeius	humeralis
+Nycticeius	humeralis Rafinesque 1818
+Nycticeius	humeralis subtropicalis Schwartz 1951
+Nycticeius	subtropicalis Schwartz 1951
+Nycticeius	rueppellii Peters 1866
+Nycticeius	sanborni Troughton 1937
+Nycticeius	schlieffeni Peters 1859
+Scotophilus	borbonicus Geoffroy 1803
+Scotophilus	celebensis Sody 1928
+Scotophilus	collinus Sody 1936
+Scotophilus	dinganii dinganii
+Scotophilus	dinganii
+Scotophilus	dinganii colias Thomas 1904
+Scotophilus	colias Thomas 1904
+Scotophilus	dinganii herero Thomas 1906
+Scotophilus	herero Thomas 1906
+Scotophilus	dinganii pondoensis Roberts 1946
+Scotophilus	pondoensis Roberts 1946
+Scotophilus	dinganii Smith 1833
+Scotophilus	heathi Horsfield 1831
+Scotophilus	heathii heathii
+Scotophilus	heathii
+Scotophilus	heathii insularis Allen 1906
+Scotophilus	insularis Allen 1906
+Scotophilus	heathii watkinsi Sanborn 1952
+Scotophilus	watkinsi Sanborn 1952
+Scotophilus	heathii Horsfield 1831
+Scotophilus	kuhlii kuhlii
+Scotophilus	kuhlii
+Scotophilus	kuhlii panayensis Sody 1928
+Scotophilus	panayensis Sody 1928
+Scotophilus	kuhlii temminckii Horsfield 1824
+Scotophilus	temminckii Horsfield 1824
+Scotophilus	kuhlii castaneus Horsfield 1851
+Scotophilus	castaneus Horsfield 1851
+Scotophilus	kuhlii consobrinus Allen 1906
+Scotophilus	consobrinus Allen 1906
+Scotophilus	kuhlii solutatus Sody 1936
+Scotophilus	solutatus Sody 1936
+Scotophilus	kuhlii Leach 1821
+Scotophilus	kuhlii gairdneri Kloss 1917
+Scotophilus	gairdneri Kloss 1917
+Scotophilus	leucogaster Cretzschmar 1830
+Scotophilus	leucogaster damarensis Thomas 1906
+Scotophilus	damarensis Thomas 1906
+Scotophilus	leucogaster leucogaster Cretzschmar 1830
+Scotophilus	marovaza Goodman Ratrimomanarivo & Randrianandrianina 2006
+Scotophilus	nigrita nigrita Schreber 1774
+Scotophilus	nigrita Schreber 1774
+Scotophilus	nigrita alvenslebeni Dalquest 1965
+Scotophilus	alvenslebeni Dalquest 1965
+Scotophilus	nucella Robbins 1973
+Scotophilus	nux Thomas 1904
+Scotophilus	robustus Milne-Edwards 1881
+Scotophilus	tandrefana Goodman Jenkins & Ratrimomanarivo 2005
+Scotophilus	viridis nigritellus de Winton 1899
+Scotophilus	nigritellus de Winton 1899
+Scotophilus	viridis Peters 1852
+Scotophilus	viridis viridis Peters 1852
+Ancenycteris	rasmussesi
+Arielulus	aureocollaris Kock & Storch 1996
+Arielulus	circumdatus Temminck 1840
+Arielulus	cuprosus Hill & Francis 1984
+Arielulus	societatis Hill 1972
+Arielulus	torquatus Csorba & Lee 1999
+Bauerus	dubiaquercus Van Gelder 1959
+Glauconycteris	alboguttata Allen 1917
+Glauconycteris	alboguttatus
+Glauconycteris	argentata Dobson 1875
+Glauconycteris	beatrix Thomas 1901
+Glauconycteris	curryae Eger & Schlitter 2001
+Glauconycteris	egeria Thomas 1913
+Glauconycteris	gleni Peterson & Smith 1973
+Glauconycteris	humeralis Allen 1917
+Glauconycteris	kenyacola Peterson 1982
+Glauconycteris	machadoi Hayman 1963
+Glauconycteris	poensis Gray 1842
+Glauconycteris	superba Hayman 1939
+Glauconycteris	variegata variegata Tomes 1861
+Glauconycteris	variegata Tomes 1861
+Glauconycteris	variegata phalaena Thomas 1915
+Glauconycteris	phalaena Thomas 1915
+Harpiocephalus	harpia lasyurus Hodgson 1847
+Harpiocephalus	lasyurus Hodgson 1847
+Harpiocephalus	harpia madrassius Thomas 1923
+Harpiocephalus	madrassius Thomas 1923
+Harpiocephalus	harpia Temminck 1840
+Harpiocephalus	harpia harpia
+Harpiocephalus	harpia
+Harpiocephalus	harpia rufulus Allen 1913
+Harpiocephalus	rufulus Allen 1913
+Harpiocephalus	mordax Thomas 1923
+Idionycteris	phyllotis Allen 1916
+Khonsunycteris	aegypticus
+Miniopterus	africanus Sanborn 1936
+Miniopterus	approximatus
+Miniopterus	australis tibialis Tomes 1858
+Miniopterus	tibialis Tomes 1858
+Miniopterus	australis australis
+Miniopterus	australis
+Miniopterus	australis solomonensis Maeda 1982
+Miniopterus	solomonensis Maeda 1982
+Miniopterus	australis Tomes 1858
+Miniopterus	fossilis
+Miniopterus	fraterculus Thomas & Schwann 1906
+Miniopterus	fuliginosus Hodgson 1835
+Miniopterus	fuscus Bonhote 1902
+Miniopterus	gleni Peterson Eger
+Miniopterus	griveaudi Harrison 1959
+Miniopterus	inflatus rufus Sanborn 1936
+Miniopterus	rufus Sanborn 1936
+Miniopterus	inflatus Thomas 1903
+Miniopterus	inflatus inflatus Thomas 1903
+Miniopterus	macrocneme Revilliod 1914
+Miniopterus	magnater Sanborn 1931
+Miniopterus	magnater macrodens Maeda 1982
+Miniopterus	macrodens Maeda 1982
+Miniopterus	magnater magnater
+Miniopterus	magnater
+Miniopterus	majori Thomas 1906
+Miniopterus	manavi manavi
+Miniopterus	manavi
+Miniopterus	manavi Thomas 1906
+Miniopterus	manavi griveaudi Harrison 1959
+Miniopterus	medius Thomas & Wroughton 1909
+Miniopterus	minor minor
+Miniopterus	minor
+Miniopterus	minor Peters 1867
+Miniopterus	minor newtoni Bocage 1889
+Miniopterus	newtoni Bocage 1889
+Miniopterus	minor occidentalis Juste & Ibáñez 1992
+Miniopterus	occidentalis Juste & Ibáñez 1992
+Miniopterus	natalensis arenarius Heller 1912
+Miniopterus	arenarius Heller 1912
+Miniopterus	natalensis natalensis
+Miniopterus	natalensis
+Miniopterus	natalensis Smith 1834
+Miniopterus	oceanensis Maeda 1982
+Miniopterus	paululus witkampi Sody 1930
+Miniopterus	witkampi Sody 1930
+Miniopterus	paululus graysonae Kitchener 2002
+Miniopterus	graysonae Kitchener 2002
+Miniopterus	paululus Hollister 1913
+Miniopterus	paululus paululus Hollister 1913
+Miniopterus	petersoni Goodman Bradman Maminirina Ryan Christidis & Appleton 2008
+Miniopterus	pusillus Dobson 1876
+Miniopterus	robustior Revilliod 1914
+Miniopterus	schreibersi Kuhl 1817
+Miniopterus	schreibersii eschscholtzii Waterhouse 1845
+Miniopterus	eschscholtzii Waterhouse 1845
+Miniopterus	schreibersii orsinii Temminck 1840
+Miniopterus	orsinii Temminck 1840
+Miniopterus	schreibersii parvipes Allen 1923
+Miniopterus	parvipes Allen 1923
+Miniopterus	schreibersii Kuhl 1817
+Miniopterus	schreibersii blepotis Temminck 1840
+Miniopterus	blepotis Temminck 1840
+Miniopterus	schreibersii haradai Maeda 1982
+Miniopterus	haradai Maeda 1982
+Miniopterus	schreibersii pallidus Thomas 1907
+Miniopterus	pallidus Thomas 1907
+Miniopterus	schreibersii bassanii Cardinal & Christidis 2000
+Miniopterus	bassanii Cardinal & Christidis 2000
+Miniopterus	schreibersii schreibersii
+Miniopterus	schreibersii
+Miniopterus	schreibersii villiersi Aellen 1956
+Miniopterus	villiersi Aellen 1956
+Miniopterus	schreibersii chinensis Thomas 1908
+Miniopterus	chinensis Thomas 1908
+Miniopterus	schreibersii dasythrix Temminck 1840
+Miniopterus	dasythrix Temminck 1840
+Miniopterus	schreibersii fuliginosus Hodgson 1835
+Miniopterus	schreibersii japoniae Thomas 1905
+Miniopterus	japoniae Thomas 1905
+Miniopterus	schreibersii oceanensis Maeda 1982
+Miniopterus	schreibersii orianae Thomas 1922
+Miniopterus	orianae Thomas 1922
+Miniopterus	schreibersii smitianus Thomas 1927
+Miniopterus	smitianus Thomas 1927
+Miniopterus	shortridgei Laurie & Hill 1957
+Miniopterus	sororculus Goodman Ryan Maminirina Fahr Christidis & Appleton 2007
+Miniopterus	tao
+Miniopterus	tristis propritristis Peterson 1981
+Miniopterus	propritristis Peterson 1981
+Miniopterus	tristis Waterhouse 1845
+Miniopterus	tristis grandis Peterson 1981
+Miniopterus	grandis Peterson 1981
+Miniopterus	tristis insularis Peterson 1981
+Miniopterus	insularis Peterson 1981
+Miniopterus	tristis celebensis Peterson 1981
+Miniopterus	celebensis Peterson 1981
+Miniopterus	tristis tristis
+Miniopterus	tristis
+Myotis	abei Yoshikura 1944
+Myotis	adversus orientis Hill 1983
+Myotis	orientis Hill 1983
+Myotis	adversus carimatae Miller 1906
+Myotis	carimatae Miller 1906
+Myotis	adversus taiwanensis
+Myotis	taiwanensis
+Myotis	adversus adversus
+Myotis	adversus
+Myotis	adversus tanimbarensis Kitchener 1995
+Myotis	tanimbarensis Kitchener 1995
+Myotis	adversus wetarensis Kitchener 1995
+Myotis	wetarensis Kitchener 1995
+Myotis	adversus Horsfield 1824
+Myotis	aelleni Baud 1979
+Myotis	albescens Geoffroy 1806
+Myotis	alcathoe von Helversen & Heller 2001
+Myotis	von Helversen & Heller 2001
+Myotis	altarium Thomas 1911
+Myotis	anjouanensis Dorst 1960
+Myotis	annamiticus Kruskop & Tsytsulina 2001
+Myotis	annectans Dobson 1871
+Myotis	antiquus
+Myotis	atacamensis Lataste 1892
+Myotis	ater ater
+Myotis	ater
+Myotis	ater Peters 1866
+Myotis	ater nugax Allen & Coolidge 1940
+Myotis	nugax Allen & Coolidge 1940
+Myotis	aurascens Kuzyakin 1935
+Myotis	auriculacea
+Myotis	auriculus apache Hoffmeister & Krutzsch 1955
+Myotis	apache Hoffmeister & Krutzsch 1955
+Myotis	auriculus auriculus
+Myotis	auriculus
+Myotis	auriculus Baker & Stains 1955
+Myotis	australis Dobson 1878
+Myotis	austroriparius Rhoads 1897
+Myotis	bechsteini Kuhl 1817
+Myotis	bechsteinii Kuhl 1817
+Myotis	blythii ancilla Thomas 1910
+Myotis	ancilla Thomas 1910
+Myotis	blythii oxygnathus Monticelli 1885
+Myotis	oxygnathus Monticelli 1885
+Myotis	blythii blythii
+Myotis	blythii
+Myotis	blythii Tomes 1857
+Myotis	blythii lesviacus Iliopoulou 1984
+Myotis	lesviacus Iliopoulou 1984
+Myotis	blythii omari Thomas 1906
+Myotis	omari Thomas 1906
+Myotis	bocagei Peters 1870
+Myotis	bocagii Peters 1870
+Myotis	bocagii cupreolus Thomas 1904
+Myotis	cupreolus Thomas 1904
+Myotis	bocagii dogalensis Monticelli 1887
+Myotis	dogalensis Monticelli 1887
+Myotis	bocagii bocagii
+Myotis	bocagii
+Myotis	bombina
+Myotis	bombinus amurensis Ognev 1927
+Myotis	amurensis Ognev 1927
+Myotis	bombinus bombinus
+Myotis	bombinus
+Myotis	bombinus Thomas 1906
+Myotis	boyeri
+Myotis	brandti Eversmann 1845
+Myotis	brandtii brandtii
+Myotis	brandtii
+Myotis	brandtii Eversmann 1845
+Myotis	brandtii gracilis Ognev 1927
+Myotis	gracilis Ognev 1927
+Myotis	bucharensis Kuzyakin 1950
+Myotis	californica
+Myotis	californicus Audubon & Bachman 1842
+Myotis	californicus californicus
+Myotis	californicus
+Myotis	californicus caurinus Miller 1897
+Myotis	caurinus Miller 1897
+Myotis	californicus mexicanus Saussure 1860
+Myotis	mexicanus Saussure 1860
+Myotis	californicus stephensi Dalquest 1946
+Myotis	stephensi Dalquest 1946
+Myotis	capacchinii
+Myotis	capaccinii bureschi Heinrich 1936
+Myotis	bureschi Heinrich 1936
+Myotis	capaccinii Bonaparte 1837
+Myotis	capaccinii capaccinii Bonaparte 1837
+Myotis	carteri
+Myotis	chiloensis Waterhouse 1840
+Myotis	chinensis Tomes 1857
+Myotis	cobanensis Goodwin 1955
+Myotis	csorbai Topál 1997
+Myotis	dasycneme Boie 1825
+Myotis	daubentoni Kuhl 1817
+Myotis	daubentonii chasanensis Tiunov 1997
+Myotis	chasanensis Tiunov 1997
+Myotis	daubentonii loukashkini Shamel 1942
+Myotis	loukashkini Shamel 1942
+Myotis	daubentonii volgensis Eversmann 1840
+Myotis	volgensis Eversmann 1840
+Myotis	daubentonii petax Hollister 1912
+Myotis	petax Hollister 1912
+Myotis	daubentonii Kuhl 1817
+Myotis	daubentonii daubentonii
+Myotis	daubentonii
+Myotis	daubentonii nathalinae Tupinier 1977
+Myotis	nathalinae Tupinier 1977
+Myotis	daubentonii ussuriensis Ognev 1927
+Myotis	ussuriensis Ognev 1927
+Myotis	davidii Peters 1869
+Myotis	dieteri Happold 2005
+Myotis	dinellii Geoffroy 1824
+Myotis	dominicensis Miller 1902
+Myotis	elegans Hall 1962
+Myotis	emarginata
+Myotis	emarginatus emarginatus
+Myotis	emarginatus
+Myotis	emarginatus desertorum Dobson 1875
+Myotis	desertorum Dobson 1875
+Myotis	emarginatus turcomanicus Bobrinskii 1925
+Myotis	turcomanicus Bobrinskii 1925
+Myotis	emarginatus Geoffroy 1806
+Myotis	evotis chrysonotus Allen 1896
+Myotis	chrysonotus Allen 1896
+Myotis	evotis milleri Elliot 1903
+Myotis	milleri Elliot 1903
+Myotis	evotis pacificus Dalquest 1943
+Myotis	pacificus Dalquest 1943
+Myotis	evotis Allen 1864
+Myotis	evotis evotis
+Myotis	evotis
+Myotis	evotis jonesorum Manning 1993
+Myotis	jonesorum Manning 1993
+Myotis	evotis micronyx Nelson & Goldman 1909
+Myotis	micronyx Nelson & Goldman 1909
+Myotis	fimbriata
+Myotis	fimbriatus Peters 1870
+Myotis	findleyi Bogan 1978
+Myotis	formosa
+Myotis	formosus bartelsi Jentink 1910
+Myotis	bartelsi Jentink 1910
+Myotis	formosus rufoniger Tomes 1858
+Myotis	rufoniger Tomes 1858
+Myotis	formosus weberi Jentink 1890
+Myotis	weberi Jentink 1890
+Myotis	formosus flavus Hodgson 1835
+Myotis	flavus Hodgson 1835
+Myotis	formosus formosus
+Myotis	formosus
+Myotis	formosus rufopictus Waterhouse 1845
+Myotis	rufopictus Waterhouse 1845
+Myotis	formosus tsuensis Kuroda 1922
+Myotis	tsuensis Kuroda 1922
+Myotis	formosus watasei Kishida 1924
+Myotis	watasei Kishida 1924
+Myotis	formosus Hodgson 1835
+Myotis	fortidens fortidens
+Myotis	fortidens
+Myotis	fortidens Miller & Allen 1928
+Myotis	fortidens sonoriensis Findley & Jones 1967
+Myotis	sonoriensis Findley & Jones 1967
+Myotis	frater eniseensis Tsytsulina & Strelkov 2001
+Myotis	eniseensis Tsytsulina & Strelkov 2001
+Myotis	frater longicaudatus Ognev 1927
+Myotis	longicaudatus Ognev 1927
+Myotis	frater Allen 1923
+Myotis	frater frater
+Myotis	frater
+Myotis	frater kaguyae Imaizumi 1956
+Myotis	kaguyae Imaizumi 1956
+Myotis	gomantongensis Francis & Hill 1998
+Myotis	goudoti Smith 1834
+Myotis	grisecens
+Myotis	grisescens Howell 1909
+Myotis	hajastanicus Argyropulo 1939
+Myotis	hasseltii abboti Lyon 1916
+Myotis	abboti Lyon 1916
+Myotis	hasseltii continentis Shamel 1942
+Myotis	continentis Shamel 1942
+Myotis	hasseltii hasseltii
+Myotis	hasseltii
+Myotis	hasseltii Temminck 1840
+Myotis	hasseltii macellus Temminck 1840
+Myotis	macellus Temminck 1840
+Myotis	helleri
+Myotis	hermani Thomas 1923
+Myotis	horsfieldii deignani Shamel 1942
+Myotis	deignani Shamel 1942
+Myotis	horsfieldii horsfieldii
+Myotis	horsfieldii
+Myotis	horsfieldii peshwa Thomas 1915
+Myotis	peshwa Thomas 1915
+Myotis	horsfieldii Temminck 1840
+Myotis	horsfieldii dryas Andersen 1907
+Myotis	dryas Andersen 1907
+Myotis	horsfieldii jeannei Taylor 1934
+Myotis	jeannei Taylor 1934
+Myotis	hosonoi Imaizumi 1954
+Myotis	ikonnikovi Ognev 1912
+Myotis	insularis
+Myotis	insularum Dobson 1878
+Myotis	keaysi pilosotibialis
+Myotis	pilosotibialis
+Myotis	keaysi keaysi
+Myotis	keaysi
+Myotis	keaysi Allen 1914
+Myotis	keenii Merriam 1895
+Myotis	laniger Peters 1870
+Myotis	leibi
+Myotis	leibii Audubon & Bachman 1842
+Myotis	lesueuri Roberts 1919
+Myotis	levis levis
+Myotis	levis
+Myotis	levis dinellii I Geoffroy 1824
+Myotis	dinellii I Geoffroy 1824
+Myotis	levis Geoffroy 1824
+Myotis	longipes Dobson 1873
+Myotis	lucifugus alascensis Miller 1897
+Myotis	alascensis Miller 1897
+Myotis	lucifugus carissima Thomas 1904
+Myotis	carissima Thomas 1904
+Myotis	lucifugus pernox Hollister 1911
+Myotis	pernox Hollister 1911
+Myotis	lucifugus LeConte 1831
+Myotis	lucifugus lucifugus
+Myotis	lucifugus
+Myotis	lucifugus relictus Harris 1974
+Myotis	relictus Harris 1974
+Myotis	macrodactylus insularis Tiunov 1997
+Myotis	insularis Tiunov 1997
+Myotis	macrodactylus continentalis Tiunov 1997
+Myotis	continentalis Tiunov 1997
+Myotis	macrodactylus macrodactylus
+Myotis	macrodactylus
+Myotis	macrodactylus Temminck 1840
+Myotis	macropus Gould 1854
+Myotis	macrotarsa
+Myotis	macrotarsus saba Davis 1962
+Myotis	saba Davis 1962
+Myotis	macrotarsus macrotarsus
+Myotis	macrotarsus
+Myotis	macrotarsus Waterhouse 1845
+Myotis	mangamolaris
+Myotis	martiniquensis martiniquensis
+Myotis	martiniquensis
+Myotis	martiniquensis nyctor
+Myotis	nyctor
+Myotis	martiniquensis La
+Myotis	melanorhinus Merriam 1890
+Myotis	moluccarum Thomas 1915
+Myotis	moluccarum moluccarum
+Myotis	moluccarum
+Myotis	moluccarum richardsi Kitchener 1995
+Myotis	richardsi Kitchener 1995
+Myotis	moluccarum solomonis Troughton 1929
+Myotis	solomonis Troughton 1929
+Myotis	montivaga
+Myotis	montivagus borneoensis Hill & Francis 1984
+Myotis	borneoensis Hill & Francis 1984
+Myotis	montivagus peytoni Wroughton & Ryley 1913
+Myotis	peytoni Wroughton & Ryley 1913
+Myotis	montivagus federatus Thomas 1916
+Myotis	federatus Thomas 1916
+Myotis	montivagus Dobson 1874
+Myotis	montivagus montivagus
+Myotis	montivagus
+Myotis	morrisi Hill 1971
+Myotis	muricola patriciae Taylor 1934
+Myotis	patriciae Taylor 1934
+Myotis	muricola moupinensis Milne-Edwards 1872
+Myotis	moupinensis Milne-Edwards 1872
+Myotis	muricola muricola
+Myotis	muricola
+Myotis	muricola Gray 1846
+Myotis	muricola herrei Taylor 1934
+Myotis	herrei Taylor 1934
+Myotis	muricola latirostris Kishida 1932
+Myotis	latirostris Kishida 1932
+Myotis	muricola niasensis Lyon 1916
+Myotis	niasensis Lyon 1916
+Myotis	muricola browni Taylor 1934
+Myotis	browni Taylor 1934
+Myotis	muricola caliginosus Tomes 1859
+Myotis	caliginosus Tomes 1859
+Myotis	murinoides
+Myotis	myotis macrocephalicus Harrison & Lewis 1961
+Myotis	macrocephalicus Harrison & Lewis 1961
+Myotis	myotis myotis
+Myotis	myotis
+Myotis	myotis Borkhausen 1797
+Myotis	mystacina
+Myotis	mystacinus caucasicus Tsytsulina 2000
+Myotis	caucasicus Tsytsulina 2000
+Myotis	mystacinus occidentalis Benda 2000
+Myotis	occidentalis Benda 2000
+Myotis	mystacinus mystacinus
+Myotis	mystacinus
+Myotis	mystacinus Kuhl 1817
+Myotis	nattereri Kuhl 1817
+Myotis	nattereri nattereri
+Myotis	nattereri
+Myotis	nattereri tschuliensis Kuzyakin 1935
+Myotis	tschuliensis Kuzyakin 1935
+Myotis	nesopolus nesopolus
+Myotis	nesopolus
+Myotis	nesopolus Miller 1900
+Myotis	nesopolus larensis
+Myotis	larensis
+Myotis	nigricans extremus Miller & Allen 1928
+Myotis	extremus Miller & Allen 1928
+Myotis	nigricans Schinz 1821
+Myotis	nigricans carteri
+Myotis	nigricans nigricans
+Myotis	nigricans
+Myotis	nigricans osculatii Cornalia 1849
+Myotis	osculatii Cornalia 1849
+Myotis	nipalensis nipalensis
+Myotis	nipalensis
+Myotis	nipalensis Dobson 1871
+Myotis	nipalensis transcaspicus Ognev & Heptner 1928
+Myotis	transcaspicus Ognev & Heptner 1928
+Myotis	nipalensis przewalskii Bobrinski 1926
+Myotis	przewalskii Bobrinski 1926
+Myotis	occultus Hollister 1909
+Myotis	oreias Temminck 1840
+Myotis	oxyota
+Myotis	oxyotus oxyotus
+Myotis	oxyotus
+Myotis	oxyotus gardneri
+Myotis	gardneri
+Myotis	oxyotus Peters 1867
+Myotis	ozensis Imaizumi 1954
+Myotis	patriciae
+Myotis	peninsularis Miller 1898
+Myotis	pequinius Thomas 1908
+Myotis	pilosus Peters 1869
+Myotis	planiceps Baker 1955
+Myotis	pruinosa
+Myotis	pruinosus Yoshiyuki 1971
+Myotis	punicus Felten Spitzenberger
+Myotis	rectidens
+Myotis	ricketti Thomas 1894
+Myotis	ridleyi Thomas 1898
+Myotis	riparia
+Myotis	riparius Handley 1960
+Myotis	rosseti Oey 1951
+Myotis	ruber Geoffroy 1806
+Myotis	rufoniger
+Myotis	rufoniger rufoniger
+Myotis	rufoniger watasei Thomes 1870
+Myotis	watasei Thomes 1870
+Myotis	salodorensis
+Myotis	sanctialbani
+Myotis	schaubi araxenus Dahl 1947
+Myotis	araxenus Dahl 1947
+Myotis	schaubi Kormos 1934
+Myotis	schaubi schaubi
+Myotis	schaubi
+Myotis	scotti Thomas 1927
+Myotis	seabrai Thomas 1912
+Myotis	sicarius Thomas 1915
+Myotis	siligorensis siligorensis
+Myotis	siligorensis
+Myotis	siligorensis sowerbyi Howell 1926
+Myotis	sowerbyi Howell 1926
+Myotis	siligorensis Horsfield 1855
+Myotis	siligorensis alticraniatus Osgood 1932
+Myotis	alticraniatus Osgood 1932
+Myotis	siligorensis thaianus Shamel 1942
+Myotis	thaianus Shamel 1942
+Myotis	sima
+Myotis	simus Thomas 1901
+Myotis	sodalis Miller & Allen 1928
+Myotis	stalkeri Thomas 1910
+Myotis	thysanodes pahasapensis Jones & Genoways 1967
+Myotis	pahasapensis Jones & Genoways 1967
+Myotis	thysanodes aztecus Miller & Allen 1928
+Myotis	aztecus Miller & Allen 1928
+Myotis	thysanodes vespertinus Manning & Jones 1988
+Myotis	vespertinus Manning & Jones 1988
+Myotis	thysanodes Miller 1897
+Myotis	thysanodes thysanodes
+Myotis	thysanodes
+Myotis	tricolor Temminck 1832
+Myotis	velifer Allen 1890
+Myotis	velifer brevis Vaughan 1954
+Myotis	brevis Vaughan 1954
+Myotis	velifer grandis Hayward 1970
+Myotis	grandis Hayward 1970
+Myotis	velifer magnamolaris Choate & Hall 1967
+Myotis	magnamolaris Choate & Hall 1967
+Myotis	velifer incautus Allen 1896
+Myotis	incautus Allen 1896
+Myotis	velifer velifer
+Myotis	velifer
+Myotis	vivesi Menegaux 1901
+Myotis	volans interior Miller 1914
+Myotis	interior Miller 1914
+Myotis	volans volans
+Myotis	volans
+Myotis	volans amotus Miller 1914
+Myotis	amotus Miller 1914
+Myotis	volans longicrus True 1886
+Myotis	longicrus True 1886
+Myotis	volans Allen 1866
+Myotis	welwitschii Gray 1866
+Myotis	yanbarensis Maeda & Matsumura 1998
+Myotis	yesoensis Yoshiyuki 1984
+Myotis	yumanensis lambi Benson 1947
+Myotis	lambi Benson 1947
+Myotis	yumanensis sociabilis Grinnell 1914
+Myotis	sociabilis Grinnell 1914
+Myotis	yumanensis yumanensis
+Myotis	yumanensis
+Myotis	yumanensis oxalis Dalquest 1947
+Myotis	oxalis Dalquest 1947
+Myotis	yumanensis lutosus Miller & Allen 1928
+Myotis	lutosus Miller & Allen 1928
+Myotis	yumanensis saturatus Miller 1897
+Myotis	saturatus Miller 1897
+Myotis	yumanensis Allen 1864
+Neoromicia	brunneus Thomas 1880
+Neoromicia	capensis garambae Allen 1917
+Neoromicia	garambae Allen 1917
+Neoromicia	capensis Smith 1829
+Neoromicia	capensis nkatiensis Roberts 1932
+Neoromicia	nkatiensis Roberts 1932
+Neoromicia	capensis notius Allen 1908
+Neoromicia	notius Allen 1908
+Neoromicia	capensis damarensis Noack 1889
+Neoromicia	damarensis Noack 1889
+Neoromicia	capensis gracilior Thomas & Schwann 1905
+Neoromicia	gracilior Thomas & Schwann 1905
+Neoromicia	capensis capensis
+Neoromicia	capensis
+Neoromicia	capensis grandidieri Dobson 1876
+Neoromicia	grandidieri Dobson 1876
+Neoromicia	flavescens Seabra 1900
+Neoromicia	guineensis guineensis Bocage 1889
+Neoromicia	guineensis Bocage 1889
+Neoromicia	guineensis rectitragus Wettstein 1916
+Neoromicia	rectitragus Wettstein 1916
+Neoromicia	helios Heller 1912
+Neoromicia	melckorum Roberts 1919
+Neoromicia	nanus culex Thomas 1911
+Neoromicia	culex Thomas 1911
+Neoromicia	nanus fouriei Thomas 1926
+Neoromicia	fouriei Thomas 1926
+Neoromicia	nanus meesteri Kock 2001
+Neoromicia	meesteri Kock 2001
+Neoromicia	nanus minusculus Miller 1900
+Neoromicia	minusculus Miller 1900
+Neoromicia	nanus nanus
+Neoromicia	nanus
+Neoromicia	nanus stampflii Jentink 1888
+Neoromicia	stampflii Jentink 1888
+Neoromicia	nanus Peters 1852
+Neoromicia	rendalli phasma Allen 1911
+Neoromicia	phasma Allen 1911
+Neoromicia	rendalli rendalli Thomas 1889
+Neoromicia	rendalli Thomas 1889
+Neoromicia	somalicus ugandae Hollister 1916
+Neoromicia	ugandae Hollister 1916
+Neoromicia	somalicus humbloti Milne-Edwards 1881
+Neoromicia	humbloti Milne-Edwards 1881
+Neoromicia	somalicus malagasyensis
+Neoromicia	malagasyensis
+Neoromicia	somalicus Thomas 1901
+Neoromicia	somalicus somalicus Thomas 1901
+Neoromicia	tenuipinnis ater Allen 1917
+Neoromicia	ater Allen 1917
+Neoromicia	tenuipinnis tenuipinnis
+Neoromicia	tenuipinnis
+Neoromicia	tenuipinnis Peters 1872
+Neoromicia	zuluensis Roberts 1924
+Nyctalus	aviator Thomas 1911
+Nyctalus	azoreum Thomas 1901
+Nyctalus	furvus Imaizumi & Yoshiyuki 1968
+Nyctalus	lasiopterus Schreber 1780
+Nyctalus	leisleri leisleri Kuhl 1817
+Nyctalus	leisleri Kuhl 1817
+Nyctalus	leisleri verrucosus Bowditch 1825
+Nyctalus	verrucosus Bowditch 1825
+Nyctalus	montanus Barrett-Hamilton 1906
+Nyctalus	noctula labiata Hodgson 1835
+Nyctalus	labiata Hodgson 1835
+Nyctalus	noctula Schreber 1774
+Nyctalus	noctula lebanoticus Harrison 1962
+Nyctalus	lebanoticus Harrison 1962
+Nyctalus	noctula mecklenburzevi Kuziakin 1934
+Nyctalus	mecklenburzevi Kuziakin 1934
+Nyctalus	noctula noctula
+Nyctalus	noctula
+Nyctalus	plancyi velutinus Allen 1923
+Nyctalus	velutinus Allen 1923
+Nyctalus	plancyi plancyi
+Nyctalus	plancyi
+Nyctalus	plancyi Gerbe 1880
+Nycticeinops	schlieffeni Peters 1859
+Paleptesicus	priscus
+Phoniscus	aerosa Tomes 1858
+Phoniscus	atrox Miller 1905
+Phoniscus	jagorii Peters 1866
+Phoniscus	papuensis Dobson 1878
+Scotoecus	albigula Thomas 1909
+Scotoecus	albofuschus
+Scotoecus	albofuscus Thomas 1890
+Scotoecus	albofuscus albofuscus Thomas 1890
+Scotoecus	albofuscus woodi Thomas 1917
+Scotoecus	woodi Thomas 1917
+Scotoecus	hindei falabae Thomas 1915
+Scotoecus	falabae Thomas 1915
+Scotoecus	hindei hindei Thomas 1901
+Scotoecus	hindei Thomas 1901
+Scotoecus	hirundo de Winton 1899
+Scotoecus	pallidus Dobson 1876
+Scotomanes	emarginatus Dobson 1871
+Scotomanes	ornatus imbrensis Thomas 1921
+Scotomanes	imbrensis Thomas 1921
+Scotomanes	ornatus Blyth 1851
+Scotomanes	ornatus ornatus Blyth 1851
+Scotomanes	ornatus sinensis Thomas 1921
+Scotomanes	sinensis Thomas 1921
+Shanwangia	unexpectata
+Suaptenos	whitei
+Vespertilio	auritus
+Vespertilio	leporinus
+Vespertilio	murinus ussuriensis Wallin 1969
+Vespertilio	ussuriensis Wallin 1969
+Vespertilio	murinus murinus
+Vespertilio	murinus
+Vespertilio	murinus Linnaeus 1758
+Vespertilio	perspicillatus
+Vespertilio	sinensis andersoni Wallin 1963
+Vespertilio	andersoni Wallin 1963
+Vespertilio	sinensis sinensis
+Vespertilio	sinensis
+Vespertilio	sinensis Peters 1880
+Vespertilio	sinensis namiyei Kuroda 1920
+Vespertilio	namiyei Kuroda 1920
+Vespertilio	sinensis noctula Namie 1889
+Vespertilio	noctula Namie 1889
+Vespertilio	sinensis orientalis Wallin 1969
+Vespertilio	orientalis Wallin 1969
+Vespertilio	spectrum
+Vespertilio	superans Thomas 1899
+Vespertilio	vampyrus
+Anzanycteris	anzensis
+Barbastella	barbastellus barbastellus
+Barbastella	barbastellus
+Barbastella	barbastellus guanchae
+Barbastella	guanchae
+Barbastella	barbastellus Schreber 1774
+Barbastella	leucomelas Cretzschmar 1830
+Barbastella	leucomelas darjelingensis Hodgson 1855
+Barbastella	darjelingensis Hodgson 1855
+Barbastella	leucomelas leucomelas
+Barbastella	leucomelas
+Barbastella	leucomelus
+Eptesicus	andinus Allen 1914
+Eptesicus	aurelianensis
+Eptesicus	baverstocki Kitchener Jones & Caputi 1987
+Eptesicus	bobrinskoi Kuzyakin 1935
+Eptesicus	bottae bottae
+Eptesicus	bottae
+Eptesicus	bottae omanensis Harrison 1976
+Eptesicus	omanensis Harrison 1976
+Eptesicus	bottae hingstoni Thomas 1919
+Eptesicus	hingstoni Thomas 1919
+Eptesicus	bottae Peters 1869
+Eptesicus	bottae innesi Lataste 1887
+Eptesicus	innesi Lataste 1887
+Eptesicus	bottae taftanimontis de Roguin 1988
+Eptesicus	taftanimontis de Roguin 1988
+Eptesicus	bottae anatolicus Felten 1971
+Eptesicus	anatolicus Felten 1971
+Eptesicus	bottae ognevi Bobrinskii 1918
+Eptesicus	ognevi Bobrinskii 1918
+Eptesicus	brasiliensis brasiliensis Desmarest 1819
+Eptesicus	brasiliensis Desmarest 1819
+Eptesicus	brasiliensis melanopterus Jentink 1904
+Eptesicus	melanopterus Jentink 1904
+Eptesicus	brasiliensis thomasi Davis 1966
+Eptesicus	thomasi Davis 1966
+Eptesicus	brasiliensis argentinus Thomas 1920
+Eptesicus	argentinus Thomas 1920
+Eptesicus	brunneus Thomas 1880
+Eptesicus	campanensis
+Eptesicus	capensis Smith 1829
+Eptesicus	chiriquinus Thomas 1920
+Eptesicus	demissus Thomas 1916
+Eptesicus	diminutus diminutus Osgood 1915
+Eptesicus	diminutus Osgood 1915
+Eptesicus	diminutus fidelis Thomas 1920
+Eptesicus	fidelis Thomas 1920
+Eptesicus	dimissus Thomas 1916
+Eptesicus	douglasorum Kitchener 1976
+Eptesicus	flavescens Seabra 1900
+Eptesicus	floweri De Winton 1901
+Eptesicus	furinalis carteri Davis 1965
+Eptesicus	carteri Davis 1965
+Eptesicus	furinalis findleyi Williams 1978
+Eptesicus	findleyi Williams 1978
+Eptesicus	furinalis furinalis
+Eptesicus	furinalis
+Eptesicus	furinalis gaumeri Allen 1897
+Eptesicus	gaumeri Allen 1897
+Eptesicus	furinalis d'Orbigny 1847
+Eptesicus	fuscus bahamensis Miller 1897
+Eptesicus	bahamensis Miller 1897
+Eptesicus	fuscus miradorensis Allen 1866
+Eptesicus	miradorensis Allen 1866
+Eptesicus	fuscus pallidus Young 1908
+Eptesicus	pallidus Young 1908
+Eptesicus	fuscus petersoni Silva Taboada 1974
+Eptesicus	petersoni Silva Taboada 1974
+Eptesicus	fuscus Beauvois 1796
+Eptesicus	fuscus hispaniolae Miller 1918
+Eptesicus	hispaniolae Miller 1918
+Eptesicus	fuscus wetmorei Jackson 1916
+Eptesicus	wetmorei Jackson 1916
+Eptesicus	fuscus bernardinus Rhoads 1902
+Eptesicus	bernardinus Rhoads 1902
+Eptesicus	fuscus dutertreus Gervais 1837
+Eptesicus	dutertreus Gervais 1837
+Eptesicus	fuscus fuscus
+Eptesicus	fuscus
+Eptesicus	fuscus peninsulae Thomas 1898
+Eptesicus	peninsulae Thomas 1898
+Eptesicus	fuscus lynni Shamel 1945
+Eptesicus	lynni Shamel 1945
+Eptesicus	fuscus osceola Rhoads 1902
+Eptesicus	osceola Rhoads 1902
+Eptesicus	gobiensis centrasiaticus Bobrinskii 1926
+Eptesicus	centrasiaticus Bobrinskii 1926
+Eptesicus	gobiensis gobiensis
+Eptesicus	gobiensis
+Eptesicus	gobiensis kashgaricus Bobrinskii 1926
+Eptesicus	kashgaricus Bobrinskii 1926
+Eptesicus	gobiensis Bobrinskii 1926
+Eptesicus	guadeloupensis Genoways & Baker 1975
+Eptesicus	guineensis Bocage 1889
+Eptesicus	hottentotus hottentotus
+Eptesicus	hottentotus
+Eptesicus	hottentotus bensoni Roberts 1946
+Eptesicus	bensoni Roberts 1946
+Eptesicus	hottentotus portavernus Schlitter & Aggundey 1986
+Eptesicus	portavernus Schlitter & Aggundey 1986
+Eptesicus	hottentotus Smith 1833
+Eptesicus	innoxius Gervais 1841
+Eptesicus	japonensis Imaizumi 1953
+Eptesicus	kobayashii Mori 1928
+Eptesicus	kowalskii
+Eptesicus	malagasyensis Peterson Eger & Mitchell 1995
+Eptesicus	matroka Thomas & Schwann 1905
+Eptesicus	melckorum Roberts 1919
+Eptesicus	mossoczyi
+Eptesicus	nasutus batinensis Harrison 1968
+Eptesicus	batinensis Harrison 1968
+Eptesicus	nasutus pellucens Thomas 1906
+Eptesicus	pellucens Thomas 1906
+Eptesicus	nasutus matschiei Thomas 1905
+Eptesicus	matschiei Thomas 1905
+Eptesicus	nasutus nasutus
+Eptesicus	nasutus
+Eptesicus	nasutus Dobson 1877
+Eptesicus	nilssoni Keyserling & Blasius 1839
+Eptesicus	nilssonii Keyserling & Blasius 1839
+Eptesicus	nilssonii nilssonii
+Eptesicus	nilssonii
+Eptesicus	nilssonii parvus Kishida 1932
+Eptesicus	parvus Kishida 1932
+Eptesicus	noctuloides
+Eptesicus	pachyotis Dobson 1871
+Eptesicus	platyops Thomas 1901
+Eptesicus	praeglacialis
+Eptesicus	pumilus Gray 1841
+Eptesicus	regulus Thomas 1906
+Eptesicus	rendalli Thomas 1889
+Eptesicus	sagittula McKean Richards & Price 1978
+Eptesicus	serotinus pallens Miller 1911
+Eptesicus	pallens Miller 1911
+Eptesicus	serotinus pashtonus Gaisler 1970
+Eptesicus	pashtonus Gaisler 1970
+Eptesicus	serotinus andersoni Dobson 1871
+Eptesicus	andersoni Dobson 1871
+Eptesicus	serotinus boscai Cabrera 1904
+Eptesicus	boscai Cabrera 1904
+Eptesicus	serotinus isabellinus Temminck 1840
+Eptesicus	isabellinus Temminck 1840
+Eptesicus	serotinus turcomanus Eversmann 1840
+Eptesicus	turcomanus Eversmann 1840
+Eptesicus	serotinus horikawai Kishida 1924
+Eptesicus	horikawai Kishida 1924
+Eptesicus	serotinus pachyomus Tomes 1857
+Eptesicus	pachyomus Tomes 1857
+Eptesicus	serotinus serotinus
+Eptesicus	serotinus
+Eptesicus	serotinus shirazensis Dobson 1871
+Eptesicus	shirazensis Dobson 1871
+Eptesicus	serotinus Schreber 1774
+Eptesicus	somalicus Thomas 1901
+Eptesicus	tatei Ellerman & Morrison-Scott 1951
+Eptesicus	tenuipinnis Peters 1872
+Eptesicus	vulturnus Thomas 1914
+Glischropus	javanus Chasen 1939
+Glischropus	tylopus Dobson 1875
+Glischropus	tylopus batjanus Marschie 1901
+Glischropus	batjanus Marschie 1901
+Glischropus	tylopus tylopus
+Glischropus	tylopus
+Histiotus	alienus Thomas 1916
+Histiotus	humboldti Handley 1996
+Histiotus	laephotis Thomas 1916
+Histiotus	macrotus Poeppig 1835
+Histiotus	magellanicus Philippi 1866
+Histiotus	montanus Philippi & Landbeck 1861
+Histiotus	montanus montanus
+Histiotus	montanus
+Histiotus	montanus colombiae Thomas 1916
+Histiotus	colombiae Thomas 1916
+Histiotus	montanus inambarus Anthony 1920
+Histiotus	inambarus Anthony 1920
+Histiotus	stocki
+Histiotus	velatus Geoffroy 1824
+Ia	io Thomas 1902
+Karstala	silva
+Laephotis	angolensis Monard 1935
+Laephotis	botswanae Setzer 1971
+Laephotis	namibensis Setzer 1971
+Laephotis	wintoni Thomas 1901
+Lasiurus	atratus Handley 1996
+Lasiurus	blossevillii blossevillii
+Lasiurus	blossevillii
+Lasiurus	blossevillii brachyotis Allen 1882
+Lasiurus	brachyotis Allen 1882
+Lasiurus	blossevillii teliotis Allen 1891
+Lasiurus	teliotis Allen 1891
+Lasiurus	blossevillii Lesson & Garnot 1826
+Lasiurus	blossevillii frantzii Peters 1871
+Lasiurus	frantzii Peters 1871
+Lasiurus	borealis Müller 1776
+Lasiurus	brachyotis
+Lasiurus	castaneus Handley 1960
+Lasiurus	cinereus Beauvois 1796
+Lasiurus	cinereus semotus Allen 1890
+Lasiurus	semotus Allen 1890
+Lasiurus	cinereus cinereus
+Lasiurus	cinereus
+Lasiurus	cinereus villosissimus Geoffroy 1806
+Lasiurus	villosissimus Geoffroy 1806
+Lasiurus	degelidus Miller 1931
+Lasiurus	ebenus Fazzolari-Corrêa 1994
+Lasiurus	ega panamensis Thomas 1901
+Lasiurus	panamensis Thomas 1901
+Lasiurus	ega Gervais 1856
+Lasiurus	ega argentinus Thomas 1901
+Lasiurus	argentinus Thomas 1901
+Lasiurus	ega caudatus Tomes 1857
+Lasiurus	caudatus Tomes 1857
+Lasiurus	ega ega
+Lasiurus	ega
+Lasiurus	ega fuscatus Thomas 1901
+Lasiurus	fuscatus Thomas 1901
+Lasiurus	egregius Peters 1870
+Lasiurus	fossilis
+Lasiurus	golliheri
+Lasiurus	insularis Hall & Jones 1961
+Lasiurus	intermedius floridanus Miller 1902
+Lasiurus	floridanus Miller 1902
+Lasiurus	intermedius Allen 1862
+Lasiurus	intermedius intermedius
+Lasiurus	intermedius
+Lasiurus	minor Miller 1931
+Lasiurus	pfeifferi Gundlach 1861
+Lasiurus	salinae Thomas 1902
+Lasiurus	seminolus Rhoads 1895
+Lasiurus	varius Poeppig 1835
+Mimetillus	moloneyi Thomas 1891
+Mimetillus	moloneyi thomasi Hinton 1920
+Mimetillus	thomasi Hinton 1920
+Mimetillus	moloneyi moloneyi Thomas 1891
+Murina	aenea Hill 1964
+Murina	aurata Milne-Edwards 1872
+Murina	bicolor Kuo Fang Csorba & Lee 2009
+Murina	cyclotis cyclotis
+Murina	cyclotis
+Murina	cyclotis eileenae Phillips 1932
+Murina	eileenae Phillips 1932
+Murina	cyclotis peninsularis Hill 1964
+Murina	peninsularis Hill 1964
+Murina	cyclotis Dobson 1872
+Murina	florium lanosa Thomas 1910
+Murina	lanosa Thomas 1910
+Murina	florium Thomas 1908
+Murina	florium florium Thomas 1908
+Murina	florium toxopei Thomas 1923
+Murina	toxopei Thomas 1923
+Murina	fusca Sowerby 1922
+Murina	gracilis Kuo Fang Csorba & Lee 2009
+Murina	grisea Peters 1872
+Murina	harrisoni Csorba & Bates 2005
+Murina	hilgendorfi Peters 1880
+Murina	huttoni Peters 1872
+Murina	huttoni rubella Thomas 1914
+Murina	rubella Thomas 1914
+Murina	huttoni huttoni
+Murina	huttoni
+Murina	leucogaster leucogaster
+Murina	leucogaster
+Murina	leucogaster rubex Thomas 1916
+Murina	rubex Thomas 1916
+Murina	leucogaster Milne-Edwards 1872
+Murina	puta Kishida 1924
+Murina	recondita Kuo Fang Csorba & Lee 2009
+Murina	rozendaali Hill & Francis 1984
+Murina	ryukyuana Maeda & Matsumura 1998
+Murina	silvatica Yoshiyuki 1983
+Murina	suilla canescens Thomas 1923
+Murina	canescens Thomas 1923
+Murina	suilla Temminck 1840
+Murina	suilla suilla
+Murina	suilla
+Murina	tenebrosa Yoshiyuki 1970
+Murina	tubinaris Scully 1881
+Murina	ussuriensis Ognev 1913
+Nyctophilus	arnhemensis Johnson 1959
+Nyctophilus	bifax Thomas 1915
+Nyctophilus	bifax bifax Thomas 1915
+Nyctophilus	bifax daedalus Thomas 1915
+Nyctophilus	daedalus Thomas 1915
+Nyctophilus	geoffroyi Leach 1821
+Nyctophilus	geoffroyi geoffroyi Leach 1821
+Nyctophilus	geoffroyi pacificus Gray 1831
+Nyctophilus	pacificus Gray 1831
+Nyctophilus	geoffroyi pallescens Thomas 1913
+Nyctophilus	pallescens Thomas 1913
+Nyctophilus	gouldi Tomes 1858
+Nyctophilus	heran Kitchener How & Maharadatunkamsi 1991
+Nyctophilus	howensis McKean 1975
+Nyctophilus	microdon Laurie & Hill 1954
+Nyctophilus	microtis Thomas 1888
+Nyctophilus	nebulosa
+Nyctophilus	nebulosus Parnaby 2002
+Nyctophilus	sherrini Thomas 1915
+Nyctophilus	timoriensis sherrini Thomas 1915
+Nyctophilus	timoriensis Geoffroy 1806
+Nyctophilus	timoriensis major Gray 1844
+Nyctophilus	major Gray 1844
+Nyctophilus	timoriensis timoriensis
+Nyctophilus	timoriensis
+Nyctophilus	walkeri Thomas 1892
+Pipistrellus	abramus Temminck 1838
+Pipistrellus	adamsi Kitchener Caputi
+Pipistrellus	aegyptius Fischer 1829
+Pipistrellus	aero Heller 1912
+Pipistrellus	affinis Dobson 1871
+Pipistrellus	alaschanicus Bobrinskii 1926
+Pipistrellus	anchietae Seabra 1900
+Pipistrellus	anchietai Seabra 1900
+Pipistrellus	angulatus ponceleti Troughton 1936
+Pipistrellus	ponceleti Troughton 1936
+Pipistrellus	angulatus Peters 1880
+Pipistrellus	angulatus angulatus
+Pipistrellus	angulatus
+Pipistrellus	anthonyi Tate 1942
+Pipistrellus	arabicus Harrison 1979
+Pipistrellus	ariel Thomas 1904
+Pipistrellus	babu Thomas 1915
+Pipistrellus	bodenheimeri Harrison 1960
+Pipistrellus	brunneus Thomas 1880
+Pipistrellus	cadornae Thomas 1916
+Pipistrellus	capensis Smith 1829
+Pipistrellus	ceylonicus borneanus Hill 1963
+Pipistrellus	borneanus Hill 1963
+Pipistrellus	ceylonicus raptor Thomas 1904
+Pipistrellus	raptor Thomas 1904
+Pipistrellus	ceylonicus ceylonicus
+Pipistrellus	ceylonicus
+Pipistrellus	ceylonicus shanorum Thomas 1915
+Pipistrellus	shanorum Thomas 1915
+Pipistrellus	ceylonicus subcanus Thomas 1915
+Pipistrellus	subcanus Thomas 1915
+Pipistrellus	ceylonicus indicus Dobson 1878
+Pipistrellus	indicus Dobson 1878
+Pipistrellus	ceylonicus tongfangensis Wang 1966
+Pipistrellus	tongfangensis Wang 1966
+Pipistrellus	ceylonicus Kelaart 1852
+Pipistrellus	circumdatus Temminck 1840
+Pipistrellus	collinus Thomas 1920
+Pipistrellus	coromandra Gray 1838
+Pipistrellus	crassulus Thomas 1904
+Pipistrellus	cuprosus Hill & Francis 1984
+Pipistrellus	deserti Thomas 1902
+Pipistrellus	dormeri Dobson 1875
+Pipistrellus	eisentrauti Hill 1968
+Pipistrellus	endoi Imaizumi 1959
+Pipistrellus	flavescens Seabra 1900
+Pipistrellus	guineensis Bocage 1889
+Pipistrellus	hanaki Hulva & Benda 2004
+Pipistrellus	helios Heller 1912
+Pipistrellus	hesperidus fuscatus Thomas 1901
+Pipistrellus	fuscatus Thomas 1901
+Pipistrellus	hesperidus subtilis Sundevall 1846
+Pipistrellus	subtilis Sundevall 1846
+Pipistrellus	hesperidus hesperidus Temminck 1840
+Pipistrellus	hesperidus Temminck 1840
+Pipistrellus	hesperus hesperus
+Pipistrellus	hesperus
+Pipistrellus	hesperus Allen 1864
+Pipistrellus	hesperus maximus Hatfield 1936
+Pipistrellus	maximus Hatfield 1936
+Pipistrellus	imbricatus Horsfield 1824
+Pipistrellus	inexspectatus Aellen 1959
+Pipistrellus	javanicus javanicus
+Pipistrellus	javanicus
+Pipistrellus	javanicus peguensis Sinha 1969
+Pipistrellus	peguensis Sinha 1969
+Pipistrellus	javanicus camortae Miller 1902
+Pipistrellus	camortae Miller 1902
+Pipistrellus	javanicus Gray 1838
+Pipistrellus	javanicus meyeni Waterhouse 1845
+Pipistrellus	meyeni Waterhouse 1845
+Pipistrellus	javanicus babu Thomas 1915
+Pipistrellus	joffrei Thomas 1915
+Pipistrellus	kitcheneri Thomas 1916
+Pipistrellus	kuhlii ikhwanius Cheesman & Hinton 1924
+Pipistrellus	ikhwanius Cheesman & Hinton 1924
+Pipistrellus	kuhlii lepidus Blyth 1845
+Pipistrellus	lepidus Blyth 1845
+Pipistrellus	kuhlii Kuhl 1817
+Pipistrellus	kuhlii kuhlii
+Pipistrellus	kuhlii
+Pipistrellus	lophurus Thomas 1915
+Pipistrellus	macrotis Temminck 1840
+Pipistrellus	maderensis Dobson 1878
+Pipistrellus	melckorum Roberts 1919
+Pipistrellus	mimus Wroughton 1899
+Pipistrellus	minahassae Meyer 1899
+Pipistrellus	mordax Peters 1866
+Pipistrellus	murrayi Andrews 1900
+Pipistrellus	musciculus Thomas 1913
+Pipistrellus	nanulus Thomas 1904
+Pipistrellus	nanus Peters 1852
+Pipistrellus	nathusii Keyserling & Blasius 1839
+Pipistrellus	papuanus Peters & Doria 1881
+Pipistrellus	papuensis
+Pipistrellus	paterculus yunnanensis Wang 1982
+Pipistrellus	yunnanensis Wang 1982
+Pipistrellus	paterculus Thomas 1915
+Pipistrellus	paterculus paterculus
+Pipistrellus	paterculus
+Pipistrellus	permixtus Aellen 1957
+Pipistrellus	petersi Meyer 1899
+Pipistrellus	pipistrellus aladdin Thomas 1905
+Pipistrellus	aladdin Thomas 1905
+Pipistrellus	pipistrellus pipistrellus
+Pipistrellus	pipistrellus
+Pipistrellus	pipistrellus Schreber 1774
+Pipistrellus	pulveratus Peters 1871
+Pipistrellus	pygmaeus Leach 1825
+Pipistrellus	raceyi Bates Ratrimomanarivo Harrison & Goodman 2006
+Pipistrellus	rendalli Thomas 1889
+Pipistrellus	ruepelli
+Pipistrellus	rueppelli Fischer 1829
+Pipistrellus	rueppellii vernayi Roberts 1932
+Pipistrellus	vernayi Roberts 1932
+Pipistrellus	rueppellii Fischer 1829
+Pipistrellus	rueppellii pulcher Dobson 1875
+Pipistrellus	pulcher Dobson 1875
+Pipistrellus	rueppellii senegalensis Dorst 1960
+Pipistrellus	senegalensis Dorst 1960
+Pipistrellus	rueppellii coxi Thomas 1919
+Pipistrellus	coxi Thomas 1919
+Pipistrellus	rueppellii fuscipes Thomas 1913
+Pipistrellus	fuscipes Thomas 1913
+Pipistrellus	rueppellii rueppellii
+Pipistrellus	rueppellii
+Pipistrellus	rusticus rusticus Tomes 1861
+Pipistrellus	rusticus Tomes 1861
+Pipistrellus	rusticus marrensis Thomas & Hinton 1923
+Pipistrellus	marrensis Thomas & Hinton 1923
+Pipistrellus	savii Bonaparte 1837
+Pipistrellus	societatis Hill 1972
+Pipistrellus	somalicus Thomas 1901
+Pipistrellus	stenopterus Dobson 1875
+Pipistrellus	sturdeei Thomas 1915
+Pipistrellus	subflavus veraecrucis Ward 1891
+Pipistrellus	veraecrucis Ward 1891
+Pipistrellus	subflavus clarus Baker 1954
+Pipistrellus	clarus Baker 1954
+Pipistrellus	subflavus floridanus Davis 1957
+Pipistrellus	floridanus Davis 1957
+Pipistrellus	subflavus subflavus
+Pipistrellus	subflavus
+Pipistrellus	subflavus Cuvier 1832
+Pipistrellus	tasmaniensis Gould 1858
+Pipistrellus	tenuipinnis Peters 1872
+Pipistrellus	tenuis portensis Allen 1906
+Pipistrellus	portensis Allen 1906
+Pipistrellus	tenuis tenuis
+Pipistrellus	tenuis
+Pipistrellus	tenuis ponceleti Troughton 1936
+Pipistrellus	tenuis mimus Wroughton 1899
+Pipistrellus	tenuis nitidus Tomes 1859
+Pipistrellus	nitidus Tomes 1859
+Pipistrellus	tenuis sewelanus Oei 1960
+Pipistrellus	sewelanus Oei 1960
+Pipistrellus	tenuis subulidens Miller 1901
+Pipistrellus	subulidens Miller 1901
+Pipistrellus	tenuis murrayi Andrews 1900
+Pipistrellus	tenuis Temminck 1840
+Pipistrellus	vordermanni Jentink 1890
+Pipistrellus	wattsi Kitchener Caputi
+Pipistrellus	westralis Koopman 1984
+Pipistrellus	zuluensis Roberts 1924
+Plecotus	alleganiensis
+Plecotus	alpinus Kiefer
+Plecotus	atavus
+Plecotus	auritus begognae de Paz 1994
+Plecotus	begognae de Paz 1994
+Plecotus	auritus uenoi Imaizumi & Yoshiyuki 1969
+Plecotus	uenoi Imaizumi & Yoshiyuki 1969
+Plecotus	auritus homochrous Hodgson 1847
+Plecotus	homochrous Hodgson 1847
+Plecotus	auritus sacrimontis Allen 1908
+Plecotus	sacrimontis Allen 1908
+Plecotus	auritus Linnaeus 1758
+Plecotus	auritus auritus
+Plecotus	auritus
+Plecotus	austriacus ariel Thomas 1911
+Plecotus	ariel Thomas 1911
+Plecotus	austriacus macrobullaris Kuzyakin 1965
+Plecotus	macrobullaris Kuzyakin 1965
+Plecotus	austriacus Fischer 1829
+Plecotus	austriacus wardi Thomas 1911
+Plecotus	wardi Thomas 1911
+Plecotus	austriacus christii Gray 1838
+Plecotus	christii Gray 1838
+Plecotus	austriacus turkmenicus Strelkov 1988
+Plecotus	turkmenicus Strelkov 1988
+Plecotus	austriacus austriacus
+Plecotus	austriacus
+Plecotus	balensis Kruskop & Lavrenchenko 2000
+Plecotus	crassidens
+Plecotus	kolombatovici Dulic 1980
+Plecotus	macrobullaris Kuzjakin 1965
+Plecotus	mexicanus Allen 1916
+Plecotus	ognevi Kishida 1927
+Plecotus	rabederi
+Plecotus	rafinesquii Lesson 1827
+Plecotus	sardus Mucedda Kiefer Pidinchedda
+Plecotus	taivanus Yoshiyuki 1991
+Plecotus	teneriffae Barrett-Hamilton 1907
+Plecotus	tetralophodon
+Plecotus	townsendii pallescens Miller 1897
+Plecotus	pallescens Miller 1897
+Plecotus	townsendii Cooper 1837
+Plecotus	townsendii townsendii
+Plecotus	townsendii
+Plecotus	townsendii virginianus Handley 1955
+Plecotus	virginianus Handley 1955
+Plecotus	townsendii ingens Handley 1955
+Plecotus	ingens Handley 1955
+Plecotus	townsendii australis Handley 1955
+Plecotus	australis Handley 1955
+Potamonycteris	biperforatus
+Scoteanax	rueppellii Peters 1866
+Scotorepens	balstoni Thomas 1906
+Scotorepens	balstoni balstoni
+Scotorepens	balstoni
+Scotorepens	balstoni influatus Thomas 1924
+Scotorepens	influatus Thomas 1924
+Scotorepens	greyii Gray 1842
+Scotorepens	orion Troughton 1937
+Scotorepens	sanborni Troughton 1937
+Stehlinia	gracilis
+Tomopeas	ravus Miller 1900
+Tylonycteris	pachypus fulvidus Blyth 1859
+Tylonycteris	fulvidus Blyth 1859
+Tylonycteris	pachypus meyeri Peters 1872
+Tylonycteris	meyeri Peters 1872
+Tylonycteris	pachypus pachypus
+Tylonycteris	pachypus
+Tylonycteris	pachypus aurex Thomas 1915
+Tylonycteris	aurex Thomas 1915
+Tylonycteris	pachypus Temminck 1840
+Tylonycteris	pachypus bhaktii Oei 1960
+Tylonycteris	bhaktii Oei 1960
+Tylonycteris	robusta
+Tylonycteris	robustula malayana Chasen 1940
+Tylonycteris	malayana Chasen 1940
+Tylonycteris	robustula robustula
+Tylonycteris	robustula
+Tylonycteris	robustula Thomas 1915
+Chalinolobus	alboguttatus Allen 1917
+Chalinolobus	argentatus Dobson 1875
+Chalinolobus	beatrix Thomas 1901
+Chalinolobus	dwyeri Ryan 1966
+Chalinolobus	egeria Thomas 1913
+Chalinolobus	gleni Peterson & Smith 1973
+Chalinolobus	gouldii Gray 1841
+Chalinolobus	kenyacola Peterson 1982
+Chalinolobus	morio Gray 1841
+Chalinolobus	neocaledonicus Revilliod 1914
+Chalinolobus	nigrogriseus Gould 1852
+Chalinolobus	nigrogriseus nigrogriseus
+Chalinolobus	nigrogriseus
+Chalinolobus	nigrogriseus rogersi Thomas 1909
+Chalinolobus	rogersi Thomas 1909
+Chalinolobus	picatus Gould 1852
+Chalinolobus	poensis Gray 1842
+Chalinolobus	superbus Hayman 1939
+Chalinolobus	tuberculatus Forster 1844
+Chalinolobus	variegatus Tomes 1861
+Cistugo	lesueuri Roberts 1919
+Cistugo	seabrae Thomas 1912
+Eudiscopus	denticulus Osgood 1932
+Falsistrellus	affinis Dobson 1871
+Falsistrellus	mackenziei Kitchener Caputi
+Falsistrellus	mordax Peters 1866
+Falsistrellus	petersi Meyer 1899
+Falsistrellus	sagittula
+Falsistrellus	tasmaniensis Gould 1858
+Harpiola	grisea Peters 1872
+Harpiola	isodon Kuo Fang Csorba & Lee 2006
+Lasionycteris	noctivagans LeConte 1831
+Otonycteris	hemprichii Peters 1859
+Pharotis	imogene Thomas 1914
+Philetor	brachypterus Temminck 1840
+Rhogeessa	aeneus Goodwin 1958
+Rhogeessa	alleni Thomas 1892
+Rhogeessa	genowaysi Baker 1984
+Rhogeessa	gracilis Miller 1897
+Rhogeessa	hussoni Genoways & Baker 1996
+Rhogeessa	io Thomas 1903
+Rhogeessa	minutilla Miller 1897
+Rhogeessa	mira La
+Rhogeessa	parvula Allen 1866
+Rhogeessa	tumida Allen 1866
+Samonycteris	majori
+Scotozous	dormeri Dobson 1875
+Vespadelus	baverstocki Kitchener Jones
+Vespadelus	caurinus Thomas 1914
+Vespadelus	darlingtoni Allen 1933
+Vespadelus	douglasorum Kitchener 1976
+Vespadelus	finlaysoni Kitchener Jones
+Vespadelus	pumilus Gray 1841
+Vespadelus	regulus Thomas 1906
+Vespadelus	sagittula
+Vespadelus	troughtoni Kitchener Jones
+Vespadelus	vulturnus Thomas 1914

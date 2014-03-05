@@ -1,0 +1,861 @@
+{"B1":{
+"id":"B1",
+"author":[
+{"firstname":"G","lastname":"Alayón-García","name":"G Alayón-García"}
+],
+"type":"article",
+"title":" La familia Selenopidae (Arachnida: Araneae) en República Dominicana.",
+"journal":{
+"name":"Poeyana",
+"volume":"419",
+"pages":"1--10"
+},
+"year":"1992",
+"identifier":[]
+
+},
+"B2":{
+"id":"B2",
+"author":[
+{"firstname":"G","lastname":"Alayón-García","name":"G Alayón-García"}
+],
+"type":"article",
+"title":" Especie nueve de Selenops (Araneae: Selenopidae) de Curazao, Antillas Holandesas.",
+"journal":{
+"name":"Solenodon",
+"volume":"1",
+"pages":"17--20"
+},
+"year":"2001",
+"identifier":[]
+
+},
+"B3":{
+"id":"B3",
+"author":[
+{"firstname":"G","lastname":"Alayón-García","name":"G Alayón-García"}
+],
+"type":"article",
+"title":" La familia Selenopidae (Arachnida: Araneae) en Jamaic.",
+"journal":{
+"name":"Revista Ibérica Aracnología",
+"volume":"8",
+"pages":"117--122"
+},
+"year":"2003",
+"identifier":[]
+
+},
+"B4":{
+"id":"B4",
+"author":[
+{"firstname":"G","lastname":"Alayón-García","name":"G Alayón-García"}
+],
+"type":"article",
+"title":" La familia Selenopidae (Arachnida: Araneae) en Cuba.",
+"journal":{
+"name":"Solenodon",
+"volume":"5",
+"pages":"10--52"
+},
+"year":"2005",
+"identifier":[]
+
+},
+"B5":{
+"id":"B5",
+"author":[
+{"firstname":"F","lastname":"Álvarez-Padilla","name":"F Álvarez-Padilla"},
+{"firstname":"G","lastname":"Hormiga","name":"G Hormiga"}
+],
+"type":"article",
+"title":" A protocol for digesting internal soft tissues and mounting spiders for scanning electron microscopy.",
+"journal":{
+"name":"Journal of Arachnology",
+"volume":"35",
+"pages":"538--542"
+},
+"year":"2008",
+"identifier":[{"type":"doi","id":"10.1636/Sh06-55.1"}]
+
+},
+"B6":{
+"id":"B6",
+"author":[
+{"firstname":"PLG","lastname":"Benoit","name":"PLG Benoit"}
+],
+"type":"article",
+"title":" Les Selenopidae africains au Nord du 17e parallèle Sud et reclassement des espèces africaines de la famille (Araneae).",
+"journal":{
+"name":"Revue de Zoologie et de Botanique Africaines",
+"volume":"77",
+"pages":"113--141"
+},
+"year":"1968",
+"identifier":[]
+
+},
+"B7":{
+"id":"B7",
+"author":[
+{"firstname":"J","lastname":"Bosselaers","name":"J Bosselaers"}
+],
+"type":"article",
+"title":" A new Garcorops species from Madagascar copal (Araneae: Selenopidae).",
+"journal":{
+"name":"Zootaxa",
+"volume":"445",
+"pages":"1--7"
+},
+"year":"2004",
+"identifier":[]
+
+},
+"B8":{
+"id":"B8",
+"author":[
+{"firstname":"JA","lastname":"Corronca","name":"JA Corronca"}
+],
+"type":"article",
+"title":" Three new species of Selenops Latreille (Araneae, Selenopidae) from northern Brazil.",
+"journal":{
+"name":"Journal of Arachnology",
+"volume":"24",
+"pages":"68--71"
+},
+"year":"1996",
+"identifier":[]
+
+},
+"B9":{
+"id":"B9",
+"author":[
+{"firstname":"JA","lastname":"Corronca","name":"JA Corronca"}
+],
+"type":"article",
+"title":" The South American spiders of the genus Selenops (Araneae, Selenopidae) with a description of three new species.",
+"journal":{
+"name":"Studies of Neotropical Fauna and the Environment",
+"volume":"33",
+"pages":"124--148"
+},
+"year":"1998",
+"identifier":[{"type":"doi","id":"10.1076/snfe.33.2.124.2153"}]
+
+},
+"B10":{
+"id":"B10",
+"author":[
+{"firstname":"JA","lastname":"Corronca","name":"JA Corronca"}
+],
+"type":"article",
+"title":" Two new species of Anyphops Benoit, 1968 and description of the male of A. amatolae (Lawrence, 1940) (Aranei: Selenopidae).",
+"journal":{
+"name":"Arthropoda Selecta",
+"volume":"9",
+"pages":"51--54"
+},
+"year":"2000",
+"identifier":[]
+
+},
+"B11":{
+"id":"B11",
+"author":[
+{"firstname":"JA","lastname":"Corronca","name":"JA Corronca"}
+],
+"type":"article",
+"title":" Three new species of Selenops Latreille, 1819 (Aranei: Selenopidae) from Afrotropical region.",
+"journal":{
+"name":"Arthropoda Selecta",
+"volume":"10",
+"pages":"55--58"
+},
+"year":"2001",
+"identifier":[]
+
+},
+"B12":{
+"id":"B12",
+"author":[
+{"firstname":"JA","lastname":"Corronca","name":"JA Corronca"}
+],
+"type":"article",
+"title":" A taxonomic revision of the afrotropical species of Selenops Latreille, 1819 (Araneae, Selenopidae).",
+"journal":{
+"name":"Zootaxa",
+"volume":"107",
+"pages":"1--35"
+},
+"year":"2002",
+"identifier":[]
+
+},
+"B13":{
+"id":"B13",
+"author":[
+{"firstname":"JA","lastname":"Corronca","name":"JA Corronca"}
+],
+"type":"article",
+"title":" New genus and species of Selenopidae (Arachnida, Araneae) from Madagascar and neighbouring islands.",
+"journal":{
+"name":"African Zoology",
+"volume":"38",
+"pages":"387--392"
+},
+"year":"2003",
+"identifier":[]
+
+},
+"B14":{
+"id":"B14",
+"author":[
+{"firstname":"JA","lastname":"Corronca","name":"JA Corronca"}
+],
+"type":"article",
+"title":" Re-description of the lycosiformis species group of Anyphops Benoit and description of two new species (Araneae, Selenopidae).",
+"journal":{
+"name":"Journal of Natural History",
+"volume":"39",
+"pages":"1381--1393"
+},
+"year":"2005",
+"identifier":[{"type":"doi","id":"10.1080/00222930400008868"}]
+
+},
+"B15":{
+"id":"B15",
+"author":[
+{"firstname":"SC","lastname":"Crews","name":"SC Crews"}
+],
+"type":"generic",
+"title":"ZooKeys",
+"year":"",
+"identifier":[]
+
+},
+"B16":{
+"id":"B16",
+"author":[
+{"firstname":"SC","lastname":"Crews","name":"SC Crews"},
+{"firstname":"RG","lastname":"Gillespie","name":"RG Gillespie"}
+],
+"type":"article",
+"title":" Molecular systematic of Selenops spiders (Araneae: Selenopidae) from North and Central America: implications for Caribbean biogeography.",
+"journal":{
+"name":"Biological Journal of the Linnean Society",
+"volume":"101",
+"pages":"288--322"
+},
+"year":"2010",
+"identifier":[{"type":"doi","id":"10.1111/j.1095-8312.2010.01494.x"}]
+
+},
+"B17":{
+"id":"B17",
+"author":[
+{"firstname":"SC","lastname":"Crews","name":"SC Crews"},
+{"firstname":"E","lastname":"Wienskoski","name":"E Wienskoski"},
+{"firstname":"RG","lastname":"Gillespie","name":"RG Gillespie"}
+],
+"type":"article",
+"title":" Life history of the spider Selenops occultus Mello-Leitão (Araneae, Selenopidae) from Brazil with notes on the natural history of the genus",
+"journal":{
+"name":"Journal of Natural History",
+"volume":"42:43",
+"pages":"2747--2761"
+},
+"year":"2008",
+"identifier":[{"type":"doi","id":"10.1080/00222930802354183"}]
+
+},
+"B18":{
+"id":"B18",
+"author":[
+{"firstname":"P","lastname":"Dankittipakul","name":"P Dankittipakul"},
+{"firstname":"JA","lastname":"Corronca","name":"JA Corronca"}
+],
+"type":"article",
+"title":" Siamspinops, a new selenopid genus from southeast Asia (Arachnida, Araneae)",
+"journal":{
+"name":"Organisms, Diversity and Evolution",
+"volume":"9",
+"pages":"69e1--69e12"
+},
+"year":"2009",
+"identifier":[]
+
+},
+"B19":{
+"id":"B19",
+"author":[
+{"firstname":"FH","lastname":"Gravely","name":"FH Gravely"}
+],
+"type":"article",
+"title":" Some Indian spiders of the families Ctenidae, Sparassidae, Selenopidae and Clubionidae.",
+"journal":{
+"name":"Records of the Indian Museum, Calcutta",
+"volume":"33",
+"pages":"211--282"
+},
+"year":"1931",
+"identifier":[]
+
+},
+"B20":{
+"id":"B20",
+"author":[
+{"firstname":"MS","lastname":"Harvey","name":"MS Harvey"}
+],
+"type":"article",
+"title":" Short-range endemism in the Australian fauna: some examples from non-marine environments.",
+"journal":{
+"name":"Invertebrate Systematics",
+"volume":"16",
+"pages":"555--570"
+},
+"year":"2002",
+"identifier":[{"type":"doi","id":"10.1071/IS02009"}]
+
+},
+"B21":{
+"id":"B21",
+"author":[
+{"firstname":"R","lastname":"Jocqué","name":"R Jocqué"},
+{"firstname":"AS","lastname":"Dippenaar-Schoeman","name":"AS Dippenaar-Schoeman"}
+],
+"type":"book",
+"title":" Spider families of the world",
+"year":"2006",
+"identifier":[]
+
+},
+"B22":{
+"id":"B22",
+"author":[
+{"firstname":"F","lastname":"Karsch","name":"F Karsch"}
+],
+"type":"article",
+"title":" Baustoffe zu einer Spinnenfauna von Japan. Verhandlungen des Naturhistorischen Vereins der Preussischen Rheinlande, Westfalens und des Reg.-Bez.",
+"journal":{
+"name":"Osnabrück",
+"volume":"36",
+"pages":"57--105"
+},
+"year":"1879",
+"identifier":[]
+
+},
+"B23":{
+"id":"B23",
+"author":[
+{"firstname":"I","lastname":"Kayashima","name":"I Kayashima"}
+],
+"type":"generic",
+"title":" Spiders of Formosa",
+"year":"1943a",
+"identifier":[]
+
+},
+"B24":{
+"id":"B24",
+"author":[
+{"firstname":"I","lastname":"Kayashima","name":"I Kayashima"}
+],
+"type":"article",
+"title":" Description of a new species of spider from Formosa",
+"journal":{
+"name":"Transactions of the Natural History Society of Formosa",
+"volume":"33",
+"pages":"65--66"
+},
+"year":"1943b",
+"identifier":[]
+
+},
+"B25":{
+"id":"B25",
+"author":[
+{"firstname":"L","lastname":"Koch","name":"L Koch"}
+],
+"type":"article",
+"title":" Die Arachniden Australiens.",
+"journal":{
+"name":"Bauer and Raspe, Nürnberg",
+"volume":"1",
+"pages":"577--740"
+},
+"year":"1875",
+"identifier":[]
+
+},
+"B26":{
+"id":"B26",
+"author":[
+{"firstname":"L","lastname":"Koch","name":"L Koch"}
+],
+"type":"article",
+"title":" Die Arachniden Australiens.",
+"journal":{
+"name":"Bauer and Raspe, Nürnberg,",
+"volume":"1",
+"pages":"741--888"
+},
+"year":"1876",
+"identifier":[]
+
+},
+"B27":{
+"id":"B27",
+"author":[
+{"firstname":"PA","lastname":"Latreille","name":"PA Latreille"}
+],
+"type":"generic",
+"title":"Nouveau Dictionnaire d’histoire Naturelle Paris",
+"year":"1819",
+"identifier":[]
+
+},
+"B28":{
+"id":"B28",
+"author":[
+{"firstname":"RF","lastname":"Lawrence","name":"RF Lawrence"}
+],
+"type":"article",
+"title":" The genus Selenops (Araneae) in South Africa.",
+"journal":{
+"name":"Annals of the South African Museum",
+"volume":"32",
+"pages":"555--608"
+},
+"year":"1940",
+"identifier":[]
+
+},
+"B29":{
+"id":"B29",
+"author":[
+{"firstname":"RF","lastname":"Lawrence","name":"RF Lawrence"}
+],
+"type":"article",
+"title":" A contribution to the araneid fauna of Natal and Zululand.",
+"journal":{
+"name":"Annals of the Natal Museum",
+"volume":"10",
+"pages":"141--190"
+},
+"year":"1942",
+"identifier":[]
+
+},
+"B30":{
+"id":"B30",
+"author":[
+{"firstname":"H","lastname":"Lenz","name":"H Lenz"}
+],
+"type":"article",
+"title":" Beiträge zur Kenntniss der Spinnenfauna Madagascars.",
+"journal":{
+"name":"Zoologische Jahrbücher Abteilung für Systematic Ökologie und Geographie der Tiere",
+"volume":"1",
+"pages":"379--408"
+},
+"year":"1886",
+"identifier":[]
+
+},
+"B31":{
+"id":"B31",
+"author":[
+{"firstname":"MH","lastname":"Muma","name":"MH Muma"}
+],
+"type":"article",
+"title":" A study of the spider family Selenopidae in North and Central America and the West Indies.",
+"journal":{
+"name":"American Museum Novitates",
+"volume":"1619",
+"pages":"1--55"
+},
+"year":"1953",
+"identifier":[]
+
+},
+"B32":{
+"id":"B32",
+"author":[
+{"firstname":"BH","lastname":"Patel","name":"BH Patel"},
+{"firstname":"HK","lastname":"Patel","name":"HK Patel"}
+],
+"type":"article",
+"title":" Descriptions of some new species of spider from India.",
+"journal":{
+"name":"Oriental Insects",
+"volume":"7",
+"pages":"127--132"
+},
+"year":"1973",
+"identifier":[]
+
+},
+"B33":{
+"id":"B33",
+"author":[
+{"firstname":"D","lastname":"Penney","name":"D Penney"},
+{"firstname":"H","lastname":"Ono","name":"H Ono"},
+{"firstname":"PA","lastname":"Selden","name":"PA Selden"}
+],
+"type":"article",
+"title":" A new synonymy for the Madagascan copal spider fauna (Araneae, Selenopidae).",
+"journal":{
+"name":"Journal of Afrotropical Zoology",
+"volume":"2",
+"pages":"41--44"
+},
+"year":"2005",
+"identifier":[]
+
+},
+"B34":{
+"id":"B34",
+"author":[
+{"firstname":"A","lastname":"Petrunkevitch","name":"A Petrunkevitch"}
+],
+"type":"article",
+"title":" Arachnida from Panamá.",
+"journal":{
+"name":"Transactions of the Connecticut Academy of Arts and Sciences",
+"volume":"27",
+"pages":"51--248"
+},
+"year":"1925",
+"identifier":[]
+
+},
+"B35":{
+"id":"B35",
+"author":[
+{"firstname":"A","lastname":"Petrunkevitch","name":"A Petrunkevitch"}
+],
+"type":"article",
+"title":" The spiders of Porto Rico. Part three.",
+"journal":{
+"name":"Transactions of the Connecticut Academy of Arts and Sciences",
+"volume":"31",
+"pages":"1--191"
+},
+"year":"1930",
+"identifier":[]
+
+},
+"B36":{
+"id":"B36",
+"author":[
+{"firstname":"FO","lastname":"Pickard-Cambridge","name":"FO Pickard-Cambridge"}
+],
+"type":"article",
+"title":" Arachnida-Araneida. In Biología Centrali-Americana, Zoology.",
+"journal":{
+"name":"Taylor and Francis, London",
+"volume":"1",
+"pages":"233--288"
+},
+"year":"1900",
+"identifier":[]
+
+},
+"B37":{
+"id":"B37",
+"author":[
+{"firstname":"NI","lastname":"Platnick","name":"NI Platnick"}
+],
+"type":"generic",
+"title":" The World Spider Catalog",
+"year":"2010",
+"identifier":[]
+
+},
+"B38":{
+"id":"B38",
+"author":[
+{"firstname":"NI","lastname":"Platnick","name":"NI Platnick"},
+{"firstname":"MU","lastname":"Shadab","name":"MU Shadab"}
+],
+"type":"article",
+"title":" A revision of the spider genus Gnaphosa (Araneae, Gnaphosidae).",
+"journal":{
+"name":"Bulletin of the American Museum of Natural History",
+"volume":"155",
+"pages":"1--66"
+},
+"year":"1975",
+"identifier":[]
+
+},
+"B39":{
+"id":"B39",
+"author":[
+{"firstname":"E","lastname":"Reimoser","name":"E Reimoser"}
+],
+"type":"article",
+"title":" Araneae aus Süd-Indien.",
+"journal":{
+"name":"Revue Suisse Zoologie",
+"volume":"41",
+"pages":"465--511"
+},
+"year":"1934",
+"identifier":[]
+
+},
+"B40":{
+"id":"B40",
+"author":[
+{"firstname":"E","lastname":"Simon","name":"E Simon"}
+],
+"type":"article",
+"title":" Révision de la famille des Sparassidae (Arachnides).",
+"journal":{
+"name":"Acta Société Linnéenne de Bordeaux",
+"volume":"34",
+"pages":"223--351"
+},
+"year":"1880",
+"identifier":[]
+
+},
+"B41":{
+"id":"B41",
+"author":[
+{"firstname":"E","lastname":"Simon","name":"E Simon"}
+],
+"type":"article",
+"title":" Espèces et genres nouveaux de la famille des Sparassidae.",
+"journal":{
+"name":"Bulletin des Société Zoologie France",
+"volume":"12",
+"pages":"466--474"
+},
+"year":"1887",
+"identifier":[]
+
+},
+"B42":{
+"id":"B42",
+"author":[
+{"firstname":"E","lastname":"Simon","name":"E Simon"}
+],
+"type":"article",
+"title":" Etudes arachnologiques. 21e mémoire. XXXIII. Descriptions de quelques espèces receillies au Japon, par A. Mellotée.",
+"journal":{
+"name":"Annales de la Société Entomologique de France",
+"volume":"8",
+"pages":"248--252"
+},
+"year":"1889a",
+"identifier":[]
+
+},
+"B43":{
+"id":"B43",
+"author":[
+{"firstname":"E","lastname":"Simon","name":"E Simon"}
+],
+"type":"article",
+"title":" Arachnides de l’Himalaya, recuellis par MM. Oldham et Wood-Mason, et faisant partie des collections de l’Indian Museum. Première partie.",
+"journal":{
+"name":"Journal of the Asiatic Society of Bengal",
+"volume":"58",
+"pages":"334--344"
+},
+"year":"1889b",
+"identifier":[]
+
+},
+"B44":{
+"id":"B44",
+"author":[
+{"firstname":"E","lastname":"Simon","name":"E Simon"}
+],
+"type":"article",
+"title":" Histoire naturelle des araignées.",
+"journal":{
+"name":"Encyclopédie Roret, Paris,",
+"volume":"2",
+"pages":"1--192"
+},
+"year":"1897",
+"identifier":[]
+
+},
+"B45":{
+"id":"B45",
+"author":[
+{"firstname":"E","lastname":"Simon","name":"E Simon"}
+],
+"type":"article",
+"title":" On the Arachnida collected during the Skeat expedition to the Malay Peninsula.",
+"journal":{
+"name":"Proceedings of the Zoological Society of London",
+"volume":"1901",
+"pages":"45--84"
+},
+"year":"1901",
+"identifier":[]
+
+},
+"B46":{
+"id":"B46",
+"author":[
+{"firstname":"E","lastname":"Strand","name":"E Strand"}
+],
+"type":"article",
+"title":" Arachniden aus Madagaskar, gesammelt von Herrn Walter Kaudern.",
+"journal":{
+"name":"Zoologische Jahrbücher Abteilung für Systematik Ökologie und Geographie der Tiere",
+"volume":"26",
+"pages":"453--488"
+},
+"year":"1908",
+"identifier":[]
+
+},
+"B47":{
+"id":"B47",
+"author":[
+{"firstname":"E","lastname":"Strand","name":"E Strand"}
+],
+"type":"article",
+"title":" Arachnida",
+"journal":{
+"name":"In: Wissenschaftliche Ergebnisse der Deutsche Zentral-Afrika Expedition 1907–1908.",
+"volume":"4",
+"pages":"325--474"
+},
+"year":"1913",
+"identifier":[]
+
+},
+"B48":{
+"id":"B48",
+"author":[
+{"firstname":"BK","lastname":"Tikader","name":"BK Tikader"}
+],
+"type":"article",
+"title":" Studies of some rare spiders of the families Selenopidae and Platoridae from India.",
+"journal":{
+"name":"Proceedings of the Indian Academy of Science",
+"volume":"70",
+"pages":"255--264"
+},
+"year":"1969",
+"identifier":[]
+
+},
+"B49":{
+"id":"B49",
+"author":[
+{"firstname":"D","lastname":"Ubick","name":"D Ubick"},
+{"firstname":"P","lastname":"Paquin","name":"P Paquin"},
+{"firstname":"PE","lastname":"Cushing","name":"PE Cushing"},
+{"firstname":"V","lastname":"Roth","name":"V Roth"}
+],
+"type":"generic",
+"title":"American Arachnological Society",
+"year":"2005",
+"identifier":[]
+
+},
+"B50":{
+"id":"B50",
+"author":[
+{"firstname":"A","lastname":"Valdez-Mondragón","name":"A Valdez-Mondragón"}
+],
+"type":"article",
+"title":" A new species of the selenopid crab-spider genus Selenops Latreille, 1819 (Araneae: Selenopidae) from Guerrero, México.",
+"journal":{
+"name":"Zootaxa",
+"volume":"1449",
+"pages":"65--68"
+},
+"year":"2007",
+"identifier":[]
+
+},
+"B51":{
+"id":"B51",
+"author":[
+{"firstname":"A","lastname":"Valdez-Mondragón","name":"A Valdez-Mondragón"}
+],
+"type":"article",
+"title":" Two new species of spiders of the genus Selenops Latreille, 1819 (Araneae: Selenopidae) and redescription of Selenops scitus Muma, 1953 from México.",
+"journal":{
+"name":"Zootaxa",
+"volume":"2334",
+"pages":"47--58"
+},
+"year":"2010",
+"identifier":[]
+
+},
+"B52":{
+"id":"B52",
+"author":[
+{"firstname":"A","lastname":"Vinson","name":"A Vinson"}
+],
+"type":"book",
+"title":" Aranéides des îles de la Réunion",
+"year":"1863",
+"identifier":[]
+
+},
+"B53":{
+"id":"B53",
+"author":[
+{"firstname":"CA","lastname":"Walckenaer","name":"CA Walckenaer"}
+],
+"type":"article",
+"title":" Histoire naturelle des insects. Aptères.",
+"journal":{
+"name":"Librairie Encyclopédique de Roret, Paris,",
+"volume":"1",
+"pages":"1--682"
+},
+"year":"1837",
+"identifier":[]
+
+},
+"B54":{
+"id":"B54",
+"author":[
+{"firstname":"CD","lastname":"Zhu","name":"CD Zhu"},
+{"firstname":"JY","lastname":"Mao","name":"JY Mao"}
+],
+"type":"article",
+"title":" A new species of spider of the genus Selenops from China (Araneae: Selenopidae)",
+"journal":{
+"name":"Journal of the Norman Bethune Medical University",
+"volume":"9",
+"pages":"135--137"
+},
+"year":"1983",
+"identifier":[]
+
+},
+"B55":{
+"id":"B55",
+"author":[
+{"firstname":"CD","lastname":"Zhu","name":"CD Zhu"},
+{"firstname":"YH","lastname":"Sha","name":"YH Sha"},
+{"firstname":"XE","lastname":"Chen","name":"XE Chen"}
+],
+"type":"article",
+"title":" Description of the genus Selenops from Sichuan Province, China (Araneae, Selenopidae)",
+"journal":{
+"name":"Journal of the Norman Bethune Medical University",
+"volume":"16",
+"pages":"30--33"
+},
+"year":"1990",
+"identifier":[]
+
+}}

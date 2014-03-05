@@ -1,0 +1,676 @@
+Asellia	mariaetheresae
+Asellia	patrizii De
+Asellia	tridens diluta Anderson 1881
+Asellia	diluta Anderson 1881
+Asellia	tridens italosomalica De Beaux 1931
+Asellia	italosomalica De Beaux 1931
+Asellia	tridens tridens
+Asellia	tridens
+Asellia	tridens murraiana Anderson 1881
+Asellia	murraiana Anderson 1881
+Asellia	tridens Geoffroy 1813
+Aselliscus	stoliczkanus Dobson 1871
+Aselliscus	tricuspidatus Temminck 1835
+Aselliscus	tricuspidatus novaeguinae
+Aselliscus	novaeguinae
+Aselliscus	tricuspidatus tricuspidatus
+Aselliscus	tricuspidatus
+Aselliscus	tricuspidatus novehebridensis Sanborn & Nicholson 1950
+Aselliscus	novehebridensis Sanborn & Nicholson 1950
+Aselliscus	tricuspidatus koopmani
+Aselliscus	koopmani
+Anthops	ornatus Thomas 1888
+Rhinolophus	acuminatus audax Andersen 1905
+Rhinolophus	audax Andersen 1905
+Rhinolophus	acuminatus acuminatus
+Rhinolophus	acuminatus
+Rhinolophus	acuminatus circe Andersen 1906
+Rhinolophus	circe Andersen 1906
+Rhinolophus	acuminatus calypso Andersen 1905
+Rhinolophus	calypso Andersen 1905
+Rhinolophus	acuminatus sumatranus Andersen 1905
+Rhinolophus	sumatranus Andersen 1905
+Rhinolophus	acuminatus Peters 1871
+Rhinolophus	adami Aellen & Brosset 1968
+Rhinolophus	affinis affinis Horsfield 1823
+Rhinolophus	affinis Horsfield 1823
+Rhinolophus	affinis andamanensis Dobson 1872
+Rhinolophus	andamanensis Dobson 1872
+Rhinolophus	affinis hainanus Allen 1906
+Rhinolophus	hainanus Allen 1906
+Rhinolophus	affinis macrurus Andersen 1905
+Rhinolophus	macrurus Andersen 1905
+Rhinolophus	affinis himalayanus Andersen 1905
+Rhinolophus	himalayanus Andersen 1905
+Rhinolophus	affinis nesites Andersen 1905
+Rhinolophus	nesites Andersen 1905
+Rhinolophus	affinis superans Andersen 1905
+Rhinolophus	superans Andersen 1905
+Rhinolophus	affinis tener Andersen 1905
+Rhinolophus	tener Andersen 1905
+Rhinolophus	affinis princes Andersen 1905
+Rhinolophus	princes Andersen 1905
+Rhinolophus	alcyone Temminck 1852
+Rhinolophus	anderseni Cabrera 1909
+Rhinolophus	arcuatus angustifolius Sanborn 1939
+Rhinolophus	angustifolius Sanborn 1939
+Rhinolophus	arcuatus exiguus Andersen 1905
+Rhinolophus	exiguus Andersen 1905
+Rhinolophus	arcuatus mcintyrei Hill & Schlitter 1982
+Rhinolophus	mcintyrei Hill & Schlitter 1982
+Rhinolophus	arcuatus Peters 1871
+Rhinolophus	arcuatus arcuatus
+Rhinolophus	arcuatus
+Rhinolophus	arcuatus beccarii Andersen 1907
+Rhinolophus	beccarii Andersen 1907
+Rhinolophus	arcuatus proconsulis Hill 1959
+Rhinolophus	proconsulis Hill 1959
+Rhinolophus	arcuatus toxopeusi Hinton 1925
+Rhinolophus	toxopeusi Hinton 1925
+Rhinolophus	beddomei sobrinus Andersen 1918
+Rhinolophus	sobrinus Andersen 1918
+Rhinolophus	beddomei beddomei
+Rhinolophus	beddomei
+Rhinolophus	beddomei Andersen 1905
+Rhinolophus	blasii andreinii Senna 1905
+Rhinolophus	andreinii Senna 1905
+Rhinolophus	blasii meyeroehmi Felten 1977
+Rhinolophus	meyeroehmi Felten 1977
+Rhinolophus	blasii blasii
+Rhinolophus	blasii
+Rhinolophus	blasii Peters 1866
+Rhinolophus	blasii empusa Andersen 1904
+Rhinolophus	empusa Andersen 1904
+Rhinolophus	bocharicus Kastchenko & Akimov 1917
+Rhinolophus	borneensis spadix Miller 1901
+Rhinolophus	spadix Miller 1901
+Rhinolophus	borneensis chaseni Sanborn 1939
+Rhinolophus	chaseni Sanborn 1939
+Rhinolophus	borneensis importunus Chasen 1939
+Rhinolophus	importunus Chasen 1939
+Rhinolophus	borneensis Peters 1861
+Rhinolophus	borneensis borneensis
+Rhinolophus	borneensis
+Rhinolophus	canuti canuti
+Rhinolophus	canuti
+Rhinolophus	canuti timoriensis Goodwin 1979
+Rhinolophus	timoriensis Goodwin 1979
+Rhinolophus	canuti Thomas & Wroughton 1909
+Rhinolophus	capensis Lichtenstein 1823
+Rhinolophus	celebensis Andersen 1905
+Rhinolophus	celebensis celebensis
+Rhinolophus	celebensis
+Rhinolophus	celebensis javanicus Andersen 1918
+Rhinolophus	javanicus Andersen 1918
+Rhinolophus	clivosus Cretzschmar 1828
+Rhinolophus	clivosus brachygnathus Andersen 1905
+Rhinolophus	brachygnathus Andersen 1905
+Rhinolophus	clivosus schwarzi Heim de Balsac 1934
+Rhinolophus	schwarzi Heim de Balsac 1934
+Rhinolophus	clivosus acrotis Heuglin 1861
+Rhinolophus	acrotis Heuglin 1861
+Rhinolophus	clivosus augur Andersen 1904
+Rhinolophus	augur Andersen 1904
+Rhinolophus	clivosus clivosus
+Rhinolophus	clivosus
+Rhinolophus	clivosus keniensis Hollister 1916
+Rhinolophus	keniensis Hollister 1916
+Rhinolophus	clivosus zuluensis Andersen 1904
+Rhinolophus	zuluensis Andersen 1904
+Rhinolophus	coelophyllus Peters 1867
+Rhinolophus	cognatus cognatus
+Rhinolophus	cognatus
+Rhinolophus	cognatus Andersen 1906
+Rhinolophus	cognatus famulus Andersen 1918
+Rhinolophus	famulus Andersen 1918
+Rhinolophus	convexus Csorba 1997
+Rhinolophus	cornutus orii Kuroda 1924
+Rhinolophus	orii Kuroda 1924
+Rhinolophus	cornutus perditus Andersen 1918
+Rhinolophus	perditus Andersen 1918
+Rhinolophus	cornutus Temminck 1835
+Rhinolophus	cornutus cornutus
+Rhinolophus	cornutus
+Rhinolophus	cornutus miyakonis Kuroda 1924
+Rhinolophus	miyakonis Kuroda 1924
+Rhinolophus	cornutus pumilus Andersen 1905
+Rhinolophus	pumilus Andersen 1905
+Rhinolophus	creaghi Thomas 1896
+Rhinolophus	creaghi creaghi
+Rhinolophus	creaghi
+Rhinolophus	creaghi pilosus Andersen 1918
+Rhinolophus	pilosus Andersen 1918
+Rhinolophus	csakvarensis
+Rhinolophus	darlingi darlingi
+Rhinolophus	darlingi
+Rhinolophus	darlingi Andersen 1905
+Rhinolophus	darlingi damarensis Roberts 1946
+Rhinolophus	damarensis Roberts 1946
+Rhinolophus	deckenii Peters 1867
+Rhinolophus	dehmi
+Rhinolophus	delphinensis
+Rhinolophus	denti Thomas 1904
+Rhinolophus	denti denti
+Rhinolophus	denti
+Rhinolophus	denti knorri Eisentraut 1960
+Rhinolophus	knorri Eisentraut 1960
+Rhinolophus	eloquens Andersen 1905
+Rhinolophus	eloquens eloquens
+Rhinolophus	eloquens
+Rhinolophus	eloquens perauritus De Beaux 1922
+Rhinolophus	perauritus De Beaux 1922
+Rhinolophus	euryale euryale
+Rhinolophus	euryale
+Rhinolophus	euryale judaicus Andersen & Matschie 1904
+Rhinolophus	judaicus Andersen & Matschie 1904
+Rhinolophus	euryale Blasius 1853
+Rhinolophus	euryotis praestens Andersen 1905
+Rhinolophus	praestens Andersen 1905
+Rhinolophus	euryotis aruensis Andersen 1907
+Rhinolophus	aruensis Andersen 1907
+Rhinolophus	euryotis burius Hinton 1925
+Rhinolophus	burius Hinton 1925
+Rhinolophus	euryotis tatar Bergmans & Rozendaal 1982
+Rhinolophus	tatar Bergmans & Rozendaal 1982
+Rhinolophus	euryotis timidus Andersen 1905
+Rhinolophus	timidus Andersen 1905
+Rhinolophus	euryotis Temminck 1835
+Rhinolophus	euryotis euryotis
+Rhinolophus	euryotis
+Rhinolophus	ferrumequinum korai Kuroda 1938
+Rhinolophus	korai Kuroda 1938
+Rhinolophus	ferrumequinum proximus Andersen 1905
+Rhinolophus	proximus Andersen 1905
+Rhinolophus	ferrumequinum tragatus Hodgson 1835
+Rhinolophus	tragatus Hodgson 1835
+Rhinolophus	ferrumequinum creticus Georgudaki & Ondrias 1986
+Rhinolophus	creticus Georgudaki & Ondrias 1986
+Rhinolophus	ferrumequinum creticum Iliopoulou-Georgudaki & Ondrias 1985
+Rhinolophus	creticum Iliopoulou-Georgudaki & Ondrias 1985
+Rhinolophus	ferrumequinum ferrumequinum
+Rhinolophus	ferrumequinum
+Rhinolophus	ferrumequinum nippon Temminck 1835
+Rhinolophus	nippon Temminck 1835
+Rhinolophus	ferrumequinum Schreber 1774
+Rhinolophus	ferrumequinum irani Cheesman 1921
+Rhinolophus	irani Cheesman 1921
+Rhinolophus	formosae Sanborn 1939
+Rhinolophus	fumigatus abae Allen 1917
+Rhinolophus	abae Allen 1917
+Rhinolophus	fumigatus aethiops Peters 1869
+Rhinolophus	aethiops Peters 1869
+Rhinolophus	fumigatus foxi Thomas 1913
+Rhinolophus	foxi Thomas 1913
+Rhinolophus	fumigatus Rüppell 1842
+Rhinolophus	fumigatus exsul Andersen 1905
+Rhinolophus	exsul Andersen 1905
+Rhinolophus	fumigatus diversus Sanborn 1939
+Rhinolophus	diversus Sanborn 1939
+Rhinolophus	fumigatus fumigatus
+Rhinolophus	fumigatus
+Rhinolophus	grivensis grivensis
+Rhinolophus	grivensis
+Rhinolophus	grivensis lissiensis
+Rhinolophus	lissiensis
+Rhinolophus	guineensis Eisentraut 1960
+Rhinolophus	hanaki
+Rhinolophus	hildebrandti Peters 1878
+Rhinolophus	hildebrandtii Peters 1878
+Rhinolophus	hilli Aellen 1973
+Rhinolophus	hillorum Koopman 1989
+Rhinolophus	hipposideros hipposideros Bechstein 1800
+Rhinolophus	hipposideros Bechstein 1800
+Rhinolophus	hipposideros minimus Heuglin 1861
+Rhinolophus	minimus Heuglin 1861
+Rhinolophus	hipposideros escalerae Andersen 1918
+Rhinolophus	escalerae Andersen 1918
+Rhinolophus	hipposideros majori Andersen 1918
+Rhinolophus	majori Andersen 1918
+Rhinolophus	hipposideros midas Andersen 1905
+Rhinolophus	midas Andersen 1905
+Rhinolophus	hipposideros minutus Montagu 1808
+Rhinolophus	minutus Montagu 1808
+Rhinolophus	imaizumii Hill & Yoshiyuki 1980
+Rhinolophus	inops Andersen 1905
+Rhinolophus	keyensis simplex Andersen 1905
+Rhinolophus	simplex Andersen 1905
+Rhinolophus	keyensis amiri Kitchener 1995
+Rhinolophus	amiri Kitchener 1995
+Rhinolophus	keyensis keyensis
+Rhinolophus	keyensis
+Rhinolophus	keyensis parvus Goodwin 1979
+Rhinolophus	parvus Goodwin 1979
+Rhinolophus	keyensis Peters 1871
+Rhinolophus	landeri angolensis Seabra 1898
+Rhinolophus	angolensis Seabra 1898
+Rhinolophus	landeri landeri
+Rhinolophus	landeri
+Rhinolophus	landeri lobatus Peters 1852
+Rhinolophus	lobatus Peters 1852
+Rhinolophus	landeri Martin 1838
+Rhinolophus	lemanensis
+Rhinolophus	lepidus monticola Andersen 1905
+Rhinolophus	monticola Andersen 1905
+Rhinolophus	lepidus Blyth 1844
+Rhinolophus	lepidus cuneatus Andersen 1918
+Rhinolophus	cuneatus Andersen 1918
+Rhinolophus	lepidus feae Andersen 1907
+Rhinolophus	feae Andersen 1907
+Rhinolophus	lepidus refulgens Andersen 1905
+Rhinolophus	refulgens Andersen 1905
+Rhinolophus	lepidus lepidus
+Rhinolophus	lepidus
+Rhinolophus	luctus spurcus Allen 1928
+Rhinolophus	spurcus Allen 1928
+Rhinolophus	luctus perniger Hodgson 1843
+Rhinolophus	perniger Hodgson 1843
+Rhinolophus	luctus Temminck 1835
+Rhinolophus	luctus foetidus Andersen 1918
+Rhinolophus	foetidus Andersen 1918
+Rhinolophus	luctus luctus
+Rhinolophus	luctus
+Rhinolophus	luctus morio Gray 1842
+Rhinolophus	morio Gray 1842
+Rhinolophus	luctus lanosus Andersen 1905
+Rhinolophus	lanosus Andersen 1905
+Rhinolophus	maclaudi Pousargues 1897
+Rhinolophus	macrotis dohrni Andersen 1907
+Rhinolophus	dohrni Andersen 1907
+Rhinolophus	macrotis hirsutus Andersen 1905
+Rhinolophus	hirsutus Andersen 1905
+Rhinolophus	macrotis topali Csorba & Bates 1995
+Rhinolophus	topali Csorba & Bates 1995
+Rhinolophus	macrotis Blyth 1844
+Rhinolophus	macrotis macrotis
+Rhinolophus	macrotis
+Rhinolophus	macrotis caldwelli Allen 1923
+Rhinolophus	caldwelli Allen 1923
+Rhinolophus	macrotis episcopus Allen 1923
+Rhinolophus	episcopus Allen 1923
+Rhinolophus	madurensis Andersen 1918
+Rhinolophus	maendeleo Kock Csorba
+Rhinolophus	malayanus Bonhote 1903
+Rhinolophus	marshalli Thonglongya 1973
+Rhinolophus	megaphyllus ignifer Allen 1933
+Rhinolophus	ignifer Allen 1933
+Rhinolophus	megaphyllus Gray 1834
+Rhinolophus	megaphyllus monachus Andersen 1905
+Rhinolophus	monachus Andersen 1905
+Rhinolophus	megaphyllus megaphyllus
+Rhinolophus	megaphyllus
+Rhinolophus	megaphyllus vandeuseni Koopman 1982
+Rhinolophus	vandeuseni Koopman 1982
+Rhinolophus	megaphyllus fallax Andersen 1906
+Rhinolophus	fallax Andersen 1906
+Rhinolophus	mehelyi Matschie 1901
+Rhinolophus	mehelyi mehelyi
+Rhinolophus	mehelyi
+Rhinolophus	mehelyi tuneti Deleuil & Labbe 1955
+Rhinolophus	tuneti Deleuil & Labbe 1955
+Rhinolophus	mitratus Blyth 1844
+Rhinolophus	monoceros Andersen 1905
+Rhinolophus	montanus Goodwin 1979
+Rhinolophus	nereis Andersen 1905
+Rhinolophus	osgoodi Sanborn 1939
+Rhinolophus	paradoxolophus Bourret 1951
+Rhinolophus	pearsonii pearsonii
+Rhinolophus	pearsonii
+Rhinolophus	pearsonii chinensis Andersen 1905
+Rhinolophus	chinensis Andersen 1905
+Rhinolophus	pearsonii Horsfield 1851
+Rhinolophus	philippinensis alleni Lawrence 1939
+Rhinolophus	alleni Lawrence 1939
+Rhinolophus	philippinensis maros Tate & Archbold 1939
+Rhinolophus	maros Tate & Archbold 1939
+Rhinolophus	philippinensis philippinensis
+Rhinolophus	philippinensis
+Rhinolophus	philippinensis sanborni Chasen 1940
+Rhinolophus	sanborni Chasen 1940
+Rhinolophus	philippinensis Waterhouse 1843
+Rhinolophus	philippinensis achilles Thomas 1900
+Rhinolophus	achilles Thomas 1900
+Rhinolophus	philippinensis robertsi Tate 1952
+Rhinolophus	robertsi Tate 1952
+Rhinolophus	priscus
+Rhinolophus	pumilio
+Rhinolophus	pusillus gracilis Andersen 1905
+Rhinolophus	gracilis Andersen 1905
+Rhinolophus	pusillus minutillus Miller 1906
+Rhinolophus	minutillus Miller 1906
+Rhinolophus	pusillus blythi Andersen 1918
+Rhinolophus	blythi Andersen 1918
+Rhinolophus	pusillus calidus Allen 1923
+Rhinolophus	calidus Allen 1923
+Rhinolophus	pusillus lakkhanae Yoshiyuki 1990
+Rhinolophus	lakkhanae Yoshiyuki 1990
+Rhinolophus	pusillus pagi Tate & Archbold 1939
+Rhinolophus	pagi Tate & Archbold 1939
+Rhinolophus	pusillus szechwanus Andersen 1918
+Rhinolophus	szechwanus Andersen 1918
+Rhinolophus	pusillus parcus Allen 1928
+Rhinolophus	parcus Allen 1928
+Rhinolophus	pusillus pusillus
+Rhinolophus	pusillus
+Rhinolophus	pusillus Temminck 1834
+Rhinolophus	rex Allen 1923
+Rhinolophus	robinsoni thaianus Hill 1992
+Rhinolophus	thaianus Hill 1992
+Rhinolophus	robinsoni klossi Andersen 1918
+Rhinolophus	klossi Andersen 1918
+Rhinolophus	robinsoni robinsoni
+Rhinolophus	robinsoni
+Rhinolophus	robinsoni Andersen 1918
+Rhinolophus	rouxii Temminck 1835
+Rhinolophus	rouxii rouxii
+Rhinolophus	rouxii
+Rhinolophus	rouxii rubidus Kelaart 1850
+Rhinolophus	rubidus Kelaart 1850
+Rhinolophus	rufus Eydoux & Gervais 1836
+Rhinolophus	ruwenzorii Eric Hill 1942
+Rhinolophus	sakejiensis Cotterill 2002
+Rhinolophus	sedulus Andersen 1905
+Rhinolophus	shameli Tate 1943
+Rhinolophus	shortridgei Andersen 1918
+Rhinolophus	siamensis Gyldenstolpe 1917
+Rhinolophus	silvestris Aellen 1959
+Rhinolophus	simulator simulator
+Rhinolophus	simulator
+Rhinolophus	simulator alticolus Sanborn 1936
+Rhinolophus	alticolus Sanborn 1936
+Rhinolophus	simulator Andersen 1904
+Rhinolophus	sinicus septentrionalis Sanborn 1939
+Rhinolophus	septentrionalis Sanborn 1939
+Rhinolophus	sinicus sinicus
+Rhinolophus	sinicus
+Rhinolophus	sinicus Andersen 1905
+Rhinolophus	stheno stheno
+Rhinolophus	stheno
+Rhinolophus	stheno microglobosus Csorba & Jenkins 1998
+Rhinolophus	microglobosus Csorba & Jenkins 1998
+Rhinolophus	stheno Andersen 1905
+Rhinolophus	subbadius Blyth 1844
+Rhinolophus	subrufus subrufus
+Rhinolophus	subrufus
+Rhinolophus	subrufus Andersen 1905
+Rhinolophus	subrufus bunkeri Taylor 1934
+Rhinolophus	bunkeri Taylor 1934
+Rhinolophus	swinnyi Gough 1908
+Rhinolophus	thomasi latifolius Sanborn 1939
+Rhinolophus	latifolius Sanborn 1939
+Rhinolophus	thomasi Andersen 1905
+Rhinolophus	thomasi thomasi
+Rhinolophus	thomasi
+Rhinolophus	trifoliatus edax Andersen 1918
+Rhinolophus	edax Andersen 1918
+Rhinolophus	trifoliatus trifoliatus
+Rhinolophus	trifoliatus
+Rhinolophus	trifoliatus Temminck 1834
+Rhinolophus	trifoliatus niasensis Andersen 1906
+Rhinolophus	niasensis Andersen 1906
+Rhinolophus	trifoliatus solitarius Andersen 1905
+Rhinolophus	solitarius Andersen 1905
+Rhinolophus	virgo Andersen 1905
+Rhinolophus	wenzensis
+Rhinolophus	yunanensis Dobson 1872
+Rhinolophus	ziama Fahr Vierhaus Hutterer
+Triaenops	auritus Grandidier 1912
+Triaenops	furculus Trouessart 1906
+Triaenops	persicus afer Peters 1876
+Triaenops	afer Peters 1876
+Triaenops	persicus persicus
+Triaenops	persicus
+Triaenops	persicus Dobson 1871
+Triaenops	persicus majusculus Aellen & Brosset 1968
+Triaenops	majusculus Aellen & Brosset 1968
+Triaenops	rufus Milne-Edwards 1881
+Cloeotis	percivali percivali
+Cloeotis	percivali
+Cloeotis	percivali Thomas 1901
+Cloeotis	percivali australis Roberts 1917
+Cloeotis	australis Roberts 1917
+Hipposideros	abae Allen 1917
+Hipposideros	armiger armiger
+Hipposideros	armiger
+Hipposideros	armiger fujianensis Zhen 1987
+Hipposideros	fujianensis Zhen 1987
+Hipposideros	armiger tranninhensis Bourret 1942
+Hipposideros	tranninhensis Bourret 1942
+Hipposideros	armiger terasensis Kishida 1924
+Hipposideros	terasensis Kishida 1924
+Hipposideros	armiger Hodgson 1835
+Hipposideros	ater antricola Peters 1861
+Hipposideros	antricola Peters 1861
+Hipposideros	ater Templeton 1848
+Hipposideros	ater aruensis Gray 1858
+Hipposideros	aruensis Gray 1858
+Hipposideros	ater nicobarulae Miller 1902
+Hipposideros	nicobarulae Miller 1902
+Hipposideros	ater saevus Andersen 1918
+Hipposideros	saevus Andersen 1918
+Hipposideros	ater ater
+Hipposideros	ater
+Hipposideros	ater amboinensis Peters 1871
+Hipposideros	amboinensis Peters 1871
+Hipposideros	ater gilberti Johnson 1959
+Hipposideros	gilberti Johnson 1959
+Hipposideros	beatus maximus Verschuren 1957
+Hipposideros	maximus Verschuren 1957
+Hipposideros	beatus Andersen 1906
+Hipposideros	beatus beatus
+Hipposideros	beatus
+Hipposideros	bicolor bicolor
+Hipposideros	bicolor
+Hipposideros	bicolor erigens Lawrence 1939
+Hipposideros	erigens Lawrence 1939
+Hipposideros	bicolor hilli Kitchener 1996
+Hipposideros	hilli Kitchener 1996
+Hipposideros	bicolor selatan Kitchener 1996
+Hipposideros	selatan Kitchener 1996
+Hipposideros	bicolor tanimbarensis Kitchener 1996
+Hipposideros	tanimbarensis Kitchener 1996
+Hipposideros	bicolor atrox Andersen 1918
+Hipposideros	atrox Andersen 1918
+Hipposideros	bicolor major Andersen 1918
+Hipposideros	major Andersen 1918
+Hipposideros	bicolor Temminck 1834
+Hipposideros	boeadii Bates Rossiter Suyanto & Kingston 2007
+Hipposideros	breviceps Tate 1941
+Hipposideros	caffer nanus Allen 1917
+Hipposideros	nanus Allen 1917
+Hipposideros	caffer caffer
+Hipposideros	caffer
+Hipposideros	caffer Sundevall 1846
+Hipposideros	caffer angolensis Seabra 1898
+Hipposideros	angolensis Seabra 1898
+Hipposideros	caffer tephrus Cabrera 1906
+Hipposideros	tephrus Cabrera 1906
+Hipposideros	calcaratus calcaratus
+Hipposideros	calcaratus
+Hipposideros	calcaratus Dobson 1877
+Hipposideros	calcaratus cupidus Andersen 1918
+Hipposideros	cupidus Andersen 1918
+Hipposideros	camerunensis Eisentraut 1956
+Hipposideros	cervinus batchianus Matschie 1901
+Hipposideros	batchianus Matschie 1901
+Hipposideros	cervinus cervinus
+Hipposideros	cervinus
+Hipposideros	cervinus misoriensis Peters 1906
+Hipposideros	misoriensis Peters 1906
+Hipposideros	cervinus labuanensis Tomes 1859
+Hipposideros	labuanensis Tomes 1859
+Hipposideros	cervinus Gould 1863
+Hipposideros	cineraceus cineraceus
+Hipposideros	cineraceus
+Hipposideros	cineraceus wrighti Taylor 1934
+Hipposideros	wrighti Taylor 1934
+Hipposideros	cineraceus Blyth 1853
+Hipposideros	collongensis
+Hipposideros	commersoni Geoffroy 1813
+Hipposideros	coronatus Peters 1871
+Hipposideros	corynophyllus Hill 1985
+Hipposideros	coxi Shelford 1901
+Hipposideros	crumeniferus Lesueur & Petit 1807
+Hipposideros	curtus Allen 1921
+Hipposideros	cyclops Temminck 1853
+Hipposideros	demissus Andersen 1909
+Hipposideros	diadema ceramensis Laurie & Hill 1954
+Hipposideros	ceramensis Laurie & Hill 1954
+Hipposideros	diadema euotis Andersen 1905
+Hipposideros	euotis Andersen 1905
+Hipposideros	diadema masoni Dobson 1872
+Hipposideros	masoni Dobson 1872
+Hipposideros	diadema trobrius Troughton 1937
+Hipposideros	trobrius Troughton 1937
+Hipposideros	diadema diadema
+Hipposideros	diadema
+Hipposideros	diadema griseus Meyen 1883
+Hipposideros	griseus Meyen 1883
+Hipposideros	diadema mirandus Thomas 1914
+Hipposideros	mirandus Thomas 1914
+Hipposideros	diadema natunensis Chasen 1940
+Hipposideros	natunensis Chasen 1940
+Hipposideros	diadema nicobarensis Dobson 1871
+Hipposideros	nicobarensis Dobson 1871
+Hipposideros	diadema nobilis Horsfield 1823
+Hipposideros	nobilis Horsfield 1823
+Hipposideros	diadema oceanitis Andersen 1905
+Hipposideros	oceanitis Andersen 1905
+Hipposideros	diadema custos Andersen 1918
+Hipposideros	custos Andersen 1918
+Hipposideros	diadema enganus Andersen 1907
+Hipposideros	enganus Andersen 1907
+Hipposideros	diadema reginae Troughton 1937
+Hipposideros	reginae Troughton 1937
+Hipposideros	diadema speculator Andersen 1918
+Hipposideros	speculator Andersen 1918
+Hipposideros	diadema inornatus
+Hipposideros	inornatus
+Hipposideros	diadema Geoffroy 1813
+Hipposideros	dinops Andersen 1905
+Hipposideros	doriae Peters 1871
+Hipposideros	durgadasi Khajuria 1970
+Hipposideros	dyacorum Thomas 1902
+Hipposideros	edwardshilli Flannery & Colgan 1993
+Hipposideros	fuliginosus Temminck 1853
+Hipposideros	fulvus fulvus
+Hipposideros	fulvus
+Hipposideros	fulvus pallidus Andersen 1918
+Hipposideros	pallidus Andersen 1918
+Hipposideros	fulvus Gray 1838
+Hipposideros	galeritus brachyotis Dobson 1874
+Hipposideros	brachyotis Dobson 1874
+Hipposideros	galeritus galeritus
+Hipposideros	galeritus
+Hipposideros	galeritus insolens Lyon 1911
+Hipposideros	insolens Lyon 1911
+Hipposideros	galeritus longicauda Peters 1861
+Hipposideros	longicauda Peters 1861
+Hipposideros	galeritus Cantor 1846
+Hipposideros	gigas Wagner 1845
+Hipposideros	grandis Allen 1936
+Hipposideros	halophyllus Hill & Yenbutra 1984
+Hipposideros	hypophyllus Kock & Bhat 1994
+Hipposideros	inexpectatus Laurie & Hill 1954
+Hipposideros	inornatus McKean 1970
+Hipposideros	jonesi Hayman 1947
+Hipposideros	khaokhouayensis Guillén-Servent & Francis 2006
+Hipposideros	lamottei Brosset 1984
+Hipposideros	lankadiva Kelaart 1850
+Hipposideros	larvatus neglectus Sody 1936
+Hipposideros	neglectus Sody 1936
+Hipposideros	larvatus larvatus
+Hipposideros	larvatus
+Hipposideros	larvatus leptophyllus Dobson 1874
+Hipposideros	leptophyllus Dobson 1874
+Hipposideros	larvatus poutensis Allen 1906
+Hipposideros	poutensis Allen 1906
+Hipposideros	larvatus barbensis Miller 1900
+Hipposideros	barbensis Miller 1900
+Hipposideros	larvatus Horsfield 1823
+Hipposideros	lekaguli Thonglongya & Hill 1974
+Hipposideros	lylei Thomas 1913
+Hipposideros	macrobullatus Tate 1941
+Hipposideros	madurae jenningsi Kitchener & Maryanto 1993
+Hipposideros	jenningsi Kitchener & Maryanto 1993
+Hipposideros	madurae madurae
+Hipposideros	madurae
+Hipposideros	madurae Kitchener & Maryanto 1993
+Hipposideros	maggietaylorae maggietaylorae
+Hipposideros	maggietaylorae
+Hipposideros	maggietaylorae Smith & Hill 1981
+Hipposideros	maggietaylorae erroris Smith & Hill 1981
+Hipposideros	erroris Smith & Hill 1981
+Hipposideros	marisae Aellen 1954
+Hipposideros	megalotis Heuglin 1862
+Hipposideros	muscinus Thomas & Doria 1886
+Hipposideros	nequam Andersen 1918
+Hipposideros	nooraleebus Nielsen et al. 1982
+Hipposideros	obscurus Peters 1861
+Hipposideros	orbiculus Francis Kock
+Hipposideros	papua Thomas & Doria 1886
+Hipposideros	pelingensis Shamel 1940
+Hipposideros	pomona pomona
+Hipposideros	pomona
+Hipposideros	pomona gentiles Andersen 1918
+Hipposideros	gentiles Andersen 1918
+Hipposideros	pomona sinensis Andersen 1918
+Hipposideros	sinensis Andersen 1918
+Hipposideros	pomona Andersen 1918
+Hipposideros	pratti Thomas 1891
+Hipposideros	pygmaeus Waterhouse 1843
+Hipposideros	ridleyi Robinson & Kloss 1911
+Hipposideros	rotalis Francis Kock
+Hipposideros	ruber Noack 1893
+Hipposideros	ruber guineensis Andersen 1906
+Hipposideros	guineensis Andersen 1906
+Hipposideros	ruber ruber
+Hipposideros	ruber
+Hipposideros	sabanus Thomas 1898
+Hipposideros	schistaceus Andersen 1918
+Hipposideros	scutinares Robinson Jenkins Francis
+Hipposideros	semoni Matschie 1903
+Hipposideros	sorenseni Kitchener & Maryanto 1993
+Hipposideros	speoris Schneider 1800
+Hipposideros	stenotis Thomas 1913
+Hipposideros	sumbae Oei 1960
+Hipposideros	sumbae rotiensis Kitchener & Maryanto 1993
+Hipposideros	rotiensis Kitchener & Maryanto 1993
+Hipposideros	sumbae sumbae
+Hipposideros	sumbae
+Hipposideros	sumbae sumbawae Kitchener & Maryanto 1993
+Hipposideros	sumbawae Kitchener & Maryanto 1993
+Hipposideros	thomensis Bocage 1891
+Hipposideros	turpis Bangs 1901
+Hipposideros	turpis turpis
+Hipposideros	turpis
+Hipposideros	turpis alongensis Bourret 1942
+Hipposideros	alongensis Bourret 1942
+Hipposideros	turpis pendleburyi Chasen 1936
+Hipposideros	pendleburyi Chasen 1936
+Hipposideros	vittatus Peters 1852
+Hipposideros	wollastoni fasensis Flannery & Colgan 1993
+Hipposideros	fasensis Flannery & Colgan 1993
+Hipposideros	wollastoni wollastoni Thomas 1913
+Hipposideros	wollastoni Thomas 1913
+Hipposideros	wollastoni parnabyi Flannery & Colgan 1993
+Hipposideros	parnabyi Flannery & Colgan 1993
+Rhinonicteris	aurantia Gray 1845
+Rhinonicteris	aurantius Gray 1845
+Coelops	frithi Blyth 1848
+Coelops	frithii formosanus Horikawa 1928
+Coelops	formosanus Horikawa 1928
+Coelops	frithii frithii
+Coelops	frithii
+Coelops	frithii bernsteini Peters 1862
+Coelops	bernsteini Peters 1862
+Coelops	frithii inflatus Miller 1928
+Coelops	inflatus Miller 1928
+Coelops	frithii sinicus Allen 1928
+Coelops	sinicus Allen 1928
+Coelops	frithii Blyth 1848
+Coelops	hirsutus Miller 1911
+Coelops	robinsoni hirsutus Miller 1910
+Coelops	hirsutus Miller 1910
+Coelops	robinsoni robinsoni Bonhote 1908
+Coelops	robinsoni Bonhote 1908
+Paracoelops	megalotis Dorst 1947

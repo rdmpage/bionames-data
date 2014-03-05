@@ -1,0 +1,17 @@
+
+Warning: XSLTProcessor::importStylesheet(): Unfinished literal in /Users/rpage/Desktop/bionames-data/citation/zookeys_references.php on line 61
+
+Warning: XSLTProcessor::importStylesheet(): compilation error: file /Users/rpage/Desktop/bionames-data/citation/zookeys2bibjson.xsl line 117 element with-param in /Users/rpage/Desktop/bionames-data/citation/zookeys_references.php on line 61
+
+Warning: XSLTProcessor::importStylesheet(): XSLT-with-param: Failed to compile select expression '"' in /Users/rpage/Desktop/bionames-data/citation/zookeys_references.php on line 61
+
+Warning: XSLTProcessor::importStylesheet(): Invalid expression in /Users/rpage/Desktop/bionames-data/citation/zookeys_references.php on line 61
+
+Warning: XSLTProcessor::importStylesheet(): compilation error: file /Users/rpage/Desktop/bionames-data/citation/zookeys2bibjson.xsl line 118 element with-param in /Users/rpage/Desktop/bionames-data/citation/zookeys_references.php on line 61
+
+Warning: XSLTProcessor::importStylesheet(): XSLT-with-param: Failed to compile select expression '\"' in /Users/rpage/Desktop/bionames-data/citation/zookeys_references.php on line 61
+
+Warning: XSLTProcessor::transformToXml(): No stylesheet associated to this object in /Users/rpage/Desktop/bionames-data/citation/zookeys_references.php on line 67
+
+Warning: Invalid argument supplied for foreach() in /Users/rpage/Desktop/bionames-data/citation/zookeys_references.php on line 78
+[]

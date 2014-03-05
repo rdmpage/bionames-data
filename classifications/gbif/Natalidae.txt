@@ -1,0 +1,38 @@
+Chilonatalus	micropus brevimanus Miller 1898
+Chilonatalus	brevimanus Miller 1898
+Chilonatalus	micropus Dobson 1880
+Chilonatalus	micropus macer Miller 1914
+Chilonatalus	macer Miller 1914
+Chilonatalus	micropus micropus
+Chilonatalus	micropus
+Chilonatalus	tumidifrons Miller 1903
+Primonatalus	prattae
+Honrovits	tsuwape
+Natalus	espiritosantensis Ruschi 1951
+Natalus	jamaicensis Goodwin 1959
+Natalus	lanatus Tejedor 2005
+Natalus	lepidus Gervais 1837
+Natalus	major Miller 1902
+Natalus	mexicanus Miller 1902
+Natalus	micropus Dobson 1880
+Natalus	primus Anthony 1919
+Natalus	stramineus espiritosantensis Ruschi 1951
+Natalus	stramineus tronchonii Linares 1971
+Natalus	tronchonii Linares 1971
+Natalus	stramineus mexicanus Miller 1902
+Natalus	stramineus saturatus Dalquest & Hall 1949
+Natalus	saturatus Dalquest & Hall 1949
+Natalus	stramineus natalensis Goodwin 1959
+Natalus	natalensis Goodwin 1959
+Natalus	stramineus stramineus
+Natalus	stramineus
+Natalus	stramineus Gray 1838
+Natalus	tumidifrons Miller 1903
+Natalus	tumidirostris haymani Goodwin 1959
+Natalus	haymani Goodwin 1959
+Natalus	tumidirostris continentis Thomas 1911
+Natalus	continentis Thomas 1911
+Natalus	tumidirostris tumidirostris
+Natalus	tumidirostris
+Natalus	tumidirostris Miller 1900
+Nyctiellus	lepidus Gervais 1837

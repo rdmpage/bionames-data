@@ -1,0 +1,724 @@
+Thuylamea	camelus Nguyên 2001
+Salomeus	arubae
+Salomeus	bruni
+Salomeus	ortmanni
+Salomeus	trigona
+Parabetaeus	culliereti Coutière 1897b
+Parabetaeus	euryone De Man 1910
+Parabetaeus	hiatti Banner 1953
+Parabetaeus	hummelincki Schmitt 1936
+Aretopsis	amabilis De Man 1910a
+Aretopsis	manazuruensis Suzuki 1971
+Rugathanas	borradailei Coutière 1903
+Rugathanas	verrucosus Banner & Banner 1960a
+Bataeus	malleodigitus Bate 1888
+Bataeus	utricola Richters 1880
+Orygmalpheus	polites De Grave & Anker 2000
+Pseudathanas	darwiniensis Bruce 1983d
+Pterocaris	typica Heller 1862b
+Metabetaeus	lohena A. H. Banner & D. M. Banner 1960
+Metabetaeus	mcphersonae Anker 2010c
+Metabetaeus	minutus Whitelegge 1897
+Alpheus	acutocarinatus De Man 1909a
+Alpheus	acutofemoratus Dana 1852a
+Alpheus	adamastor Coutière 1908
+Alpheus	aequus W. Kim & Abele 1988
+Alpheus	agilis Anker Hurt & Knowlton 2009
+Alpheus	agrogon Ramos 1997
+Alpheus	albatrossae A. H. Banner 1953
+Alpheus	alcyone De Man 1902
+Alpheus	alpheopsides Coutière 1905b
+Alpheus	amblyonyx Chace 1972
+Alpheus	amirantei Coutière 1908
+Alpheus	anchistus De Man 1920a
+Alpheus	angulosus McClure 2002
+Alpheus	angustilineatus Nomura & Anker 2005
+Alpheus	antepaenultimus W. Kim & Abele 1988
+Alpheus	architectus De Man 1897
+Alpheus	arenensis Chace 1937b
+Alpheus	arenicolus Banner & Banner 1983
+Alpheus	arethusa De Man 1909a
+Alpheus	armatus M. J. Rathbun 1901
+Alpheus	armillatus H. Milne Edwards 1837
+Alpheus	arnoa Banner 1957
+Alpheus	astrinx Banner & Banner 1982a
+Alpheus	australiensis Banner & Banner 1982a
+Alpheus	australosulcatus Banner & Banner 1982a
+Alpheus	avarus J. C. Fabricius 1798
+Alpheus	baccheti Anker 2010a
+Alpheus	bahamensis Rankin 1898
+Alpheus	balaenodigitus Banner & Banner 1982a
+Alpheus	bannerorum Bruce 1987
+Alpheus	barbadensis Schmitt 1924b
+Alpheus	barbara Lockington 1878
+Alpheus	barbatus Coutière 1897c
+Alpheus	batesi Banner & Banner 1964
+Alpheus	beanii Verrill 1922
+Alpheus	belli Coutière 1898
+Alpheus	bellimanus Lockington 1877
+Alpheus	bellulus Miya & Miyake 1969
+Alpheus	bicostatus De Man 1908d
+Alpheus	bidens Olivier 1811
+Alpheus	bisincisus de Haan 1844
+Alpheus	bisncisus De Haan 1850
+Alpheus	blachei Crosnier & Forest 1965a
+Alpheus	bouvieri A. Milne-Edwards 1878
+Alpheus	brachymerus A. H. Banner 1953
+Alpheus	bradypus Coutière 1905b
+Alpheus	brevicristatus de Haan 1844
+Alpheus	brevipes Stimpson 1860
+Alpheus	brevirostris Olivier 1811
+Alpheus	brucei Banner & Banner 1982b
+Alpheus	bucephaloides Nobili 1905
+Alpheus	bucephalus Coutière 1905
+Alpheus	buchanorum Banner & Banner 1983
+Alpheus	bunburius Banner & Banner 1982a
+Alpheus	californiensis Holmes 1900
+Alpheus	canaliculatus Banner & Banner 1968
+Alpheus	candei Guérin-Méneville 1855
+Alpheus	chacei Carvacho 1979
+Alpheus	chamorro Banner 1956
+Alpheus	chilensis Lenz 1902
+Alpheus	chiragricus H. Milne Edwards 1837
+Alpheus	christofferseni Anker Hurt & Knowlton 2007a
+Alpheus	clamator Lockington 1877
+Alpheus	clypeatus Coutière 1905
+Alpheus	coetivensis Coutière 1908
+Alpheus	collumianus Stimpson 1860
+Alpheus	colombiensis Wicksten 1988
+Alpheus	compressus Banner & Banner 1981b
+Alpheus	confusus Carvacho 1989
+Alpheus	coutierei De Man 1909a
+Alpheus	cremnus Banner & Banner 1982a
+Alpheus	crinitus Dana 1852a
+Alpheus	cristatus Coutière 1897b
+Alpheus	cristulifrons M. J. Rathbun 1900
+Alpheus	crockeri Armstrong 1941
+Alpheus	cyanoteles Yeo & Ng 1996
+Alpheus	cylindricus Kingsley 1878
+Alpheus	cythereus Banner & Banner 1966a
+Alpheus	dasycheles Coutière 1908
+Alpheus	davaoensis Chace 1988
+Alpheus	dentipes Guérin 1832
+Alpheus	deuteropus Hilgendorf 1879
+Alpheus	diadema Dana 1852
+Alpheus	digitalis de Haan 1844
+Alpheus	distinctus W. Kim & Abele 1988
+Alpheus	djeddensis Coutière 1897
+Alpheus	djiboutensis De Man 1909b
+Alpheus	dolerus A. H. Banner 1956
+Alpheus	edamensis De Man 1888b
+Alpheus	edwardsii Audoiun 1826
+Alpheus	ehlersii De Man 1909c
+Alpheus	estuariensis Christoffersen 1984
+Alpheus	euchirus Dana 1852a
+Alpheus	eulimene De Man 1909a
+Alpheus	euphrosyne De Man 1897
+Alpheus	exilis W. Kim & Abele 1988
+Alpheus	explorator Boone 1935
+Alpheus	facetus De Man 1908d
+Alpheus	fagei Crosnier & Forest 1965b
+Alpheus	fasciatus Lockington 1878b
+Alpheus	fasqueli Anker 2001
+Alpheus	felgenhaueri W. Kim & Abele 1988
+Alpheus	fenneri Bruce 1994b
+Alpheus	firmus W. Kim & Abele 1988
+Alpheus	floridanus Kingsley 1878
+Alpheus	floridanus Kingsley 1878
+Alpheus	africanus Balss 1916
+Alpheus	foresti Banner & Banner 1981b
+Alpheus	formosus Gibbes 1850
+Alpheus	frontalis H. Milne Edwards 1837
+Alpheus	fujitai Nomura & Anker 2005
+Alpheus	funafutensis Borradaile 1899
+Alpheus	fushima Nomura 2009
+Alpheus	galapagensis Sivertsen 1933
+Alpheus	georgei Banner & Banner 1982a
+Alpheus	glaber Olivi 1792
+Alpheus	gracilipes Stimpson 1860
+Alpheus	gracilis C. Heller 1862
+Alpheus	grahami Abele 1975b
+Alpheus	haanii Ortmann 1890
+Alpheus	hailstonei Coutière 1905
+Alpheus	halesii Kirk 1887
+Alpheus	hebes W. Kim & Abele 1988
+Alpheus	heeia A. H. Banner & D. M. Banner 1975
+Alpheus	heronicus Banner & Banner 1982a
+Alpheus	heterocarpus Yu 1935
+Alpheus	heterochaelis Say 1818
+Alpheus	heurteli Coutière 1897d
+Alpheus	hippothoe De Man 1888a
+Alpheus	holthuisi Ribeiro 1964
+Alpheus	homochirus Yu 1935
+Alpheus	hoonsooi W. Kim & Abele 1988
+Alpheus	hoplocheles Coutière 1897
+Alpheus	hortensis Wicksten & McClure 2003
+Alpheus	hululensis Coutière 1905b
+Alpheus	hutchingsae Banner & Banner 1982a
+Alpheus	hyeyoungae W. Kim & Abele 1988
+Alpheus	hyphalus Chace 1988
+Alpheus	idiocheles Coutière 1905b
+Alpheus	immaculatus Knowlton & Keller 1983
+Alpheus	inca Wicksten & Méndez G. 1981
+Alpheus	inopinatus Holthuis & Gottlieb 1958
+Alpheus	intrinsecus Bate 1888
+Alpheus	japonicus Miers 1879
+Alpheus	javieri Anker Hurt & Knowlton 2009
+Alpheus	kagoshimanus Hayashi & Nagata 2000
+Alpheus	kuroshimensis Nomura & Anker 2005
+Alpheus	labis Banner & Banner 1982a
+Alpheus	lacertosus W. Kim & Abele 1988
+Alpheus	ladronis Banner 1956
+Alpheus	lanceloti Coutière 1905
+Alpheus	lanceostylus A. H. Banner 1959
+Alpheus	latipes A. H. Banner 1953
+Alpheus	latus W. Kim & Abele 1988
+Alpheus	lentiginosus Anker & Nizinski 2011
+Alpheus	lepidus De Man 1908d
+Alpheus	leptocheles Banner & Banner 1975b
+Alpheus	leptochiroides De Man 1909a
+Alpheus	leptochirus Coutière 1906
+Alpheus	leviusculus Dana 1852b
+Alpheus	lobidens De Haan 1850
+Alpheus	longecarinatus Hilgendorf 1879
+Alpheus	longichaelis Carvacho 1979
+Alpheus	longiforceps Hayashi & Nagata 2002
+Alpheus	longinquus W. Kim & Abele 1988
+Alpheus	lottini Guérin-Méneville 1829
+Alpheus	lutosus Anker & De Grave 2009
+Alpheus	macellarius Chace 1988
+Alpheus	mackayi A. H. Banner 1959
+Alpheus	macrocheles Hailstone 1835b
+Alpheus	macroskeles Alcock & Anderson 1899
+Alpheus	maindroni Coutière 1898b
+Alpheus	malabaricus Fabricius 1775
+Alpheus	malleator Dana 1852
+Alpheus	malleodigitus Spence Bate 1888
+Alpheus	martini W. Kim & Abele 1988
+Alpheus	mazatlanicus Wicksten 1983a
+Alpheus	mazatlanticus Wicksten 1983
+Alpheus	microrhynchus De Man 1897
+Alpheus	microscaphis Banner 1959
+Alpheus	microstylus Spence Bate 1888
+Alpheus	miersi Coutière 1898c
+Alpheus	migrans Lewinsohn & Holthuis 1978
+Alpheus	millsae Anker Hurt & Knowlton 2007b
+Alpheus	mitis Dana 1852a
+Alpheus	moretensis Banner & Banner 1982a
+Alpheus	naos Anker Hurt & Knowlton 2007a
+Alpheus	nipa Banner & Banner 1985
+Alpheus	nobili Banner & Banner 1966b
+Alpheus	nonalter Kensley 1969
+Alpheus	normanni Kingsley 1878
+Alpheus	notabilis Stebbing 1915
+Alpheus	novaezealandiae Miers 1876a
+Alpheus	novaezelandiae Miers 1876
+Alpheus	nuttingi Schmitt 1924
+Alpheus	oahuensis A. H. Banner 1953
+Alpheus	obesomanus Dana 1852a
+Alpheus	ovaliceps Coutière 1905b
+Alpheus	pachychirus Stimpson 1860a
+Alpheus	pacificus Dana 1852
+Alpheus	packardii Kingsley 1880
+Alpheus	paludicola Kemp 1915
+Alpheus	panamensis Kingsley 1878b
+Alpheus	papillosus Banner & Banner 1982a
+Alpheus	paracrinitus Miers 1881
+Alpheus	paradentipes Coutière 1905
+Alpheus	paraformosus Anker Hurt & Knowlton 2008b
+Alpheus	paralcyone Coutière 1905
+Alpheus	paralpheopsides Coutière 1905b
+Alpheus	parasocialis Banner & Banner 1982a
+Alpheus	imitatrix De Man 1909a
+Alpheus	pareuchirus Coutière 1905b
+Alpheus	pareuchirus Coutière 1905b
+Alpheus	parvimaculatus Nomura & Anker 2005
+Alpheus	parvirostris Dana 1852
+Alpheus	parvus De Man 1909a
+Alpheus	peasei Armstrong 1940
+Alpheus	percyi Coutière 1905
+Alpheus	perezi Coutière 1908
+Alpheus	perplexus Banner 1956
+Alpheus	philoctetes De Man 1909a
+Alpheus	phyrgianus Coutière 1905
+Alpheus	platydactylus Coutière 1897d
+Alpheus	platyunguiculatus A. H. Banner 1953
+Alpheus	polystictus Knowlton & Keller 1985
+Alpheus	polyxo De Man 1909a
+Alpheus	pontederiae de Rochebrune 1883
+Alpheus	pouang Christoffersen 1979
+Alpheus	praedator De Man 1908d
+Alpheus	proseuchirus De Man 1908d
+Alpheus	pseudopugnax A. H. Banner 1953
+Alpheus	puapeba Christoffersen 1979
+Alpheus	pubescens De Man 1908d
+Alpheus	pugnax Dana 1852
+Alpheus	pustulosus Banner & Banner 1968
+Alpheus	quasirapacida Chace 1988
+Alpheus	randalli Banner & Banner 1980
+Alpheus	rapacida de Man 1908
+Alpheus	rapax J. C. Fabricius 1798
+Alpheus	rathbunae Schmitt 1924
+Alpheus	rectus W. Kim & Abele 1988
+Alpheus	ribeiroae Anker & Dworschak 2004
+Alpheus	richardsoni Yaldwyn 1971
+Alpheus	ridleyi Pocock 1890
+Alpheus	romensky Burukovsky 1990
+Alpheus	roquensis Knowlton & Keller 1985
+Alpheus	roseodigitalis Nomura & Anker 2005
+Alpheus	rostratus W. Kim & Abele 1988
+Alpheus	rudolphi Almeida & Anker 2011
+Alpheus	rugimanus A. Milne-Edwards 1878
+Alpheus	samoa Banner & Banner 1966b
+Alpheus	savuensis De Man 1908d
+Alpheus	saxidomus Holthuis 1980d
+Alpheus	schmitti Chace 1972
+Alpheus	scopulus W. Kim & Abele 1988
+Alpheus	serenei Tiwari 1964b
+Alpheus	sibogae De Man 1908d
+Alpheus	simus Guérin-Méneville 1855
+Alpheus	sizou Banner & Banner 1967
+Alpheus	socialis Heller 1862a
+Alpheus	soela Banner & Banner 1986
+Alpheus	soelae Banner & Banner 1986
+Alpheus	soror Bruce 1999
+Alpheus	spatulatus Banner & Banner 1968
+Alpheus	splendidus Coutière 1897c
+Alpheus	spongiarum Coutière 1897
+Alpheus	stanleyi Coutière 1908
+Alpheus	stantoni Banner & Banner 1986
+Alpheus	staphylinus Coutière 1908
+Alpheus	stephensoni Banner & Smalley 1969
+Alpheus	strenuus Dana 1852a
+Alpheus	cremnus Banner & Banner 1982a
+Alpheus	strenuus Dana 1852
+Alpheus	styliceps Coutière 1905b
+Alpheus	sublucanus Forskal 1775
+Alpheus	sudara Banner & Banner 1966a
+Alpheus	sulcatus Kingsley 1878b
+Alpheus	suluensis Chace 1988
+Alpheus	supachai Banner & Banner 1966a
+Alpheus	superciliaris Coutière 1905b
+Alpheus	talismani Coutière 1898d
+Alpheus	tasmanicus Banner & Banner 1982a
+Alpheus	tenuicarpus De Man 1908d
+Alpheus	tenuipes De Man 1910a
+Alpheus	tenuis W. Kim & Abele 1988
+Alpheus	thomasi Hendrix & Gore 1973
+Alpheus	tirmiziae Kazmi 1974
+Alpheus	tricolor Anker 2001
+Alpheus	triphopus Nobili 1906b
+Alpheus	tumidomanus
+Alpheus	tungii Banner & Banner 1966b
+Alpheus	umbo W. Kim & Abele 1988
+Alpheus	utriensis Ramos & von Prahl 1989
+Alpheus	vanderbilti Boone 1930c
+Alpheus	verrilli
+Alpheus	villosus Olivier 1811
+Alpheus	villus W. Kim & Abele 1988
+Alpheus	viridari Armstrong 1949
+Alpheus	waltervadi Kensley 1969
+Alpheus	websteri Kingsley 1880
+Alpheus	wickstenae Christoffersen & Ramos 1987
+Alpheus	williamsi Bruce 1994b
+Alpheus	xanthocarpus Anker Hurt & Knowlton 2008a
+Alpheus	xishaensis Liu & Lan 1980
+Alpheus	zimmermani Anker 2007a
+Alpheus	zulfaquiri Kazmi 1982
+Alpheopsis	aequalis Coutière 1897
+Alpheopsis	africana Holthuis 1952a
+Alpheopsis	allanhancocki Wicksten 1992
+Alpheopsis	azorica Anker
+Alpheopsis	biunguiculata A. H. Banner 1953
+Alpheopsis	chalciope De Man 1910a
+Alpheopsis	chilensis Coutière 1897b
+Alpheopsis	cortesiana Wicksten & Hendrickx 1986
+Alpheopsis	diabolus A. H. Banner 1956
+Alpheopsis	equalis
+Alpheopsis	equidactylus Lockington 1877
+Alpheopsis	garricki Yaldwyn 1971
+Alpheopsis	harperi Wicksten 1984
+Alpheopsis	idiocarpus Coutière 1908
+Alpheopsis	labis Chace 1972
+Alpheopsis	shearmii Alcock & Anderson 1899
+Alpheopsis	tetrarthri Banner 1956
+Alpheopsis	trigona Rathbun 1901
+Alpheopsis	trigonus
+Alpheopsis	trispinosus Stimpson 1860
+Alpheopsis	undicola Banner & Banner 1973a
+Alpheopsis	vietnamensis Tiwari 1964b
+Alpheopsis	yaldwyni Banner & Banner 1973a
+Amphibetaeus	jousseaumei Coutière 1896
+Prionalpheus	brachytomeus Banner & Banner 1971
+Prionalpheus	fissipes Coutière 1908
+Prionalpheus	gomezi Martínez-Iglesias & Carvacho 1991
+Prionalpheus	mortoni Bruce 1990
+Prionalpheus	nayaritae Alvarez Camacho & Villalobos 1996
+Prionalpheus	sulu Banner & Banner 1971
+Prionalpheus	triarticulatus Banner & Banner 1960c
+Arete	acanthocarpus Miya & Miyake 1968a
+Arete	amboinensis De Man 1910b
+Arete	dorsalis Stimpson 1860a
+Arete	indica Coutière
+Arete	indicus Coutière 1903
+Metalpheus	aglaopheniae Borradaile 1900
+Metalpheus	hawaiiensis Edmondson 1925
+Metalpheus	paragracilis Coutière 1897
+Metalpheus	rostratipes Pocock 1890
+Triacanthoneus	alacranes Anker 2010
+Triacanthoneus	pacificus Anker 2010
+Triacanthoneus	toro Anker 2010
+Coutieralpheus	setirostris Anker & Felder 2005
+Pomagnathus	corallinus Chace 1937b
+Leptathanas	powelli De Grave & Anker 2008
+Richalpheus	dahabensis Anker & Dworschak 2007b
+Richalpheus	palmeri Anker & Jeng 2006
+Batella	leptocarpus Chace 1988
+Batella	parvimanus Spence Bate 1888
+Batella	praecipua De Grave 2004a
+Racilius	compressus Paul
+Salmoneus	alpheophilus Anker & Marin 2006
+Salmoneus	armatus Anker 2010d
+Salmoneus	artmanni
+Salmoneus	arubae Schmitt 1936
+Salmoneus	auroculatus Anker & Marin 2006
+Salmoneus	babai Miyake & Miya 1966
+Salmoneus	brevirostris Edmondson 1930
+Salmoneus	brucei Komai 2009
+Salmoneus	bruni Banner & Banner 1966a
+Salmoneus	caboverdensis Dworschak Anker & Abed-Navandi 2000
+Salmoneus	camaroncito Anker 2010d
+Salmoneus	carvachoi Anker 2007c
+Salmoneus	cavicola Felder & Manning 1986
+Salmoneus	cavicolus Felder & Manning 1986
+Salmoneus	colinorum De Grave 2004b
+Salmoneus	cristatus Coutière 1897c
+Salmoneus	degravei Anker 2010d
+Salmoneus	erasimorum Dworschak Anker & Abed-Navandi 2000
+Salmoneus	falcidactylus Anker & Marin 2006
+Salmoneus	gracilipes Miya 1972
+Salmoneus	hilarulus De Man 1910a
+Salmoneus	hispaniolensis Anker 2010d
+Salmoneus	jarli Holthuis 1951a
+Salmoneus	kekovae Grippa 2004
+Salmoneus	komaii Anker 2011c
+Salmoneus	latirostris Coutière 1897b
+Salmoneus	mauiensis Edmondson 1930
+Salmoneus	nhatrangensis Anker & Marin 2006
+Salmoneus	ortmanni Rankin 1898
+Salmoneus	paulayi Anker 2011c
+Salmoneus	poupini Anker 2011c
+Salmoneus	pusillus Anker & Marin 2006
+Salmoneus	rocas Anker 2007c
+Salmoneus	rostratus Barnard 1962
+Salmoneus	serratidigitus Coutière 1897b
+Salmoneus	seticheles Anker 2003b
+Salmoneus	setosus Manning & Chace 1990
+Salmoneus	sibogae De Man 1910a
+Salmoneus	singaporensis Anker 2003a
+Salmoneus	sketi Fransen 1991a
+Salmoneus	tafaongae Banner & Banner 1966b
+Salmoneus	teres Manning & Chace 1990
+Salmoneus	tricristata
+Salmoneus	tricristatus Banner 1959
+Salmoneus	wehrtmanni Anker 2010d
+Nennalpheus	inarticulatus Banner & Banner 1981b
+Nennalpheus	sibogae De Man 1910
+Vexillipar	repandum Chace 1988
+Synalpheus	agelas L. H. Pequegnat & Heard 1979
+Synalpheus	albatrossi Coutière 1909
+Synalpheus	amabilis De Man 1910a
+Synalpheus	amboinae Zehntner 1894
+Synalpheus	anasimus Chace 1972
+Synalpheus	anceps Banner 1956
+Synalpheus	ancistrorhynchus De Man 1909a
+Synalpheus	androsi Coutière 1909
+Synalpheus	antenor De Man 1910a
+Synalpheus	desterroensis Coutière 1909
+Synalpheus	leiopes Coutière 1909
+Synalpheus	apioceros Coutière 1909
+Synalpheus	mayaguensis Coutière 1909
+Synalpheus	apioceros Coutière 1909
+Synalpheus	arostris Wicksten 1989b
+Synalpheus	bannerorum Abele 1975b
+Synalpheus	barahonensis Armstrong 1949
+Synalpheus	belizensis Anker & Tóth 2008
+Synalpheus	bispinosus De Man 1910a
+Synalpheus	bituberculatus De Man 1910a
+Synalpheus	biunguiculatus Stimpson 1860
+Synalpheus	bocas Anker & Tóth 2008
+Synalpheus	bousfieldi Chace 1972
+Synalpheus	bradleyi Verrill 1922
+Synalpheus	brevicarpus Herrick 1891
+Synalpheus	brevidactylus Anker & Tóth 2008
+Synalpheus	brevifrons Chace 1972
+Synalpheus	brevispinis Coutière 1909
+Synalpheus	brooksi Coutière 1909
+Synalpheus	carinatus De Man 1888b
+Synalpheus	carpenteri MacDonald & Duffy 2006
+Synalpheus	chacei Duffy 1998
+Synalpheus	charon C. Heller 1861
+Synalpheus	comatularum Haswell 1882
+Synalpheus	corallinus MacDonald Hultgren & Duffy 2009
+Synalpheus	coutierei A. H. Banner 1953
+Synalpheus	cretoculatus Banner & Banner 1979
+Synalpheus	crosnieri Banner & Banner 1983
+Synalpheus	curacaoensis Schmitt 1924a
+Synalpheus	dardeaui Ríos & Duffy 2007
+Synalpheus	demani Borradaile 1900
+Synalpheus	digueti Coutière 1909
+Synalpheus	disparodigitus Armstrong 1949
+Synalpheus	dominicensis Armstrong 1949
+Synalpheus	dorae Bruce 1988
+Synalpheus	duffyi Anker & Tóth 2008
+Synalpheus	echinus Banner & Banner 1975c
+Synalpheus	elizabethae Ríos & Duffy 2007
+Synalpheus	filidigitus Armstrong 1949
+Synalpheus	fossor 
+Synalpheus	fritzmuelleri Coutière 1909
+Synalpheus	gambarelloides Nardo 1847
+Synalpheus	goodei Coutière 1909
+Synalpheus	gracilirostris De Man 1910a
+Synalpheus	grampusi Coutière 1909
+Synalpheus	haddoni Coutière 1900c
+Synalpheus	harpagatrus Banner & Banner 1975c
+Synalpheus	hastilicrassus Coutière 1905b
+Synalpheus	heardi Dardeau 1984
+Synalpheus	hemphilli Coutière 1909
+Synalpheus	herdmaniae Lebour 1938
+Synalpheus	heroni Coutière 1909
+Synalpheus	herricki Coutière 1909
+Synalpheus	hilarulus De Man 1910a
+Synalpheus	hoetjesi Hultgren MacDonald & Duffy 2010
+Synalpheus	idios Ríos & Duffy 2007
+Synalpheus	iocasta De Man 1909a
+Synalpheus	iocosta De Man 1909
+Synalpheus	iphinoe De Man 1909a
+Synalpheus	irie MacDonald Hultgren & Duffy 2009
+Synalpheus	jedanensis De Man 1909a
+Synalpheus	kensleyi Ríos & Duffy 2007
+Synalpheus	kuadramanus Hultgren MacDonald & Duffy 2010
+Synalpheus	kusaiensis Kubo 1940
+Synalpheus	laevimanus
+Synalpheus	lani Hermoso & Alvarez 2005
+Synalpheus	laticeps Coutière 1905b
+Synalpheus	lockingtoni Coutière 1909
+Synalpheus	longicarpus Herrick 1891
+Synalpheus	lophodactylus Coutière 1908
+Synalpheus	macclendoni Coutière 1910
+Synalpheus	maccullochi Coutière 1908
+Synalpheus	macromanus Edmondson 1925
+Synalpheus	mcclendoni Coutière 1910
+Synalpheus	merospiniger Coutière 1908
+Synalpheus	metaneomerus
+Synalpheus	mexicanus Coutière 1909
+Synalpheus	microneptunus Hultgren MacDonald & Duffy 2011
+Synalpheus	minus Say 1818
+Synalpheus	modestus De Man 1909a
+Synalpheus	mortenseni Banner & Banner 1985
+Synalpheus	mulegensis Rios 1992
+Synalpheus	mushaensis Coutière 1908
+Synalpheus	neomeris De Man 1897
+Synalpheus	neptunus Dana 1852a
+Synalpheus	neptunus Dana 1852a
+Synalpheus	germanus Banner & Banner 1975c
+Synalpheus	nilandensis Coutière 1905b
+Synalpheus	nobilii Coutière 1909
+Synalpheus	novaezealanidae Miers 1876
+Synalpheus	obtusifrons Chace 1972
+Synalpheus	occidentalis Coutière 1909
+Synalpheus	odontophorus De Man 1909a
+Synalpheus	orapilosus Hultgren MacDonald & Duffy 2010
+Synalpheus	osburni Schmitt 1933
+Synalpheus	otiosus Coutière 1908
+Synalpheus	pachymeris Coutière 1905b
+Synalpheus	pandionis Coutière 1909
+Synalpheus	paradoxus Banner & Banner 1981a
+Synalpheus	paralaticeps Banner & Banner 1982a
+Synalpheus	paraneomeris Coutière 1905
+Synalpheus	paraneptunus Coutière 1909
+Synalpheus	parfaiti 
+Synalpheus	liminaris Coutière 1908
+Synalpheus	paulsoni Nobili 1906c
+Synalpheus	kurracheensis Coutière 1908
+Synalpheus	paulsoni Nobili 1906c
+Synalpheus	rameswarensis Coutière 1908
+Synalpheus	paulsonoides Coutière 1909
+Synalpheus	pectiniger Coutière 1907
+Synalpheus	peruvianus Rathbun 1910
+Synalpheus	pescadorensis Coutière 1905b
+Synalpheus	plumosetosus MacDonald Hultgren & Duffy 2009
+Synalpheus	pocochi Coutière 1898
+Synalpheus	pococki Coutière 1898c
+Synalpheus	quadriarticulatus Banner & Banner 1975c
+Synalpheus	quadrispinosus De Man 1910a
+Synalpheus	quinquedens Tattersall 1921
+Synalpheus	rathbunae Coutière 1909
+Synalpheus	readi Banner & Banner 1972b
+Synalpheus	recessus Abele & W. Kim 1989
+Synalpheus	redactocarpus Banner 1953
+Synalpheus	redatocarpus A. H. Banner 1953
+Synalpheus	regalis Duffy 1996
+Synalpheus	riosi Anker & Tóth 2008
+Synalpheus	ruetzleri MacDonald & Duffy 2006
+Synalpheus	sanctithomae Coutière 1909
+Synalpheus	sanjosei Coutière 1909
+Synalpheus	sanlucasi Coutière 1909
+Synalpheus	savingy
+Synalpheus	scaphoceris Coutière 1910
+Synalpheus	sciro Banner & Banner 1975c
+Synalpheus	senegambiensis Coutière 1908
+Synalpheus	septemspinosus De Man 1910a
+Synalpheus	sladeni Coutière 1908
+Synalpheus	somalia Banner & Banner 1979
+Synalpheus	spinifrons 
+Synalpheus	spiniger Stimpson 1860a
+Synalpheus	spongicola Banner & Banner 1981a
+Synalpheus	stimpsoni de Man 1888
+Synalpheus	stimpsonii De Man 1888b
+Synalpheus	streptodactylus Coutière 1905
+Synalpheus	stylopleuron Hermoso Salazar & Hendrickx 2006
+Synalpheus	superus Abele & W. Kim 1989
+Synalpheus	tanneri Coutière 1909
+Synalpheus	tenuispina Coutière 1909
+Synalpheus	thai A. H. Banner & D. M. Banner 1966
+Synalpheus	theano De Man 1910a
+Synalpheus	thele MacDonald Hultgren & Duffy 2009
+Synalpheus	tijou Banner & Banner 1982a
+Synalpheus	townsendi Coutière 1909
+Synalpheus	triacanthus De Man 1910a
+Synalpheus	tricuspidatus Heller 1861
+Synalpheus	tridentulatus Dana 1852a
+Synalpheus	trispinosus De Man 1910a
+Synalpheus	triunguiculatus 
+Synalpheus	tropidodactylus Banner & Banner 1975c
+Synalpheus	tumidomanus
+Synalpheus	tumidomanus 
+Synalpheus	africanus Crosnier & Forest 1965b
+Synalpheus	congoensis Crosnier & Forest 1965b
+Synalpheus	tuthilli Banner 1959
+Synalpheus	ul Ríos & Duffy 2007
+Synalpheus	wickstenae Hermoso Salazar & Hendrickx 2006
+Synalpheus	williamsi Ríos & Duffy 1999
+Synalpheus	yano Ríos & Duffy 2007
+Leptalpheus	axianassae Dworschak & Coelho 1999
+Leptalpheus	denticulatus Anker & Marin 2009
+Leptalpheus	dworschaki Anker & Marin 2009
+Leptalpheus	felderi Anker Vera Caripe & Lira 2006
+Leptalpheus	forceps A. B. Williams 1965
+Leptalpheus	mexicanus Ríos & Carvacho 1983
+Leptalpheus	pacificus A. H. Banner & D. M. Banner 1974
+Leptalpheus	pierrenoeli Anker 2008
+Fenneralpheus	chacei Felder & Manning 1986
+Bermudacaris	australiensis Anker & Komai 2004
+Bermudacaris	britayevi Anker Poddoubtchenko & Marin 2006
+Bermudacaris	harti Anker & Iliffe 2000
+Acanthanas	pusillus Anker Poddoubtchenko & Jeng 2006
+Automate	anacanthopus De Man 1910a
+Automate	branchialis Holthuis & Gottlieb 1958
+Automate	dolichognatha de Man 1888
+Automate	evermanni M. J. Rathbun 1901
+Automate	gardineri Coutiere 1902
+Automate	hayashii Anker & Komai 2004
+Automate	kingsleyi
+Automate	rectifrons Chace 1972
+Automate	rugosa Coutière 1902b
+Automate	salomoni Coutière 1908
+Automate	talismani Coutière 1902b
+Bruceopsis	guamensis Anker 2010b
+Bruceopsis	projectus Anker 2010b
+Pseudalpheopsis	guana Anker 2007b
+Coronalpheus	natator Wicksten 1999
+Leslibetaeus	caribbeaus Anker 2011b
+Leslibetaeus	coibita Anker Poddoubtchenko & Wehrtmann 2006
+Athanas	ahyongi Anker & Komai 2010
+Athanas	amazone Holthuis 1951a
+Athanas	anatidactylus Anker & Marin 2007
+Athanas	areteformis Coutière 1903
+Athanas	borradailei Coutière 1903
+Athanas	daviei Anker 2011a
+Athanas	dentirostris Anker Jeng & Chan 2001
+Athanas	dimorphus Ortmann 1894
+Athanas	djiboutensis Coutière 1897c
+Athanas	edwardsii Audouin 1827
+Athanas	gracilipes Banner & Banner 1978
+Athanas	gracilis Boone 1935
+Athanas	granti Coutière 1908
+Athanas	grimaldii Coutière 1911b
+Athanas	hasswelli Coutière 1908
+Athanas	haswelli Coutière 1908
+Athanas	hongkongensis Bruce 1990
+Athanas	iranicus Anker Naderloo & Marin 2010
+Athanas	ivoiriensis Anker & Ahyong 2007
+Athanas	japonicus Kubo 1936c
+Athanas	jedanensis De Man 1910a
+Athanas	locincertus Banner & Banner 1973a
+Athanas	marshallensis Chace 1955
+Athanas	minikoensis Coutière 1903
+Athanas	monoceros
+Athanas	naga Banner & Banner 1966a
+Athanas	nitescens
+Athanas	nouvelae Holthuis 1951a
+Athanas	ohsimai Yokoya 1936
+Athanas	orientalis Pearson 1905
+Athanas	ornithorhynchus Banner & Banner 1973a
+Athanas	parvus De Man 1910a
+Athanas	phyllocheles Banner & Banner 1983
+Athanas	polymorphus Kemp 1915
+Athanas	rhothionastes Banner & Banner 1960a
+Athanas	shawnsmithi Anker 2011a
+Athanas	squillophilus Hayashi 2002
+Athanas	stebbingii De Man 1920a
+Athanas	sydneyensis Anker & Ahyong 2007
+Athanas	tenuipes De Man 1910a
+Athanas	transitans
+Yagerocaris	cozumel Kensley 1988
+Potamalpheops	amnicus Yeo & Ng 1997
+Potamalpheops	darwiniensis Bruce 1993c
+Potamalpheops	galle Anker 2005
+Potamalpheops	hanleyi Bruce 1991d
+Potamalpheops	haugi Coutière 1906
+Potamalpheops	johnsoni Anker 2003a
+Potamalpheops	miyai Yeo & Ng 1997
+Potamalpheops	monodi Sollaud 1932
+Potamalpheops	palawensis Cai & Anker 2004
+Potamalpheops	pininsulae Bruce & Iliffe 1992
+Potamalpheops	pylorus Powell 1979
+Potamalpheops	stygicola H.H.Jr. Hobbs 1973a
+Potamalpheops	tigger Yeo & Ng 1997
+Stenalpheops	anacanthus Miya 1997
+Stenalpheops	crangonus Anker Jeng & Chan 2001
+Jengalpheops	rufus Anker & Dworschak 2007a
+Deioneus	sandizelli Dworschak Anker & Abed-Navandi 2000
+Betaeus	australis Stimpson 1860a
+Betaeus	bellimanus
+Betaeus	emarginatus 
+Betaeus	ensenadensis Glassell 1938
+Betaeus	gelasinifer Nomura & Komai 2000
+Betaeus	gracilis J. F. L. Hart 1964
+Betaeus	granulimanus Yokoya 1927
+Betaeus	harfordi Kingsley 1878
+Betaeus	harrimani M. J. Rathbun 1904
+Betaeus	jucundus Barnard 1947
+Betaeus	levifrons Vinogradov 1950
+Betaeus	lilianae Boschi 1966
+Betaeus	longidactylus Lockington 1877
+Betaeus	macginitieae J. F. L. Hart 1964
+Betaeus	pingi Yu 1930a
+Betaeus	setosus J. F. L. Hart 1964
+Betaeus	truncatus Dana 1852a
+Betaeopsis	acanthops Bruce & Iliffe 1991
+Betaeopsis	aequimanus Dana 1852
+Betaeopsis	indica De Man 1910a
+Notalpheus	imarpe Méndez G. & Wicksten 1982
+Thunor	rathbunae
+Thunor	simus Guérin-Méneville 1855
+Bannereus	anomalus Bruce 1988
+Harperalpheus	pequegnatae Felder & Anker 2007
+Athanopsis	australis Banner & Banner 1982a
+Athanopsis	brevirostris Banner & Banner 1981a
+Athanopsis	dentipes Miya 1980
+Athanopsis	platyrhynchus Coutière 1897
+Athanopsis	rubricinctuta Berggren 1991
+Athanopsis	saurus Anker 2011a
+Mohocaris	bayeri Holthuis 1973c

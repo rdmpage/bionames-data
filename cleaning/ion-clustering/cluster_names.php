@@ -70,6 +70,8 @@ function find_clusters($strings, $threshold = 0.8)
 						// Find longest common subsequence for this pair of cleaned names
 						$lcs = new LongestCommonSequence($v1, $v2);	
 						$d = $lcs->score();
+						
+						//echo "$v1 $v2 $d\n";
 	
 						// Filter by longest common substring (to ensure we have a "meaningful" 
 						// match), that is, so that we avoid subsequences that have little continuity					
@@ -257,9 +259,12 @@ $filename = 'namestring.txt';
 //$filename = 'b.txt';
 //$filename = 'g.txt';
 
-$filename = 'tests/Cynopterus brachyotis.txt';
+//$filename = 'tests/Cynopterus brachyotis.txt';
 
-$filename = 'names4964979.txt';
+//$filename = 'names4964979.txt';
+$filename = 'test.txt';
+
+$filename = 'names4495670_4499910.txt';
 
 
 $file_handle = fopen($filename, "r");
@@ -372,6 +377,8 @@ while (!feof($file_handle))
 			foreach ($c as $id)
 			{
 				echo 'UPDATE names SET cluster_id=' . $c[0] . ' WHERE id=' . $id . ';' . "\n";
+				
+				
 			}		
 		}
 	}

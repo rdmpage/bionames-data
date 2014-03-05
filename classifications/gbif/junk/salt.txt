@@ -1,0 +1,5031 @@
+Cocalus	concolor C. L. Koch 1846
+Cocalus	gibbosus Wanless 1981
+Cocalus	limbatus Thorell 1878
+Cocalus	murinus Simon 1899
+Paraharmochirus	monstrosus Szombathy 1915
+Hinewaia	embolica Zabka Pollard 2002
+Hyctiota	banda Strand 1911
+Hispo	alboclypea Wanless 1981
+Hispo	alboguttata Simon 1903
+Hispo	bipartita Simon 1903
+Hispo	cingulata Simon 1885
+Hispo	frenata Simon 1900
+Hispo	macfarlanei Wanless 1981
+Hispo	pullata Wanless 1981
+Hispo	striolata Simon 1898
+Hispo	sulcata Wanless 1981
+Hispo	tenuis Wanless 1981
+Ceglusa	polita Thorell 1895
+Cheliceroides	longipalpis Zabka 1985
+Aillutticus	knysakae Ruiz Brescovit 2006
+Aillutticus	montanus Ruiz Brescovit 2006
+Aillutticus	nitens Galiano 1987
+Aillutticus	pinquidor Galiano 1987
+Aillutticus	raizeri Ruiz Brescovit 2006
+Aillutticus	rotundus Galiano 1987
+Aillutticus	soteropolitano Ruiz Brescovit 2006
+Aillutticus	viripotens Ruiz Brescovit 2006
+Theriella	bertoncelloi Braul Lise 2003
+Theriella	galianoae Braul Lise 1996
+Theriella	tenuistyla Galiano 1970
+Jotus	auripes L. Koch 1881
+Jotus	debilis L. Koch 1881
+Jotus	insulanus Rainbow 1920
+Jotus	maculivertex Strand 1911
+Jotus	ravus Urquhart 1893
+Pandisus	decorus Wanless 1980
+Pandisus	indicus Prószynski 1992
+Pandisus	modestus Peckham & Wheeler 1889
+Pandisus	parvulus Wanless 1980
+Pandisus	sarae Wanless 1980
+Pandisus	scalaris Simon 1900
+Echinussa	imerinensis Simon 1901
+Echinussa	praedatoria Keyserling 1877
+Echinussa	vibrabunda Simon 1885
+Macopaeus	spinosus Simon 1900
+Scoturius	tigris Simon 1901
+Scoturius	trigris Simon 1901
+Panysirnus	nicholsoni O. P.-Cambridge 1899
+Tomomingi	holmi Prószynski Zabka 1983
+Tomomingi	keinoi Prószynski Zabka 1983
+Tomomingi	masai Prószynski Zabka 1983
+Tomomingi	nywele Szüts Scharff 2009
+Tomomingi	sjoestedti Lessert 1925
+Tomomingi	wastani Szüts Scharff 2009
+Katya	ijensis Prószynski Deeleman-Reinhold 2010
+Katya	inornata Prószynski Deeleman-Reinhold 2010
+Tomobella	fotsy Szüts Scharff 2009
+Hentzia	antillana Bryant 1940
+Hentzia	audax Bryant 1940
+Hentzia	calypso Richman 1989
+Hentzia	chekika Richman 1989
+Hentzia	cubana Richman 1989
+Hentzia	elegans Keyserling 1885
+Hentzia	fimbriata 
+Hentzia	footei Petrunkevitch 1914
+Hentzia	grenada Peckham Peckham 1894
+Hentzia	mandibularis Bryant 1943
+Hentzia	mitrata Hentz 1846
+Hentzia	palmarum Hentz 1832
+Hentzia	parallela Peckham Peckham 1894
+Hentzia	pima Richman 1989
+Hentzia	poenitens Chamberlin 1924
+Hentzia	squamata Petrunkevitch 1930
+Hentzia	tibialis Bryant 1940
+Hentzia	vernalis Peckham Peckham 1893
+Hentzia	vittata Keyserling 1884
+Hentzia	whitcombi Richman 1989
+Hentzia	zombia Richman 1989
+Fritzia	muelleri O. P.-Cambridge 1879
+Yaginumaella	badongensis Song & Chai 1992
+Yaginumaella	bhutanica Zabka 1981
+Yaginumaella	bilaguncula Xie & Peng 1995
+Yaginumaella	cambridgei Zabka 1981
+Yaginumaella	flexa Song & Chai 1992
+Yaginumaella	gogonaica Zabka 1981
+Yaginumaella	helvetorum Zabka 1981
+Yaginumaella	hybrida Zabka 1981
+Yaginumaella	hyogoensis Bohdanowicz & Prószynski 1987
+Yaginumaella	incognita Zabka 1981
+Yaginumaella	intermedia Zabka 1981
+Yaginumaella	lobata Peng Tso & Li 2002
+Yaginumaella	longnanensis Yang Y. Tang Y. Kim 1997
+Yaginumaella	medvedevi Prószynski 1979
+Yaginumaella	montana Zabka 1981
+Yaginumaella	nanyuensis Xie & Peng 1995
+Yaginumaella	nepalica Zabka 1980
+Yaginumaella	nobilis Zabka 1981
+Yaginumaella	nova Zabka 1981
+Yaginumaella	orientalis Zabka 1981
+Yaginumaella	originalis Zabka 1981
+Yaginumaella	pilosa Zabka 1981
+Yaginumaella	senchalensis Prószynski 1992
+Yaginumaella	silvatica Zabka 1981
+Yaginumaella	simoni Zabka 1981
+Yaginumaella	stemmleri Zabka 1981
+Yaginumaella	strandi Zabka 1981
+Yaginumaella	striatipes Grube 1861
+Yaginumaella	supina Zabka 1981
+Yaginumaella	tenella Zabka 1981
+Yaginumaella	tenzingi Zabka 1980
+Yaginumaella	thakkholaica Zabka 1980
+Yaginumaella	thimphuica Zabka 1981
+Yaginumaella	urbanii Zabka 1981
+Yaginumaella	ususudi Yaginuma 1972
+Yaginumaella	variformis Song D. Chai I. 1992
+Yaginumaella	versicolor Zabka 1981
+Yaginumaella	wangdica Zabka 1981
+Yaginumaella	wuermli Zabka 1981
+Featheroides	typicus Peng et al. 1994
+Featheroides	yunnanensis Peng et al. 1994
+Neon	acoreensis Wunderlich 2008
+Neon	avalonus Gertsch Ivie 1955
+Neon	ellamae Gertsch & Ivie 1955
+Neon	kiyotoi Ikeda 1995
+Neon	kovblyuki Logunov 2004
+Neon	levis Simon 1871
+Neon	minutus Zabka 1985
+Neon	muticus Simon 1871
+Neon	nelli Peckham & Peckham 1888
+Neon	nellii Peckham Peckham 1888
+Neon	nigriceps Bryant 1940
+Neon	ningyo Ikeda 1995
+Neon	nojimai Ikeda 1995
+Neon	pictus Kulczynski 1891
+Neon	pixii Gertsch Ivie 1955
+Neon	plutonus Gertsch & Ivie 1955
+Neon	punctulatus Karsch 1880
+Neon	rayi Simon 1875
+Neon	reticulatus Blackwall 1853
+Neon	robustus Lohmander 1945
+Neon	sumatranus Logunov 1998
+Neon	valentulus Falconer 1912
+Neon	zonatus Bao & Peng 2002
+Asaphobelis	physonychus Simon 1902
+Asaphobelis	pluripunctatus Mello-Leitao 1947
+Donoessus	nigriceps Simon 1899
+Donoessus	striatus Simon 1902
+Ohilimia	albomaculata Thorell 1881
+Ohilimia	scutellata Kritscher 1959
+Aruattus	agostii Logunov Azarkina 2008
+Leikung	kinabaluensis Benjamin 2004
+Leikung	porosa Wanless 1978
+Saaristattus	tropicus Logunov Azarkina 2008
+Mexigonus	arizonensis Banks 1904
+Mexigonus	dentichelis F. O. P.-Cambridge 1901
+Mexigonus	minutus 
+Mexigonus	morosus Peckham & Peckham 1888
+Simaetha	almadenensis Zabka 1994
+Simaetha	atypica Zabka 1994
+Simaetha	broomei Zabka 1994
+Simaetha	castanea Lessert 1927
+Simaetha	cingulata Karsch 1891
+Simaetha	colemani Zabka 1994
+Simaetha	damongpalaya Barrion & Litsinger 1995
+Simaetha	deelemanae Zhang Song & Li 2003
+Simaetha	furiosa Hogg 1919
+Simaetha	knowlesi Zabka 1994
+Simaetha	laminata Karsch 1891
+Simaetha	makinanga Barrion & Litsinger 1995
+Simaetha	paetula Keyserling 1882
+Simaetha	papuana Zabka 1994
+Simaetha	reducta Karsch 1891
+Simaetha	robustior Keyserling 1882
+Simaetha	tenuidens Keyserling 1882
+Simaetha	tenuior Keyserling 1882
+Simaetha	thoracica Thorell 1881
+Uluella	formosa Chickering 1946
+Saraina	rubrofasciata Wanless & Clark 1975
+Longarenus	brachycephalus Simon 1903
+Gedea	daoxianensis Song & Gong 1992
+Gedea	flavogularis Simon 1902
+Gedea	sinensis Song & Chai 1991
+Gedea	tibialis Zabka 1985
+Gedea	unguiformis Xiao X. Yin C. 1991
+Paraphilaeus	daemeli Keyserling 1883
+Planiemen	rotundus Wesolowska van Harten 1994
+Astilodes	mariae Zabka 2009
+Lapsias	ciliatus Simon 1900
+Lapsias	cyrboides Simon 1900
+Lapsias	estebanensis Simon 1900
+Lapsias	guianensis Caporiacco 1947
+Lapsias	melanopygus Caporiacco 1947
+Lapsias	tovarensis Simon 1901
+Copocrossa	albozonata Caporiacco 1949
+Copocrossa	bimaculata Peckham & Peckham 1903
+Copocrossa	harpina Simon 1903
+Copocrossa	politiventris Simon 1901
+Copocrossa	tenuilineata Simon 1900
+Jajpurattus	incertus Prószynski 1992
+Agobardus	anormalis Keyserling 1884
+Agobardus	blandus Bryant 1947
+Agobardus	brevitarsus Bryant 1943
+Agobardus	cubensis Franganillo 1935
+Agobardus	fimbriatus Bryant 1940
+Agobardus	keyserlingi Bryant 1940
+Agobardus	mandibulatus Bryant 1940
+Agobardus	mundus Bryant 1940
+Agobardus	obscurus Bryant 1943
+Agobardus	perpilosus Bryant 1943
+Agobardus	prominens Bryant 1940
+Enoplomischus	ghesquierei Giltay 1931
+Uspachus	albipalpis Taczanowski 1878
+Uspachus	andinus Taczanowski 1878
+Uspachus	bahiensis Galiano 1995
+Uspachus	colombianus Galiano 1995
+Uspachus	juquiaensis Galiano 1995
+Uspachus	ministerialis Koch C.L. 1846
+Uspachus	misionensis Galiano 1995
+Uspachus	patellaris Galiano 1995
+Pachyonomastus	kittenbergeri Caporiacco 1947
+Bathippus	birmanicus Thorell 1895
+Bathippus	dentiferellus Strand 1911
+Bathippus	digitalis Zhang Song & Li 2003
+Bathippus	dilanians Thorell 1881
+Bathippus	keyensis Strand 1911
+Bathippus	kochi Simon 1903
+Bathippus	latericius Thorell 1881
+Bathippus	macilentus Thorell 1890
+Bathippus	macrognathus Thorell 1881
+Bathippus	macroprotopus Pocock 1898
+Bathippus	manicatus Simon 1902
+Bathippus	molossus Thorell 1881
+Bathippus	montrouzieri Lucas 1869
+Bathippus	morsitans Pocock 1897
+Bathippus	oedonychus Thorell 1881
+Bathippus	oscitans Thorell 1881
+Bathippus	pahang Zhang Song & Li 2003
+Bathippus	palabuanensis Simon 1902
+Bathippus	papuanus Thorell 1881
+Bathippus	proboscideus Pocock 1899
+Bathippus	rechingeri Kulczynski 1910
+Bathippus	rectus Zhang Song & Li 2003
+Bathippus	ringens Thorell 1881
+Bathippus	schalleri Simon 1902
+Bathippus	sedatus Peckham Peckham 1907
+Bathippus	seltuttensis Strand 1911
+Bathippus	semiannulifer Strand 1911
+Bathippus	shelfordi Peckham Peckham 1907
+Bathippus	waoranus Strand 1911
+Ashtabula	bicristata Simon 1901
+Ashtabula	cuprea Mello-Leitao 1946
+Ashtabula	dentata Pickard-Cambridge
+Ashtabula	dentichelis Simon 1901
+Ashtabula	furcillata Crane 1949
+Ashtabula	glauca Simon 1901
+Ashtabula	montana Chickering 1946
+Ashtabula	sexguttata Simon 1901
+Ashtabula	zonura Peckham Peckham 1894
+Cotinusa	adelae Mello-Leitao 1944
+Cotinusa	albescens Mello-Leitao 1945
+Cotinusa	bisetosa Simon 1900
+Cotinusa	bryantae Chickering 1946
+Cotinusa	cancellata Mello-Leitao 1943
+Cotinusa	deserta Peckham & Peckham 1894
+Cotinusa	dimidiata Simon 1900
+Cotinusa	distincta Peckham & Peckham 1888
+Cotinusa	fenestrata Taczanowski 1878
+Cotinusa	gemmea Peckham & Peckham 1894
+Cotinusa	gertschi Mello-Leitao 1947
+Cotinusa	horatia Peckham & Peckham 1894
+Cotinusa	irregularis Mello-Leitao 1945
+Cotinusa	leucoprocta Mello-Leitao 1947
+Cotinusa	magna Peckham & Peckham 1894
+Cotinusa	mathematica Mello-Leitao 1917
+Cotinusa	melanura Mello-Leitao 1939
+Cotinusa	puella Simon 1900
+Cotinusa	pulchra Mello-Leitao 1917
+Cotinusa	rosascostai Mello-Leitao 1944
+Cotinusa	rubriceps Mello-Leitao 1947
+Cotinusa	septempunctata Simon 1900
+Cotinusa	simoni Chickering 1946
+Cotinusa	stolzmanni Taczanowski 1878
+Cotinusa	trifasciata Mello-Leitao 1943
+Cotinusa	trimaculata Mello-Leitao 1922
+Cotinusa	vittata Simon 1900
+Holoplatys	appressus Dalmas 1917
+Holoplatys	apressus Powell 1873
+Holoplatys	bicolor Simon 1901
+Holoplatys	bicoloroides Zabka 1991
+Holoplatys	borali Zabka 1991
+Holoplatys	braemarensis Zabka 1991
+Holoplatys	bramptonensis Zabka 1991
+Holoplatys	canberra Zabka 1991
+Holoplatys	carolinensis Berry Beatty Prószynski 1996
+Holoplatys	chudalupensis Zabka 1991
+Holoplatys	colemani Zabka 1991
+Holoplatys	complanata Koch L. 1879
+Holoplatys	complanatiformis Zabka 1991
+Holoplatys	daviesae Zabka 1991
+Holoplatys	dejongi Zabka 1991
+Holoplatys	desertina Zabka 1991
+Holoplatys	embolica Zabka 1991
+Holoplatys	fusca Karsch 1878
+Holoplatys	grassalis Zabka 1991
+Holoplatys	invenusta Koch L. 1879
+Holoplatys	jardinensis Zabka 1991
+Holoplatys	julimarina Zabka 1991
+Holoplatys	kalgoorlie Zabka 1991
+Holoplatys	kempensis Zabka 1991
+Holoplatys	lhotskyi Zabka 1991
+Holoplatys	liturata L. Koch 1879
+Holoplatys	mascordi Zabka 1991
+Holoplatys	meda Zabka 1991
+Holoplatys	minuta Zabka 1991
+Holoplatys	oakensis Zabka 1991
+Holoplatys	panthera Zabka 1991
+Holoplatys	pedder Zabka 1991
+Holoplatys	pemberton Zabka 1991
+Holoplatys	planissima Koch L. 1879
+Holoplatys	queenslandica Zabka 1991
+Holoplatys	rainbowi Zabka 1991
+Holoplatys	semiplanata Zabka 1991
+Holoplatys	strzeleckii Zabka 1991
+Holoplatys	tasmanensis Zabka 1991
+Holoplatys	windjanensis Zabka 1991
+Paraploitoides	nigrum Zabka
+Emathis	coprea Thorell 1890
+Emathis	luteopunctata Petrunkevitch 1930
+Emathis	makilingensis Barrion & Litsinger 1995
+Emathis	minuta Petrunkevitch 1930
+Emathis	portoricensis Petrunkevitch 1930
+Emathis	scabra Thorell 1890
+Emathis	tetuani Petrunkevitch 1930
+Emathis	unispina Franganillo 1930
+Emathis	weyersi Simon 1899
+Semnolius	albofasciatus Mello-Leitao 1941
+Semnolius	brunneus Mello-Leitao 1945
+Semnolius	chrysotrichus Simon 1902
+Tutelina	elegans Hentz 1846
+Tutelina	formicaria Emerton 1891
+Tutelina	harti Emerton 1891
+Tutelina	iridea Caporiacco 1954
+Tutelina	purpurina Mello-Leitao 1948
+Tutelina	rosenbergi Simon 1901
+Tutelina	similis Banks 1895
+Pharacocerus	castaneiceps Simon 1910
+Pharacocerus	ebenauensis Strand 1908
+Pharacocerus	ephippiatus Thorell 1899
+Pharacocerus	fagei Berland Millot 1941
+Pharacocerus	fagei Berland & Millot 1941
+Pharacocerus	rubrocomatus Simon 1910
+Pharacocerus	sessor Simon 1902
+Pharacocerus	xanthopogon Simon 1903
+Hypaeus	annulifer Simon 1900
+Hypaeus	benignus Peckham Peckham 1885
+Hypaeus	concinnus Simon 1900
+Hypaeus	cucullatus Simon 1900
+Hypaeus	duodentatus Crane 1943
+Hypaeus	estebanensis Simon 1900
+Hypaeus	flavipes Simon 1900
+Hypaeus	flemingi Crane 1943
+Hypaeus	frontosus Simon 1900
+Hypaeus	ignicomus Simon 1900
+Hypaeus	luridomaculatus Simon 1900
+Hypaeus	miles Simon 1900
+Hypaeus	mystacalis Taczanowski 1878
+Hypaeus	nigrocomosus Simon 1900
+Hypaeus	porcatus Taczanowski 1871
+Hypaeus	quadrinotatus Simon 1900
+Hypaeus	taczanowskii Mello-Leitao 1948
+Hypaeus	triplagiatus Simon 1900
+Hypaeus	venezuelanus Simon 1900
+Frespera	carinata Simon 1902
+Frespera	meridionalis Braul & Lise 2002
+Vinnius	buzius Braul & Lise 2002
+Vinnius	camacan Braul & Lise 2002
+Vinnius	subfasciatus C. L. Koch 1846
+Vinnius	uncatus Simon 1902
+Paradecta	darlingtoni Bryant 1950
+Paradecta	festiva Bryant 1950
+Paradecta	gratiosa Bryant 1950
+Paradecta	valida Bryant 1950
+Cytaea	aeneomicans Simon 1902
+Cytaea	albichelis Strand 1911
+Cytaea	albolimbata Simon 1888
+Cytaea	alburna Keyserling 1882
+Cytaea	argentosa Thorell 1881
+Cytaea	barbatissima Keyserling 1881
+Cytaea	carolinensis Berry Beatty Prószynski 1998
+Cytaea	clarovittata Keyserling 1881
+Cytaea	dispalans Thorell 1892
+Cytaea	fibula Berland 1938
+Cytaea	flavolineata Berland 1938
+Cytaea	frontaligera Thorell 1881
+Cytaea	guentheri Thorell 1895
+Cytaea	haematica Simon 1902
+Cytaea	haematicoides Strand 1911
+Cytaea	koronivia Berry Beatty & Prószynski 1998
+Cytaea	laodamia Hogg 1918
+Cytaea	laticeps Thorell 1878
+Cytaea	lepida Kulczynski 1910
+Cytaea	levii Peng & Li 2002
+Cytaea	mitellata Thorell 1881
+Cytaea	morrisoni Dunn 1951
+Cytaea	nausori Berry Beatty Prószynski 1998
+Cytaea	nimbata Thorell 1881
+Cytaea	oreophila Simon 1902
+Cytaea	piscula Koch L. 1867
+Cytaea	plumbeiventris Keyserling 1881
+Cytaea	ponapensis Berry Beatty Prószynski 1998
+Cytaea	rai Berry Beatty Prószynski 1998
+Cytaea	rubra Walckenaer 1837
+Cytaea	sinuata Doleschall 1859
+Cytaea	sylvia Hogg 1915
+Cytaea	trispinifera Marples 1955
+Cytaea	vitiensis Berry Beatty Prószynski 1998
+Cytaea	whytei Prószynski Deeleman-Reinhold 2010
+Massagris	honesta Wesolowska 1993
+Massagris	mirifica Peckham & Peckham 1903
+Massagris	regina Wesolowska 1993
+Massagris	separata Wesolowska 1993
+Iona	nigrovittata Keyserling 1882
+Dinattus	erebus Bryant 1943
+Dinattus	heros Bryant 1943
+Dinattus	minor Bryant 1943
+Hakka	himeshimensis Bösenberg Strand 1906
+Hakka	yadongensis Hu 2001
+Ballus	armadillo Simon 1871
+Ballus	chalybeius Walckenaer 1802
+Ballus	japonicus Saito 1939
+Ballus	lendli Kolosvary 1934
+Ballus	obscuroides Canestrini & Pavesi 1868
+Ballus	piger O. P.-Cambridge 1876
+Ballus	rufipes Simon 1868
+Ballus	segmentatus Simon 1900
+Ballus	sellatus Simon 1900
+Ballus	sociabilis Franganillo 1910
+Ballus	tabupumensis Petrunkevitch 1914
+Ballus	variegatus Simon 1876
+Nigorella	aethiopica Wesolowska Tomasiewicz 2008
+Nigorella	plebeja Koch L. 1875
+Urogelides	daviesae Zabka 2009
+Hyllus	aethiopicus Strand 1906
+Hyllus	africanus Lessert 1927
+Hyllus	albofasciatus Thorell 1899
+Hyllus	albomarginatus Lenz 1886
+Hyllus	albooculatus Vinson 1863
+Hyllus	alboplagiatus Thorell 1899
+Hyllus	angustivulvus Caporiacco 1940
+Hyllus	argyrotoxus Simon 1902
+Hyllus	atroniveus Caporiacco 1940
+Hyllus	bifasciatus Ono 1993
+Hyllus	bos Sundevall 1833
+Hyllus	brevitarsis Simon 1902
+Hyllus	carbonarius Lessert 1927
+Hyllus	congoensis Lessert 1927
+Hyllus	cornutus Blackwall 1866
+Hyllus	decellei Wanless & Clark 1975
+Hyllus	decoratus Thorell 1887
+Hyllus	deyrollei Lucas 1858
+Hyllus	diardi Walckenaer 1837
+Hyllus	duplicidentatus Caporiacco 1941
+Hyllus	erlangeri Strand 1906
+Hyllus	flavescens Simon 1902
+Hyllus	fur Strand 1906
+Hyllus	fusciventris Strand 1906
+Hyllus	giganteus C. L. Koch 1846
+Hyllus	holochalceus Simon 1910
+Hyllus	insularis Metzner 1999
+Hyllus	interrogationis Strand 1907
+Hyllus	jallae Pavesi 1897
+Hyllus	janthinus C. L. Koch 1846
+Hyllus	juanensis Strand 1907
+Hyllus	keratodes Hasselt 1882
+Hyllus	lacertosus C. L. Koch 1846
+Hyllus	leucomelas Lucas 1858
+Hyllus	lugubrellus Strand 1908
+Hyllus	lugubris Vinson 1863
+Hyllus	lwoffi Berland & Millot 1941
+Hyllus	madagascariensis Vinson 1863
+Hyllus	manensis Strand 1906
+Hyllus	maskaranus Barrion & Litsinger 1995
+Hyllus	minahassae Merian 1911
+Hyllus	mniszechi Lucas 1858
+Hyllus	multiaculeatus Caporiacco 1949
+Hyllus	nebulosus Peckham & Peckham 1907
+Hyllus	nossibeensis Strand 1907
+Hyllus	nummularis Gerstäcker 1873
+Hyllus	pachypoessae Strand 1907
+Hyllus	plexippoides Simon 1906
+Hyllus	pudicus Thorell 1895
+Hyllus	pulcherrimus Peckham & Peckham 1907
+Hyllus	pupillatus Fabricius 1793
+Hyllus	ramadanii Wesolowska Russel-Smith 2000
+Hyllus	robinsoni Hogg 1919
+Hyllus	rotundithorax Wesolowska & Russell-Smith 2000
+Hyllus	sansibaricus Roewer 1951
+Hyllus	semicupreus Simon 1885
+Hyllus	senegalensis C. L. Koch 1846
+Hyllus	stigmatias L. Koch 1875
+Hyllus	suillus Thorell 1899
+Hyllus	thyeniformis Strand 1906
+Hyllus	treleaveni Peckham Peckham 1902
+Hyllus	tuberculatus Wanless & Clark 1975
+Hyllus	viduatus Caporiacco 1940
+Hyllus	vinsoni Peckham & Peckham 1885
+Hyllus	virgillus Strand 1907
+Hyllus	walckenaeri White 1846
+Avarua	satchelli Marples 1955
+Malkinella	insulanus Millidge 1991
+Flacillula	albofrenata Simon 1905
+Flacillula	incognita Zabka 1985
+Flacillula	lubrica Simon 1901
+Flacillula	minuta Berland 1929
+Flacillula	nitens Berry Beatty & Prószynski 1997
+Flacillula	purpurea Dyal 1935
+Udalmella	gamboa Galiano 1994
+Wedoquella	denticulata Galiano 1984
+Wedoquella	macrothecata Galiano 1984
+Wedoquella	punctata Tullgren 1905
+Paraplatoides	caledonicus Berland 1932
+Paraplatoides	christopheri Zabka 1992
+Paraplatoides	hirsti Zabka 1992
+Paraplatoides	longulus Zabka 1992
+Paraplatoides	niger Zabka 1992
+Paraplatoides	nigrum Zabka 1992
+Paraplatoides	tenerrimus L. Koch 1879
+Zuniga	laeta Peckham Peckham 1892
+Zuniga	magna Peckham Peckham 1892
+Capeta	cachimbo Ruiz Brescovit 2006
+Capeta	tridens Ruiz Brescovit 2005
+Nosferattus	aegis Ruiz Brescovit 2005
+Nosferattus	ciliatus Ruiz Brescovit 2005
+Nosferattus	discus Ruiz Brescovit 2005
+Nosferattus	occultus Ruiz Brescovit 2005
+Nosferattus	palmatus Ruiz Brescovit 2005
+Colyttus	bilineatus Thorell 1891
+Colyttus	lehtineni Zabka 1985
+Nimbarus	pratensis Rollard & Wesolowska 2002
+Cynapes	baptizatus Butler 1876
+Cynapes	canosus Simon 1900
+Cynapes	wrighti Blackwall 1877
+Phlegra	abessinica Strand 1906
+Phlegra	albostriata Simon 1901
+Phlegra	amitaii Prószynski 1998
+Phlegra	andreevae Logunov 1996
+Phlegra	bairstowi Simon 1885
+Phlegra	bicognata Azarkina 2003
+Phlegra	bifurcata Schmidt Geisthardt Piepho 1994
+Phlegra	bresnieri Lucas 1846
+Phlegra	chrysops Simon 1890
+Phlegra	cinereofasciata Simon 1868
+Phlegra	crumena Pr
+Phlegra	desquamata Strand 1906
+Phlegra	dimentmani Prószynski 1998
+Phlegra	dunini Azarkina 2004
+Phlegra	fasciata Hahn 1826
+Phlegra	ferberorum Prószynski 1998
+Phlegra	flavipes Denis 1947
+Phlegra	fulvastra Simon 1868
+Phlegra	fulvotrilineata Lucas 1846
+Phlegra	hentzi Marx 1890
+Phlegra	imperiosa Peckham & Peckham 1903
+Phlegra	insulana Schmidt & Krause 1998
+Phlegra	jacksoni Prószynski 1998
+Phlegra	kulczynskii Azarkina 2003
+Phlegra	levis Pr
+Phlegra	levyi Prószynski 1998
+Phlegra	lineata Koch C.L. 1848
+Phlegra	logunovi Azarkina 2003
+Phlegra	loripes Simon 1876
+Phlegra	lugubris Berland Millot 1941
+Phlegra	memorialis 
+Phlegra	micans Simon 1901
+Phlegra	nitidiventris Lucas 1846
+Phlegra	nuda Próchniewicz Heciak 1994
+Phlegra	obscurimagna Azarkina 2003
+Phlegra	palestinensis Logunov 1996
+Phlegra	particeps O. P.-Cambridge 1872
+Phlegra	parvula Wesolowska & Russell-Smith 2000
+Phlegra	pisarskii Zabka 1985
+Phlegra	pori Prószynski 1998
+Phlegra	procera Wesolowska Cumming 2008
+Phlegra	profuga Logunov 1996
+Phlegra	proxima Denis 1947
+Phlegra	pusilla Wesolowska van Harten 1994
+Phlegra	rogenhoferi Simon 1868
+Phlegra	rothi Prószynski 1998
+Phlegra	samchiensis Prószynski 1978
+Phlegra	sapphirina Thorell 1875
+Phlegra	semipullata Simon 1901
+Phlegra	shulovi Prószynski 1998
+Phlegra	sierrana Simon 1868
+Phlegra	simoni L. Koch 1882
+Phlegra	simplex Wesolowska & Russell-Smith 2000
+Phlegra	sogdiana Charitonov 1946
+Phlegra	soudanica Berland & Millot 1941
+Phlegra	stephaniae Prószynski 1998
+Phlegra	suaverubens Simon 1885
+Phlegra	swanii Mushtaq Beg & Waris 1995
+Phlegra	tetralineata Caporiacco 1939
+Phlegra	theseusi Logunov 2001
+Phlegra	thibetana Simon 1901
+Phlegra	tillyae Prószynski 1998
+Phlegra	touba Logunov Azarkina 2006
+Phlegra	tristis Lessert 1927
+Phlegra	v-epigynalis Heciak & Prószynski 1998
+Phlegra	varia Wesolowska & Russell-Smith 2000
+Phlegra	yaelae Prószynski 1998
+Phlegra	yuzhongensis Yang & Tang 1996
+Havaika	albociliata Simon 1900
+Havaika	berryorum Prószynski 2007
+Havaika	canosa Simon 1900
+Havaika	cruciata Simon 1900
+Havaika	flavipes Berland 1933
+Havaika	jamiesoni Prószynski 2002
+Havaika	mauiensis Prószynski 2007
+Havaika	navata Simon 1900
+Havaika	nigrolineata Berland 1933
+Havaika	pubens Simon 1900
+Havaika	senicula Simon 1900
+Havaika	triangulifera Berland 1933
+Havaika	valida Simon 1900
+Havaika	verecunda Simon 1900
+Chirothecia	amazonica Simon 1901
+Chirothecia	botucatuensis Bauab 1980
+Chirothecia	clavimana Taczanowski 1871
+Chirothecia	crassipes Taczanowski 1878
+Chirothecia	daguerrei Galiano 1972
+Chirothecia	euchira Simon 1901
+Chirothecia	minima Mello-Leitao 1943
+Chirothecia	rosea F. O. P.-Cambridge 1901
+Chirothecia	semiornata Simon 1901
+Chirothecia	soaresi Bauab 1980
+Chirothecia	uncata Soares & Camargo 1948
+Chirothecia	wrzesniowskii Taczanowski 1878
+Cocalodes	cygnatus Wanless 1982
+Cocalodes	expers Wanless 1982
+Cocalodes	innotabilis Wanless 1982
+Cocalodes	leptopus Pocock 1897
+Cocalodes	longicornis Wanless 1982
+Cocalodes	longipes Thorell 1881
+Cocalodes	macellus Thorell 1878
+Cocalodes	papuanus Simon 1900
+Cocalodes	platnicki Wanless 1982
+Cocalodes	protervus Thorell 1881
+Cocalodes	thoracicus Szombathy 1915
+Cocalodes	turgidus Wanless 1982
+Cheliferoides	planus Chickering 1946
+Cheliferoides	segmentatus Pickard-Cambridge
+Spartaeus	ellipticus Bao & Peng 2002
+Spartaeus	jianfengensis Song D. Chai I. 1901
+Spartaeus	platnicki Song D. Chen Gong L. 1991
+Spartaeus	spinimanus Thorell 1878
+Spartaeus	thailandicus Wanless 1984
+Spartaeus	uplandicus Barrion & Litsinger 1995
+Spartaeus	wildtrackii Wanless 1987
+Spartaeus	zhangi Peng & Li 2002
+Amphidraus	argentinensis Galiano 1997
+Amphidraus	auriga Simon 1900
+Amphidraus	duckei Galiano 1967
+Amphidraus	santanae Galiano 1967
+Maratus	amabilis Karsch 1878
+Maratus	insectus Hogg
+Maratus	mungaich Waldock 1995
+Maratus	pavonis Dunn 1947
+Maratus	rainbowi Roewer 1951
+Maratus	vespertilio Simon 1901
+Maratus	volans 
+Vailima	masinei Peckham & Peckham 1907
+Leptathamas	paradoxus Balogh 1980
+Paraheliophanus	jeanae Clark Benoit 1977
+Paraheliophanus	napoleon Clark & Benoit 1977
+Paraheliophanus	sanctaehelenae Clark Benoit 1977
+Paraheliophanus	subinstructus 
+Naphrys	acerba Peckham Peckham 1909
+Naphrys	bufoides Chamberlin Ivie 1944
+Naphrys	pulex Hentz 1846
+Naphrys	xerophila Richman 1981
+Tusitala	barbata Peckham Peckham 1902
+Tusitala	discibulba Caporiacco 1941
+Tusitala	guineensis Berland & Millot 1941
+Tusitala	hirsuta Peckham Peckham 1902
+Tusitala	lutzi Lessert 1927
+Tusitala	lyrata Simon 1903
+Tusitala	proxima Wesolowska & Russell-Smith 2000
+Tusitala	unica Wesolowska & Russell-Smith 2000
+Tusitala	yemenica Wesolowska van Harten 1994
+Rhyphelia	variegata Simon 1902
+Empanda	ornata Peckham & Peckham 1885
+Simonurius	campestratus Simon 1901
+Simonurius	expers Galiano 1988
+Simonurius	gladifer Simon 1901
+Simonurius	gladiferus Simon 1901
+Simonurius	quadratarius Simon 1901
+Indomarengo	sarawakensis Benjamin 2004
+Pseudofluda	pulcherrima Mello-Leitao 1928
+Belliena	biocellosa Simon 1902
+Belliena	flavimana Simon 1902
+Belliena	phalerata Simon 1902
+Belliena	scotti Hogg 1918
+Langerra	longicymbia Song & Chai 1991
+Langerra	oculina Zabka 1985
+Monaga	benigna Chickering 1946
+Alfenus	calamistratus Simon 1902
+Alfenus	chrysophaeus Simon 1903
+Bagheera	kiplingi Peckham & Peckham 1896
+Bagheera	kiplingii Peckham Peckham 1896
+Bagheera	prosper Peckham Peckham 1901
+Taivala	invisitata Peckham & Peckham 1907
+Siloca	bulbosa Tullgren 1905
+Siloca	campestrata Simon 1902
+Siloca	cubana Bryant 1940
+Siloca	electa Bryant 1943
+Siloca	minuta Bryant 1940
+Siloca	monae Petrunkevitch 1930
+Siloca	sanguiniceps Simon 1902
+Siloca	septentrionalis Caporiacco 1954
+Siloca	viaria Peckham & Peckham 1901
+Hermotimus	coriaceus Simon 1903
+Echeclus	concinnus Thorell 1890
+Neaetha	absheronica Logunov & Guseinof 2001
+Neaetha	aegyptiaca Denis 1947
+Neaetha	alborufula Caporiacco 1949
+Neaetha	catula Simon 1885
+Neaetha	catulina Berland & Millot 1941
+Neaetha	cerussata Simon 1868
+Neaetha	fulvopilosa Lucas 1846
+Neaetha	irreperta Wesolowska Russel-Smith 2000
+Neaetha	membrosa Simon 1868
+Neaetha	murphyorum Prószynski 2000
+Neaetha	oculata 
+Parathiodina	compta Bryant 1943
+Burmattus	albopunctatus Thorell 1895
+Burmattus	pachytibialis Prószynski Deeleman-Reinhold 2010
+Burmattus	pococki Thorell 1895
+Burmattus	sinicus Prószynski 1992
+Iranattus	rectangularis Prószynski 1992
+Pseudosynagelides	australensis Zabka 1991
+Pseudosynagelides	bunya Zabka 1991
+Pseudosynagelides	elae Zabka 1991
+Pseudosynagelides	monteithi Zabka 1991
+Pseudosynagelides	raveni Zabka 1991
+Pseudosynagelides	yorkensis Zabka 1991
+Platypsecas	razzabonii Caporiacco 1955
+Toloella	eximia Chickering 1946
+Malloneta	guineensis Simon 1902
+Lophostica	mauriciana Simon 1902
+Lophostica	nova Ledoux 2007
+Agelista	andina Simon 1900
+Marma	baeri Simon 1902
+Marma	nigritarsis Simon 1900
+Marma	trifidocarinata Caporiacco 1947
+Coryphasia	albibarbis Simon 1902
+Coryphasia	artemioi Bauab 1986
+Coryphasia	castaneipedis Mello-Leitao 1947
+Coryphasia	furcata Simon 1902
+Coryphasia	melloleitaoi Soares & Camargo 1948
+Coryphasia	nigriventris Mello-Leitao 1947
+Coryphasia	nuptialis Bauab 1986
+Neobrettus	cornutus Deeleman-Reinhold Floren 2003
+Neobrettus	nangalisagus Barrion 2001
+Neobrettus	phui Zabka 1985
+Neobrettus	tibialis Prószynski 1978
+Neobrettus	xanthophyllum Deeleman-Reinhold Floren 2003
+Marchena	minuta Peckham Peckham 1888
+Platycryptus	californicus Peckham Peckham 1888
+Platycryptus	undatus De Geer 1778
+Mirandia	australis Badcock 1932
+Orsima	constricta Simon 1901
+Orsima	ichneumon Simon 1901
+Gypogyna	forceps Simon 1900
+Zygoballus	citri Sadana 1991
+Zygoballus	concolor Bryant 1940
+Zygoballus	electus Chickering 1946
+Zygoballus	gracilipes Crane 1945
+Zygoballus	incertus Banks 1929
+Zygoballus	iridescens Banks 1895
+Zygoballus	lineatus Mello-Leitao 1944
+Zygoballus	maculatipes Petrunkevitch 1925
+Zygoballus	maculatus F. O. P.-Cambridge 1901
+Zygoballus	melloleitaoi Galiano 1980
+Zygoballus	minutus Peckham & Peckham 1896
+Zygoballus	nervosus Peckham Peckham 1888
+Zygoballus	optatus Chickering 1946
+Zygoballus	quaternus Walckenaer 1837
+Zygoballus	remotus Peckham & Peckham 1896
+Zygoballus	rufipes Peckham Peckham 1885
+Zygoballus	sexpunctatus Hentz 1845
+Zygoballus	suavis Peckham & Peckham 1895
+Zygoballus	tibialis F. O. P.-Cambridge 1901
+Eburneana	magna Wesolowska & Szüts 2001
+Eburneana	scharffi Wesolowska Szüts 2001
+Eburneana	wandae Szüts 2003
+Panachraesta	paludosa Simon 1900
+Cyllodania	bicruciata Simon 1902
+Cyllodania	minuta Galiano 1977
+Amatorculus	cristinae Ruiz Brescovit 2006
+Amatorculus	stygius Ruiz Brescovit 2005
+Rogmocrypta	elegans Simon 1885
+Rogmocrypta	nigella Simon 1900
+Rogmocrypta	puta Simon 1900
+Encolpius	albobarbatus Simon 1900
+Encolpius	fimbriatus Crane 1943
+Encolpius	guaraniticus Galiano 1968
+Beata	aenea Mello-Leitao 1945
+Beata	blauveltae Caporiacco 1947
+Beata	cephalica F. O. P.-Cambridge 1901
+Beata	cinereonitida Simon 1902
+Beata	fausta Peckham & Peckham 1901
+Beata	germaini Simon 1902
+Beata	hispida Peckham Peckham 1901
+Beata	inconcinna Peckham & Peckham 1895
+Beata	jubata C. L. Koch 1846
+Beata	lineata Vinson 1863
+Beata	longipes F. O. P.-Cambridge 1901
+Beata	lucida Galiano 1992
+Beata	maccuni Peckham Peckham 1895
+Beata	munda Chickering 1946
+Beata	octopunctata Peckham Peckham 1893
+Beata	pernix Peckham & Peckham 1901
+Beata	rustica Peckham & Peckham 1896
+Beata	striata Petrunkevitch 1925
+Beata	venusta Chickering 1946
+Beata	wickhami Peckham Peckham 1894
+Beata	zeteki Chickering 1946
+Arachnotermes	termitophilus Mello-Leitao 1928
+Adoxotoma	bargo Z
+Adoxotoma	chinopogon Simon 1909
+Adoxotoma	chionopogon Simon 1909
+Adoxotoma	forsteri Zabka 2004
+Adoxotoma	hannae Zabka 2001
+Adoxotoma	justyniae Zabka 2001
+Adoxotoma	nigroolivacea Simon 1909
+Metacyrba	floridana Gertsch 1934
+Metacyrba	insularis Banks 1902
+Metacyrba	pictipes Banks 1903
+Metacyrba	punctata Peckham & Peckham 1894
+Metacyrba	taeniola Hentz 1846
+Metacyrba	similis Banks 1904
+Metacyrba	taeniola Hentz 1846
+Mantius	armipotens Peckham & Peckham 1907
+Mantius	difficilis Peckham & Peckham 1907
+Mantius	frontosus Simon 1899
+Mantius	ravidus Simon 1899
+Mantius	russatus Thorell 1891
+Emertonius	exasperans Peckham Peckham 1892
+Pseudeuophrys	erratica Walckenaer 1826
+Pseudeuophrys	iwatensis Bohdanowicz Prószynski 1987
+Pseudeuophrys	lanigera Simon 1871
+Pseudeuophrys	nebrodensis Alicata Cantarella 2000
+Pseudeuophrys	obsoleta Simon 1868
+Pseudeuophrys	pallidipes Dobroruka 2002
+Pseudeuophrys	pascualis O. P.-Cambridge 1872
+Pseudeuophrys	vafra Blackwall 1867
+Veissela	durbani Peckham Peckham 1903
+Tuvaphantes	arat Logunov 1993
+Tuvaphantes	insolitus Logunov 1991
+Clynotis	albobarbatus Koch L. 1879
+Clynotis	archeyi Berland 1931
+Clynotis	barresi Hogg 1909
+Clynotis	knoxi Forster 1964
+Clynotis	saxatilis Urquhart 1886
+Clynotis	semiater L. Koch 1879
+Clynotis	semiferrugineus L. Koch 1879
+Clynotis	severus Koch L. 1879
+Synageles	albotrimaculatus Lucas 1846
+Synageles	bishopi Cutler 1988
+Synageles	canadensis Cutler 1988
+Synageles	charitonovi Andreeva 1976
+Synageles	dalmaticus Keyserling 1863
+Synageles	hilarulus Koch C.L. 1846
+Synageles	idahoanus Gertsch 1934
+Synageles	leechi Cutler 1988
+Synageles	mexicanus Cutler 1988
+Synageles	morsei Logunov & Marusik 1999
+Synageles	nigriculus Danilov 1997
+Synageles	noxiosus Hentz 1850
+Synageles	occidentalis Cutler 1988
+Synageles	ovatus Franganillo 1910
+Synageles	persianus Logunov 2004
+Synageles	pulcher Franganillo 1913
+Synageles	ramitus Andreeva 1976
+Synageles	repudiatus O. P.-Cambridge 1876
+Synageles	scutiger Proszyn
+Synageles	subcingulatus Simon 1878
+Synageles	venator Lucas 1836
+Cavillator	longipes Wesolowska 2000
+Sarindoides	violaceus Mello-Leitao 1922
+Muziris	calvipalpis L. Koch 1867
+Muziris	carinatus Simon 1909
+Muziris	doleschalli Thorell 1878
+Muziris	epigynatus Strand 1911
+Muziris	gracilipalpis Strand 1911
+Muziris	leptochirus Thorell 1881
+Muziris	wiehlei Berland 1938
+Antillatus	gracilis Bryant 1943
+Antillatus	placidus Bryant 1943
+Nebridia	manni Bryant 1943
+Nebridia	mendica Bryant 1943
+Nebridia	parva Mello-Leitao 1945
+Nebridia	semicana Simon 1902
+Spilargis	ignicolor Simon 1902
+Spilargis	ignicolor Simon 1902
+Tylogonus	auricapillus Simon 1902
+Tylogonus	chiriqui Galiano 1994
+Tylogonus	craneae Caporiacco 1955
+Tylogonus	miles Simon 1903
+Tylogonus	parabolicus Galiano 1985
+Tylogonus	pichincha Galiano 1985
+Tylogonus	prasinus Simon 1902
+Tylogonus	putumayo Galiano 1985
+Tylogonus	vachoni Galiano 1960
+Tylogonus	viridimicans Simon 1901
+Meata	fungiformis Xiao & Yin 1991
+Meata	typica Zabka 1985
+Nicylla	sundevalli Thorell 1890
+Charippus	errans Thorell 1895
+Wesolowskana	lymphatica Wesolowska 1989
+Wesolowskana	marginella Simon 1883
+Phidippus	adonis Edwards 2004
+Phidippus	adumbratus Gertsch 1934
+Phidippus	aeneidens Taczanowski 1878
+Phidippus	albocinctus Caporiacco 1947
+Phidippus	albulatus Pickard-Cambridge
+Phidippus	amans Edwards 2004
+Phidippus	apacheanus Chamberlin Gertsch 1929
+Phidippus	ardens Peckham Peckham 1901
+Phidippus	arizonensis Peckham Peckham 1883
+Phidippus	asotus Chamberlin Ivie 1933
+Phidippus	audax Hentz 1845
+Phidippus	aureus Edwards 2004
+Phidippus	bidentatus Pickard-Cambridge
+Phidippus	birabeni Mello-Leitao 1944
+Phidippus	boei Edwards 2004
+Phidippus	borealis Banks 1895
+Phidippus	calcuttaensis Biswas 1984
+Phidippus	californicus Peckham Peckham 1901
+Phidippus	cardinalis Hentz 1845
+Phidippus	carneus Peckham Peckham 1896
+Phidippus	carolinensis Peckham Peckham 1909
+Phidippus	cerberus Edwards 2004
+Phidippus	clarus Keyserling 1884
+Phidippus	comatus Peckham Peckham 1901
+Phidippus	concinnus Gertsch 1934
+Phidippus	cruentus Pickard-Cambridge
+Phidippus	cryptus Edwards 2004
+Phidippus	dianthus Edwards 2004
+Phidippus	exlineae Caporiacco 1955
+Phidippus	felinus Edwards 2004
+Phidippus	georgii Peckham Peckham 1896
+Phidippus	guianensis Caporiacco 1947
+Phidippus	hingstoni Mello-Leitao 1948
+Phidippus	insignarius Koch C.
+Phidippus	johnsoni Peckham Peckham 1883
+Phidippus	kastoni Edwards 2004
+Phidippus	lynceus Edwards 2004
+Phidippus	maddisoni Edwards 2004
+Phidippus	majumderi Biswas 1999
+Phidippus	mimicus Edwards 2004
+Phidippus	morpheus Edwards 2004
+Phidippus	mystaceus Hentz 1846
+Phidippus	nikites Chamberlin Ivie 1935
+Phidippus	octopunctatus Peckham Peckham 1883
+Phidippus	olympus Edwards 2004
+Phidippus	otiosus Hentz 1846
+Phidippus	phoenix Edwards 2004
+Phidippus	pius Scheffer 1905
+Phidippus	pompatus Edwards 2004
+Phidippus	princeps Peckham Peckham 1883
+Phidippus	pruinosus Peckham Peckham 1909
+Phidippus	pulcherrimus Keyserling 1884
+Phidippus	purpuratus Keyserling 1884
+Phidippus	putnami Peckham Peckham 1883
+Phidippus	regius Koch C.
+Phidippus	richmani Edwards 2004
+Phidippus	tenuis Kraus 1955
+Phidippus	texanus Banks 1906
+Phidippus	tigris Edwards 2004
+Phidippus	toro Edwards 1978
+Phidippus	triangulifer Caporiacco 1954
+Phidippus	tux Pinter 1970
+Phidippus	tyrannus Edwards 2004
+Phidippus	tyrrelli Peckham Peckham 1901
+Phidippus	ursulus Edwards 2004
+Phidippus	venus Edwards 2004
+Phidippus	vexans Edwards 2004
+Phidippus	whitmani Peckham Peckham 1909
+Phidippus	workmani Peckham Peckham 1901
+Phidippus	yashodharae Tikader 1977
+Phidippus	zebrinus Mello-Leitao 1945
+Phidippus	zethus Edwards 2004
+Astia	colemani Wanless 1988
+Astia	hariola Koch L. 1879
+Astia	nodosa L. Koch 1879
+Sassacus	alboguttatus 
+Sassacus	arcuatus Simon 1901
+Sassacus	aurantiacus Simon 1901
+Sassacus	aztecus Richman 2008
+Sassacus	barbipes Peckham Peckham 1888
+Sassacus	biaccentuatus Simon 1901
+Sassacus	cyaneus Hentz 1846
+Sassacus	dissimilis Mello-Leitao 1941
+Sassacus	flavicinctus Crane 1949
+Sassacus	glyphochelis Bauab 1979
+Sassacus	helenicus Mello-Leitao 1943
+Sassacus	lirios Richman 2008
+Sassacus	ocellatus Crane 1949
+Sassacus	paiutus Gertsch 1934
+Sassacus	papenhoei Peckham Peckham 1895
+Sassacus	resplendens Simon 1901
+Sassacus	trochilus Simon 1901
+Sassacus	vanduzeei Chamberlin 1924
+Sassacus	vitis Cockerell 1894
+Tauala	alveolatus Wanless 1988
+Tauala	athertonensis Gardzinska 1996
+Tauala	australiensis Wanless 1988
+Tauala	daviesae Wanless 1988
+Tauala	elongata Peng & Li 2002
+Tauala	lepidus Wanless 1988
+Tauala	minutus Wanless 1988
+Tauala	splendidus Wanless 1988
+Irura	bicolor Zabka 1985
+Irura	hamatapophysis Peng & Yin 1991
+Irura	longiochelicera Peng & Yin 1991
+Irura	mandarina Simon 1903
+Irura	pulchra Peckham & Peckham 1901
+Irura	pygaea Thorell 1891
+Irura	trigonapophysis Peng X. Yin C. 1991
+Irura	yueluensis Peng X. Yin C. 1991
+Irura	yunnanensis Peng X. Yin C. 1991
+Leptorchestes	algerinus Wesolowska & Szeremeta 2001
+Leptorchestes	berolinensis Koch C.L. 1846
+Leptorchestes	cinctus Duges 1836
+Leptorchestes	mutilloides Lucas 1846
+Leptorchestes	peresi Simon 1868
+Leptorchestes	separatus Wesolowska Szeremeta 2001
+Leptorchestes	sikorskii Prószynski 1999
+Akela	charlottae Peckham Peckham 1896
+Akela	fulva Dyal 1935
+Akela	quinquevittata Mello-Leitao 1947
+Akela	ruricola Galiano 1998
+Caribattus	inutilis Peckham & Peckham 1901
+Similaria	enigmatica Prószynski 1992
+Prostheclina	amplior Richardson Zabka 2007
+Prostheclina	basilonesa Richardson Zabka 2007
+Prostheclina	boreoxantha Richardson Zabka 2007
+Prostheclina	bulburin Richardson Zabka 2007
+Prostheclina	eungella Richardson Zabka 2007
+Prostheclina	pallida Keyserling 1882
+Depreissia	decipiens Deeleman-Reinhold & Floren 2003
+Depreissia	myrmex Lessert 1942
+Pignus	lautissimum Wesolowska & Russell-Smith 2000
+Pignus	simoni Peckham & Peckham 1903
+Athamas	guineensis Jendrzejewska 1995
+Athamas	kochi Jendrzejewska 1995
+Athamas	nitidus Jendrzejewska 1995
+Athamas	tahitensis Jendrzejewska 1995
+Athamas	whitmeei Pickard-Cambridge
+Sigytes	albocinctus Keyserling 1881
+Sigytes	diloris Keyserling 1881
+Sigytes	paradisiacus Simon 1902
+Pseudomaevia	cognata Rainbow 1920
+Pseudomaevia	insulana Berland 1942
+Euryattus	bleekeri Doleschall 1859
+Euryattus	junxiae Prószynski Deeleman-Reinhold 2010
+Euryattus	myiopotami Thorell 1881
+Euryattus	porcellus Thorell 1881
+Euryattus	venustus Doleschall 1859
+Euryattus	wallacei Thorell 1881
+Mantisatta	longicauda Cutler Wanless 1973
+Mantisatta	trucidans Warburton 1900
+Maeotella	perplexa Peckham & Peckham 1901
+Phanias	albeolus Chamberlin Ivie 1941
+Phanias	concoloratus Chamberlin & Gertsch 1930
+Phanias	distans Banks 1924
+Phanias	dominatus Chamberlin & Ivie 1941
+Phanias	flavostriatus F. O. P.-Cambridge 1901
+Phanias	furcifer Gertsch 1936
+Phanias	furcillatus F. O. P.-Cambridge 1901
+Phanias	harfordi Peckham Peckham 1888
+Phanias	monticola Banks 1895
+Phanias	neomexicanus Banks 1901
+Phanias	salvadorensis Kraus 1955
+Phanias	watonus Chamberlin Ivie 1941
+Amycus	annulatus Simon 1900
+Amycus	ectypus Simon 1900
+Amycus	effeminatus Caporiacco 1954
+Amycus	equulus Simon 1900
+Amycus	flavicomis Simon 1900
+Amycus	flavolineatus C. L. Koch 1846
+Amycus	igneus Perty 1833
+Amycus	lycosiformis Taczanowski 1878
+Amycus	patellaris Caporiacco 1954
+Amycus	pertyi Simon 1900
+Amycus	rufifrons Simon 1900
+Amycus	spectabilis Koch C.
+Langona	alfensis Heciak Prószynski 1983
+Langona	aperta Denis 1958
+Langona	avara Peckham & Peckham 1903
+Langona	bhutanica Prószynski 1978
+Langona	bisecta Lawrence 1927
+Langona	bitumorata Pr
+Langona	bristowei Berland & Millot 1941
+Langona	goaensis Prószynski 1992
+Langona	hongkong Song et al. 1997
+Langona	improcera Wesolowska & Russell-Smith 2000
+Langona	kurracheensis Heciak & Prószynski 1983
+Langona	magna Caporiacco 1947
+Langona	maindroni Simon 1885
+Langona	mallezi Denis 1947
+Langona	manicata Simon 1901
+Langona	mediocris Wesolowska 2000
+Langona	minima Caporiacco 1949
+Langona	oreni Prószynski 2000
+Langona	pallida Prószynski 1993
+Langona	pallidula Logunov & Rakov 1998
+Langona	pecten Pr
+Langona	redii Audouin 1826
+Langona	rufa Lessert 1925
+Langona	senegalensis Berland & Millot 1941
+Langona	simoni Heciak & Prószynski 1983
+Langona	tartarica Charitonov 1946
+Langona	tigrina Simon 1885
+Langona	trifoveolata Lessert 1927
+Langona	ukualuthensis Lawrence 1927
+Langona	warchalowskii Wesolowska 2007
+Thyenillus	fernandensis Simon 1910
+Mburuvicha	galianoae Scioscia 1993
+Diagondas	viridiaureus Simon 1902
+Baviola	braueri Simon 1898
+Baviola	luteosignata Wanless 1984
+Baviola	vanmoli Wanless 1983
+Ballognatha	typica Caporiacco 1935
+Corcovetella	aemulatrix Galiano 1975
+Donaldius	lucidus Chickering 1946
+Mopiopia	comatula Simon 1902
+Mopiopia	labyrinthea Mello-Leitao 1947
+Huntiglennia	williamsi Zabka Gray 2004
+Ugandinella	formicula Wesolowska 2006
+Orissania	daitarica Prószynski 1992
+Stoidis	placida Bryant 1947
+Stoidis	pygmaea Peckham & Peckham 1893
+Stoidis	squamulosa Caporiacco 1955
+Lurio	conspicuus Mello-Leitao 1930
+Lurio	crassichelis Berland 1913
+Lurio	lethierryi Taczanowski 1872
+Lurio	solennis Koch C.L. 1846
+Lurio	splendidissimus Caporiacco 1954
+Myrmarachne	albocincta C. L. Koch 1846
+Myrmarachne	albosetosa Wanless 1978
+Myrmarachne	alticeps Thorell 1890
+Myrmarachne	andrewi Wanless 1978
+Myrmarachne	andringitra Wanless 1978
+Myrmarachne	angusta Thorell 1877
+Myrmarachne	annamita Zabka 1985
+Myrmarachne	annandalei Simon 1901
+Myrmarachne	assimilis Banks 1930
+Myrmarachne	attenuata O. P.-Cambridge 1901
+Myrmarachne	augusta Peckham & Peckham 1892
+Myrmarachne	aureonigra Edmunds & Prószynski 2003
+Myrmarachne	austriaca Doleschall 1852
+Myrmarachne	bakeri Banks 1930
+Myrmarachne	bamakoi Berland & Millot 1941
+Myrmarachne	bengalensis Tikader 1973
+Myrmarachne	bicolor L. Koch 1879
+Myrmarachne	bicurvata O. P.-Cambridge 1869
+Myrmarachne	bidentata Banks 1930
+Myrmarachne	biseratensis Badcock 1918
+Myrmarachne	borneensis Peckham & Peckham 1907
+Myrmarachne	brasiliensis Mello-Leitao 1922
+Myrmarachne	brevis Xiao 2002
+Myrmarachne	calcuttaensis Biswas 1984
+Myrmarachne	caliraya Barrion & Litsinger 1995
+Myrmarachne	capito Thorell 1890
+Myrmarachne	centralis Peckham Peckham 1892
+Myrmarachne	chapmani Banks 1930
+Myrmarachne	chickeringi Galiano 1969
+Myrmarachne	clavigera Thorell 1877
+Myrmarachne	cognata L. Koch 1879
+Myrmarachne	collarti Roewer 1965
+Myrmarachne	confusa Wanless 1978
+Myrmarachne	consobrina Denis 1955
+Myrmarachne	constricta Blackwall 1877
+Myrmarachne	cornuta Badcock 1918
+Myrmarachne	corpuzrarosae Barrion Litsinger 1981
+Myrmarachne	cowani Peckham Peckham 1892
+Myrmarachne	cuneata Badcock 1918
+Myrmarachne	cuprea Hogg 1896
+Myrmarachne	debilis Thorell 1890
+Myrmarachne	decorata Reimoser 1927
+Myrmarachne	diegoensis Wanless 1978
+Myrmarachne	dilatata Karsch 1880
+Myrmarachne	dirangicus Bastawade 2002
+Myrmarachne	dubia Peckham & Peckham 1892
+Myrmarachne	dundoensis Wanless 1978
+Myrmarachne	edentata Berry Beatty Prószynski 1996
+Myrmarachne	edentula Peckham & Peckham 1892
+Myrmarachne	edwardsi Berry Beatty Prószynski 1996
+Myrmarachne	eidmanni Roewer 1942
+Myrmarachne	electrica Peckham & Peckham 1892
+Myrmarachne	elongata Szombathy 1915
+Myrmarachne	erythrocephala L. Koch 1879
+Myrmarachne	eugenei Wanless 1978
+Myrmarachne	eumenes Simon 1900
+Myrmarachne	evidens Roewer 1965
+Myrmarachne	exasperans Peckham & Peckham 1892
+Myrmarachne	foenisex Simon 1909
+Myrmarachne	foreli Lessert 1925
+Myrmarachne	formica Doleschall 1859
+Myrmarachne	formicaria De Geer 1778
+Myrmarachne	formosa Thorell 1890
+Myrmarachne	formosana Saito 1933
+Myrmarachne	formosicola Strand 1910
+Myrmarachne	galianoae Cutler 1981
+Myrmarachne	gedongensis Badcock 1918
+Myrmarachne	gigantea Zabka 1985
+Myrmarachne	giltayi Roewer 1965
+Myrmarachne	gisti Fox 1937
+Myrmarachne	glavisi Prószynski Deeleman-Reinhold 2010
+Myrmarachne	globosa Wanless 1978
+Myrmarachne	grossa Edmunds Prószynski 2003
+Myrmarachne	guaranitica Galiano 1969
+Myrmarachne	hanoii Zabka 1985
+Myrmarachne	hesperia Simon 1887
+Myrmarachne	hidaspis Caporiacco 1935
+Myrmarachne	himalayensis Narayan 1915
+Myrmarachne	hirsutipalpi Edmunds Prószynski 2003
+Myrmarachne	hispidacoxa Edmunds & Prószynski 2003
+Myrmarachne	hoffmanni Strand 1913
+Myrmarachne	ichneumon Simon 1885
+Myrmarachne	imbellis Peckham & Peckham 1892
+Myrmarachne	incerta Narayan 1915
+Myrmarachne	inermichelis Bösenberg Strand 1906
+Myrmarachne	inflatipalpis Wanless 1978
+Myrmarachne	insulana Roewer 1942
+Myrmarachne	iridescens Banks 1930
+Myrmarachne	isolata Clark Benoit 1977
+Myrmarachne	jacksoni Prószynski Deeleman-Reinhold 2010
+Myrmarachne	jacobsoni Reimoser 1925
+Myrmarachne	jajpurensis Prószynski 1992
+Myrmarachne	japonica Karsch 1879
+Myrmarachne	jugularis Simon 1901
+Myrmarachne	kiboschensis Lessert 1925
+Myrmarachne	kilifi Wanless 1978
+Myrmarachne	kitale Wanless 1978
+Myrmarachne	kochi Reimoser 1925
+Myrmarachne	kuwagata Yaginuma 1967
+Myrmarachne	laeta Thorell 1887
+Myrmarachne	laurentina Bacelar 1953
+Myrmarachne	lawrencei Roewer 1965
+Myrmarachne	legon Wanless 1978
+Myrmarachne	leleupi Wanless 1978
+Myrmarachne	leptognatha Thorell 1890
+Myrmarachne	linguiensis Zhang & Song 1992
+Myrmarachne	longiventris Simon 1903
+Myrmarachne	luachimo Wanless 1978
+Myrmarachne	luctuosa L. Koch 1879
+Myrmarachne	ludhianaensis Sadana & Gupta 1998
+Myrmarachne	lugens Thorell 1881
+Myrmarachne	lugubris Kulczynski 1895
+Myrmarachne	lulengana Roewer 1965
+Myrmarachne	lulengensis Roewer 1965
+Myrmarachne	lupata L. Koch 1879
+Myrmarachne	macleayana Bradley 1876
+Myrmarachne	macrognatha Thorell 1894
+Myrmarachne	magna Saito 1933
+Myrmarachne	mahasoa Wanless 1978
+Myrmarachne	malayana Edmunds Prószynski 2003
+Myrmarachne	mandibularis Thorell 1890
+Myrmarachne	manducator Westwood 1841
+Myrmarachne	maratha Tikader 1973
+Myrmarachne	markaha Barrion & Litsinger 1995
+Myrmarachne	marshalli Peckham Peckham 1903
+Myrmarachne	maxillosa C. L. Koch 1846
+Myrmarachne	mcgregori Banks 1930
+Myrmarachne	melanotarsa Wesolowska Salm 2002
+Myrmarachne	militaris Szombathy 1913
+Myrmarachne	mocamboensis Galiano 1974
+Myrmarachne	moesta Thorell 1877
+Myrmarachne	mussungue Wanless 1978
+Myrmarachne	myrmicaeformis Lucas 1871
+Myrmarachne	naro Wanless 1978
+Myrmarachne	natalica Lessert 1925
+Myrmarachne	nemorensis Peckham & Peckham 1892
+Myrmarachne	nigella Simon 1901
+Myrmarachne	nigeriensis Wanless 1978
+Myrmarachne	nigra Thorell 1877
+Myrmarachne	nitidissima Thorell 1877
+Myrmarachne	nubilis Wanless 1978
+Myrmarachne	onceana Barrion & Litsinger 1995
+Myrmarachne	opaca Karsch 1880
+Myrmarachne	orientales Tikader 1973
+Myrmarachne	paivae Narayan 1915
+Myrmarachne	palladia Denis 1958
+Myrmarachne	panamensis Galiano 1969
+Myrmarachne	parallela Fabricius 1794
+Myrmarachne	patellata Strand 1907
+Myrmarachne	paviei Simon 1886
+Myrmarachne	peckhami Roewer 1951
+Myrmarachne	pectorosa Thorell 1890
+Myrmarachne	pectorosa Thorell 1890
+Myrmarachne	penicillata Mello-Leitao 1933
+Myrmarachne	piercei Banks 1930
+Myrmarachne	pinakapalea Barrion & Litsinger 1995
+Myrmarachne	pinoysorum Barrion & Litsinger 1995
+Myrmarachne	pisarskii Berry Beatty Prószynski 1996
+Myrmarachne	plataleoides 
+Myrmarachne	platypalpa Bradoo 1980
+Myrmarachne	poonaensis Tikader 1973
+Myrmarachne	prognatha Thorell 1887
+Myrmarachne	providens Peckham & Peckham 1892
+Myrmarachne	pygmaea Thorell 1894
+Myrmarachne	radiata Thorell 1894
+Myrmarachne	ramosa Badcock 1918
+Myrmarachne	ramunni Narayan 1915
+Myrmarachne	ransoni Wanless 1978
+Myrmarachne	rhopalota Thorell 1895
+Myrmarachne	richardsi Wanless 1978
+Myrmarachne	robusta Peckham & Peckham 1892
+Myrmarachne	roeweri Reimoser 1934
+Myrmarachne	rufescens Thorell 1877
+Myrmarachne	rufisquei Berland & Millot 1941
+Myrmarachne	russellsmithi Wanless 1978
+Myrmarachne	sansiborica Strand 1910
+Myrmarachne	satarensis Narayan 1915
+Myrmarachne	schenkeli Peng & Li 2002
+Myrmarachne	seriatus Banks 1930
+Myrmarachne	shelfordi Peckham & Peckham 1907
+Myrmarachne	simonis Herman 1879
+Myrmarachne	simplexella Roewer 1951
+Myrmarachne	solitaria Peckham Peckham 1903
+Myrmarachne	spissa Peckham & Peckham 1892
+Myrmarachne	striatipes L. Koch 1879
+Myrmarachne	sumana Galiano 1974
+Myrmarachne	tagalica Banks 1930
+Myrmarachne	tayabasana Chamberlin 1925
+Myrmarachne	thaii Zabka 1985
+Myrmarachne	topali Zabka 1985
+Myrmarachne	transversa Mukerjee 1930
+Myrmarachne	tristis Simon 1882
+Myrmarachne	turriformis Badcock 1918
+Myrmarachne	uelensis Wanless 1978
+Myrmarachne	uniseriata Narayan 1915
+Myrmarachne	uvira Wanless 1978
+Myrmarachne	vanessae Wanless 1978
+Myrmarachne	vehemens Fox 1937
+Myrmarachne	vestita Thorell 1895
+Myrmarachne	volatilis Peckham & Peckham 1892
+Myrmarachne	vulgarisa Barrion & Litsinger 1995
+Myrmarachne	wanlessi Edmunds & Prószynski 2003
+Bryantella	smaragdus Crane 1945
+Bryantella	speciosa Chickering 1946
+Bryantella	tropica Peckham Peckham 1901
+Bristowia	afra Szüts 2004
+Bristowia	heterospinosa Reimoser 1934
+Proctonemesia	multicaudata Bauab & Soares 1978
+Proctonemesia	secunda Soares & Camargo 1948
+Nycerella	aprica Peckham Peckham 1896
+Nycerella	decorata Peckham Peckham 1893
+Nycerella	delecta Peckham Peckham 1896
+Nycerella	donaldi Chickering 1946
+Nycerella	melanopygia Galiano 1982
+Nycerella	neglecta Galiano 1982
+Nycerella	sanguinea Peckham & Peckham 1896
+Nycerella	volucripes Galiano 1982
+Saitidops	albopatellus Bryant 1950
+Saitidops	clathratus Simon 1901
+Mexcala	agilis Lawrence 1928
+Mexcala	caerulea Simon 1901
+Mexcala	elegans Peckham Peckham 1903
+Mexcala	farsensis Logunov 2001
+Mexcala	macilenta Wesolowska Russel-Smith 2000
+Mexcala	monstrata Wesolowska van Harten 1994
+Mexcala	nigrocyanea Simon 1886
+Mexcala	rufa Peckham & Peckham 1902
+Mexcala	synagelese Wesolowska 2009
+Jacksonoides	distinctus Wanless 1988
+Jacksonoides	eileenae Wanless 1988
+Jacksonoides	kochi Simon 1900
+Jacksonoides	nubilis Wanless 1988
+Jacksonoides	queenslandicus Wanless 1988
+Jacksonoides	simplexipalpis Wanless 1988
+Jacksonoides	subtilis Wanless 1988
+Evarcha	acuta Blackwall 1877
+Evarcha	albaria Koch L. 1878
+Evarcha	amabilis C. L. Koch 1846
+Evarcha	arabica Wesolowska van Harten 2007
+Evarcha	arcuata Clerck 1757
+Evarcha	armeniaca Logunov 1998
+Evarcha	awashi Wesolowska Tomasiewicz 2008
+Evarcha	bakorensis Rollard & Wesolowska 2002
+Evarcha	bicoronata Simon 1901
+Evarcha	bicuspidata Peng & Li 2003
+Evarcha	bihastata Wesolowska Russel-Smith 2000
+Evarcha	bulbosa Zabka 1985
+Evarcha	cancellata Simon 1902
+Evarcha	certa Rollard & Wesolowska 2002
+Evarcha	chappuisi Lessert 1925
+Evarcha	chubbi Lessert 1925
+Evarcha	coreana Seo 1988
+Evarcha	culicivora Wesolowska Jackson 2003
+Evarcha	darinurica Logunov 2001
+Evarcha	digitata Peng & Li 2002
+Evarcha	dotata Peckham Peckham 1903
+Evarcha	dubia Kulczynski 1901
+Evarcha	elegans Wesolowska Russel-Smith 2000
+Evarcha	eriki Wunderlich 1987
+Evarcha	nigrofusca Strand 1900
+Evarcha	falcata Clerck 1757
+Evarcha	falcata Clerck 1757
+Evarcha	fasciata Seo 1992
+Evarcha	gausapata Thorell 1890
+Evarcha	hirticeps Song & Chai 1992
+Evarcha	hoyi Peckham Peckham 1883
+Evarcha	hunanensis Peng Xie & Kim 1993
+Evarcha	hyllinella Strand 1913
+Evarcha	ignea Wesolowska Cumming 2008
+Evarcha	infrastriata Keyserling 1881
+Evarcha	jucunda Lucas 1846
+Evarcha	kirghisica Rakov 1997
+Evarcha	kochi Simon 1902
+Evarcha	laetabunda Koch C.L. 1846
+Evarcha	maculata Rollard Wesolowska 2002
+Evarcha	madagascariensis Prószynski 1992
+Evarcha	michailovi Logunov 1992
+Evarcha	mongolica Danilov & Logunov 1994
+Evarcha	mustela Simon 1902
+Evarcha	natalica Simon 1902
+Evarcha	negevensis Prószynski 1999
+Evarcha	nenilini Rakov 1997
+Evarcha	nepos 
+Evarcha	nigricans Dalmas 1920
+Evarcha	obscura Caporiacco 1947
+Evarcha	optabilis Fox 1937
+Evarcha	orientalis Song & Chai 1992
+Evarcha	paralbaria Song & Chai 1992
+Evarcha	patagiata 
+Evarcha	petrae Prószynski 1992
+Evarcha	picta Wesolowska van Harten 2007
+Evarcha	pileckii Prószynski 2000
+Evarcha	pococki Zabka 1985
+Evarcha	praeclara Prószynski Wesolowska 2003
+Evarcha	prosimilis Wesolowska Cumming 2008
+Evarcha	proszynskii Marusik Logunov 1997
+Evarcha	pseudopococki Peng Xie & Kim 1993
+Evarcha	pulchella Thorell 1895
+Evarcha	reiskindi Berry Beatty Prószynski 1996
+Evarcha	seyun Wesolowska van Harten 2007
+Evarcha	sichuanensis Peng Xie & Kim 1993
+Evarcha	similis Caporiacco 1941
+Evarcha	vitosa Pr
+Evarcha	wenxianensis Tang & Yang 1995
+Evarcha	wulingensis Peng Xie & Kim 1993
+Evarcha	zimbabwensis Wesolowska Cumming 2008
+Toticoryx	exilis Rollard & Wesolowska 2002
+Haplopsecas	annulipes Caporiacco 1955
+Brancus	bevisi Lessert 1925
+Brancus	blaisei Simon 1902
+Brancus	hemmingi Caporiacco 1949
+Brancus	muticus Simon 1902
+Brancus	poecilus Caporiacco 1949
+Brancus	verdieri Berland & Millot 1941
+Kalcerrytus	amapari Galiano 2000
+Kalcerrytus	carvalhoi Bauab & Soares 1978
+Kalcerrytus	chimore Galiano 2000
+Kalcerrytus	edwardsi Ruiz Brescovit 2003
+Kalcerrytus	excultus Simon 1902
+Kalcerrytus	kikkri Galiano 2000
+Kalcerrytus	leucodon Taczanowski 1878
+Kalcerrytus	limoncocha Galiano 1999
+Kalcerrytus	merreti Galiano 1999
+Kalcerrytus	merretti Galiano 2000
+Kalcerrytus	nauticus Galiano 2000
+Kalcerrytus	odontophorus Ruiz Brescovit 2003
+Kalcerrytus	salsicha Ruiz Brescovit 2003
+Diplocanthopoda	hatamensis Thorell 1881
+Diplocanthopoda	marina Abraham 1925
+Gastromicans	albopilosa Simon 1903
+Gastromicans	hondurensis Peckham & Peckham 1896
+Gastromicans	levispina 
+Gastromicans	noxiosa Simon 1886
+Gastromicans	tesselata C. L. Koch 1846
+Gastromicans	vigens Peckham & Peckham 1901
+Galianora	sacha Maddison 2006
+Thrandina	parocula Maddison 2006
+Jollas	amazonicus Galiano 1991
+Jollas	geniculatus Simon 1901
+Jollas	manantiales Galiano 1991
+Jollas	paranacito Galiano 1991
+Jollas	pompatus Peckham Peckham 1893
+Jollas	puntalara Galiano 1991
+Maeota	dichrura Simon 1901
+Giuiria	unica Strand 1906
+Clynotoides	dorae Mello-Leitao 1944
+Cyrba	algerina Lucas 1846
+Cyrba	bidentata Strand 1906
+Cyrba	boveyi Lessert 1933
+Cyrba	dotata Peckham & Peckham 1903
+Cyrba	legendrei Wanless 1984
+Cyrba	lineata Wanless 1984
+Cyrba	nigrimana Simon 1900
+Cyrba	ocellata Kroneberg 1875
+Cyrba	simoni Wijesinghe 1993
+Cyrba	szechenyii Karsch 1898
+Anarrhotus	fossulatus Simon 1902
+Ascyltus	audax Rainbow 1897
+Ascyltus	divinus Karsch 1878
+Ascyltus	ferox Rainbow 1897
+Ascyltus	lautus Keyserling 1881
+Ascyltus	minahassae Merian 1911
+Ascyltus	opulentus Walckenaer 1837
+Ascyltus	pterygodes Koch L. 1865
+Ascyltus	rhizophora Berry Beatty & Prószynski 1997
+Ascyltus	similis Berry Beatty Prószynski 1997
+Mabellina	prescotti Chickering 1946
+Pachypoessa	lacertosa Simon 1902
+Pachomius	dybowskii Taczanowski 1871
+Pachomius	maculosus Chickering 1946
+Pachomius	peckhamorum Galiano 1994
+Pachomius	sextus Galiano 1994
+Pachomius	viletta Galiano 1994
+Pachomius	villeta Galiano 1994
+Eris	bulbosa Karsch 1880
+Eris	flava Peckham Peckham 1888
+Eris	floridana Banks 1904
+Eris	illustris C. L. Koch 1846
+Eris	militaris Hentz 1845
+Eris	riedeli Schmidt 1971
+Eris	rufa Koch C.L. 1846
+Alcmena	amabilis C. L. Koch 1846
+Alcmena	psittacina C. L. Koch 1846
+Alcmena	trifasciata Caporiacco 1954
+Alcmena	tristis Mello-Leitao 1945
+Alcmena	vittata Karsch 1880
+Sebastira	instrata Simon 1901
+Sebastira	plana Chickering 1946
+Wanlessia	denticulata Peng Tso & Li 2002
+Wanlessia	sedgwicki Wijesinghe 1992
+Belippo	anguina Simon 1910
+Belippo	calcarata Roewer 1942
+Belippo	cygniformis Wanless 1978
+Belippo	ibadan Wanless 1978
+Belippo	milloti Lessert 1942
+Belippo	nexilis Simon 1910
+Belippo	viettei Kraus 1960
+Gambaquezonia	itimana Barrion & Litsinger 1995
+Afraflacilla	antineae Denis 1954
+Afraflacilla	berlandi Denis 1955
+Afraflacilla	millidgei Zabka & Gray 2002
+Afraflacilla	scenica Denis 1955
+Afraflacilla	wadis Prószynski 1989
+Afraflacilla	yenai Zabka
+Titanattus	cretatus Chickering 1946
+Titanattus	notabilis Mello-Leitao 1943
+Titanattus	novarai Caporiacco 1955
+Titanattus	paganus Chickering 1946
+Titanattus	pallidus Mello-Leitao 1943
+Titanattus	pegaseus Simon 1900
+Titanattus	saevus Peckham & Peckham 1885
+Noegus	actinosus Simon 1900
+Noegus	arator Simon 1900
+Noegus	australis Mello-Leitao 1941
+Noegus	bidens Simon 1900
+Noegus	coccineus Simon 1900
+Noegus	comatulus Simon 1900
+Noegus	difficilis Soares & Camargo 1948
+Noegus	franganilloi Caporiacco 1947
+Noegus	fulvocristatus Simon 1900
+Noegus	fuscimanus Simon 1900
+Noegus	fuscomanus Taczanowski 1878
+Noegus	mantovani Bauab & Soares 1978
+Noegus	niveogularis Simon 1900
+Noegus	niveomarginatus Simon 1900
+Noegus	pallidus Mello-Leitao 1947
+Noegus	rufus Simon 1900
+Noegus	spiralifer F. O. P.-Cambridge 1901
+Noegus	transversalis Simon 1900
+Noegus	trilineatus Mello-Leitao 1940
+Noegus	uncatus Simon 1900
+Noegus	vulpio Simon 1900
+Ilargus	coccineus Simon 1901
+Ilargus	modestus Caporiacco 1947
+Ilargus	nitidisquamulatus Soares & Camargo 1948
+Ilargus	singularis Caporiacco 1955
+Cerionesta	luteola Peckham & Peckham 1893
+Marengo	crassipes Peckham Peckham 1892
+Marengo	deelemanae Benjamin 2004
+Marengo	inornata Simon 1900
+Marengo	rattotensis Benjamin 2006
+Marengo	striatipes Simon 1900
+Marengo	thomsoni Wanless 1978
+Veissella	durbani Peckham & Peckham 1903
+Arasia	eucalypti Gardzinska 1996
+Arasia	mollicoma Koch L. 1880
+Arasia	mullion Zabka 2002
+Margaromma	doreyanum Walckenaer 1837
+Margaromma	funestum Keyserling 1882
+Margaromma	imperiosum Szombathy 1915
+Margaromma	insultans Thorell 1881
+Margaromma	namukana Roewer 1944
+Margaromma	nitidum Thorell 1899
+Margaromma	obscura Keyserling 1882
+Margaromma	obscurum Keyserling 1882
+Margaromma	semirasa Keyserling 1882
+Margaromma	semirasum Keyserling 1882
+Margaromma	sexuale Strand 1911
+Margaromma	soligena Simon 1901
+Margaromma	spatiosum Peckham & Peckham 1907
+Margaromma	torquatum Simon 1902
+Araegeus	fornasinii Pavesi 1881
+Araegeus	mimicus Simon 1901
+Tariona	bruneti Simon 1903
+Tariona	gounellei Simon 1902
+Tariona	maculata Franganillo 1930
+Tariona	mutica Simon 1903
+Bacelarella	conjugans Szüts Jocque 2001
+Bacelarella	dracula Szüts Jocque 2001
+Bacelarella	fradei Berland Millot 1941
+Bacelarella	iactans Szüts Jocque 2001
+Bacelarella	pavida Szüts Jocque 2001
+Bacelarella	tanohi Szüts Jocque 2001
+Bacelarella	tentativa Szüts & Jocqué 2001
+Philaeus	albovariegatus Simon 1868
+Philaeus	chrysops Poda 1761
+Philaeus	corrugatulus Strand 1917
+Philaeus	fallax Lucas 1846
+Philaeus	jugatus L. Koch 1856
+Philaeus	pacificus Banks 1902
+Philaeus	raribarbis Denis 1955
+Philaeus	ruber Peckham & Peckham 1885
+Philaeus	stellatus Franganillo 1910
+Philaeus	steudeli Strand 1906
+Philaeus	superciliosus Bertkau 1883
+Davidina	magnidens Schenkel 1963
+Xenocytaea	anomala Berry Beatty Prószynski 1998
+Xenocytaea	daviesae Berry Beatty Prószynski 1998
+Xenocytaea	maddisoni Berry Beatty Prószynski 1998
+Xenocytaea	triramosa Berry Beatty Prószynski 1998
+Xenocytaea	zabkai Berry Beatty & Prószynski 1998
+Cosmophasis	albipes Berland & Millot 1941
+Cosmophasis	albomaculata Schenkel 1944
+Cosmophasis	arborea Berry Beatty Prószynski 1997
+Cosmophasis	australis Simon 1902
+Cosmophasis	bitaeniata Keyserling 1882
+Cosmophasis	chlorophthalma Simon 1898
+Cosmophasis	chopardi Berland & Millot 1941
+Cosmophasis	cypria Thorell 1890
+Cosmophasis	depilata Caporiacco 1940
+Cosmophasis	estrellaensis Barrion & Litsinger 1995
+Cosmophasis	fagei Lessert 1925
+Cosmophasis	fazanica Caporiacco 1936
+Cosmophasis	lami Berry Beatty & Prószynski 1997
+Cosmophasis	laticlavia Thorell 1892
+Cosmophasis	lucidiventris Simon 1910
+Cosmophasis	maculiventris Strand 1911
+Cosmophasis	marxi Thorell 1890
+Cosmophasis	masarangi Merian 1911
+Cosmophasis	micans L. Koch 1880
+Cosmophasis	micarioides L. Koch 1880
+Cosmophasis	miniaceomicans Simon 1888
+Cosmophasis	modesta L. Koch 1880
+Cosmophasis	monacha Thorell 1881
+Cosmophasis	muralis Berry Beatty Prószynski 1997
+Cosmophasis	obscura Keyserling 1882
+Cosmophasis	olorina Simon 1901
+Cosmophasis	orsimoides Strand 1911
+Cosmophasis	parangpilota Barrion & Litsinger 1995
+Cosmophasis	psittacina Thorell 1887
+Cosmophasis	pulchella Caporiacco 1947
+Cosmophasis	quadricincta Simon 1885
+Cosmophasis	risbeci Berland 1938
+Cosmophasis	squamata Kulczynski 1910
+Cosmophasis	strandi Caporiacco 1947
+Cosmophasis	thalassina C. L. Koch 1846
+Cosmophasis	tricincta Simon 1910
+Cosmophasis	trioipina Barrion & Litsinger 1995
+Cosmophasis	umbratica Simon 1903
+Cosmophasis	valerieae Prószynski Deeleman-Reinhold 2010
+Cosmophasis	viridifasciata Doleschall 1859
+Pellolessertia	castanea Lessert 1927
+Wallaba	albopalpis Peckham & Peckham 1901
+Wallaba	decora Bryant 1943
+Wallaba	metallica Mello-Leitao 1940
+Zeuxippus	atellanus Thorell 1895
+Zeuxippus	histrio Thorell 1891
+Zeuxippus	pallidus Thorell 1895
+Zeuxippus	yunnanensis Peng & Xie 1995
+Hyetussa	aguilari Galiano 1978
+Hyetussa	andalgalaensis Galiano 1976
+Hyetussa	cribrata Simon 1901
+Hyetussa	mesopotamica Galiano 1976
+Hyetussa	secta Mello-Leitao 1944
+Hyetussa	simoni Galiano 1976
+Naubolus	albopunctatus Mello-Leitao 1943
+Naubolus	melloleitaoi Caporiacco 1947
+Naubolus	micans Simon 1901
+Naubolus	pallidus Mello-Leitao 1945
+Naubolus	posticatus Simon 1901
+Naubolus	roeweri Soares & Camargo 1948
+Naubolus	sawayai Soares & Camargo 1948
+Naubolus	simplex Mello-Leitao 1946
+Naubolus	trifasciatus Mello-Leitao 1927
+Naubolus	tristis Mello-Leitao 1922
+Paracyrba	wanlessi Zabka Kovac 1996
+Artabrus	erythrocephalus Koch C.L. 1846
+Nannenus	lyriger Simon 1902
+Nannenus	syrphus Simon 1902
+Gramenca	prima Rollard & Wesolowska 2002
+Avitus	anumbi Mello-Leitao 1940
+Avitus	castaneonotatus Mello-Leitao 1939
+Avitus	diolenii Peckham & Peckham 1896
+Avitus	longidens Simon 1901
+Avitus	taylori Peckham & Peckham 1901
+Avitus	variabilis Mello-Leitao 1945
+Stichius	albomaculatus Thorell 1890
+Sonoita	lightfooti Peckham Peckham 1903
+Mendoza	canestrini Canestrini Pavesi 1868
+Mendoza	canestrinii Ninni 1868
+Mendoza	dersuuzalai Logunov Wesolowska 1992
+Mendoza	elongata Karsch 1879
+Mendoza	ibarakiensis Bohdanowicz & Prószynski 1987
+Mendoza	nobilis Grube 1861
+Mendoza	pulchra Prószynski 1981
+Mendoza	ryukyuensis Baba 2006
+Mendoza	zebra Logunov & Wesolowska 1992
+Pensacolops	rubrovittata Bauab 1983
+Encymachus	hesperus Lawrence 1927
+Encymachus	livingstonei Simon 1902
+Napoca	insignis O. P.-Cambridge 1872
+Osericta	cheliferoides Taczanowski 1878
+Osericta	dives Simon 1901
+Tasa	davidi Schenkel 1963
+Tasa	nipponica Bohdanowicz & Prószynski 1987
+Admesturius	bitaeniatus Simon 1901
+Admesturius	schajovskoyi Galiano 1987
+Chalcolecta	bitaeniata Simon 1884
+Chalcolecta	dimidiata Simon 1884
+Chalcolecta	prensitans Thorell 1881
+Pystira	cyanothorax Thorell 1881
+Pystira	ephippigera Simon 1885
+Pystira	karschi Thorell 1881
+Pystira	nigripalpis Thorell 1877
+Pystira	versicolor Dyal 1935
+Frigga	coronigera Koch C.L. 1846
+Frigga	crocuta Taczanowski 1878
+Frigga	finitima Galiano 1979
+Frigga	flava F. O. P.-Cambridge 1901
+Frigga	kessleri Taczanowski 1871
+Frigga	opulenta Galiano 1979
+Frigga	pratensis Peckham Peckham 1885
+Frigga	quintensis Tullgren 1905
+Frigga	rufa Caporiacco 1947
+Frigga	simoni Berland 1913
+Fuentes	pertinax Peckham & Peckham 1894
+Fuentes	yucatan Ruiz Brescovit 2007
+Sondra	aurea Koch L. 1880
+Sondra	bickeli Zabka 2002
+Sondra	bifurcata Wanless 1988
+Sondra	brindlei Zabka 2002
+Sondra	bulburin Wanless 1988
+Sondra	convoluta Wanless 1988
+Sondra	damocles Wanless 1988
+Sondra	excepta Wanless 1988
+Sondra	finlayensis Wanless 1988
+Sondra	littoralis Wanless 1988
+Sondra	nepenthicola Wanless 1988
+Sondra	raveni Wanless 1988
+Sondra	samambrayi Zabka 2002
+Sondra	tristicula Simon 1909
+Sondra	variabilis Wanless 1988
+Thiodina	branicki Taczanowski 1871
+Thiodina	candida Mello-Leitao 1922
+Thiodina	cockerelli Peckham Peckham 1901
+Thiodina	crucifera F. O. P.-Cambridge 1901
+Thiodina	germaini Simon 1900
+Thiodina	hespera Richman Vetter 2004
+Thiodina	inerma Bryant 1940
+Thiodina	melanogaster Mello-Leitao 1917
+Thiodina	nicoleti Roewer 1951
+Thiodina	pallida C. L. Koch 1846
+Thiodina	peckhami Bryant 1940
+Thiodina	pseustes Chamberlin & Ivie 1936
+Thiodina	puerpera Hentz 1846
+Thiodina	punctulata Mello-Leitao 1917
+Thiodina	robusta Mello-Leitao 1945
+Thiodina	setosa Mello-Leitao 1947
+Thiodina	sylvana Hentz 1846
+Thiodina	vaccula Simon 1900
+Thiodina	vellardi Soares & Camargo 1948
+Helpis	gracilis Gardzinska 1996
+Helpis	kenilworthi Zabka 2002
+Helpis	longichelis Strand 1915
+Helpis	minitabunda Koch L. 1880
+Helpis	occidentalis Simon 1909
+Helpis	risdonica Zabka 2002
+Helpis	tasmanica Zabka 2002
+Micalula	longithorax Petrunkevitch 1925
+Dasycyptus	dimus Simon 1902
+Dasycyptus	dubius Berland & Millot 1941
+Lakarobius	alboniger Berry Beatty Prószynski 1998
+Saitissus	squamosus Roewer 1938
+Asaracus	elegantulus Mello-Leitao 1947
+Asaracus	megacephalus Koch C.
+Asaracus	pauciaculeis Caporiacco 1947
+Asaracus	roeweri Caporiacco 1947
+Asaracus	rufociliatus Simon 1902
+Asaracus	semifimbriatus Simon 1902
+Rafalus	arabicus Wesolowska van Harten 2010
+Rafalus	christophori Prószynski 1999
+Rafalus	feliksi Prószynski 1999
+Rafalus	insignipalpis Simon 1882
+Rafalus	karskii Prószynski 1999
+Rafalus	lymphus Próchniewicz Heciak 1994
+Rafalus	nigritibiis Caporiacco 1941
+Rafalus	stanislawi Prószynski 1999
+Rafalus	variegatus Kroneberg 1875
+Rafalus	wittmeri Prószynski 1978
+Palpelius	albofasciatus Peckham & Peckham 1907
+Palpelius	arboreus Peckham & Peckham 1907
+Palpelius	beccarii Thorell 1881
+Palpelius	clarus Roewer 1938
+Palpelius	dearmatus Thorell 1881
+Palpelius	discedens Kulczynski 1910
+Palpelius	fuscoannulatus Strand 1911
+Palpelius	kuekenthali Pocock 1897
+Palpelius	namosi Berry Beatty Prószynski 1996
+Palpelius	nemoralis Peckham & Peckham 1907
+Palpelius	trigyrus Berry Beatty & Prószynski 1996
+Maevia	albozonata Hasselt 1882
+Maevia	expansa Barnes 1955
+Maevia	gracilipes Taczanowski 1878
+Maevia	inclemens Walckenaer 1837
+Maevia	intermedia Barnes 1955
+Maevia	quadrilineata Hasselt 1882
+Maevia	susiformis Taczanowski 1878
+Maevia	trilineata Taczanowski 1878
+Menemerus	acuminatus Rainbow 1912
+Menemerus	affinis Wesolowska van Harten 2010
+Menemerus	albocinctus Keyserling 1890
+Menemerus	animatus Pickard-Cambridge
+Menemerus	arabicus Prószynski 1993
+Menemerus	bicolor Peckham & Peckham 1896
+Menemerus	bifurcus Wesolowska 1999
+Menemerus	bivittatus Dufour 1831
+Menemerus	bracteatus Koch L. 1879
+Menemerus	brevibulbis Thorell 1887
+Menemerus	carlini Peckham & Peckham 1903
+Menemerus	congoensis Lessert 1927
+Menemerus	cummingorum Wesolowska 2007
+Menemerus	davidi Wesolowska 1999
+Menemerus	depressus Franganillo 1930
+Menemerus	desertus Wesolowska 1999
+Menemerus	dimidius Schmidt 1976
+Menemerus	eburnensis Berland Millot 1941
+Menemerus	fagei Berland Millot 1941
+Menemerus	falsificus Simon 1868
+Menemerus	fasciculatus Franganillo 1930
+Menemerus	felix Hogg 1922
+Menemerus	formosus Wesolowska 1999
+Menemerus	fulvus Koch L. 1878
+Menemerus	guttatus Wesolowska 1999
+Menemerus	illigeri Audouin 1826
+Menemerus	insolidus Wesolowska 1999
+Menemerus	kochi Bryant 1942
+Menemerus	legalli Berland & Millot 1941
+Menemerus	legendrei Schenkel 1963
+Menemerus	lesnei Lessert 1936
+Menemerus	magnificus Wesolowska 1999
+Menemerus	marginalis Banks 1909
+Menemerus	marginatus Kroneberg 1875
+Menemerus	meridionalis Wesolowska 1999
+Menemerus	minshullae Wesolowska 1999
+Menemerus	mirabilis Wesolowska 1999
+Menemerus	modestus Wesolowska 1999
+Menemerus	namibicus Wesolowska 1999
+Menemerus	natalis Wesolowska 1999
+Menemerus	ochraceus Franganillo 1930
+Menemerus	paradoxus Wesolowska & van Harten 1994
+Menemerus	pentamaculatus Hu 2001
+Menemerus	pilosus Wesolowska 1999
+Menemerus	placidus Wesolowska 1999
+Menemerus	plenus Wesolowska van Harten 1994
+Menemerus	proximus Franganillo 1935
+Menemerus	pulcher Wesolowska 1999
+Menemerus	rabaudi Berland & Millot 1941
+Menemerus	raji Dyal 1935
+Menemerus	regius Wesolowska 1999
+Menemerus	rubicundus Lawrence 1928
+Menemerus	sabulosus Wesolowska 1999
+Menemerus	semilimbatus Hahn 1827
+Menemerus	silver Wesolowska 1999
+Menemerus	taeniatus Koch L. 1867
+Menemerus	transvaalicus Wesolowska 1999
+Menemerus	tropicus Wesolowska 2007
+Menemerus	utilis Wesolowska 1999
+Menemerus	vernei Berland & Millot 1941
+Menemerus	wuchangensis Schenkel 1963
+Menemerus	zimbabwensis Wesolowska 1999
+Ligonipes	coccineopilosus Simon 1884
+Ligonipes	flavipes Rainbow 1920
+Ligonipes	illustris Karsch 1878
+Ligonipes	lacertosus Thorell 1881
+Ligonipes	scutellatus Kritscher 1959
+Ligonipes	semitectus Simon 1900
+Ligonipes	similis Hasselt 1882
+Ligonipes	synageloides Szombathy 1915
+Capidava	annulipes Caporiacco 1947
+Capidava	auriculata Simon 1902
+Capidava	biuncata Simon 1902
+Capidava	dubia Caporiacco 1947
+Capidava	rufithorax Simon 1902
+Capidava	saxatilis Soares & Camargo 1948
+Capidava	uniformis Mello-Leitao 1940
+Capidava	variegata Caporiacco 1954
+Aphirape	ancilla Koch C.L. 1846
+Aphirape	boliviensis Galiano 1981
+Aphirape	flexa Galiano 1981
+Aphirape	gamas Galiano 1996
+Aphirape	misionensis Galiano 1981
+Aphirape	riojana Mello-Leitao 1941
+Aphirape	riparia Galiano 1981
+Aphirape	uncifera Tullgren 1905
+Chalcotropis	acutefrenata Simon 1902
+Chalcotropis	caelodentata Merian 1911
+Chalcotropis	celebensis Merian 1911
+Chalcotropis	decemstriata Simon 1902
+Chalcotropis	insularis Keyserling 1881
+Chalcotropis	luceroi Barrion & Litsinger 1995
+Chalcotropis	pennata Simon 1902
+Chalcotropis	praeclara Simon 1902
+Chalcotropis	radiata Simon 1902
+Poecilorchestes	decoratus Simon 1901
+Ocrisiona	aerata L. Koch 1879
+Ocrisiona	cinerea L. Koch 1879
+Ocrisiona	eucalypti Zabka 1990
+Ocrisiona	frenata Simon 1901
+Ocrisiona	koahi Zabka 1990
+Ocrisiona	leucocomis Koch L. 1879
+Ocrisiona	liturata L. Koch 1879
+Ocrisiona	melancholica Koch L. 1879
+Ocrisiona	melanopyga Simon 1901
+Ocrisiona	parallelestriata L. Koch 1879
+Ocrisiona	parmeliae Zabka 1990
+Ocrisiona	victoriae Zabka 1990
+Ocrisiona	yakatunyae Zabka 1990
+Microhasarius	animosus Peckham & Peckham 1907
+Microhasarius	pauperculus Simon 1902
+Lepidemathis	haemorrhoidalis Simon 1899
+Lepidemathis	sericea Simon 1899
+Idastrandia	orientalis Szombathy 1915
+Zenodorus	albertisi Thorell 1881
+Zenodorus	albertisii Thorell 1881
+Zenodorus	arcipluvii Peckham & Peckham 1901
+Zenodorus	asper Karsch 1878
+Zenodorus	danae Hogg 1915
+Zenodorus	durvillii Walckenaer 1837
+Zenodorus	formosus Rainbow 1899
+Zenodorus	jucundus Rainbow 1912
+Zenodorus	juliae Thorell 1881
+Zenodorus	lepidus Guérin 1834
+Zenodorus	marginatus Simon 1902
+Zenodorus	metallescens Koch L. 1879
+Zenodorus	microphthalmus Koch L. 1881
+Zenodorus	niger Karsch 1878
+Zenodorus	obscurofemoratus Keyserling 1883
+Zenodorus	orbiculatus Keyserling 1881
+Zenodorus	ponapensis Berry Beatty Prószynski 1996
+Zenodorus	pupulus Thorell 1881
+Zenodorus	pusillus Strand 1913
+Zenodorus	rhodopae Hogg 1915
+Zenodorus	syrinx Hogg 1915
+Zenodorus	urvillei Walckenaer 1837
+Zenodorus	variatus Pocock 1899
+Zenodorus	varicans Thorell 1881
+Zenodorus	wangillus Strand 1911
+Brettus	adonis Simon 1900
+Brettus	albolimbatus Simon 1900
+Brettus	anchorum Wanless 1979
+Brettus	celebensis Merian 1911
+Brettus	cingulatus Thorell 1895
+Brettus	madagascarensis Peckham & Peckham 1903
+Brettus	storki Logunov Azarkina 2007
+Poultonella	alboimmaculata Peckham Peckham 1883
+Poultonella	nuecensensis Cokendolpher Horner 1978
+Poultonella	nuecesensis Cokendolpher & Horner 1978
+Stergusa	aurata Simon 1902
+Stergusa	aurichalcea Simon 1902
+Stergusa	improbula Simon 1889
+Stergusa	stelligera Simon 1902
+Mogrus	albogularis Simon 1901
+Mogrus	antoninus Andreeva 1976
+Mogrus	bonneti Audouin 1826
+Mogrus	canescens Koch C.L. 1846
+Mogrus	cognatus Wesolowska & van Harten 1994
+Mogrus	dalmasi Berland & Millot 1941
+Mogrus	faizabadicus Andreeva Kononenko & Prószynski 1981
+Mogrus	flavescentemaculatus Lucas 1846
+Mogrus	frontosus Simon 1871
+Mogrus	fulvovittatus Simon 1882
+Mogrus	ignarus Wesolowska 2000
+Mogrus	incertus Denis 1955
+Mogrus	larisae Logunov 1995
+Mogrus	leucochelis Pavesi 1897
+Mogrus	linzhiensis Hu 2001
+Mogrus	logunovi Prószynski 1999
+Mogrus	macrocephalus Lawrence 1927
+Mogrus	mathisi Berland Millot 1941
+Mogrus	mirabilis Wesolowska van Harten 1994
+Mogrus	neglectus Simon 1868
+Mogrus	sahariensis Berland & Millot 1941
+Mogrus	semicanus Simon 1910
+Mogrus	sinaicus Prószynski 2000
+Mogrus	valerii Andreeva Kononenko Prószynski 1981
+Padilla	ambigua Ledoux 2007
+Padilla	armata Peckham & Peckham 1894
+Padilla	cornuta Peckham Peckham 1885
+Padilla	glauca Simon 1900
+Padilla	javana Simon 1900
+Padilla	lancearia Simon 1900
+Padilla	lavatandroka Andriamalala 2007
+Padilla	manjelatra Andriamalala 2007
+Padilla	mantis Simon 1900
+Padilla	mazavaloha Andriamalala 2007
+Padilla	mihaingo Andriamalala 2007
+Padilla	ngeroka Andriamalala 2007
+Padilla	sartor Simon 1900
+Messua	centralis Peckham & Peckham 1896
+Messua	dentigera F. O. P.-Cambridge 1901
+Messua	desidiosa Peckham Peckham 1896
+Messua	donalda Kraus 1955
+Messua	felix Peckham Peckham 1901
+Messua	latior Roewer 1955
+Messua	laxa Chickering 1946
+Messua	limbata Banks 1898
+Messua	moma F. O. P.-Cambridge 1901
+Messua	octonotata F. O. P.-Cambridge 1901
+Messua	pura Bryant 1948
+Messua	tridentata F. O. P.-Cambridge 1901
+Rudra	brescoviti Braul Lise 1999
+Rudra	dagostinae Braul & Lise 1999
+Rudra	geniculata Peckham Peckham 1885
+Rudra	humilis Mello-Leitao 1945
+Rudra	minensis Galiano 1984
+Rudra	multispina Caporiacco 1947
+Rudra	oriximina Galiano 1984
+Rudra	polita Peckham & Peckham 1894
+Rudra	tenera Peckham & Peckham 1894
+Rudra	wagae Taczanowski 1872
+Bianor	albobimaculatus Lucas 1846
+Bianor	angulosus Karsch 1879
+Bianor	biocellosus Simon 1902
+Bianor	compactus Urquhart 1885
+Bianor	concolor Keyserling 1882
+Bianor	diversipes Simon 1901
+Bianor	fasciatus Mello-Leitao 1922
+Bianor	hongkong Song et al. 1997
+Bianor	incitatus Thorell 1890
+Bianor	kovaczi Logunov 2001
+Bianor	maculatus Keyserling 1883
+Bianor	monster Zabka 1985
+Bianor	murphyi Logunov 2000
+Bianor	obak Berry Beatty Prószynski 1996
+Bianor	paulyi Logunov 2009
+Bianor	pseudomaculatus Logunov 2001
+Bianor	punjabicus Logunov 2000
+Bianor	quadrimaculatus Lawrence 1927
+Bianor	senegalensis Logunov 2001
+Bianor	simplex Blackwall 1865
+Bianor	tortus Jastrzebski 2007
+Bianor	vitiensis Berry Beatty Prószynski 1996
+Bianor	wunderlichi Logunov 2000
+Freya	albosignata F. O. P.-Cambridge 1901
+Freya	arraijanica Chickering 1946
+Freya	atures Galiano 2001
+Freya	bicavata F. O. P.-Cambridge 1901
+Freya	bifida F. O. P.-Cambridge 1901
+Freya	bifurcata F. O. P.-Cambridge 1901
+Freya	chapare Galiano 2001
+Freya	chionopogon Simon 1902
+Freya	decorata Koch C.L. 1846
+Freya	demarcata Chamberlin & Ivie 1936
+Freya	disparipes Caporiacco 1954
+Freya	dureti Galiano 2001
+Freya	dyali Roewer 1951
+Freya	emarginata F. O. P.-Cambridge 1901
+Freya	frontalis Banks 1929
+Freya	grisea F. O. P.-Cambridge 1901
+Freya	guianensis Caporiacco 1947
+Freya	infuscata F. O. P.-Cambridge 1901
+Freya	justina Banks 1929
+Freya	longispina F. O. P.-Cambridge 1901
+Freya	maculatipes F. O. P.-Cambridge 1901
+Freya	minuta F. O. P.-Cambridge 1901
+Freya	nigrotaeniata Mello-Leitao 1945
+Freya	perelegans Simon 1902
+Freya	petrunkevitchi Chickering 1946
+Freya	prominens F. O. P.-Cambridge 1901
+Freya	regia Peckham & Peckham 1896
+Freya	rubiginosa C. L. Koch 1846
+Freya	rufohirta Simon 1902
+Freya	rustica Peckham & Peckham 1896
+Mashonarus	brandbergensis Wesolowska 2006
+Mashonarus	guttatus Wesolowska Cumming 2002
+Eustiromastix	bahiensis Galiano 1979
+Eustiromastix	efferatus Bauab & Soares 1978
+Eustiromastix	falcatus Galiano 1981
+Eustiromastix	intermedius Galiano 1979
+Eustiromastix	keyserlingi Taczanowski 1878
+Eustiromastix	macropalpus Galiano 1979
+Eustiromastix	major Simon 1902
+Eustiromastix	moraballi Mello-Leitao 1940
+Eustiromastix	obscurus Peckham Peckham 1893
+Eustiromastix	vincenti Peckham Peckham 1893
+Compsodecta	defloccata Peckham & Peckham 1901
+Compsodecta	grisea Peckham & Peckham 1901
+Compsodecta	haytiensis Banks 1903
+Compsodecta	maxillosa F. O. P.-Cambridge 1901
+Compsodecta	montana Chickering 1946
+Compsodecta	peckhami Bryant 1943
+Yogetor	bellus Wesolowska Russel-Smith 2000
+Yogetor	spiralis Wesolowska Tomasiewicz 2008
+Banksetosa	dubia Chickering 1946
+Banksetosa	notata Chickering 1946
+Ligdus	chelifer Thorell 1895
+Habronattus	abditus Griswold 1987
+Habronattus	agilis Banks 1893
+Habronattus	alachua Griswold 1987
+Habronattus	altanus Gertsch 1934
+Habronattus	americanus Keyserling 1884
+Habronattus	amicus Peckham & Peckham 1909
+Habronattus	ammophilus Chamberlin 1924
+Habronattus	anepsius Chamberlin 1924
+Habronattus	aztecanus Banks 1898
+Habronattus	ballatoris Griswold 1987
+Habronattus	banksi Peckham Peckham 1901
+Habronattus	borealis Banks 1895
+Habronattus	brunneus Peckham Peckham 1901
+Habronattus	bulbipes Chamberlin & Ivie 1941
+Habronattus	calcaratus Banks 1904
+Habronattus	calcaratus Banks 1904
+Habronattus	maddisoni Griswold 1987
+Habronattus	californicus Banks 1904
+Habronattus	cambridgei Bryant 1948
+Habronattus	captiosus Gertsch 1934
+Habronattus	carolinensis Peckham Peckham 1901
+Habronattus	carpus Griswold 1987
+Habronattus	ciboneyanus Griswold 1987
+Habronattus	clypeatus Banks 1895
+Habronattus	cockerelli Banks 1901
+Habronattus	coecatus Hentz 1846
+Habronattus	cognatus Peckham Peckham 1901
+Habronattus	conjunctus Banks 1898
+Habronattus	contingens Chamberlin 1925
+Habronattus	cuspidatus Griswold 1987
+Habronattus	decorus Blackwall 1846
+Habronattus	delectus Peckham & Peckham 1909
+Habronattus	divaricatus Banks 1898
+Habronattus	dorotheae Gertsch Mulaik 1936
+Habronattus	dossenus Griswold 1987
+Habronattus	elegans Peckham & Peckham 1901
+Habronattus	encantadas Griswold 1987
+Habronattus	ensenadae Petrunkevitch 1930
+Habronattus	facetus Petrunkevitch 1930
+Habronattus	fallax Peckham & Peckham 1909
+Habronattus	festus Peckham & Peckham 1901
+Habronattus	formosus Banks 1906
+Habronattus	forticulus Gertsch & Mulaik 1936
+Habronattus	georgiensis Chamberlin & Ivie 1944
+Habronattus	geronimoi Griswold 1987
+Habronattus	gigas Griswold 1987
+Habronattus	hallani Richman 1973
+Habronattus	hirsutus Peckham Peckham 1888
+Habronattus	huastecanus Griswold 1987
+Habronattus	icenoglei Griswold 1979
+Habronattus	iviei Griswold 1987
+Habronattus	jucundus Peckham & Peckham 1909
+Habronattus	kawini Griswold 1979
+Habronattus	klauseri Peckham & Peckham 1901
+Habronattus	kubai Griswold 1979
+Habronattus	leuceres Chamberlin 1925
+Habronattus	mataxus Griswold 1987
+Habronattus	mexicanus Peckham Peckham 1896
+Habronattus	moratus Gertsch & Mulaik 1936
+Habronattus	mustaciatus Chamberlin & Ivie 1941
+Habronattus	nahuatlanus Griswold 1987
+Habronattus	nemoralis Peckham & Peckham 1901
+Habronattus	neomexicanus Chamberlin 1925
+Habronattus	nesiotus Griswold 1987
+Habronattus	notialis Griswold 1987
+Habronattus	ocala Griswold 1987
+Habronattus	ophrys Griswold 1987
+Habronattus	orbus Griswold 1987
+Habronattus	oregonensis Peckham Peckham 1888
+Habronattus	paratus Peckham & Peckham 1896
+Habronattus	peckhami Banks 1921
+Habronattus	pochtecanus Griswold 1987
+Habronattus	pretiosus Bryant 1947
+Habronattus	pugillus Griswold 1987
+Habronattus	pyrrithrix Chamberlin 1924
+Habronattus	renidens Griswold 1987
+Habronattus	rufescens Berland 1934
+Habronattus	sabulosus Peckham & Peckham 1901
+Habronattus	sansoni Emerton 1915
+Habronattus	schlingeri Griswold 1979
+Habronattus	signatus Banks 1900
+Habronattus	simplex Peckham & Peckham 1901
+Habronattus	sugillatus Griswold 1987
+Habronattus	superciliosus Peckham & Peckham 1901
+Habronattus	tarascanus Griswold 1987
+Habronattus	tarsalis Banks 1904
+Habronattus	texanus Chamberlin 1924
+Habronattus	tlaxcalanus Griswold 1987
+Habronattus	tranquillus Peckham & Peckham 1901
+Habronattus	trimaculatus Bryant 1945
+Habronattus	tuberculatus Gertsch & Mulaik 1936
+Habronattus	ustulatus Griswold 1979
+Habronattus	velivolus Griswold 1987
+Habronattus	venatoris Griswold 1987
+Habronattus	virgulatus Griswold 1987
+Habronattus	viridipes Hentz 1846
+Habronattus	waughi Emerton 1926
+Habronattus	zapotecanus Griswold 1987
+Habronattus	zebraneus F. O. P.-Cambridge 1901
+Viroqua	ultima L. Koch 1881
+Arachnomura	adfectuosa Galiano 1977
+Arachnomura	hieroglyphica Mello-Leitao 1917
+Thianitara	spectrum Simon 1903
+Goleba	jocquei Szüts 2001
+Goleba	lyra Maddison Zhang J. 2006
+Goleba	pallens Blackwall 1877
+Goleba	puella Simon 1885
+Goleba	punctata Peckham & Wheeler 1888
+Judalana	lutea Rix 1999
+Abracadabrella	birdsville Zabka 1991
+Abracadabrella	elegans Koch L. 1879
+Abracadabrella	lewiston Zabka 1991
+Sparbambus	gombakensis Zhang J. Woon J. Li D. 2006
+Romitia	nigra Caporiacco 1947
+Corythalia	alacris Peckham & Peckham 1896
+Corythalia	albicincta F. O. P.-Cambridge 1901
+Corythalia	arcuata Franganillo 1930
+Corythalia	argentinensis Galiano 1962
+Corythalia	argyrochrysos Mello-Leitao 1946
+Corythalia	banksi Roewer 1951
+Corythalia	barbipes Mello-Leitao 1939
+Corythalia	bicincta Petrunkevitch 1925
+Corythalia	binotata F. O. P.-Cambridge 1901
+Corythalia	blanda Peckham & Peckham 1901
+Corythalia	brevispina F. O. P.-Cambridge 1901
+Corythalia	bryantae Chickering 1946
+Corythalia	canalis Chamberlin 1925
+Corythalia	chalcea Crane 1948
+Corythalia	chickeringi Kraus 1955
+Corythalia	cincta Badcock 1932
+Corythalia	circumcincta F. O. P.-Cambridge 1901
+Corythalia	circumflexa Mello-Leitao 1939
+Corythalia	clara Chamberlin & Ivie 1936
+Corythalia	conformans Chamberlin & Ivie 1936
+Corythalia	conspecta Peckham Peckham 1896
+Corythalia	cristata F. O. P.-Cambridge 1901
+Corythalia	cubana Roewer 1951
+Corythalia	diffusa Chamberlin & Ivie 1936
+Corythalia	diminuta Banks 1896
+Corythalia	electa Peckham & Peckham 1901
+Corythalia	elegantissima Simon 1888
+Corythalia	emertoni Bryant 1940
+Corythalia	excavata F. O. P.-Cambridge 1901
+Corythalia	fimbriata Peckham & Peckham 1901
+Corythalia	flavida F. O. P.-Cambridge 1901
+Corythalia	gloriae Petrunkevitch 1930
+Corythalia	grata Peckham & Peckham 1901
+Corythalia	hadzji Caporiacco 1947
+Corythalia	heliophanina Taczanowski 1871
+Corythalia	iridescens Petrunkevitch 1926
+Corythalia	latipes C. L. Koch 1846
+Corythalia	locuples Simon 1888
+Corythalia	luctuosa Caporiacco 1954
+Corythalia	metallica Peckham & Peckham 1895
+Corythalia	modesta Chickering 1946
+Corythalia	murcida F. O. P.-Cambridge 1901
+Corythalia	neglecta Kraus 1955
+Corythalia	nigriventer F. O. P.-Cambridge 1901
+Corythalia	nigropicta F. O. P.-Cambridge 1901
+Corythalia	noda Chamberlin 1916
+Corythalia	obsoleta Banks 1929
+Corythalia	opima Peckham & Peckham 1885
+Corythalia	panamana Petrunkevitch 1925
+Corythalia	parva Peckham Peckham 1901
+Corythalia	parvula Peckham & Peckham 1896
+Corythalia	peckhami Petrunkevitch 1914
+Corythalia	penicillata F. O. P.-Cambridge 1901
+Corythalia	placata Peckham & Peckham 1901
+Corythalia	porphyra Brüning Cutler 1995
+Corythalia	pulchra Petrunkevitch 1925
+Corythalia	quadriguttata F. O. P.-Cambridge 1901
+Corythalia	roeweri Kraus 1955
+Corythalia	rugosa Kraus 1955
+Corythalia	serrapophysis Chamberlin & Ivie 1936
+Corythalia	spiralis 
+Corythalia	spirorbis F. O. P.-Cambridge 1901
+Corythalia	squamata Bryant 1940
+Corythalia	sulphurea F. O. P.-Cambridge 1901
+Corythalia	tristriata Bryant 1942
+Corythalia	tropica Mello-Leitao 1939
+Corythalia	ursina Mello-Leitao 1940
+Corythalia	valida Peckham & Peckham 1901
+Corythalia	variegata Caporiacco 1954
+Corythalia	vervloeti Soares & Camargo 1948
+Corythalia	voluta F. O. P.-Cambridge 1901
+Corythalia	walecki Taczanowski 1871
+Corythalia	xanthopa Crane 1948
+Omoedus	cordatus Berry Beatty & Prószynski 1996
+Omoedus	kulczynskii Prószynski 1971
+Omoedus	niger Thorell 1891
+Omoedus	piceus Simon 1901
+Microheros	termitophagus Wesolowska Cumming 1999
+Corambis	foeldvarii Szüts 2002
+Corambis	insignipes Simon 1880
+Aelurillus	aeruginosus Simon 1871
+Aelurillus	andreevae Nenilin 1984
+Aelurillus	angularis Prószynski 2000
+Aelurillus	ater Kroneberg 1875
+Aelurillus	balearus Azarkina 2006
+Aelurillus	basseleti Lucas 1846
+Aelurillus	blandus Simon 1871
+Aelurillus	bokerinus Prószynski 2003
+Aelurillus	bosmansi Azarkina 2006
+Aelurillus	brutus Wesolowska 1996
+Aelurillus	candidus Simon 1868
+Aelurillus	catherinae Prószynski 2000
+Aelurillus	catus Simon 1885
+Aelurillus	cognatus O. P.-Cambridge 1872
+Aelurillus	concolor Kulczynski 1901
+Aelurillus	conveniens 
+Aelurillus	cretensis Azarkina 2002
+Aelurillus	cristatopalpus Simon 1902
+Aelurillus	cypriotus Azarkina 2006
+Aelurillus	dorthesi Audouin 1826
+Aelurillus	dubatolovi Azarkina 2002
+Aelurillus	faragallai Prószynski 1993
+Aelurillus	gershomi Prószynski 1999
+Aelurillus	gesticulator Lucas 1846
+Aelurillus	guecki Metzner 1999
+Aelurillus	helvenacius Logunov 1993
+Aelurillus	hirtipes Denis 1960
+Aelurillus	iciformis Franganillo 1925
+Aelurillus	improvisus Azarkina 2002
+Aelurillus	jerusalemicus Prószynski 2000
+Aelurillus	kochi Roewer 1951
+Aelurillus	kopetdaghi Wesolowska 1996
+Aelurillus	laniger Logunov Marusik 1999
+Aelurillus	latebricola Spassky 1941
+Aelurillus	leipoldae Metzner 1999
+Aelurillus	logunovi Azarkina 2004
+Aelurillus	lopadusae Cantarella 1983
+Aelurillus	lucasi Roewer 1951
+Aelurillus	luctuosus Lucas 1846
+Aelurillus	lutosus Tyschenko 1965
+Aelurillus	m-nigrum Chyzer Kulczynski 1891
+Aelurillus	marusiki Azarkina 2002
+Aelurillus	minimontanus Azarkina 2002
+Aelurillus	minutus Azarkina 2002
+Aelurillus	mirabilis Wesolowska 2006
+Aelurillus	monardi Lucas 1846
+Aelurillus	muganicus Dunin 1984
+Aelurillus	nabataeus Prószynski 2003
+Aelurillus	nenilini Azarkina 2002
+Aelurillus	numidicus Lucas 1846
+Aelurillus	plumipes Thorell 1875
+Aelurillus	politiventris 
+Aelurillus	quadrimaculatus Simon 1889
+Aelurillus	reconditus Wesolowska & van Harten 1994
+Aelurillus	rugatus Bösenberg & Lenz 1895
+Aelurillus	schembrii Cantarella 1982
+Aelurillus	simoni Lebert 1877
+Aelurillus	simplex Herman 1879
+Aelurillus	spinicrus Simon 1871
+Aelurillus	steinmetzi Metzner 1999
+Aelurillus	steliosi Dobroruka 2003
+Aelurillus	subaffinis Caporiacco 1947
+Aelurillus	subfestivus Saito 1934
+Aelurillus	unitibialis Azarkina 2002
+Aelurillus	obsoletus Kulczynski 1891
+Aelurillus	morulus Simon 1937
+Aelurillus	v-insignitus Clerck 1757
+Aelurillus	v-insignitus Clerck 1757
+Coccorchestes	aiyura Balogh 1980
+Coccorchestes	biak Balogh 1980
+Coccorchestes	biroi Balogh 1980
+Coccorchestes	blendae Thorell 1881
+Coccorchestes	buszkoae Prószynski 1971
+Coccorchestes	clavifemur Balogh 1979
+Coccorchestes	fenicheli Balogh 1980
+Coccorchestes	ferreus Griswold 1984
+Coccorchestes	fluviatilis Balogh 1980
+Coccorchestes	giluwe Balogh 1980
+Coccorchestes	gressitti Balogh 1979
+Coccorchestes	hamatus Balogh 1980
+Coccorchestes	hastatus Balogh 1980
+Coccorchestes	huon Balogh 1980
+Coccorchestes	ifar Balogh 1980
+Coccorchestes	ildikoae Balogh 1979
+Coccorchestes	inermis Balogh 1980
+Coccorchestes	jahilnickii Prószynski 1971
+Coccorchestes	jimmi Balogh 1980
+Coccorchestes	kaindi Balogh 1980
+Coccorchestes	karimui Balogh 1980
+Coccorchestes	mcadami Balogh 1980
+Coccorchestes	missim Balogh 1980
+Coccorchestes	otto Balogh 1980
+Coccorchestes	piora Balogh 1980
+Coccorchestes	quinquespinosus Balogh 1980
+Coccorchestes	rufipes Thorell 1881
+Coccorchestes	sinofi Balogh 1980
+Coccorchestes	sirunki Balogh 1980
+Coccorchestes	staregai Prószynski 1971
+Coccorchestes	suspectus Balogh 1980
+Coccorchestes	szentivanyi Balogh 1980
+Coccorchestes	taeniatus Balogh 1980
+Coccorchestes	tapini Balogh 1980
+Coccorchestes	triplex Balogh 1980
+Coccorchestes	vanapa Balogh 1980
+Coccorchestes	verticillatus Balogh 1980
+Coccorchestes	vicinus Balogh 1980
+Coccorchestes	vogelkop Balogh 1980
+Coccorchestes	waris Balogh 1980
+Atomosphyrus	breyeri Galiano 1966
+Atomosphyrus	tristiculus Simon 1902
+Tamigalesus	munnaricus Zabka 1988
+Madhyattus	jabalpurensis Prószynski 1992
+Paraphidippus	aurantius Lucas 1833
+Paraphidippus	basalis Banks 1904
+Paraphidippus	disjunctus Banks 1898
+Paraphidippus	fartilis Peckham & Peckham 1888
+Paraphidippus	fulgidus C. L. Koch 1846
+Paraphidippus	funebris Banks 1898
+Paraphidippus	fuscipes C. L. Koch 1846
+Paraphidippus	incontestus Banks 1909
+Paraphidippus	inermis F. O. P.-Cambridge 1901
+Paraphidippus	luteus Peckham & Peckham 1896
+Paraphidippus	mexicanus Peckham & Peckham 1888
+Paraphidippus	nigropilosus Banks 1898
+Paraphidippus	nitens C. L. Koch 1846
+Paraphidippus	validus Chickering 1946
+Heliophanoides	bhutanicus Prószynski 1992
+Heliophanoides	epigynalis Prószynski 1992
+Heliophanoides	spermathecalis Prószynski 1992
+Rarahu	nitida Berland 1929
+Grayenulla	australensis Zabka 1992
+Grayenulla	dejongi Zabka 1992
+Grayenulla	nova Zabka 1992
+Grayenulla	spinimana Zabka Gray 2002
+Grayenulla	waldockae Zabka 1992
+Grayenulla	wilganea Zabka Gray 2002
+Grayenulla	wishartorum Zabka 1992
+Paraneaetha	diversa Denis 1947
+Pseudocorythalia	subinermis Caporiacco 1938
+Habrocestoides	bengalensis Prószynski 1992
+Habrocestoides	caucasicus Logunov 1999
+Habrocestoides	dactyloides Xie L. Peng X. Kim 1993
+Habrocestoides	darjeelingus Logunov 1999
+Habrocestoides	indicus Prószynski 1992
+Habrocestoides	micans Logunov 1999
+Habrocestoides	nitidus Logunov 1999
+Habrocestoides	parvulum Banks 1895
+Habrocestoides	phulchokiensis Logunov 1999
+Habrocestoides	szechwanensis Prószynski 1992
+Habrocestoides	tibialis Zabka 1985
+Yamangalea	frewana Maddison 2009
+Paramarpissa	albopilosa Banks 1902
+Paramarpissa	griswoldi Logunov Cutler 1999
+Paramarpissa	laeta Logunov & Cutler 1999
+Paramarpissa	piratica Peckham Peckham 1888
+Paramarpissa	sarta Logunov Cutler 1999
+Paramarpissa	tibialis F. O. P.-Cambridge 1901
+Nungia	epigynalis Zabka 1985
+Gelotia	argenteolimbata Simon 1900
+Gelotia	bimaculata Thorell 1890
+Gelotia	frenata Thorell 1890
+Gelotia	lanka Wijesinghe 1991
+Gelotia	robusta Wanless 1984
+Gelotia	salax Thorell 1877
+Gelotia	syringopalpis Wanless 1984
+Gorgasella	eximia Chickering 1946
+Erasinus	flagellifer Simon 1899
+Erasinus	flavibarbis Simon 1902
+Erasinus	gracilis Peckham & Peckham 1907
+Hasarius	adansoni Audouin 1826
+Hasarius	adansonii Audouin 1826
+Hasarius	bellicosus Peckham & Peckham 1896
+Hasarius	berlandi Lessert 1925
+Hasarius	biprocessiger Lessert 1927
+Hasarius	bisetatus Franganillo 1930
+Hasarius	cheliceroides Borowiec & Wesolowska 2002
+Hasarius	egaenus Thorell 1895
+Hasarius	glaucus Hogg 1915
+Hasarius	inhonestus Keyserling 1881
+Hasarius	insignis Simon 1885
+Hasarius	kulczynskii Zabka 1985
+Hasarius	mahensis Wanless 1983
+Hasarius	mulciber Keyserling 1881
+Hasarius	obscurus Keyserling 1881
+Hasarius	pauciaculeis Caporiacco 1941
+Hasarius	peckhami Petrunkevitch 1914
+Hasarius	roeweri Lessert 1925
+Hasarius	rufociliatus Simon 1897
+Hasarius	rusticus Thorell 1887
+Hasarius	sobarus Thorell 1892
+Hasarius	testaceus Thorell 1877
+Hasarius	trivialis Thorell 1877
+Heliophanillus	fulgens 
+Heliophanillus	lucipeta Simon 1890
+Heliophanillus	suedicola Simon 1901
+Heliophanus	abditus Wesolowska 1986
+Heliophanus	aberdarensis Wesolowska 1986
+Heliophanus	activus Blackwall 1877
+Heliophanus	acutissimus Wesolowska 1986
+Heliophanus	aeneus Hahn 1832
+Heliophanus	aethiopicus Wesolowska 2003
+Heliophanus	africanus Wesolowska 1986
+Heliophanus	agricola Wesolowska 1986
+Heliophanus	agricoloides Wunderlich 1987
+Heliophanus	alienus Wesolowska 1986
+Heliophanus	anymphos Wesolowska 2003
+Heliophanus	apiatus Simon 1868
+Heliophanus	auratus Koch C.
+Heliophanus	mediocinctus Kulczynski 1898
+Heliophanus	auratus Koch C.
+Heliophanus	aviculus Berland Millot 1941
+Heliophanus	baicalensis Kulczynski 1895
+Heliophanus	baikalensis Kulczynski 1895
+Heliophanus	bellus Wesolowska 1986
+Heliophanus	bisulcus Wesolowska 1986
+Heliophanus	bolensis Wesolowska 2003
+Heliophanus	brevis Wesolowska 2003
+Heliophanus	butemboensis Wesolowska 1986
+Heliophanus	camtschadalicus Kulczynski 1885
+Heliophanus	canariensis Wesolowska 1986
+Heliophanus	capensis Wesolowska 1986
+Heliophanus	capicola Simon 1901
+Heliophanus	cassinicola Simon 1909
+Heliophanus	charlesi Wesolowska 2003
+Heliophanus	chikangawanus Wesolowska 1986
+Heliophanus	chovdensis Prószynski 1982
+Heliophanus	claviger Simon 1901
+Heliophanus	congolensis Giltay 1935
+Heliophanus	conspicuus Wesolowska 1986
+Heliophanus	creticus Giltay 1932
+Heliophanus	crudeni Lessert 1925
+Heliophanus	cupreus Walckenaer 1802
+Heliophanus	curvidens 
+Heliophanus	cuspidatus Xiao 2000
+Heliophanus	dampfi Schenkel 1923
+Heliophanus	deamatus Peckham & Peckham 1903
+Heliophanus	debilis Simon 1901
+Heliophanus	decoratus Koch L. 1875
+Heliophanus	deformis Wesolowska 1986
+Heliophanus	demonstrativus Wesolowska 1986
+Heliophanus	deserticola Simon 1901
+Heliophanus	difficilis Wesolowska 1986
+Heliophanus	dubius Koch C.
+Heliophanus	dunini Rakov Logunov 1996
+Heliophanus	dux Wesolowska van Harten 1994
+Heliophanus	edentulus Simon 1871
+Heliophanus	encifer Simon 1871
+Heliophanus	equester Koch L. 1867
+Heliophanus	erythropleurus Kulczynski 1901
+Heliophanus	eucharis Simon 1887
+Heliophanus	excentricus Ledoux 2007
+Heliophanus	falcatus Wesolowska 1986
+Heliophanus	fascinatus Wesolowska 1986
+Heliophanus	flavipes 
+Heliophanus	forcipifer Kulczynski 1895
+Heliophanus	fuerteventurae Schmidt & Krause 1996
+Heliophanus	furcillatus Simon 1868
+Heliophanus	giltayi Lessert 1933
+Heliophanus	gladiator Wesolowska 1986
+Heliophanus	glaucus Bösenberg & Lenz 1895
+Heliophanus	gloriosus Wesolowska 1986
+Heliophanus	hamifer Simon 1885
+Heliophanus	harpago Simon 1910
+Heliophanus	hastatus Wesolowska 1986
+Heliophanus	heurtaultae Rollard Wesolowska 2002
+Heliophanus	horrifer Wesolowska 1986
+Heliophanus	ibericus Wesolowska 1986
+Heliophanus	imerinensis Simon 1901
+Heliophanus	imperator Wesolowska 1986
+Heliophanus	improcerus Wesolowska 1986
+Heliophanus	innominatus Wesolowska 1986
+Heliophanus	insperatus Wesolowska 1986
+Heliophanus	iranus Wesolowska 1986
+Heliophanus	japonicus Kishida 1910
+Heliophanus	kankanensis Berland Millot 1941
+Heliophanus	kenyaensis Wesolowska 1986
+Heliophanus	kilimanjaroensis Wesolowska 1986
+Heliophanus	kochii Simon 1868
+Heliophanus	koktas Logunov 1992
+Heliophanus	kovacsi Wesolowska 2003
+Heliophanus	lawrencei  1986
+Heliophanus	lesserti Wesolowska 1986
+Heliophanus	leucopes Wesolowska 2003
+Heliophanus	lineiventris Simon 1868
+Heliophanus	macentensis Berland & Millot 1941
+Heliophanus	machaerodus Simon 1909
+Heliophanus	maculatus Karsch 1878
+Heliophanus	malus Wesolowska 1986
+Heliophanus	maralal Wesolowska 2003
+Heliophanus	marshalli Peckham & Peckham 1903
+Heliophanus	mauricianus Simon 1901
+Heliophanus	megae Wesolowska 2003
+Heliophanus	melinus Koch L. 1867
+Heliophanus	menemeriformis Strand 1907
+Heliophanus	minutissimus Simon 1871
+Heliophanus	mirabilis Wesolowska 1986
+Heliophanus	modicus Peckham & Peckham 1903
+Heliophanus	mordax 
+Heliophanus	mucronatus Simon 1901
+Heliophanus	nanus Wesolowska 2003
+Heliophanus	nitidus Lucas 1849
+Heliophanus	nobilis Wesolowska 1986
+Heliophanus	ochrichelis Strand 1907
+Heliophanus	orchesta Simon 1885
+Heliophanus	orchestioides Lessert 1925
+Heliophanus	papyri Wesolowska 2003
+Heliophanus	parvus Wesolowska van Harten 1994
+Heliophanus	patagiatus Thorell 1875
+Heliophanus	patellaris Simon 1901
+Heliophanus	paulus Wesolowska 1986
+Heliophanus	pauper Wesolowska 1986
+Heliophanus	peckhami Simon 1902
+Heliophanus	pistaciae Wesolowska 2003
+Heliophanus	portentosus Wesolowska 1986
+Heliophanus	potanini Schenkel 1963
+Heliophanus	pratti Peckham & Peckham 1903
+Heliophanus	proszynskii Wesolowska 2003
+Heliophanus	pygmaeus Wesolowska & Russell-Smith 2000
+Heliophanus	ramosus Wesolowska 1986
+Heliophanus	recurvus Simon 1868
+Heliophanus	redimitus Simon 1910
+Heliophanus	robustus Berland & Millot 1941
+Heliophanus	rufithorax Simon 1868
+Heliophanus	rutrosus Wesolowska 2003
+Heliophanus	saudis Prószynski 1989
+Heliophanus	semirasus Lawrence 1928
+Heliophanus	similior Ledoux 2007
+Heliophanus	simplex Simon 1868
+Heliophanus	stylifer Simon 1878
+Heliophanus	termiophagus Wesolowska & Haddad 2002
+Heliophanus	termitophagus Wesolowska Haddad 2002
+Heliophanus	transvaalicus Simon 1901
+Heliophanus	trepidus Simon 1910
+Heliophanus	tribulosus Simon 1868
+Heliophanus	tristis Wesolowska 2003
+Heliophanus	turanicus Charitonov 1969
+Heliophanus	uncinatus Simon 1868
+Heliophanus	undecimmaculatus Caporiacco 1941
+Heliophanus	ussuricus Kulczynski 1895
+Heliophanus	uvirensis Wesolowska 1986
+Heliophanus	validus Wesolowska 1986
+Heliophanus	variabilis Ledoux 2007
+Heliophanus	verus Wesolowska 1986
+Heliophanus	villosus Wesolowska 1986
+Heliophanus	wesolowskae Rakov & Logunov 1996
+Heliophanus	wulingensis Peng & Xie 1996
+Heliophanus	xanthopes Wesolowska 2003
+Portia	africana Simon 1885
+Portia	albimana Simon 1900
+Portia	assamensis Wanless 1978
+Portia	crassipalpis Peckham & Peckham 1907
+Portia	fimbriata Doleschall 1859
+Portia	heteroidea Xie L. Yin C. 1991
+Portia	hoggi Zabka 1985
+Portia	jianfeng Song & Zhu 1998
+Portia	labiata Thorell 1887
+Portia	orientalis Murphy & Murphy 1983
+Portia	quei Zabka 1985
+Portia	schultzi Karsch 1878
+Portia	songi Tang Y. Yang Y. 1997
+Portia	strandi Caporiacco 1941
+Portia	taiwanica Zhang J. Li D. 2005
+Portia	wui Peng & Li 2002
+Paraplexippus	quadrisignatus Franganillo 1930
+Paraplexippus	sexsignatus Franganillo 1930
+Synagelides	agoriformis Bösenberg Strand 1906
+Synagelides	annae Bohdanowicz 1979
+Synagelides	birmanicus Bohdanowicz 1987
+Synagelides	cavaleriei Schenkel 1963
+Synagelides	dhaulagiricus Bohdanowicz 1987
+Synagelides	doisuthep Logunov Hereward 2006
+Synagelides	gambosus Xie & Yin 1990
+Synagelides	gorapanicus Bohdanowicz 1987
+Synagelides	gosainkundicus Bohdanowicz 1987
+Synagelides	himalaicus Bohdanowicz 1987
+Synagelides	huangsangensis Peng et al. 1998
+Synagelides	jiricus Bohdanowicz 1987
+Synagelides	kosi Logunov Hereward 2006
+Synagelides	longus Song & Chai 1992
+Synagelides	lushanensis Xie & Yin 1990
+Synagelides	martensi Bohdanowicz 1987
+Synagelides	nepalensis Bohdanowicz 1987
+Synagelides	nishikawai Bohdanowicz 1979
+Synagelides	oleksiaki Bohdanowicz 1987
+Synagelides	palpalis Zabka 1985
+Synagelides	palpaloides Peng Tso & Li 2002
+Synagelides	sumatranus Logunov Hereward 2006
+Synagelides	tianmu Song 1990
+Synagelides	tukchensis Bohdanowicz 1987
+Synagelides	ullerensis Bohdanowicz 1987
+Synagelides	walesai Bohdanowicz 1987
+Synagelides	wangdicus Bohdanowicz 1978
+Synagelides	wuermlii Bohdanowicz 1978
+Synagelides	wyszynskii Bohdanowicz 1987
+Synagelides	yunnan Song & Zhu 1998
+Synagelides	zhaoi Peng Li & Chen 2003
+Synagelides	zhilcovae Prószynski 1979
+Hisukattus	alienus Galiano 1987
+Hisukattus	simplex Mello-Leitao 1944
+Hisukattus	transversalis Galiano 1987
+Hisukattus	tristis Mello-Leitao 1944
+Habrocestum	africanum Wesolowska Haddad 2009
+Habrocestum	albimanum Simon 1901
+Habrocestum	albopunctatum Wesolowska & van Harten 2002
+Habrocestum	arabicum Prószynski 1989
+Habrocestum	bovei Lucas 1846
+Habrocestum	dubium Wesolowska & van Harten 2002
+Habrocestum	dyali Roewer 1955
+Habrocestum	egaeum Metzner 1999
+Habrocestum	ferrugineum Wesolowska & van Harten 2002
+Habrocestum	flavimanum Simon 1901
+Habrocestum	formosum Wesolowska 2000
+Habrocestum	graecum Dalmas 1920
+Habrocestum	hongkongiense Prószynski 1992
+Habrocestum	ibericum De Dalmas 1920
+Habrocestum	inquinatum Wesolowska & van Harten 2002
+Habrocestum	latifasciatum Simon 1868
+Habrocestum	laurae Peckham & Peckham 1903
+Habrocestum	lepidum Dalmas 1920
+Habrocestum	luculentum Peckham & Peckham 1903
+Habrocestum	nigristernum Dalmas 1920
+Habrocestum	orientale Zabka 1985
+Habrocestum	ornaticeps Simon 1868
+Habrocestum	panjabium Roewer 1951
+Habrocestum	papilionaceum Koch L. 1867
+Habrocestum	peckhami Rainbow 1899
+Habrocestum	penicillatum Caporiacco 1940
+Habrocestum	pullatum Simon 1876
+Habrocestum	punctiventre Keyserling 1882
+Habrocestum	rubroclypeatum Lessert 1927
+Habrocestum	schinzi Simon 1887
+Habrocestum	semiglabratum Simon 1868
+Habrocestum	shulovi Prószynski 2000
+Habrocestum	simoni Dalmas 1920
+Habrocestum	socotrense Wesolowska & van Harten 2002
+Habrocestum	speciosum Wesolowska & van Harten 1994
+Habrocestum	subdotatum Caporiacco 1940
+Habrocestum	subpenicillatum Caporiacco 1941
+Habrocestum	superbum Wesolowska 1999
+Habrocestum	tanzanicum Wesolowska Russel-Smith 2000
+Habrocestum	verattii Caporiacco 1936
+Semiopyla	cataphracta Simon 1901
+Semiopyla	triarmata Galiano 1985
+Semiopyla	viperina Galiano 1985
+Lyssomanes	adisi Logunov 2002
+Lyssomanes	amazonicus Peckham Peckham Wheeler 1889
+Lyssomanes	anchicaya Galiano 1984
+Lyssomanes	antillanus Peckham Peckham Wheeler 1889
+Lyssomanes	austerus Peckham Peckham Wheeler 1889
+Lyssomanes	belgranoi Galiano 1984
+Lyssomanes	benderi Logunov 2002
+Lyssomanes	bitaeniatus Peckham Peckham Wheeler 1889
+Lyssomanes	blandus Peckham & Wheeler 1889
+Lyssomanes	boraceia Galiano 1984
+Lyssomanes	bryantae Chickering 1946
+Lyssomanes	burrera Jimenez Tejas 1993
+Lyssomanes	camacanensis Galiano 1980
+Lyssomanes	ceplaci Galiano 1980
+Lyssomanes	consimilis Banks 1929
+Lyssomanes	convexus Banks 1909
+Lyssomanes	deinognathus Pickard-Cambridge
+Lyssomanes	devotoi Mello-Leitao 1917
+Lyssomanes	dissimilis Banks 1929
+Lyssomanes	diversus Galiano 1980
+Lyssomanes	eatoni Chickering 1946
+Lyssomanes	ecuadoricus Logunov & Marusik 2003
+Lyssomanes	elegans Pickard-Cambridge
+Lyssomanes	elongatus Galiano 1980
+Lyssomanes	euriensis Logunov 2000
+Lyssomanes	flagellum Kraus 1955
+Lyssomanes	fossor Galiano 1996
+Lyssomanes	hieroglyphicus Mello-Leitao 1944
+Lyssomanes	ipanemae Galiano 1980
+Lyssomanes	janauari Logunov & Marusik 2003
+Lyssomanes	jemineus Peckham Peckham Wheeler 1888
+Lyssomanes	jucari Galiano 1984
+Lyssomanes	lancetillae Galiano 1980
+Lyssomanes	lehtineni Logunov 2000
+Lyssomanes	leucomelas Mello-Leitao 1917
+Lyssomanes	limpidus Galiano 1980
+Lyssomanes	longipes Taczanowski 1871
+Lyssomanes	malinche Galiano 1980
+Lyssomanes	mandibulatus Pickard-Cambridge
+Lyssomanes	michae Brignoli 1984
+Lyssomanes	miniaceus Peckham & Wheeler 1889
+Lyssomanes	minor Schenkel 1953
+Lyssomanes	nigrofimbriatus Mello-Leitao 1941
+Lyssomanes	nigropictus Peckham Peckham Wheeler 1888
+Lyssomanes	onkonensis Logunov Marusik 2003
+Lyssomanes	parallelus Peckham & Wheeler 1889
+Lyssomanes	paravelox Logunov 2002
+Lyssomanes	parki Chickering 1946
+Lyssomanes	patens Peckham Peckham 1896
+Lyssomanes	pauper Mello-Leitao 1945
+Lyssomanes	peruensis Logunov 2000
+Lyssomanes	pescadero Jimenez Tejas 1993
+Lyssomanes	pichilingue Galiano 1984
+Lyssomanes	placidus Peckham & Wheeler 1889
+Lyssomanes	portoricensis Petrunkevitch 1930
+Lyssomanes	protarsalis F. O. P.-Cambridge 1900
+Lyssomanes	quadrinotatus Simon 1900
+Lyssomanes	reductus Peckham & Peckham 1896
+Lyssomanes	remotus Peckham Peckham 1896
+Lyssomanes	robustus Taczanowski 1879
+Lyssomanes	romani Logunov 2000
+Lyssomanes	santarem Galiano 1984
+Lyssomanes	spiralis F. O. P.-Cambridge 1900
+Lyssomanes	sylvicola Galiano 1980
+Lyssomanes	taczanowskii Galiano 1980
+Lyssomanes	tapirapensis Galiano 1996
+Lyssomanes	tapuiramae Galiano 1980
+Lyssomanes	tarmae Galiano 1980
+Lyssomanes	temperatus Galiano 1980
+Lyssomanes	tenuis Peckham Peckham Wheeler 1888
+Lyssomanes	trinidadus Logunov & Marusik 2003
+Lyssomanes	tristis Peckham Peckham Wheeler 1889
+Lyssomanes	unicolor Taczanowski 1871
+Lyssomanes	velox Peckham Peckham Wheeler 1889
+Lyssomanes	vinocurae Galiano 1996
+Lyssomanes	viridis Walckenaer 1837
+Lyssomanes	waorani Logunov & Marusik 2003
+Lyssomanes	yacui Galiano 1984
+Thyenula	ammonis Denis 1947
+Thyenula	armata Wesolowska 2001
+Thyenula	aurantiaca Simon 1902
+Thyenula	fidelis Wesolowska Haddad 2009
+Thyenula	flava Peckham Peckham 1903
+Thyenula	hortensis Wesolowska Cumming 2008
+Thyenula	juvenca Simon 1902
+Thyenula	ogdeni Peckham Peckham 1903
+Thyenula	oranjensis Wesolowska 2001
+Thyenula	sempiterna Wesolowska 2000
+Sadies	castanea Ledoux 2007
+Sadies	fulgida Wanless 1983
+Sadies	gibbosa Wanless 1983
+Sadies	seychellensis Wanless 1983
+Sadies	trifasciata Wanless 1983
+Sobasina	alboclypea Wanless 1978
+Sobasina	amoenula Simon 1898
+Sobasina	aspinosa Berry Beatty & Prószynski 1998
+Sobasina	coriacea Berry Beatty Prószynski 1998
+Sobasina	cutleri Berry Beatty Prószynski 1998
+Sobasina	hutuna Wanless 1978
+Sobasina	magna Berry Beatty & Prószynski 1998
+Sobasina	paradoxa Berry Beatty Prószynski 1998
+Sobasina	platypoda Berry Beatty Prószynski 1998
+Sobasina	scutata Wanless 1978
+Sobasina	solomonensis Wanless 1978
+Sobasina	sylvatica Prószynski Edmunds 2001
+Sobasina	tanna Wanless 1978
+Sobasina	yapensis Berry Beatty Prószynski 1998
+Stagetillus	opaciceps Simon 1885
+Stagetillus	semiostrinus Simon 1901
+Thiania	abdominalis Zabka 1985
+Thiania	aura Dyal 1935
+Thiania	bhamoensis Thorell 1887
+Thiania	cavaleriei Schenkel 1963
+Thiania	chrysogramma Simon 1901
+Thiania	cupreonitens Simon 1899
+Thiania	demissa Thorell 1892
+Thiania	formosissima Thorell 1890
+Thiania	gazellae Karsch 1878
+Thiania	humilis Thorell 1877
+Thiania	inermis Karsch 1897
+Thiania	jucunda Thorell 1890
+Thiania	luteobrachialis Schenkel 1963
+Thiania	pulcherrima C. L. Koch 1846
+Thiania	simplicissima Karsch 1880
+Thiania	sinuata Thorell 1890
+Thiania	suboppressa Strand 1907
+Thiania	subopress Strand 1907
+Thiania	subserena Simon 1901
+Thiania	viscaensis Barrion & Litsinger 1995
+Pochyta	albimana Simon 1902
+Pochyta	fastibilis Simon 1903
+Pochyta	insulana Simon 1910
+Pochyta	major Simon 1902
+Pochyta	moschensis Caporiacco 1947
+Pochyta	occidentalis Simon 1902
+Pochyta	pannosa Simon 1903
+Pochyta	perezi Berland & Millot 1941
+Pochyta	poissoni Berland & Millot 1941
+Pochyta	pulchra Thorell 1899
+Pochyta	remyi Berland & Millot 1941
+Pochyta	simoni Lessert 1925
+Pochyta	solers Peckham & Peckham 1903
+Pochyta	spinosa Simon 1901
+Lamottella	longipes Rollard & Wesolowska 2002
+Letoia	ephippiata Simon 1900
+Carrhotus	aeneochelis Strand 1907
+Carrhotus	affinis Caporiacco 1934
+Carrhotus	barbatus Karsch 1880
+Carrhotus	bellus Wanless 1984
+Carrhotus	catagraphus Jastrzebski 1999
+Carrhotus	coronatus Simon 1885
+Carrhotus	erus Jastrzebski 1999
+Carrhotus	fabrei Simon 1885
+Carrhotus	harringtoni Prószynski 1992
+Carrhotus	kamjeensis Jastrzebski 1999
+Carrhotus	malayanus Prószynski 1992
+Carrhotus	operosus Jastrzebski 1999
+Carrhotus	samchiensis Jastrzebski 1999
+Carrhotus	sannio Thorell 1877
+Carrhotus	scriptus Simon 1902
+Carrhotus	singularis Simon 1902
+Carrhotus	subaffinis Caporiacco 1947
+Carrhotus	sundaicus Prószynski Deeleman-Reinhold 2010
+Carrhotus	taprobanicus Simon 1902
+Carrhotus	tristis Thorell 1895
+Carrhotus	viduus Koch C.L. 1846
+Carrhotus	xanthogramma Latreille 1819
+Plexippus	andamanensis Tikader 1977
+Plexippus	aper Thorell 1881
+Plexippus	auberti Lessert 1925
+Plexippus	bhutani Zabka 1990
+Plexippus	brachypus Thorell 1881
+Plexippus	clemens O. P.-Cambridge 1872
+Plexippus	coccinatus Thorell 1895
+Plexippus	devorans 
+Plexippus	fannae Peckham & Peckham 1896
+Plexippus	frendens Thorell 1881
+Plexippus	fuscus Rollard & Wesolowska 2002
+Plexippus	incognitus Dönitz & Strand 1906
+Plexippus	insulanus Thorell 1881
+Plexippus	kondarensis Charitonov 1951
+Plexippus	luteus Badcock 1932
+Plexippus	niccensis Strand 1906
+Plexippus	ochropsis Thorell 1881
+Plexippus	paykulli Audouin 1826
+Plexippus	paykullii Audouin 1826
+Plexippus	perfidus Thorell 1895
+Plexippus	petersi Karsch 1878
+Plexippus	petersii Karsch 1878
+Plexippus	phyllus Karsch 1878
+Plexippus	pokharae Zabka 1990
+Plexippus	robustus Bösenberg & Lenz 1895
+Plexippus	rubrogularis Simon 1902
+Plexippus	seladonicus C. L. Koch 1846
+Plexippus	setipes Karsch 1879
+Plexippus	stridulator Pocock 1899
+Plexippus	sylvarus Urquhart 1892
+Plexippus	taeniatus C. L. Koch 1846
+Plexippus	tectonicus Prószynski 2003
+Plexippus	tortilis Simon 1902
+Plexippus	wesolowskae Biswas & Raychaydhuri 1998
+Plexippus	yinae Peng & Li 2003
+Plexippus	zabkai Biswas 1999
+Albionella	chickeringi Caporiacco 1954
+Albionella	guianensis Caporiacco 1954
+Albionella	propria Chickering 1946
+Yacuitella	nana Galiano 1999
+Thyene	aperta Peckham Peckham 1903
+Thyene	australis Peckham & Peckham 1903
+Thyene	benjamini Prószynski Deeleman-Reinhold 2010
+Thyene	bilineata Lawrence 1927
+Thyene	bilineata Lawrence 1927
+Thyene	bivittata Xie & Peng 1995
+Thyene	bucculenta Gerstäcker 1873
+Thyene	chopardi Berland & Millot 1941
+Thyene	coccineovittata Simon 1885
+Thyene	concinna Keyserling 1881
+Thyene	corcula Pavesi 1895
+Thyene	coronata Simon 1902
+Thyene	damarensis Lawrence 1927
+Thyene	dancala Caporiacco 1947
+Thyene	gangoides Prószynski Deeleman-Reinhold 2010
+Thyene	imperialis Rossi 1846
+Thyene	inflata Gerstäcker 1873
+Thyene	lindbergi Roewer 1962
+Thyene	natalii Peckham & Peckham 1903
+Thyene	nigriceps Caporiacco 1949
+Thyene	ogdeni Peckham & Peckham 1903
+Thyene	orbicularis Gerstäcker 1873
+Thyene	orientalis Zabka 1985
+Thyene	phragmitigrada Metzner 1999
+Thyene	pulchra Peckham & Peckham 1903
+Thyene	punctiventer Karsch 1879
+Thyene	radialis Xie & Peng 1995
+Thyene	scalarinota Strand 1907
+Thyene	semiargentea Simon 1884
+Thyene	similis Wesolowska & van Harten 2002
+Thyene	splendida Caporiacco 1939
+Thyene	striatipes Caporiacco 1939
+Thyene	subsplendens Caporiacco 1947
+Thyene	tamatavi Vinson 1863
+Thyene	thyenioides Lessert 1925
+Thyene	triangula Xie & Peng 1995
+Thyene	varians Peckham & Peckham 1901
+Thyene	villiersi Berland & Millot 1941
+Thyene	vittata Simon 1902
+Thyene	yuxiensis Xie & Peng 1995
+Gavarilla	aretada Ruiz Brescovit 2006
+Gavarilla	ianuzziae Ruiz Brescovit 2006
+Homalattus	coriaceus Simon 1902
+Homalattus	marshalli Peckham & Peckham 1903
+Homalattus	obscurus Peckham & Peckham 1903
+Homalattus	punctatus Peckham & Peckham 1903
+Homalattus	pustulatus White 1841
+Homalattus	similis Peckham & Peckham 1903
+Piranthus	casteti Simon 1900
+Piranthus	decorus Thorell 1895
+Thammaca	coriacea Simon 1902
+Thammaca	nigritarsis Simon 1902
+Marpissa	agricola Peckham & Peckham 1894
+Marpissa	anusuae Tikader & Biswas 1981
+Marpissa	arambagensis Biswas & Biswas 1992
+Marpissa	arenaria Urquhart 1888
+Marpissa	armifera Urquhart 1892
+Marpissa	bina Hentz 1846
+Marpissa	bryantae Jones 1945
+Marpissa	carinata Butt & Beg 2000
+Marpissa	cineracea Urquhart 1891
+Marpissa	dentoides Barnes 1958
+Marpissa	endenae Biswas & Biswas 1992
+Marpissa	formosa Banks 1892
+Marpissa	fornicis Dyal 1935
+Marpissa	grata Gertsch 1936
+Marpissa	hieroglyphica Taczanowski 1878
+Marpissa	insignis Butt & Beg 2000
+Marpissa	kalighatensis Biswas & Biswas 1992
+Marpissa	leucophaina Urquhart 1888
+Marpissa	lineata Koch C.L. 1846
+Marpissa	linzhiensis Hu 2001
+Marpissa	longiuscula Simon 1871
+Marpissa	magna Peckham Peckham 1894
+Marpissa	marina Goyen 1892
+Marpissa	milleri Peckham Peckham 1894
+Marpissa	minor F. O. P.-Cambridge 1901
+Marpissa	muscosa Clerck 1757
+Marpissa	mystacina Taczanowski 1878
+Marpissa	nemoralis Urquhart 1892
+Marpissa	nitida Hu 2001
+Marpissa	nivoyi Lucas 1846
+Marpissa	nutanae Biswas & Biswas 1984
+Marpissa	obtusa Barnes 1958
+Marpissa	pikei Peckham Peckham 1888
+Marpissa	pomatia Walckenaer 1802
+Marpissa	prathamae Biswas & Biswas 1984
+Marpissa	pulla Karsch 1879
+Marpissa	radiata Grube 1859
+Marpissa	raimondi Taczanowski 1878
+Marpissa	robusta Banks 1906
+Marpissa	rubriceps Mello-Leitao 1922
+Marpissa	sulcosa Barnes 1958
+Marpissa	tenebrosa Butt & Beg 2000
+Marpissa	tigrina Tikader 1965
+Marpissa	tikaderi Biswas 1984
+Marpissa	zaitzevi Mcheidze 1997
+Icius	bilobus Yang & Tang 1996
+Icius	brunellii Caporiacco 1940
+Icius	cervinus Simon 1878
+Icius	congener Simon 1871
+Icius	crassipes Simon 1868
+Icius	daisetsuzanus Saito 1934
+Icius	dendryphantoides Strand 1909
+Icius	desertorum Simon 1901
+Icius	erraticus Lucas 1846
+Icius	glaucochirus Thorell 1890
+Icius	gyirongensis Hu 2001
+Icius	hamatus Koch C.L. 1846
+Icius	hongkong Song et al. 1997
+Icius	ildefonsus Chamberlin 1924
+Icius	inhonestus Keyserling 1878
+Icius	insolidus Wesolowska 1999
+Icius	insolitus Alicata & Cantarella 1994
+Icius	lucasi Simon 1868
+Icius	mimianus Franganillo 1910
+Icius	minimus Wesolowska Tomasiewicz 2008
+Icius	nigricaudus Wesolowska Haddad 2009
+Icius	ocellatus Pavesi 1883
+Icius	pallidulus Nakatsudi 1943
+Icius	pseudocellatus Strand 1907
+Icius	separatus Banks 1903
+Icius	simoni Alicata Cantarella 1993
+Icius	steeleae Logunov 2004
+Icius	subinermis Simon 1937
+Icius	testaceolineatus Lucas 1846
+Tulpius	gauchus Bauab & Soares 1983
+Tulpius	hilarus Peckham Peckham 1896
+Bavia	aericeps Simon 1877
+Bavia	albolineata Peckham & Peckham 1885
+Bavia	annamita Simon 1903
+Bavia	capistrata C. L. Koch 1846
+Bavia	decorata Thorell 1890
+Bavia	fedor Berry Beatty Prószynski 1997
+Bavia	gabrieli Barrion 2000
+Bavia	hians Thorell 1890
+Bavia	modesta Keyserling 1883
+Bavia	papakula Strand 1911
+Bavia	sexpunctata Doleschall 1859
+Bavia	smedleyi Reimoser 1929
+Bavia	sonsorol Berry Beatty & Prószynski 1997
+Bavia	thorelli Simon 1901
+Bavia	valida Keyserling 1882
+Plexippoides	afghanus Roewer 1962
+Plexippoides	annulipedis Saito 1939
+Plexippoides	arabicus Prószynski 1989
+Plexippoides	arkit Logunov & Rakov 1998
+Plexippoides	cornutus Xie & Peng 1993
+Plexippoides	digitatus Peng & Li 2002
+Plexippoides	dilucidus Pr
+Plexippoides	discifer Schenkel 1953
+Plexippoides	doenitzi Karsch 1879
+Plexippoides	flavescens 
+Plexippoides	gestroi Dalmas 1920
+Plexippoides	nishitakensis Strand 1907
+Plexippoides	potanini Prószynski 1984
+Plexippoides	regius Wesolowska 1981
+Plexippoides	starmuehlneri Roewer 1955
+Plexippoides	szechuanensis Logunov 1993
+Plexippoides	tristis Próchniewicz 1990
+Plexippoides	validus Xie & Yin 1991
+Plexippoides	zhangi Peng et al. 1998
+Psecas	bacelarae Caporiacco 1947
+Psecas	barbaricus Peckham & Peckham 1894
+Psecas	bubo Taczanowski 1871
+Psecas	chapoda Peckham Peckham 1894
+Psecas	chrysogrammus Simon 1901
+Psecas	cyaneus C. L. Koch 1846
+Psecas	euoplus Chamberlin & Ivie 1936
+Psecas	jaguatirica Mello-Leitao 1941
+Psecas	pulcher Badcock 1932
+Psecas	rubrostriatus Schmidt 1956
+Psecas	sumptuosus Perty 1833
+Psecas	vellutinus Mello-Leitao 1948
+Psecas	viridipurpureus Simon 1901
+Psecas	zonatus Galiano 1963
+Pseudamycus	albomaculatus Hasselt 1882
+Pseudamycus	amabilis Peckham & Peckham 1907
+Pseudamycus	bhutani Zabka 1990
+Pseudamycus	canescens Simon 1899
+Pseudamycus	evarchanus Strand 1915
+Pseudamycus	flavopubescens Simon 1899
+Pseudamycus	hasselti Zabka 1985
+Pseudamycus	himalaya Tikader 1967
+Pseudamycus	sylvestris Peckham & Peckham 1907
+Paradescanso	fallax Vellard 1924
+Arnoliseus	calcarifer Simon 1902
+Arnoliseus	graciosa Braul Lise 2002
+Phaulostylus	furcifer Simon 1902
+Phaulostylus	grammicus Simon 1902
+Phaulostylus	grandidieri Simon 1902
+Phaulostylus	leucolophus Simon 1902
+Simaethula	aurata L. Koch 1879
+Simaethula	auronitens L. Koch 1879
+Simaethula	chalcops Simon 1909
+Simaethula	janthina Simon 1902
+Simaethula	mutica Szombathy 1915
+Simaethula	opulenta L. Koch 1879
+Simaethula	violacea L. Koch 1879
+Consingis	semicana Simon 1900
+Yaginumanis	cheni Peng & Li 2002
+Yaginumanis	sexdentatus Yaginuma 1967
+Efate	albobicinctus Berland 1938
+Efate	fimbriatus Berry Beatty Prószynski 1996
+Efate	raptor Berry Beatty Prószynski 1996
+Monomotapa	principalis Wesolowska 2000
+Phiale	albovittata Schenkel 1953
+Phiale	bicuspidata 
+Phiale	bilobata F. O. P.-Cambridge 1901
+Phiale	bipunctata Mello-Leitao 1947
+Phiale	bisignata F. O. P.-Cambridge 1901
+Phiale	bryantae Roewer 1951
+Phiale	bulbosa F. O. P.-Cambridge 1901
+Phiale	crocea Koch C.
+Phiale	cruentata Walckenaer 1837
+Phiale	cubana Roewer 1951
+Phiale	duplocellata Mello-Leitao 1947
+Phiale	elegans F. O. P.-Cambridge 1901
+Phiale	flavescens Peckham & Peckham 1896
+Phiale	formosa Banks 1909
+Phiale	geminata F. O. P.-Cambridge 1901
+Phiale	gratiosa Koch C.
+Phiale	guttata Koch C.L. 1846
+Phiale	hieroglyphica F. O. P.-Cambridge 1901
+Phiale	huadquinae Chamberlin 1916
+Phiale	laticava F. O. P.-Cambridge 1901
+Phiale	lehmanni Strand 1908
+Phiale	mediocava F. O. P.-Cambridge 1901
+Phiale	mimica Koch C.L. 1846
+Phiale	modestissima Caporiacco 1947
+Phiale	niveoguttata F. O. P.-Cambridge 1901
+Phiale	ortrudae Galiano 1981
+Phiale	pallida F. O. P.-Cambridge 1901
+Phiale	quadrimaculata Walckenaer 1837
+Phiale	radians Blackwall 1862
+Phiale	roburifoliata Holmberg 1874
+Phiale	rubriceps Taczanowski 1871
+Phiale	septemguttata Taczanowski 1871
+Phiale	similis Peckham & Peckham 1896
+Phiale	simplicicava F. O. P.-Cambridge 1901
+Phiale	tristis Mello-Leitao 1945
+Phiale	virgo C. L. Koch 1846
+Phaeacius	alabangensis Wijesinghe 1991
+Phaeacius	biramosus Wijesinghe 1991
+Phaeacius	canalis Wanless 1981
+Phaeacius	fimbriatus Simon 1900
+Phaeacius	lancearius Thorell 1895
+Phaeacius	leytensis Wijesinghe 1991
+Phaeacius	mainitensis Barrion & Litsinger 1995
+Phaeacius	malayensis Wanless 1981
+Phaeacius	saxicola Wanless 1981
+Phaeacius	wanlessi Wijesinghe 1991
+Phaeacius	yunnanensis Peng & Kim 1998
+Bulolia	excentrica Zabka 1996
+Bulolia	ocellata Zabka 1996
+Stenodeza	acuminata Simon 1900
+Stenodeza	fallax Mello-Leitao 1917
+Stenodeza	foestiva Mello-Leitao 1944
+Modunda	aeneiceps Simon 1901
+Modunda	staintoni 
+Tarodes	lineatus Pocock 1899
+Tacuna	delecta Peckham Peckham 1901
+Tacuna	minensis Galiano 1995
+Tacuna	saltensis Galiano 1995
+Tacuna	vaga Peckham Peckham 1895
+Sibianor	aemulus Gertsch 1934
+Sibianor	anansii Logunov 2009
+Sibianor	annae Logunov 2001
+Sibianor	aurocinctus Ohlert 1865
+Sibianor	japonicus Logunov Ikeda & Ono 1997
+Sibianor	kenyaensis Logunov 2001
+Sibianor	kochiensis Bohdanowicz Prószynski 1987
+Sibianor	larae Logunov 2000
+Sibianor	latens Logunov 1991
+Sibianor	nigriculus Logunov Wesolowska 1992
+Sibianor	pullus Bösenberg Strand 1906
+Sibianor	tantulus Simon 1868
+Sibianor	turkestanicus Logunov 2000
+Sibianor	victoriae Logunov 2001
+Opisthoncana	formidabilis Strand 1913
+Maileus	fuscus Peckham & Peckham 1907
+Sandalodes	albovittatus Keyserling 1883
+Sandalodes	bernsteini Thorell 1881
+Sandalodes	bipenicillatus Keyserling 1882
+Sandalodes	celebensis Merian 1911
+Sandalodes	joannae Zabka 2000
+Sandalodes	minahassae Merian 1911
+Sandalodes	pumicatus Thorell 1881
+Sandalodes	scopifer Karsch 1878
+Sandalodes	superbus Karsch 1878
+Goleta	peckhami Simon 1900
+Goleta	workmani Peckham Peckham 1885
+Heratemita	alboplagiata Simon 1899
+Heratemita	chrysozona Simon 1899
+Peplometus	biscutellatus Simon 1887
+Peplometus	chlorophthalmus Simon 1900
+Furculattus	maxillosus Balogh 1980
+Tatari	multispinosus Berland 1938
+Paradamoetas	cara Peckham Peckham 1892
+Paradamoetas	carus Peckham & Peckham 1892
+Paradamoetas	changuinola Cutler 1982
+Paradamoetas	fontana Levi 1951
+Paradamoetas	formicina Peckham Peckham 1885
+Paradamoetas	formicinus Peckham & Peckham 1885
+Panysinus	grammicus Simon 1902
+Panysinus	nicholsoni O. P.-Cambridge 1899
+Panysinus	nitens Simon 1901
+Panysinus	semiargenteus Simon 1877
+Panysinus	semiermis Simon 1902
+Scopocira	atypica Mello-Leitao 1922
+Scopocira	carinata Crane 1945
+Scopocira	dentichelis Simon 1900
+Scopocira	fuscimana Mello-Leitao 1941
+Scopocira	histrio Simon 1900
+Scopocira	melanops Taczanowski 1871
+Scopocira	panamena Chamberlin & Ivie 1936
+Scopocira	tenella Simon 1900
+Scopocira	vivida Peckham & Peckham 1901
+Ceriomura	cruenta Peckham & Peckham 1894
+Ceriomura	perita Peckham & Peckham 1894
+Canama	dorcas Thorell 1881
+Canama	forceps Doleschall 1859
+Canama	hinnulea Thorell 1881
+Canama	inquirenda Strand 1911
+Canama	lacerans Thorell 1881
+Canama	rutila Peckham & Peckham 1907
+Bredana	alternata Gertsch 1936
+Bredana	complicata Gertsch 1936
+Cylistella	adjacens O. P.-Cambridge 1896
+Cylistella	castanea Petrunkevitch 1925
+Cylistella	coccinelloides O. P.-Cambridge 1869
+Cylistella	cuprea Simon 1864
+Cylistella	fulva Chickering 1946
+Cylistella	sanctipauli Soares & Camargo 1948
+Cylistella	scarabaeoides 
+Hasarina	contortospinosa Schenkel 1963
+Thianella	disjuncta Strand 1907
+Pensacola	castanea Simon 1902
+Pensacola	cyaneochirus Simon 1902
+Pensacola	darlingtoni Bryant 1943
+Pensacola	electa Bryant 1943
+Pensacola	gaujoni Simon 1902
+Pensacola	maxillosa Bryant 1943
+Pensacola	montana Bryant 1943
+Pensacola	murina Simon 1902
+Pensacola	ornata Simon 1902
+Pensacola	peckhami Bryant 1943
+Pensacola	poecilocilia Caporiacco 1955
+Pensacola	radians Peckham & Peckham 1896
+Pensacola	signata Peckham & Peckham 1885
+Pensacola	sylvestris Peckham & Peckham 1896
+Pensacola	tuberculotibiata Caporiacco 1955
+Epeus	alboguttatus Thorell 1887
+Epeus	albus Prószynski 1992
+Epeus	bicuspidatus Song Gu & Chen 1988
+Epeus	edwardsi Barrion & Litsinger 1995
+Epeus	flavobilineatus Doleschall 1859
+Epeus	furcatus Zhang Song & Li 2003
+Epeus	glorius Zabka 1985
+Epeus	guangxi Peng & Li 2002
+Epeus	hawigalboguttatus Barrion & Litsinger 1995
+Epeus	indicus Prószynski 1992
+Epeus	mirus Peckham & Peckham 1907
+Epeus	tener Simon 1877
+Mikrus	ugandensis Wesolowska 2001
+Epidelaxia	albocruciata Simon 1902
+Epidelaxia	albostellata Simon 1902
+Epidelaxia	obscura Simon 1902
+Matagaia	chromatopus Ruiz Brescovit Freitas 2007
+Lechia	squamata Zabka 1985
+Semorina	brachychelyne Crane 1949
+Semorina	iris Simon 1901
+Semorina	lineata Mello-Leitao 1945
+Semorina	megachelyne Crane 1949
+Semorina	seminuda Simon 1901
+Pseudattulus	beieri Caporiacco 1955
+Pseudattulus	incertus Caporiacco 1955
+Pseudattulus	kratochvili Caporiacco 1947
+Diolenius	albopiceus Hogg 1915
+Diolenius	amplectens Thorell 1881
+Diolenius	armatissimus Thorell 1881
+Diolenius	bicinctus Simon 1884
+Diolenius	insignitus Gardzinska Zabka 2006
+Diolenius	lineatus Gardzinska Zabka 2006
+Diolenius	lugubris Thorell 1881
+Diolenius	phrynoides Walckenaer 1837
+Diolenius	venustus Thorell 1881
+Diolenius	vittatus Thorell 1881
+Onomastus	complexipalpis Wanless 1980
+Onomastus	indra Benjamin 2010
+Onomastus	kaharian Benjamin 2003
+Onomastus	kanoi Ono 1995
+Onomastus	nigricaudus Simon 1900
+Onomastus	patellaris Simon 1900
+Onomastus	pethiyagodai Benjamin 2010
+Onomastus	quinquenotatus Simon 1900
+Onomastus	rattotensis Benjamin 2010
+Onomastus	simoni Zabka 1985
+Bindax	chalcocephalus Thorell 1877
+Bindax	oscitans Pocock 1898
+Proszynskiana	aeluriforma Logunov & Rakov 1998
+Proszynskiana	deserticola Logunov 1996
+Proszynskiana	iranica Logunov 1996
+Proszynskiana	starobogatovi Logunov 1996
+Proszynskiana	zonshteini Logunov 1996
+Chapoda	festiva Peckham Peckham 1896
+Chapoda	inermis F. O. P.-Cambridge 1901
+Chapoda	panamana Chickering 1946
+Chapoda	peckhami Banks 1929
+Dolichoneon	typicus Caporiacco 1935
+Nagaina	berlandi Soares & Camargo 1948
+Nagaina	diademata Simon 1902
+Nagaina	incunda Peckham Peckham 1896
+Nagaina	modesta Caporiacco 1954
+Nagaina	olivacea Franganillo 1930
+Nagaina	tricincta Simon 1902
+Parajotus	cinereus Wesolowska 2004
+Parajotus	obscurofemoratus Peckham & Peckham 1903
+Parajotus	refulgens Wesolowska 1999
+Natta	chionogaster Simon 1901
+Natta	chionogastra Simon 1901
+Natta	horizontalis Karsch 1879
+Phyaces	comosus Simon 1902
+Anicius	dolius Chamberlin 1925
+Microbianor	deltshevi Logunov 2009
+Microbianor	golovatchi Logunov 2000
+Microbianor	madagascariensis Logunov 2009
+Microbianor	nigritarsus Logunov 2000
+Microbianor	saaristoi Logunov 2000
+Helicius	chikunii Logunov & Marusik 1999
+Helicius	cylindratus Karsch 1879
+Helicius	hillaryi Zabka 1981
+Helicius	kimjoopili Kim 1995
+Helicius	yaginumai Prószynski 1976
+Asemonea	crinita Wanless 1980
+Asemonea	cristata Thorell 1895
+Asemonea	cuprea Wesolowska 2009
+Asemonea	fimbriata Wanless 1980
+Asemonea	flava Wesolowska 2001
+Asemonea	liberiensis Wanless 1980
+Asemonea	maculata Wanless 1980
+Asemonea	minuta Wanless 1980
+Asemonea	murphyae Wanless 1980
+Asemonea	ornatissima Peckham & Wheeler 1889
+Asemonea	pallida Wesolowska 2001
+Asemonea	picta Thorell 1895
+Asemonea	pinangensis Wanless 1980
+Asemonea	pulchra Berland Millot 1941
+Asemonea	serrata Wesolowska 2001
+Asemonea	sichuanensis Song & Chai 1992
+Asemonea	stella Wanless 1980
+Asemonea	tanikawai Ikeda 1996
+Asemonea	tenuipes 
+Asemonea	virgea Wesolowska & Szüts 2003
+Ogdenia	mutilla Peckham & Peckham 1907
+Semora	infranotata Mello-Leitao 1945
+Semora	langei Mello-Leitao 1947
+Semora	napaea Peckham & Peckham 1892
+Semora	trochilus Simon 1901
+Pachyballus	castaneus Simon 1900
+Pachyballus	cordiformis Berland & Millot 1941
+Pachyballus	flavipes Simon 1910
+Pachyballus	flavipes Simon 1910
+Pachyballus	transversus Simon 1900
+Pachyballus	variegatus Lessert 1925
+Lystrocteisa	myrmex Simon 1884
+Sidusa	angulitarsis Simon 1902
+Sidusa	carinata Kraus 1955
+Sidusa	dominicana Petrunkevitch 1914
+Sidusa	femoralis Banks 1909
+Sidusa	gratiosa Peckham & Peckham 1895
+Sidusa	inconspicua Bryant 1940
+Sidusa	marmorea F. O. P.-Cambridge 1901
+Sidusa	mona Bryant 1947
+Sidusa	nigrina F. O. P.-Cambridge 1901
+Sidusa	olivacea F. O. P.-Cambridge 1901
+Sidusa	pallida F. O. P.-Cambridge 1901
+Sidusa	pavida Bryant 1942
+Sidusa	recondita Peckham Peckham 1896
+Sidusa	stoneri Bryant 1923
+Sidusa	tarsalis Banks 1909
+Sidusa	turquinensis Bryant 1940
+Sidusa	unica Kraus 1955
+Mago	acutidens Simon 1900
+Mago	dentichelis Crane 1949
+Mago	fasciatus Mello-Leitao 1940
+Mago	fonsecai Soares & Camargo 1948
+Mago	intentus O. P.-Cambridge 1882
+Mago	longidens Simon 1900
+Mago	opiparis Simon 1900
+Mago	procax Simon 1900
+Mago	saperda Simon 1900
+Mago	silvae Crane 1943
+Mago	steindachneri Taczanowski 1878
+Mago	vicanus Simon 1900
+Ptocasius	fulvonitens Simon 1902
+Ptocasius	gratiosus Peckham & Peckham 1907
+Ptocasius	kinhi Zabka 1985
+Ptocasius	linzhiensis Hu 2001
+Ptocasius	montiformis Song 1991
+Ptocasius	plumipalpis Thorell 1895
+Ptocasius	songi Logunov 1995
+Ptocasius	strupifer Simon 1901
+Ptocasius	variegatus Logunov 1995
+Ptocasius	vittatus Song 1991
+Ptocasius	weyersi Simon 1885
+Ptocasius	yunnanensis Song 1991
+Lauharulla	insulana Simon 1901
+Lauharulla	pretiosa Keyserling 1883
+Maltecora	chrysochlora Simon 1910
+Maltecora	divina Simon 1910
+Maltecora	janthina Simon 1909
+Cucudeta	gahavisuka Maddison 2009
+Cucudeta	uzet Maddison 2009
+Cucudeta	zabkai Maddison 2009
+Pseudemathis	trifida Simon 1902
+Tanybelus	aeneiceps Simon 1902
+Synemosyna	americana Peckham Peckham 1885
+Synemosyna	ankeli Cutler Muller 1991
+Synemosyna	aurantiaca Mello-Leitao 1917
+Synemosyna	decipiens 
+Synemosyna	edwardsi Cutler 1985
+Synemosyna	formica Hentz 1846
+Synemosyna	hentzi Peckham & Peckham 1892
+Synemosyna	invemar Cutler & Müller 1991
+Synemosyna	lauretta Peckham Peckham 1892
+Synemosyna	lucasi Taczanowski 1871
+Synemosyna	maddisoni Cutler 1985
+Synemosyna	myrmeciaeformis Taczanowski 1871
+Synemosyna	nicaraguaensis Cutler 1993
+Synemosyna	paraensis Galiano 1967
+Synemosyna	petrunkevitchi Chapin 1922
+Synemosyna	scutata Mello-Leitao 1943
+Synemosyna	smithi Peckham Peckham 1893
+Synemosyna	taperae Mello-Leitao 1933
+Synemosyna	ubicki Cutler 1988
+Tabuina	baiteta Maddison 2009
+Tabuina	rufa Maddison 2009
+Tabuina	varirata Maddison 2009
+Parasaitis	femoralis Bryant 1950
+Ligurra	aheneola Simon 1885
+Ligurra	latidens Doleschall 1859
+Ligurra	opelli Berry Beatty Prószynski 1997
+Phintella	abnormis Bösenberg Strand 1906
+Phintella	accentifera Simon 1901
+Phintella	aequipeiformis Zabka 1985
+Phintella	aequipes Peckham & Peckham 1903
+Phintella	arenicolor Grube 1861
+Phintella	argenteola Simon 1903
+Phintella	assamica Prószynski 1992
+Phintella	bifurcata Prószynski 1992
+Phintella	bifurcilinea Bösenberg Strand 1906
+Phintella	bunyiae Barrion & Litsinger 1995
+Phintella	caledoniensis Patoleta 2009
+Phintella	castriesiana Grube 1861
+Phintella	cavaleriei Schenkel 1963
+Phintella	clathrata Thorell 1895
+Phintella	coonooriensis Prószynski 1992
+Phintella	debilis Thorell 1891
+Phintella	dives Simon 1899
+Phintella	hainani Song Gu & Chen 1988
+Phintella	incerta Wesolowska & Russell-Smith 2000
+Phintella	indica Simon 1901
+Phintella	leucaspis Simon 1903
+Phintella	linea Karsch 1879
+Phintella	lucai Zabka 1985
+Phintella	lunda Wesolowska 2010
+Phintella	macrops Simon 1901
+Phintella	multimaculata Simon 1901
+Phintella	mussooriensis Prószynski 1992
+Phintella	nilgirica Prószynski 1992
+Phintella	parva Wesolowska 1981
+Phintella	piatensis Barrion & Litsinger 1995
+Phintella	planiceps Berry Beatty Prószynski 1996
+Phintella	popovi Prószynski 1979
+Phintella	pygmaea Wesolowska 1981
+Phintella	reinhardti Thorell 1891
+Phintella	suavis Simon 1885
+Phintella	suknana Prószynski 1992
+Phintella	vittata Koch C.L. 1848
+Phintella	volupe Karsch 1879
+Megaloastia	mainae Zabka 1995
+Lycidas	anomaliformis Zabka 1987
+Lycidas	anomalus Karsch 1878
+Lycidas	bitaeniatus Keyserling 1882
+Lycidas	braccatus Koch L. 1881
+Lycidas	chlorophthalmus Simon 1909
+Lycidas	chrysomelas Simon 1909
+Lycidas	dialeucus L. Koch 1881
+Lycidas	frosti Peckham & Peckham 1901
+Lycidas	furvus Song & Chai 1992
+Lycidas	griseus Keyserling 1882
+Lycidas	heteropogon Simon 1909
+Lycidas	karschi Zabka 1987
+Lycidas	kochi Zabka 1987
+Lycidas	michaelseni Simon 1909
+Lycidas	minutus L. Koch 1881
+Lycidas	nigriceps Keyserling 1882
+Lycidas	nigromaculatus Keyserling 1883
+Lycidas	obscurior Simon 1909
+Lycidas	piliger Keyserling 1882
+Lycidas	pilosus Keyserling 1882
+Lycidas	scutulatus L. Koch 1881
+Lycidas	speculifer Simon 1909
+Lycidas	vittatus Keyserling 1881
+Parafluda	banksi Chickering 1946
+Servaea	incana Karsch 1878
+Servaea	murina Simon 1902
+Servaea	obscura Rainbow 1915
+Servaea	spinibarbis Simon 1909
+Servaea	vestita Koch L. 1879
+Servaea	villosa Keyserling 1881
+Admestina	archboldi Piel 1992
+Admestina	tibialis Koch C.L. 1846
+Admestina	wheeleri Peckham Peckham 1888
+Anasaitis	canosa Walckenaer 1837
+Anasaitis	decoris Bryant 1950
+Anasaitis	morgani Peckham Peckham 1901
+Anasaitis	scintilla Bryant 1950
+Anasaitis	venatoria Peckham & Peckham 1901
+Selimus	placens Blackwall 1877
+Selimus	pulchellus Walckenaer 1802
+Selimus	venustus Peckham & Peckham 1901
+Selimus	vittatus C.L. Koch 1836
+Chira	distincta Bauab 1983
+Chira	fagei Caporiacco 1947
+Chira	flavescens Caporiacco 1947
+Chira	gounellei Simon 1902
+Chira	guianensis Taczanowski 1871
+Chira	lanei Soares & Camargo 1948
+Chira	lucina Simon 1902
+Chira	micans Simon 1902
+Chira	reticulata Mello-Leitao 1943
+Chira	simoni Galiano 1961
+Chira	spinipes Taczanowski 1871
+Chira	spinosa Mello-Leitao 1939
+Chira	superba Caporiacco 1947
+Chira	thysbe Simon 1902
+Chira	trivittata Taczanowski 1871
+Chira	typica Mello-Leitao 1930
+Luxuria	marginella Simon 1883
+Bellota	fascialis Dyal 1935
+Bellota	formicina Taczanowski 1878
+Bellota	livida Dyal 1935
+Bellota	longimana Gertsch 1936
+Bellota	micans Peckham Peckham 1909
+Bellota	modesta Chickering 1946
+Bellota	peckhami Galiano 1978
+Bellota	violacea Galiano 1972
+Bellota	wheeleri Peckham Peckham 1909
+Bellota	yacui Galiano 1972
+Telamonia	agapeta Thorell 1881
+Telamonia	annulipes Peckham & Peckham 1907
+Telamonia	bombycina Simon 1902
+Telamonia	caprina Simon 1903
+Telamonia	coeruleostriata Doleschall 1859
+Telamonia	comosissima Simon 1885
+Telamonia	cristata Peckham & Peckham 1907
+Telamonia	dimidiata Simon 1899
+Telamonia	dissimilis Pr
+Telamonia	elegans Thorell 1887
+Telamonia	festiva Thorell 1887
+Telamonia	formosa Simon 1902
+Telamonia	hasselti Thorell 1878
+Telamonia	laecta Pr
+Telamonia	latruncula Thorell 1877
+Telamonia	leopoldi Roewer 1938
+Telamonia	luteocincta Thorell 1891
+Telamonia	luxiensis Peng et al. 1998
+Telamonia	mandibulata Hogg 1915
+Telamonia	masinloc Barrion & Litsinger 1995
+Telamonia	mundula Thorell 1877
+Telamonia	mustelina Simon 1901
+Telamonia	parangfestiva Barrion & Litsinger 1995
+Telamonia	peckhami Thorell 1891
+Telamonia	prima Pr
+Telamonia	resplendens Peckham & Peckham 1907
+Telamonia	sponsa Simon 1902
+Telamonia	trabifera Thorell 1881
+Telamonia	trinotata Simon 1903
+Telamonia	trochilus Doleschall 1859
+Telamonia	vidua Hogg 1915
+Telamonia	virgata Simon 1903
+Telamonia	vlijmi Prószynski 1984
+Martella	amapa Galiano 1996
+Martella	bicavata Chickering 1946
+Martella	camba Galiano 1969
+Martella	furva Chickering 1946
+Martella	gandu Galiano 1996
+Martella	goianensis Galiano 1969
+Martella	lineatipes F. O. P.-Cambridge 1900
+Martella	maria Peckham & Peckham 1892
+Martella	mutillaeformis Taczanowski 1878
+Martella	pasteuri Galiano 1996
+Martella	pottsi Peckham Peckham 1892
+Martella	utingae Galiano 1967
+Fluda	angulosa Simon 1900
+Fluda	araguae Galiano 1971
+Fluda	elata Galiano 1986
+Fluda	goianiae Soares & Camargo 1948
+Fluda	inpae Galiano 1971
+Fluda	narcissa Peckham & Peckham 1892
+Fluda	nigritarsis Simon 1900
+Fluda	opica Peckham Peckham 1892
+Fluda	perdita Peckham & Peckham 1892
+Fluda	princeps Banks 1929
+Fluda	ruficeps Taczanowski 1878
+Langelurillus	alboguttatus Wesolowska & Russell-Smith 2000
+Langelurillus	difficilis Wesolowska Russel-Smith 2000
+Langelurillus	furcatus Wesolowska Russel-Smith 2000
+Langelurillus	holmi Pr
+Langelurillus	horrifer Rollard & Wesolowska 2002
+Langelurillus	manifestus Wesolowska Russel-Smith 2000
+Langelurillus	nigritus Berland Millot 1941
+Langelurillus	orbicularis Wesolowska Cumming 2008
+Langelurillus	primus Próchniewicz 1994
+Langelurillus	spinosus Pr
+Chloridusa	viridiaurea Simon 1902
+Curubis	annulata Simon 1902
+Curubis	erratica Simon 1902
+Curubis	tetrica Simon 1902
+Tullgrenella	corrugata Galiano 1981
+Tullgrenella	didelphis Simon 1886
+Tullgrenella	gertschi Galiano 1981
+Tullgrenella	guayapae Galiano 1970
+Tullgrenella	lunata Mello-Leitao 1944
+Tullgrenella	melanica Mello-Leitao 1941
+Tullgrenella	morenensis Tullgren 1905
+Tullgrenella	musica Mello-Leitao 1945
+Tullgrenella	peniaflorensis Galiano 1970
+Tullgrenella	quadripunctata Mello-Leitao 1944
+Tullgrenella	selenita Galiano 1970
+Tullgrenella	serrana Galiano 1970
+Tullgrenella	yungae Galiano 1970
+Bythocrotus	cephalotes Simon 1888
+Zebraplatys	bulbus Peng Tso & Li 2002
+Zebraplatys	fractivittata Simon 1909
+Zebraplatys	harveyi Zabka 1992
+Zebraplatys	keyserlingi Zabka 1992
+Zebraplatys	quinquecingulata Simon 1909
+Lagnus	longimanus L. Koch 1879
+Mopsolodes	australensis  1991
+Hypoblemum	albovitattum Keyserling 1882
+Hypoblemum	albovittatum Keyserling 1882
+Hypoblemum	villosum Keyserling 1883
+Parnaenus	cuspidatus Pickard-Cambridge
+Parnaenus	cyanidens Koch C.L. 1846
+Parnaenus	metallicus Koch C.L. 1846
+Penionomus	dispar Simon 1889
+Penionomus	dyali Roewer 1951
+Penionomus	longipalpis Simon 1889
+Augustaea	formicaria Szombathy 1915
+Helvetia	albovittata Simon 1901
+Helvetia	cancrimana Taczanowski 1872
+Helvetia	insularis Banks 1902
+Helvetia	riojanensis Galiano 1965
+Helvetia	santarema Peckham Peckham 1894
+Helvetia	zebrina Simon 1901
+Breda	apicalis Simon 1901
+Breda	bicruciata Mello-Leitao 1943
+Breda	bistriata C. L. Koch 1846
+Breda	flavostriata Simon 1901
+Breda	jovialis Koch L. 1879
+Breda	leucoprocta Mello-Leitao 1940
+Breda	lubomirskii Taczanowski 1878
+Breda	milvina C. L. Koch 1846
+Breda	notata Chickering 1946
+Breda	oserictops Mello-Leitao 1941
+Breda	quinquedentata Badcock 1932
+Breda	spinimanu Mello-Leitao 1941
+Breda	tristis Mello-Leitao 1944
+Breda	variolosa Simon 1901
+Ocnotelus	imberbis Simon 1902
+Ocnotelus	lunatus Mello-Leitao 1947
+Ocnotelus	rubrolunatus Mello-Leitao 1945
+Itata	completa Banks 1929
+Itata	isabellina Taczanowski 1878
+Itata	partita Mello-Leitao 1930
+Itata	tipuloides Simon 1901
+Itata	vadia Peckham Peckham 1894
+Attus	albibreviatus Walckenaer 1837
+Attus	aquilis Urquhart 1886
+Attus	cooki Walckenaer 1837
+Attus	flavicruris Rainbow 1897
+Attus	monticulus Urquhart 1891
+Attus	montinus Urquhart 1891
+Attus	pullus Urquhart 1890
+Attus	scindus Urquhart 1890
+Attus	subfuscus Urquhart 1887
+Attus	tenebrosus Urquhart 1893
+Attus	valentulus Urquhart 1891
+Euophrys	a-notata Mello-Leitão 1940
+Euophrys	acripes Simon 1871
+Euophrys	alabardata Caporiacco 1947
+Euophrys	albimana Denis 1937
+Euophrys	albopalpalis Bao & Peng 2002
+Euophrys	albopatella Petrunkevitch 1914
+Euophrys	alticola Denis 1955
+Euophrys	astuta Simon 1871
+Euophrys	atrata Song & Chai 1992
+Euophrys	auricolor Dyal 1935
+Euophrys	aurifrons Taczanowski 1878
+Euophrys	baliola Simon 1871
+Euophrys	banksi Roewer 1951
+Euophrys	bifoveolata Tullgren 1905
+Euophrys	bryophila Berry Beatty Prószynski 1996
+Euophrys	bulbus Bao & Peng 2002
+Euophrys	canariensis Denis 1941
+Euophrys	capicola Simon 1901
+Euophrys	catherinae Prószynski 2000
+Euophrys	concolorata Roewer 1951
+Euophrys	convergentis Strand 1906
+Euophrys	cooki Zabka 1985
+Euophrys	crux Taczanowski 1878
+Euophrys	dhaulagirica Zabka 1980
+Euophrys	evae Zabka 1981
+Euophrys	everestensis Wanless 1975
+Euophrys	ferrumequinum Taczanowski 1878
+Euophrys	flavoatra Grube 1861
+Euophrys	frontalis Walckenaer 1802
+Euophrys	fucata Simon 1868
+Euophrys	gambosa Simon 1868
+Euophrys	granulata Denis 1947
+Euophrys	herbigrada Simon 1871
+Euophrys	infausta Peckham & Peckham 1903
+Euophrys	innotata Simon 1868
+Euophrys	jirica Zabka 1980
+Euophrys	kataokai Ikeda 1996
+Euophrys	kirghizica Logunov 1997
+Euophrys	kittenbergeri Caporiacco 1947
+Euophrys	kororensis Berry Beatty & Prószynski 1996
+Euophrys	laetata Simon 1904
+Euophrys	leipoldti Peckham & Peckham 1903
+Euophrys	leucopalpis Taczanowski 1878
+Euophrys	leucostigma C. L. Koch 1846
+Euophrys	littoralis Soyer 1959
+Euophrys	lunata Bertkau 1880
+Euophrys	luteolineata Simon 1871
+Euophrys	manicata Simon 1871
+Euophrys	mapuche Galiano 1968
+Euophrys	marmarica Caporiacco 1928
+Euophrys	maura Taczanowski 1878
+Euophrys	megastyla Caporiacco 1949
+Euophrys	melanoleuca Mello-Leitao 1944
+Euophrys	menemerella Strand 1909
+Euophrys	minuta Prószynski 1992
+Euophrys	monadnock Emerton 1891
+Euophrys	mottli Kolosv
+Euophrys	namulinensis Hu 2001
+Euophrys	nanchonensis Taczanowski 1878
+Euophrys	nangqianensis Hu 2001
+Euophrys	nepalica Zabka 1980
+Euophrys	newtoni Peckham & Peckham 1896
+Euophrys	nigrescens Caporiacco 1940
+Euophrys	nigripalpis Simon 1937
+Euophrys	nigritarsis Simon 1868
+Euophrys	nigromaculata Lucas 1846
+Euophrys	omnisuperstes Wanless 1975
+Euophrys	omnisupertes Wanless 1975
+Euophrys	patagonica Simon 1905
+Euophrys	patellaris Denis 1957
+Euophrys	pehuenche Galiano 1968
+Euophrys	pelzelni Taczanowski 1878
+Euophrys	peruviana Taczanowski 1878
+Euophrys	pexa Simon 1937
+Euophrys	poloi Zabka 1985
+Euophrys	proszynskii Logunov Cutler Marusik 1993
+Euophrys	pseudogambosa Strand 1915
+Euophrys	pulchella Peckham & Peckham 1893
+Euophrys	purcelli Peckham & Peckham 1903
+Euophrys	quadricolor Taczanowski 1878
+Euophrys	quadripunctata Lucas 1846
+Euophrys	quadrispinosa Lawrence 1938
+Euophrys	quilpuensis Simon 1901
+Euophrys	rapida Koch C.
+Euophrys	rosenhaueri L. Koch 1856
+Euophrys	rubroclypea Dyal 1935
+Euophrys	rufa Dyal 1935
+Euophrys	rufibarbis Simon 1868
+Euophrys	rufimana Simon 1875
+Euophrys	rusticana Nicolet 1849
+Euophrys	saitiformis Simon 1901
+Euophrys	sanctimatei Taczanowski 1878
+Euophrys	sedula Simon 1875
+Euophrys	semirufa Simon 1884
+Euophrys	sima Chamberlin 1916
+Euophrys	sinapicolor Taczanowski 1878
+Euophrys	striolata C. L. Koch 1846
+Euophrys	sulphurea Koch L. 1867
+Euophrys	sutrix Holmberg 1875
+Euophrys	talassica Logunov 1997
+Euophrys	tehuelche Galiano 1968
+Euophrys	terrestris Simon 1871
+Euophrys	testaceozonata Caporiacco 1922
+Euophrys	turkmenica Logunov 1997
+Euophrys	uralensis Logunov Cutler & Marusik 1993
+Euophrys	valens Bösenberg & Lenz 1895
+Euophrys	vestita Taczanowski 1878
+Euophrys	wanyan Berry Beatty Prószynski 1996
+Euophrys	wenxianensis Yang & Tang 1997
+Euophrys	yulungensis Zabka 1980
+Bocus	angusticollis Deeleman-Reinhold Floren 2003
+Bocus	excelsus Peckham Peckham 1892
+Bocus	philippinensis Wanless 1978
+Saitis	annae Cockerell 1894
+Saitis	araidneaea Logunov 2001
+Saitis	ariadneae Logunov 2001
+Saitis	auberti Berland 1938
+Saitis	barbipes Simon 1868
+Saitis	berlandi Roewer 1951
+Saitis	breviusculus Simon 1901
+Saitis	catulus Simon 1901
+Saitis	chaperi Simon 1885
+Saitis	cupidon Simon 1885
+Saitis	cyanipes Simon 1901
+Saitis	graeca Kulczynski 1904
+Saitis	imitata Simon 1868
+Saitis	insectus Hogg 1896
+Saitis	insulanus Rainbow 1920
+Saitis	lacustris Hickman 1944
+Saitis	latifrons Caporiacco 1928
+Saitis	leighi Peckham & Peckham 1903
+Saitis	magniceps Keyserling 1882
+Saitis	magnus Caporiacco 1947
+Saitis	marcusi Soares & Camargo 1948
+Saitis	mundus Peckham & Peckham 1903
+Saitis	nanus Soares & Camargo 1948
+Saitis	perplexides Strand 1908
+Saitis	relucens Thorell 1877
+Saitis	sengleti Metzner 1999
+Saitis	signatus Keyserling 1883
+Saitis	speciosus O. P.-Cambridge 1874
+Saitis	spinosus Mello-Leitao 1945
+Saitis	splendidus Walckenaer 1837
+Saitis	taeniatus Keyserling 1883
+Saitis	taurica Kulczynski 1905
+Saitis	tauricus Kulczynski 1905
+Saitis	variegatus Mello-Leitao 1941
+Thorelliola	biapophysis Gardzinska & Patoleta 1997
+Thorelliola	doryphora Thorell 1881
+Thorelliola	dumicola Berry Beatty Prószynski 1997
+Thorelliola	ensifera Thorell 1877
+Thorelliola	glabra Gardzinska & Patoleta 1997
+Thorelliola	javaensis Gardzinska Patoleta 1997
+Thorelliola	mahunkai Szüts 2002
+Thorelliola	monoceros Karsch 1881
+Thorelliola	trucilonga Gardzinska Patoleta 1997
+Thorelliola	truncilonga Gardzinska & Patoleta 1997
+Chrysilla	albens Dyal 1935
+Chrysilla	deelemani Prószynski Deeleman-Reinhold 2010
+Chrysilla	delicata Thorell 1892
+Chrysilla	kolosvaryi Caporiacco 1947
+Chrysilla	lauta Thorell 1887
+Chrysilla	pilosa Karsch 1878
+Chrysilla	versicolor Koch C.L. 1846
+Atelurius	segmentatus Simon 1901
+Cembalea	affinis Rollard & Wesolowska 2002
+Cembalea	heteropogon Simon 1910
+Cembalea	plumosa Lessert 1925
+Mintonia	bani Ikeda 1995
+Mintonia	breviramis Wanless 1984
+Mintonia	caliginosa Wanless 1987
+Mintonia	mackiei Wanless 1984
+Mintonia	melinauensis Wanless 1984
+Mintonia	nubilis Wanless 1984
+Mintonia	protuberans Wanless 1984
+Mintonia	ramipalpis Thorell 1890
+Mintonia	silvicola Wanless 1987
+Mintonia	tauricornis Wanless 1984
+Taraxella	hillyardi Wanless 1987
+Taraxella	petrensis Wanless 1987
+Taraxella	reinholdae Wanless 1987
+Taraxella	solitaria Wanless 1984
+Taraxella	sumatrana Wanless 1987
+Talavera	ludio Simon 1871
+Talavera	aequipes 
+Talavera	aequipes 
+Talavera	aperta Miller 1971
+Talavera	esyunini Logunov 1992
+Talavera	ikedai Logunov Kronestedt 2003
+Talavera	inopinata Wunderlich 1993
+Talavera	krocha Logunov & Kronestedt 2003
+Talavera	milleri Brignoli 1983
+Talavera	minuta Banks 1895
+Talavera	monticola Kulczynski 1884
+Talavera	parvistyla Logunov Kronestedt 2003
+Talavera	petrensis Koch C.L. 1837
+Talavera	poecilopus Thorell 1873
+Talavera	sharlaa Logunov & Kronestedt 2003
+Talavera	thorelli Chyzer Kulczynski 1891
+Talavera	trivittata Schenkel 1963
+Talavera	tuvensis Logunov & Kronestedt 2003
+Lilliput	minutus Wesolowska & Russell-Smith 2000
+Lilliput	mkomaziensis Wesolowska Russel-Smith 2000
+Lilliput	pusillus Wesolowska & Russell-Smith 2000
+Xuriella	marmorea Wesolowska van Harten 2007
+Chinoscopus	ernsti Simon 1900
+Chinoscopus	flavus Peckham Peckham Wheeler 1889
+Chinoscopus	gracilis Taczanowski 1871
+Chinoscopus	maculipes Crane 1943
+Mopsus	mormon Karsch 1878
+Uroballus	henicurus Simon 1902
+Uroballus	octovittatus Simon 1902
+Uroballus	peckhami Zabka 1985
+Udvardya	elegans Szombathy 1915
+Afrobeata	firma Wesolowska van Harten 1994
+Afrobeata	latithorax Caporiacco 1941
+Afrobeata	magnifica Wesolowska Russel-Smith 2000
+Onofre	sibilans Ruiz Brescovit 2007
+Carabella	banksi Chickering 1946
+Carabella	insignis Banks 1929
+Pseudicius	admirandus Logunov 2007
+Pseudicius	afghanicus Andreeva Heciak Prószynski 1984
+Pseudicius	africanus Peckham & Peckham 1903
+Pseudicius	alter Wesolowska 1999
+Pseudicius	amicus Prószynski 2000
+Pseudicius	andamanius Tikader 1977
+Pseudicius	arabicus Wesolowska van Harten 1994
+Pseudicius	asoroticus Simon 1890
+Pseudicius	badius Simon 1868
+Pseudicius	bipunctatus Peckham & Peckham 1903
+Pseudicius	braunsi Peckham Peckham 1903
+Pseudicius	cambridgei Prószynski & Zochowska 1981
+Pseudicius	chinensis Logunov 1995
+Pseudicius	cinctus 
+Pseudicius	courtauldi Bristowe 1935
+Pseudicius	daitaricus Prószynski 1992
+Pseudicius	decemnotatus Simon 1885
+Pseudicius	delesserti Caporiacco 1941
+Pseudicius	deletus O. P.-Cambridge 1885
+Pseudicius	elegans Wesolowska Cumming 2008
+Pseudicius	elmenteitae Caporiacco 1949
+Pseudicius	encarpatus Walckenaer 1802
+Pseudicius	epiblemoides Chyzer Kulczynski 1891
+Pseudicius	espereyi Fage 1921
+Pseudicius	eximius Wesolowska & Russell-Smith 2000
+Pseudicius	flavipes Caporiacco 1935
+Pseudicius	frigidus 
+Pseudicius	ghesquieri Giltay 1935
+Pseudicius	grayorum Zabka 1993
+Pseudicius	histrionicus Simon 1902
+Pseudicius	icioides Simon 1884
+Pseudicius	javanicus Prószynski 2006
+Pseudicius	kaszabi Zabka 1985
+Pseudicius	koreanus Wesolowska 1981
+Pseudicius	kraussi Marples 1964
+Pseudicius	kulczynskii Nosek 1905
+Pseudicius	ludhianaensis Tikader 1974
+Pseudicius	manillaensis Prószynski 1992
+Pseudicius	maureri Prószynski 1992
+Pseudicius	mikhailovi Prószynski 2000
+Pseudicius	miriae Prószynski 1999
+Pseudicius	mirus Wesolowska & van Harten 2002
+Pseudicius	modestus Simon 1885
+Pseudicius	musculus Simon 1901
+Pseudicius	nepalicus Andreeva Heciak & Prószynski 1984
+Pseudicius	nuclearis Prószynski 1992
+Pseudicius	oblongus Peckham & Peckham 1894
+Pseudicius	okinawaensis Prószynski 1992
+Pseudicius	originalis Zabka 1985
+Pseudicius	palaestinensis Strand 1915
+Pseudicius	philippinensis Prószynski 1992
+Pseudicius	picaceus Simon 1868
+Pseudicius	pseudicioides Caporiacco 1935
+Pseudicius	pseudocourtauldi Logunov 1998
+Pseudicius	pseudoicioides Caporiacco 1935
+Pseudicius	punctatus Marples 1957
+Pseudicius	refulgens Wesolowska Cumming 2008
+Pseudicius	reiskindi Prószynski 1992
+Pseudicius	ridicularis Wesolowska Tomasiewicz 2008
+Pseudicius	rudakii Prószynski 1992
+Pseudicius	seychellensis Wanless 1984
+Pseudicius	sheherezadae Prószynski 1989
+Pseudicius	shirinae Prószynski 1989
+Pseudicius	sindbadi Prószynski 1989
+Pseudicius	siticulosus Peckham & Peckham 1909
+Pseudicius	sitticulosus Peckham Peckham 1909
+Pseudicius	solomonensis Prószynski 1992
+Pseudicius	spasskyi Andreeva Heciak Prószynski 1984
+Pseudicius	spiniger 
+Pseudicius	stridulator Zabka 1993
+Pseudicius	szechuanensis Logunov 1995
+Pseudicius	tamaricis Simon 1885
+Pseudicius	tokarensis Bohdanowicz & Prószynski 1987
+Pseudicius	tripunctatus Prószynski 1989
+Pseudicius	unicus Peckham & Peckham 1894
+Pseudicius	vankeeri Metzner 1999
+Pseudicius	venustulus Wesolowska Haddad 2009
+Pseudicius	vesporum Prószynski 1992
+Pseudicius	vulpes Grube 1861
+Pseudicius	wadis Prószynski 1989
+Pseudicius	wenshanensis He & Hu 1999
+Pseudicius	wesolowskae Zhu & Song 2001
+Pseudicius	yunnanensis Schenkel 1963
+Pseudicius	zabkai Song & Zhu 2001
+Pseudicius	zebra Simon 1902
+Stertinius	balius Thorell 1890
+Stertinius	capucinus Simon 1902
+Stertinius	cyprius Merian 1911
+Stertinius	dentichelis Simon 1890
+Stertinius	kumadai Logunov Ikeda & Ono 1997
+Stertinius	leucostictus Thorell 1890
+Stertinius	magnificus Merian 1911
+Stertinius	niger Merian 1911
+Stertinius	nobilis Thorell 1890
+Stertinius	patellaris Simon 1902
+Stertinius	pilipes Simon 1902
+Stertinius	splendens Simon 1902
+Allodecta	maxillaris Bryant 1950
+Acragas	carinatus Crane 1943
+Acragas	castaneiceps Simon 1900
+Acragas	erythraeus Simon 1900
+Acragas	fallax Peckham Peckham 1896
+Acragas	hieroglyphicus Peckham Peckham 1896
+Acragas	humaitae Bauab & Soares 1978
+Acragas	humilis Simon 1900
+Acragas	leucaspis Simon 1900
+Acragas	longimanus Simon 1900
+Acragas	longipalpus Peckham & Peckham 1885
+Acragas	mendax Bauab Vianna Soares 1978
+Acragas	miniaceus Simon 1900
+Acragas	nigromaculatus Mello-Leitao 1922
+Acragas	pacatus Peckham & Peckham 1896
+Acragas	peckhami Chickering 1946
+Acragas	procalvus Simon 1900
+Acragas	quadriguttatus 
+Acragas	rosenbergi Simon 1901
+Acragas	trimaculatus Mello-Leitao 1917
+Acragas	zeteki Chickering 1946
+Pelegrina	aeneola Curtis 1892
+Pelegrina	arizonensis Peckham Peckham 1901
+Pelegrina	balia Maddison 1996
+Pelegrina	bicuspidata F. O. P.-Cambridge 1901
+Pelegrina	bunites Maddison 1996
+Pelegrina	chaimona Maddison 1996
+Pelegrina	chalceola Maddison 1996
+Pelegrina	clavator Maddison 1996
+Pelegrina	clemata Levi Levi 1951
+Pelegrina	dithalea Maddison 1996
+Pelegrina	edrilana Maddison 1996
+Pelegrina	exigua Banks 1892
+Pelegrina	flaviceps Kaston 1973
+Pelegrina	flavipes Peckham Peckham 1888
+Pelegrina	furcata 
+Pelegrina	galathea Walckenaer 1837
+Pelegrina	helenae Banks 1921
+Pelegrina	huachuca Maekawa 1996
+Pelegrina	insignis Banks 1892
+Pelegrina	kastoni Maddison 1996
+Pelegrina	montana Emerton 1891
+Pelegrina	morelos Maddison 1996
+Pelegrina	neoleonis Maddison 1996
+Pelegrina	ochracea F. O. P.-Cambridge 1901
+Pelegrina	orestes Maddison 1996
+Pelegrina	pallidata 
+Pelegrina	peckhamorum Kaston 1973
+Pelegrina	pervaga Peckham Peckham 1909
+Pelegrina	proterva Walckenaer 1837
+Pelegrina	proxima Peckham Peckham 1901
+Pelegrina	sabinema Maddison 1996
+Pelegrina	sandaracina Maddison 1996
+Pelegrina	tillandsiae Kaston 1973
+Pelegrina	tristis Maddison 1996
+Pelegrina	variegata 
+Pelegrina	verecunda Chamberlin Gertsch 1930
+Pelegrina	volcana Maddison 1996
+Pelegrina	yucatecana Maddison 1996
+Cobanus	beebei Petrunkevitch 1914
+Cobanus	bifurcatus Chickering 1946
+Cobanus	cambridgei Bryant 1943
+Cobanus	electus Chickering 1946
+Cobanus	erythrocras Chamberlin & Ivie 1936
+Cobanus	extensus Peckham Peckham 1896
+Cobanus	flavens Peckham Peckham 1896
+Cobanus	incurvus Chickering 1946
+Cobanus	mandibularis Peckham & Peckham 1896
+Cobanus	obscurus Chickering 1946
+Cobanus	perditus Banks 1898
+Cobanus	scintillans Crane 1943
+Cobanus	seclusus Chickering 1946
+Cobanus	subfuscus F. O. P.-Cambridge 1900
+Cobanus	unicolor F. O. P.-Cambridge 1900
+Commoris	enoplognatha Simon 1902
+Commoris	minor Simon 1903
+Commoris	modesta Bryant 1943
+Paramaevia	michelsoni Barnes 1955
+Philates	chelifer Simon 1900
+Philates	courti Zabka 1999
+Philates	grammicus Simon 1900
+Philates	platnicki Zabka 1999
+Philates	proszynskii Zabka 1999
+Philates	variratae Zabka 1999
+Philates	zschokkei Benjamin 2004
+Tanna	ornatipes Berland 1938
+Metaphidippus	albopilosus Peckham & Peckham 1901
+Metaphidippus	annectans Chamberlin 1929
+Metaphidippus	apicalis F. O. P.-Cambridge 1901
+Metaphidippus	bisignatus Mello-Leitao 1945
+Metaphidippus	bispinosus F. O. P.-Cambridge 1901
+Metaphidippus	carmenensis Chamberlin 1924
+Metaphidippus	chalcedon C. L. Koch 1846
+Metaphidippus	chera Chamberlin 1924
+Metaphidippus	coccinelloides Mello-Leitao 1947
+Metaphidippus	comptus Banks 1909
+Metaphidippus	crassidens Kraus 1955
+Metaphidippus	cupreus F. O. P.-Cambridge 1901
+Metaphidippus	cuprinus Taczanowski 1878
+Metaphidippus	diplacis Chamberlin 1924
+Metaphidippus	dubitabilis Peckham & Peckham 1896
+Metaphidippus	emmiltus Maddison 1996
+Metaphidippus	facetus Chickering 1946
+Metaphidippus	fastosus Chickering 1946
+Metaphidippus	fimbriatus F. O. P.-Cambridge 1901
+Metaphidippus	fortunatus Peckham & Peckham 1901
+Metaphidippus	globosus F. O. P.-Cambridge 1901
+Metaphidippus	gratus Bryant 1948
+Metaphidippus	iviei Roewer 1951
+Metaphidippus	laetabilis Peckham & Peckham 1896
+Metaphidippus	laetificus Chickering 1946
+Metaphidippus	lanceolatus F. O. P.-Cambridge 1901
+Metaphidippus	longipalpus F. O. P.-Cambridge 1901
+Metaphidippus	mandibulatus F. O. P.-Cambridge 1901
+Metaphidippus	manni Peckham Peckham 1901
+Metaphidippus	mathetes Chamberlin 1925
+Metaphidippus	nitidus Peckham & Peckham 1896
+Metaphidippus	odiosus Peckham & Peckham 1901
+Metaphidippus	pallens F. O. P.-Cambridge 1901
+Metaphidippus	perscitus Chickering 1946
+Metaphidippus	pluripunctatus Mello-Leitao 1944
+Metaphidippus	smithi Peckham & Peckham 1901
+Metaphidippus	texanus Banks 1904
+Metaphidippus	tricolor Chamberlin Ivie 1941
+Ergane	benjarei Peckham & Peckham 1907
+Ergane	carinata Berry Beatty Prószynski 1996
+Ergane	cognata L. Koch 1881
+Ergane	insulana L. Koch 1881
+Ghelna	barrowsi Kaston 1973
+Ghelna	canadensis Banks 1897
+Ghelna	castanea Hentz 1846
+Ghelna	sexmaculata Banks 1895
+Allococalodes	alticeps Wanless 1982
+Allococalodes	cornutus Wanless 1982
+Allococalodes	madidus Maddison 2009
+Trydarssus	nobilitatus Nicolet 1849
+Trydarssus	pantherinus Mello-Leitao 1946
+Damoetas	christae Prószynski 2001
+Damoetas	galianoae Prószynski 2001
+Damoetas	nitidus Koch L. 1880
+Anokopsis	avitoides Bauab & Soares 1980
+Colaxes	nitidiventris Simon 1900
+Colaxes	wanlessi Benjamin 2004
+Rhombonotus	gracilis Koch L. 1879
+Pseudopartona	ornata Caporiacco 1954
+Baryphas	ahenus Simon 1902
+Baryphas	eupogon Simon 1902
+Baryphas	jullieni Simon 1902
+Baryphas	scintillans Berland & Millot 1941
+Salticus	aiderensis Logunov & Rakov 1998
+Salticus	albobarbatus Powell 1873
+Salticus	albopalpis Urquhart 1885
+Salticus	alegranzaensis Wunderlich 1995
+Salticus	alpinus Urquhart 1885
+Salticus	amitaii Prószynski 2000
+Salticus	appressus Powell 1873
+Salticus	atratus Powell 1873
+Salticus	austinensis Gertsch 1936
+Salticus	bonaerensis Holmberg 1876
+Salticus	brasiliensis Lucas 1833
+Salticus	brevis Blackwall 1870
+Salticus	canariensis Wunderlich 1987
+Salticus	cingulatus Panzer 1797
+Salticus	confusus Lucas 1846
+Salticus	conicus Rossi 1846
+Salticus	conjonctus Simon 1868
+Salticus	curvus Urquhart 1885
+Salticus	dzhungaricus Logunov 1992
+Salticus	exilis Blackwall 1870
+Salticus	falcarius Hentz 1846
+Salticus	flavicruris Rainbow 1897
+Salticus	flavipalpis Risso 1826
+Salticus	fumosus Powell 1873
+Salticus	furvus Urquhart 1885
+Salticus	gomerensis Wunderlich 1987
+Salticus	guerini Lucas 1837
+Salticus	iteacus Metzner 1999
+Salticus	jenynsi Blackwall 1854
+Salticus	jugularis Simon 1900
+Salticus	latidentatus Roewer 1951
+Salticus	major Simon 1868
+Salticus	mandibularis Simon 1868
+Salticus	marenzelleri Nosek 1905
+Salticus	meticulosus Lucas 1846
+Salticus	modicus Simon 1875
+Salticus	mutabilis Lucas 1846
+Salticus	nivosus Walckenaer 1805
+Salticus	noordami Metzner 1999
+Salticus	notatus Blackwall 1852
+Salticus	palpalis Banks 1904
+Salticus	paludivagus Lucas 1846
+Salticus	peckhamae Cockerell 1897
+Salticus	phrinoides Walckanaer 1837
+Salticus	propinquus Lucas 1846
+Salticus	proszynskii Logunov 1992
+Salticus	pulvurulentus Walckenaer 1805
+Salticus	quagga Miller 1971
+Salticus	ravus Bosenberg 1895
+Salticus	scenicus Clerck 1757
+Salticus	scitulus Simon 1868
+Salticus	tabinus Urquhart 1885
+Salticus	tenebricus Urquhart 1885
+Salticus	tricinctus Koch C.L. 1846
+Salticus	trilineatus Rossi 1846
+Salticus	truncatus Simon 1937
+Salticus	turkmenicus Logunov & Rakov 1998
+Salticus	unciger Simon 1868
+Salticus	unicolor Simon 1868
+Salticus	unispinus Franganillo 1910
+Salticus	variegatus Risso 1826
+Salticus	varsaviensis Taczanowski 1867
+Salticus	villosus Lucas 1838
+Salticus	vnotatus Powell 1873
+Salticus	wankowiczi Simon 1868
+Salticus	zanthofrontalis Urquhart 1886
+Salticus	zebraneus Koch C.L. 1837
+Erica	eugenia Peckham & Peckham 1892
+Festucula	festuculaeformis Lessert 1925
+Festucula	lawrencei Lessert 1933
+Festucula	vermiformis Simon 1901
+Ghumattus	primus Prószynski 1992
+Darwinneon	crypticus Cutler 1971
+Epocilla	aurantiaca Simon 1885
+Epocilla	blairei Zabka 1985
+Epocilla	calcarata Karsch 1880
+Epocilla	femoralis Simon 1901
+Epocilla	innotata Thorell 1895
+Epocilla	mauriciana Simon 1901
+Epocilla	picturata Simon 1901
+Epocilla	praetextata Thorell 1887
+Epocilla	xylina Simon 1906
+Bokokius	penicillatus Roewer 1942
+Balmaceda	anulipes Soares 1942
+Balmaceda	biteniata Mello-Leitao 1922
+Balmaceda	chickeringi Roewer 1951
+Balmaceda	modesta Taczanowski 1878
+Balmaceda	picta Peckham & Peckham 1894
+Balmaceda	reducta Chickering 1946
+Balmaceda	turneri Chickering 1946
+Balmaceda	vera Mello-Leitao 1917
+Meleon	guineensis Berland & Millot 1941
+Meleon	insulanus Logunov Azarkina 2007
+Meleon	kenti Lessert 1925
+Meleon	madagascarensis Wanless 1978
+Meleon	raharizonina Logunov Azarkina 2007
+Meleon	russata Simon 1900
+Meleon	solitaria Lessert 1927
+Meleon	tsaratanana Logunov Azarkina 2007
+Trite	albopilosa Keyserling 1883
+Trite	auricoma Urquhart 1885
+Trite	concinna Rainbow 1920
+Trite	daemelii Keyserling 1883
+Trite	gracilipalpis Berland 1929
+Trite	herbigrada Urquhart 1889
+Trite	ignipilosa Berland 1924
+Trite	lineata Simon 1885
+Trite	longipalpis Marples 1955
+Trite	longula Thorell 1881
+Trite	mustilina Powell 1873
+Trite	ornata Rainbow 1915
+Trite	pennata Simon 1885
+Trite	planiceps Simon 1899
+Trite	ponapensis Berry Beatty & Prószynski 1997
+Trite	rapaensis Berland 1942
+Trite	urvillei Dalmas 1917
+Trite	vulpecula Thorell 1881
+Uxuma	impudica Simon 1902
+Kima	africana Peckham Peckham 1902
+Kima	atra Wesolowska Russel-Smith 2000
+Kima	montana Wesolowska & Szeremeta 2001
+Kima	reimoseri Lessert 1927
+Kima	variabilis Peckham & Peckham 1903
+Simprulla	argentina Mello-Leitão 1940
+Simprulla	nigricolor Simon 1901
+Eupoa	jingwei Maddison Zhang J. Bodner 2007
+Eupoa	nezha Maddison Zhang J. Bodner 2007
+Eupoa	prima Zabka 1985
+Terralonus	banksi Roewer 1951
+Terralonus	californicus Peckham Peckham 1888
+Terralonus	fraternus Banks Newport Bird 1932
+Terralonus	mylothrus Chamberlin 1925
+Terralonus	shaferi Gertsch & Riechert 1976
+Terralonus	unicus Chamberlin & Gertsch 1930
+Terralonus	versicolor Peckham & Peckham 1909
+Neonella	antillana Galiano 1988
+Neonella	cabana Galiano 1998
+Neonella	camillae Edwards 2002
+Neonella	colalao Galiano 1998
+Neonella	lubrica Galiano 1988
+Neonella	mayaguez Galiano 1998
+Neonella	minuta Galiano 1965
+Neonella	montana Galiano 1988
+Neonella	nana Galiano 1988
+Neonella	salafraria Ruiz Brescovit 2004
+Neonella	vinnula Gertsch 1936
+Viciria	arrogans Peckham & Peckham 1907
+Viciria	chabanaudi Fage 1923
+Viciria	chrysophaea Simon 1903
+Viciria	concolor Peckham & Peckham 1907
+Viciria	detrita Strand 1922
+Viciria	diademata Simon 1902
+Viciria	diatreta Simon 1902
+Viciria	epileuca Simon 1903
+Viciria	equestris Simon 1903
+Viciria	equestris Simon 1903
+Viciria	flavipes Peckham & Peckham 1903
+Viciria	flavolimbata Simon 1910
+Viciria	fuscimana Simon 1903
+Viciria	lucida Peckham & Peckham 1907
+Viciria	minima Reimoser 1934
+Viciria	miranda Peckham & Peckham 1907
+Viciria	moesta Peckham & Peckham 1907
+Viciria	mondoni Berland & Millot 1941
+Viciria	monodi Berland & Millot 1941
+Viciria	morigera Peckham & Peckham 1903
+Viciria	niveimana Simon 1902
+Viciria	pallens Thorell 1877
+Viciria	paludosa Peckham & Peckham 1907
+Viciria	pavesii Thorell 1877
+Viciria	peckhamorum Lessert 1927
+Viciria	petulans Peckham & Peckham 1907
+Viciria	polysticta Simon 1902
+Viciria	praemandibularis Hasselt 1893
+Viciria	rhinoceros Hasselt 1894
+Viciria	scintillans Simon 1910
+Viciria	semicoccinea Simon 1902
+Viciria	tergina Simon 1903
+Anaurus	flavimanus Simon 1900
+Yllenus	albifrons Lucas 1846
+Yllenus	albocinctus Kroneberg 1875
+Yllenus	algarvensis Logunov & Marusik 2003
+Yllenus	aralicus Logunov Marusik 2003
+Yllenus	arenarius Simon 1868
+Yllenus	auriceps Denis 1966
+Yllenus	auspex 
+Yllenus	bactrianus Andreeva 1976
+Yllenus	bajan Prószynski 1968
+Yllenus	bakanas Logunov Marusik 2003
+Yllenus	bator Prószynski 1968
+Yllenus	brueggeri Lebert 1877
+Yllenus	bucharensis Logunov & Marusik 2003
+Yllenus	caspicus Ponomarev 1978
+Yllenus	charynensis Logunov & Marusik 2003
+Yllenus	coreanus Prószynski 1968
+Yllenus	dalaensis Logunov Marusik 2003
+Yllenus	desertus Wesolowska 1991
+Yllenus	dunini Logunov Marusik 2003
+Yllenus	erzinensis Logunov Marusik 2003
+Yllenus	flavociliatus Simon 1895
+Yllenus	gajdosi Logunov & Marusik 2000
+Yllenus	gavdos Logunov Marusik 2003
+Yllenus	guseinovi Logunov Marusik 2003
+Yllenus	halugim Logunov & Marusik 2003
+Yllenus	hamifer Simon 1895
+Yllenus	horvathi Chyzer Kulczynski 1891
+Yllenus	improcerus Wesolowska & van Harten 1994
+Yllenus	kalkamanicus Logunov Marusik 1999
+Yllenus	karakumensis Logunov Marusik 2003
+Yllenus	karnai Logunov Marusik 2003
+Yllenus	knappi Wesolowska & van Harten 1994
+Yllenus	kononenkoi Logunov Marusik 2003
+Yllenus	kotchevnik Logunov & Marusik 2003
+Yllenus	kulczynskii Punda 1975
+Yllenus	logunovi Wesolowska van Harten 2010
+Yllenus	lyachovi Logunov Marusik 1999
+Yllenus	maoniuensis Liu Wang & Peng 1991
+Yllenus	marusiki Logunov 1993
+Yllenus	mirabilis Logunov & Marusik 2003
+Yllenus	mirandus Wesolowska 1996
+Yllenus	mongolicus Prószynski 1968
+Yllenus	murgabicus Logunov Marusik 2003
+Yllenus	namulinensis Hu 2001
+Yllenus	nigritarsis Logunov & Marusik 2003
+Yllenus	nurataus Logunov & Marusik 2003
+Yllenus	pamiricus Logunov Marusik 2003
+Yllenus	pavlenkoae Logunov Marusik 2003
+Yllenus	pseudobajan Logunov & Marusik 2003
+Yllenus	pseudovalidus Logunov Marusik 2003
+Yllenus	ranunculus Thorell 1875
+Yllenus	robustior Prószynski 1968
+Yllenus	rotundiorificus Logunov & Marusik 2000
+Yllenus	saliens Pickard-Cambridge
+Yllenus	salsicola Simon 1937
+Yllenus	shakhsenem Logunov & Marusik 2003
+Yllenus	skalanicus Dobroruka 2002
+Yllenus	somonensis Prószynski 1982
+Yllenus	squamifer Simon 1881
+Yllenus	tamdybulak Logunov Marusik 2003
+Yllenus	tschoni Caporiacco 1936
+Yllenus	turkestanicus Logunov Marusik 2003
+Yllenus	tuvinicus Logunov Marusik 1999
+Yllenus	uiguricus Logunov Marusik 2003
+Yllenus	univittatus Simon 1871
+Yllenus	uzbekistanicus Logunov Marusik 2003
+Yllenus	validus Simon 1889
+Yllenus	vittatus Thorell 1875
+Yllenus	zhilgaensis Logunov Marusik 2003
+Yllenus	zyuzini Logunov Marusik 2003
+Aruana	silvestris Burm. f.
+Aruana	silvicola Strand 1911
+Aruana	vanstraeleni Roewer 1938
+Quekettia	georgius Peckham & Peckham 1892
+Laufeia	aenea Simon 1889
+Laufeia	aerihirta Urquhart 1888
+Laufeia	eucola Thorell 1890
+Laufeia	keyserlingi Thorell 1890
+Laufeia	liujiapingensis Yang & Tang 1997
+Laufeia	perakensis Simon 1901
+Laufeia	proszynskii Song Gu & Chen 1988
+Laufeia	sasakii Ikeda 1998
+Laufeia	scutigera Zabka 1985
+Stenaelurillus	abramovi Logunov 2008
+Stenaelurillus	albopunctatus Caporiacco 1949
+Stenaelurillus	ambiguus Denis 1966
+Stenaelurillus	cristatus Wesolowska Russel-Smith 2000
+Stenaelurillus	darwini Wesolowska Russel-Smith 2000
+Stenaelurillus	fuscatus Wesolowska & Russell-Smith 2000
+Stenaelurillus	giovae Caporiacco 1936
+Stenaelurillus	guttiger Simon 1901
+Stenaelurillus	hainanensis Peng 1995
+Stenaelurillus	hirsutus Lessert 1927
+Stenaelurillus	kronestedti Próchniewicz Heciak 1994
+Stenaelurillus	lesserti Reimoser 1934
+Stenaelurillus	leucogrammus Simon 1902
+Stenaelurillus	marusiki Logunov 2001
+Stenaelurillus	minutus Song & Chai 1991
+Stenaelurillus	mirabilis Wesolowska Russel-Smith 2000
+Stenaelurillus	natalensis Haddad Wesolowska 2006
+Stenaelurillus	nigricaudus Simon 1885
+Stenaelurillus	setosus Thorell 1895
+Stenaelurillus	strandi Caporiacco 1939
+Stenaelurillus	triguttatus Simon 1885
+Stenaelurillus	uniguttatus Lessert 1925
+Stenaelurillus	werneri Simon 1906
+Imperceptus	minutus Prószynski 1992
+Porius	decempunctatus Szombathy 1915
+Porius	papuanus Thorell 1881
+Polemus	chrysochirus Simon 1902
+Polemus	galeatus Simon 1902
+Polemus	squamulatus Simon 1902
+Hurius	aeneus Mello-Leitao 1941
+Hurius	petrohue Galiano 1985
+Hurius	pisac Galiano 1985
+Hurius	vulpinus Simon 1901
+Orvilleus	crassus Chickering 1946
+Holcolaetis	albobarbata Simon 1910
+Holcolaetis	clarki Wanless 1985
+Holcolaetis	cothurnata Gerstäcker 1873
+Holcolaetis	dyali Roewer 1951
+Holcolaetis	strandi Caporiacco 1940
+Holcolaetis	vellerea Simon 1910
+Holcolaetis	xerampelina Simon 1885
+Holcolaetis	zuluensis Lawrence 1937
+Peckhamia	americana Peckham & Peckham 1892
+Peckhamia	argentinensis Galiano 1986
+Peckhamia	picata Hentz 1846
+Peckhamia	prescotti Chickering 1946
+Peckhamia	scorpionia Hentz 1846
+Peckhamia	seminola Gertsch 1936
+Peckhamia	variegata F. O. P.-Cambridge 1900
+Yepoella	crassistyli Galiano 1970
+Yepoella	crassistylis Galiano 1970
+Edilemma	foraminifera Ruiz Brescovit 2006
+Maenola	braziliana Soares & Camargo 1948
+Maenola	lunata Mello-Leitao 1940
+Maenola	starkei Simon 1900
+Tarne	dives Simon 1885
+Pilia	escheri Reimoser 1934
+Pilia	saltabunda Simon 1902
+Pancorius	animosus Peckham & Peckham 1907
+Pancorius	borneensis Simon 1902
+Pancorius	changricus Zabka 1990
+Pancorius	crassipes Karsch 1881
+Pancorius	curtus Simon 1877
+Pancorius	dabanis Hogg 1922
+Pancorius	darjeelingianus Prószynski 1992
+Pancorius	dentichelis Simon 1899
+Pancorius	fasciatus Peckham & Peckham 1907
+Pancorius	goulufengensis Peng et al. 1998
+Pancorius	hainanensis Song & Chai 1991
+Pancorius	hongkong Song et al. 1997
+Pancorius	kaskiae Zabka 1990
+Pancorius	kohi Zhang Song & Li 2003
+Pancorius	magniformis Zabka 1990
+Pancorius	magnus Zabka 1985
+Pancorius	minutus Zabka 1985
+Pancorius	naevius Simon 1902
+Pancorius	protervus Simon 1902
+Pancorius	relucens Simon 1901
+Pancorius	scoparius Simon 1902
+Pancorius	submontanus Prószynski 1992
+Pancorius	tagorei Prószynski 1992
+Pancorius	taiwanensis Bao & Peng 2002
+Pancorius	thorelli Simon 1899
+Pancorius	wangdicus Zabka 1990
+Orthrus	bicolor Simon 1900
+Orthrus	calilungae Barrion 1998
+Orthrus	muluensis Wanless 1980
+Orthrus	palawanensis Wanless 1980
+Chalcoscirtus	alpicola Koch L. 1876
+Chalcoscirtus	ansobicus Andreeva 1976
+Chalcoscirtus	atratus Thorell 1875
+Chalcoscirtus	bortolgois Logunov & Marusik 1999
+Chalcoscirtus	carbonarius Emerton 1917
+Chalcoscirtus	catherinae Prószynski 1999
+Chalcoscirtus	charynensis Logunov & Marusik 1999
+Chalcoscirtus	flavipes Caporiacco 1935
+Chalcoscirtus	fulvus Saito 1939
+Chalcoscirtus	glacialis Caporiacco 1935
+Chalcoscirtus	grishkanae Marusik 1988
+Chalcoscirtus	helverseni Metzner 1999
+Chalcoscirtus	hosseinieorum Logunov Marusik & Mozaffarian 2002
+Chalcoscirtus	hyperboreus Marusik 1991
+Chalcoscirtus	infimus Simon 1868
+Chalcoscirtus	iranicus Logunov & Marusik 1999
+Chalcoscirtus	janetscheki Denis 1957
+Chalcoscirtus	jerusalemicus Prószynski 2000
+Chalcoscirtus	kamchik Marusik 1991
+Chalcoscirtus	karakurt Marusik 1991
+Chalcoscirtus	kirghisicus Marusik 1991
+Chalcoscirtus	koponeni Logunov & Marusik 1999
+Chalcoscirtus	lepidus Wesolowska 1996
+Chalcoscirtus	martensi Zabka 1980
+Chalcoscirtus	michailovi Logunov & Marusik 1999
+Chalcoscirtus	minutus Marusik 1990
+Chalcoscirtus	molo Marusik 1991
+Chalcoscirtus	nenilini Marusik 1990
+Chalcoscirtus	nigritus Thorell 1875
+Chalcoscirtus	paraansobicus Marusik 1990
+Chalcoscirtus	parvulus Marusik 1991
+Chalcoscirtus	platnicki Marusik 1995
+Chalcoscirtus	pseudoinfimus Ovtsharenko 1978
+Chalcoscirtus	rehobothicus Strand 1915
+Chalcoscirtus	sublestus Blackwall 1867
+Chalcoscirtus	talturaensis Logunov & Marusik 2000
+Chalcoscirtus	tanasevichi Marusik 1991
+Chalcoscirtus	tanyae Logunov & Marusik 1999
+Chalcoscirtus	vietnamensis Zabka 1985
+Chalcoscirtus	zyuzini Marusik 1991
+Macaroeris	albosignata Schmidt & Krause 1996
+Macaroeris	asiatica Logunov & Rakov 1998
+Macaroeris	cata Blackwall 1867
+Macaroeris	desertensis Wunderlich 1991
+Macaroeris	diligens Blackwall 1867
+Macaroeris	flavicomis Simon 1884
+Macaroeris	litoralis Wunderlich 1991
+Macaroeris	moebi Bösenberg 1895
+Macaroeris	nidicolens Walckenaer 1802
+Siler	bielawskii Zabka 1985
+Siler	collingwoodi O. P.-Cambridge 1871
+Siler	cupreus Simon 1889
+Siler	flavocinctus Simon 1901
+Siler	hanoicus Prószynski 1985
+Siler	pulcher Simon 1901
+Siler	semiglaucus Simon 1901
+Siler	severus Simon 1901
+Agorius	baloghi Szüts 2003
+Agorius	borneensis Edmunds & Prószynski 2001
+Agorius	cinctus Simon 1901
+Agorius	constrictus Simon 1901
+Agorius	formicinus Simon 1903
+Agorius	gracilipes Thorell 1877
+Agorius	semirufus Simon 1901
+Tara	anomala Keyserling 1882
+Tara	gratiosus Rainbow 1920
+Pellenes	aethiopicus Strand 1906
+Pellenes	albopilosus Tyschenko 1965
+Pellenes	allegrii Caporiacco 1935
+Pellenes	amazonka Logunov Marusik & Rakov 1999
+Pellenes	apacheus Lowrie & Gertsch 1955
+Pellenes	arciger Walckenaer 1837
+Pellenes	badkhyzicus Logunov Marusik & Rakov 1999
+Pellenes	beani Peckham & Peckham 1903
+Pellenes	bitaeniata Keyserling 1882
+Pellenes	bonus Logunov Marusik & Rakov 1999
+Pellenes	borisi Simon 1868
+Pellenes	brevis Simon 1868
+Pellenes	bulawayoensis Wesolowska 2000
+Pellenes	campylophorus Thorell 1875
+Pellenes	canosus Simon 1937
+Pellenes	cinctipes Banks 1898
+Pellenes	cingulatus Wesolowska Russel-Smith 2000
+Pellenes	corticolens Chamberlin 1924
+Pellenes	crandalli Lowrie & Gertsch 1955
+Pellenes	dahli Lessert 1915
+Pellenes	denisi Schenkel 1963
+Pellenes	diagonalis Simon 1868
+Pellenes	dilutus Logunov 1995
+Pellenes	durieui Lucas 1846
+Pellenes	dyali Roewer 1951
+Pellenes	epularis 
+Pellenes	frischi Audouin 1826
+Pellenes	subsultans Simon 1868
+Pellenes	geniculatus Simon 1868
+Pellenes	geniculatus Simon 1868
+Pellenes	gobiensis Schenkel 1936
+Pellenes	grammaticus Chamberlin 1925
+Pellenes	hadaensis Prószynski 1993
+Pellenes	hedjazensis Prószynski 1993
+Pellenes	iforhasorum Berland & Millot 1941
+Pellenes	ignifrons Grube 1861
+Pellenes	inexcultus O. P.-Cambridge 1873
+Pellenes	karakumensis Logunov Marusik & Rakov 1999
+Pellenes	lagrecai Cantarelle & Alicata 2002
+Pellenes	lapponicus Sundevall 1832
+Pellenes	levaillanti Lucas 1846
+Pellenes	levii Lowrie & Gertsch 1955
+Pellenes	limatus Peckham & Peckham 1901
+Pellenes	limbatus Kulczynski 1895
+Pellenes	logunovi Marusik Hippa & Koponen 1996
+Pellenes	longimanus Emerton 1913
+Pellenes	maderianus Kulczynski 1905
+Pellenes	marionis Schmidt Krause 1994
+Pellenes	mimicus Strand 1906
+Pellenes	minimus Caporiacco 1933
+Pellenes	modicus Wesolowska & Russell-Smith 2000
+Pellenes	moreana Metzner 1999
+Pellenes	moreanus Metzner 1999
+Pellenes	negevensis Prószynski 2000
+Pellenes	nigrociliatus Koch L. 1875
+Pellenes	obliquostriatus Caporiacco 1940
+Pellenes	ostrinus Simon 1868
+Pellenes	pamiricus Logunov Marusik Rakov 1999
+Pellenes	peninsularis Emerton 1925
+Pellenes	perexcultus Clark & Benoit 1977
+Pellenes	pseudobrevis Logunov Marusik Rakov 1999
+Pellenes	pulcher Logunov 1995
+Pellenes	purcelli Lessert 1915
+Pellenes	rufoclypeatus Peckham & Peckham 1903
+Pellenes	seriatus Thorell 1875
+Pellenes	shoshonensis Gertsch 1934
+Pellenes	sibiricus Logunov Marusik 1994
+Pellenes	siculus Alicata & Cantarella 2000
+Pellenes	striolatus Wesolowska van Harten 2002
+Pellenes	sytchevskayae Logunov Marusik Rakov 1999
+Pellenes	tharinae Wesolowska 2006
+Pellenes	tocharistanus Andreeva 1976
+Pellenes	tripunctatus Walckenaer 1802
+Pellenes	turkmenicus Logunov Marusik Rakov 1999
+Pellenes	univittatus Caporiacco 1939
+Pellenes	vanharteni Wesolowska 1998
+Pellenes	washonus Lowrie & Gertsch 1955
+Pellenes	wrighti Lowrie & Gertsch 1955
+Rhetenor	diversipes Simon 1902
+Rhetenor	texanus Gertsch 1936
+Thiratoscirtus	capito Simon 1903
+Thiratoscirtus	fuscorufescens Strand 1906
+Thiratoscirtus	niveimanus Simon 1886
+Thiratoscirtus	patagonicus Simon 1886
+Thiratoscirtus	torquatus Simon 1903
+Thiratoscirtus	versicolor Simon 1902
+Magyarus	typicus Zabka 1985
+Tomocyrba	barbata Simon 1900
+Tomocyrba	berniae Szüts Scharff 2009
+Tomocyrba	decollata Simon 1900
+Tomocyrba	griswoldi Szüts Scharff 2009
+Tomocyrba	sjostedti Lessert 1925
+Tomocyrba	thaleri Szüts Scharff 2009
+Tomocyrba	ubicki Szüts Scharff 2009
+Harmochirus	bianoriformis Strand 1907
+Harmochirus	brachiatus Thorell 1877
+Harmochirus	branchiatus Thorell 1877
+Harmochirus	duboscqi Berland & Millot 1941
+Harmochirus	insulanus Kishida 1914
+Harmochirus	lloydi Narayan 1915
+Harmochirus	luculentus Simon 1885
+Harmochirus	proszynski Zhu & Song 2001
+Harmochirus	zabkai Logunov 2001
+Rhene	albigera Koch C.L. 1848
+Rhene	atrata Karsch 1881
+Rhene	banksi Peckham & Peckham 1902
+Rhene	biembolusa Song D. Chai I. 1991
+Rhene	biguttata Peckham & Peckham 1903
+Rhene	brevipes Thorell 1891
+Rhene	bufo Doleschall 1859
+Rhene	callida Peckham & Peckham 1895
+Rhene	callosa Peckham & Peckham 1895
+Rhene	candida Fox 1937
+Rhene	capensis Strand 1909
+Rhene	cooperi Lessert 1925
+Rhene	daitarensis Prószynski 1992
+Rhene	danieli Tikader 1973
+Rhene	darjeelingiana Prószynski 1992
+Rhene	decorata Tikader 1977
+Rhene	facilis Wesolowska & Russell-Smith 2000
+Rhene	flavicomans Simon 1902
+Rhene	flavigera Koch C.L. 1848
+Rhene	foai Simon 1902
+Rhene	formosa Rollard & Wesolowska 2002
+Rhene	habahumpa Barrion & Litsinger 1995
+Rhene	hinlalakea Barrion & Litsinger 1995
+Rhene	hirsuta Thorell 1877
+Rhene	indica Tikader 1973
+Rhene	ipis Fox 1937
+Rhene	jelskii Taczanowski 1871
+Rhene	khandalaensis Tikader 1977
+Rhene	lesserti Berland & Millot 1941
+Rhene	machadoi Berland & Millot 1941
+Rhene	margarops Thorell 1877
+Rhene	modesta Caporiacco 1941
+Rhene	mordax Thorell 1890
+Rhene	mus Simon 1889
+Rhene	myunghwani Kim 1996
+Rhene	nigrita C. L. Koch 1846
+Rhene	pantharae Biswas & Biswas 1992
+Rhene	parvula Caporiacco 1939
+Rhene	phuntsholingensis Jastrzebski 1997
+Rhene	plana Schenkel 1936
+Rhene	rubrigera Thorell 1887
+Rhene	saeva Giebel 1863
+Rhene	setipes Zabka 1985
+Rhene	spuridens Strand 1907
+Rhene	sulfurea Simon 1885
+Rhene	triapophyses Peng 1995
+Sitticus	absolutus Gertsch Mulaik 1936
+Sitticus	albolineatus Kulczynski 1895
+Sitticus	ammophilus Thorell 1875
+Sitticus	ansobicus Andreeva 1976
+Sitticus	atricapillus Simon 1882
+Sitticus	avocator 
+Sitticus	barsakelmes Logunov & Rakov 1998
+Sitticus	burjaticus Danilov & Logunov 1994
+Sitticus	cabellensis Prószynski 1971
+Sitticus	canus Galiano 1977
+Sitticus	caricis Westring 1861
+Sitticus	cautus Peckham & Peckham 1888
+Sitticus	cellulanus Galiano 1989
+Sitticus	clavator Schenkel 1936
+Sitticus	cursor Barrows 1919
+Sitticus	cutleri Prószynski 1980
+Sitticus	damini Chyzer Kulczynski 1891
+Sitticus	designatus Peckham & Peckham 1903
+Sitticus	diductus O. P.-Cambridge 1885
+Sitticus	distinguendus Simon 1868
+Sitticus	dubatolovi Logunov & Rakov 1998
+Sitticus	dudkoi Logunov 1998
+Sitticus	dyali Roewer 1951
+Sitticus	dzieduszyckii Koch L. 1870
+Sitticus	eskovi Logunov Wesolowska 1995
+Sitticus	exiguus Bosenberg 1903
+Sitticus	fasciger Simon 1880
+Sitticus	finschi Koch L. 1879
+Sitticus	flabellatus Galiano 1989
+Sitticus	floricola Koch C.L. 1837
+Sitticus	floricola Koch C.L. 1837
+Sitticus	goricus Ovtsharenko 1978
+Sitticus	inexpectus Logunov Kronestedt 1997
+Sitticus	inopinabilis Logunov 1992
+Sitticus	japonicus Kishida 1910
+Sitticus	juniperi Gertsch Riechert 1976
+Sitticus	karakumensis Logunov 1992
+Sitticus	kazakhstanicus Logunov 1992
+Sitticus	leucoproctus Mello-Leitao 1944
+Sitticus	limbatus Risso 1826
+Sitticus	longipes Canestrini 1873
+Sitticus	magnus Chamberlin Ivie 1944
+Sitticus	manni Doleschall 1852
+Sitticus	mazorcanus Chamberlin 1920
+Sitticus	mirandus Logunov 1993
+Sitticus	monstrabilis Logunov 1992
+Sitticus	montanus Kishida 1910
+Sitticus	nakamurae Kishida 1910
+Sitticus	nenilini Wesolowska Logunov 1993
+Sitticus	nitidus Hu 2001
+Sitticus	niveosignatus Simon 1880
+Sitticus	palpalis 
+Sitticus	penicillatus Simon 1875
+Sitticus	penicillatus Simon 1875
+Sitticus	adriaticus Kolosvary 1938
+Sitticus	penicilloides Wesolowska 1981
+Sitticus	peninsulanus Banks 1898
+Sitticus	phaleratus Galiano Baert 1990
+Sitticus	psammodes Thorell 1875
+Sitticus	pubescens Fabricius 1775
+Sitticus	pulchellus Logunov 1992
+Sitticus	ranieri Peckham Peckham 1909
+Sitticus	relictarius Logunov 1998
+Sitticus	rupicola Koch C.L. 1837
+Sitticus	saevus Dönitz & Strand 1906
+Sitticus	saganus Dönitz & Strand 1906
+Sitticus	saltator Simon 1868
+Sitticus	saxicola Koch C.L. 1848
+Sitticus	sexsignatus Franganillo 1910
+Sitticus	sinensis Schenkel 1963
+Sitticus	striatus Emerton 1911
+Sitticus	subadultus Dönitz & Strand 1906
+Sitticus	taiwanensis Peng & Li 2002
+Sitticus	talgarensis Logunov Wesolowska 1993
+Sitticus	tannuolana Logunov 1991
+Sitticus	tenebricus Galiano & Baert 1990
+Sitticus	terebratus Clerck 1757
+Sitticus	truncorum Linnaeus 1758
+Sitticus	uber Galiano Baert 1990
+Sitticus	uphami Peckham & Peckham 1903
+Sitticus	vilis Kulczynski 1895
+Sitticus	virgulatus Walckenaer 1802
+Sitticus	walckenaeri Roewer 1951
+Sitticus	welchi Gertsch & Mulaik 1936
+Sitticus	wuae Peng Tso & Li 2002
+Sitticus	zaisanicus Logunov 1998
+Sitticus	zimmermanni Simon 1877
+Poessa	argenteofrenata Simon 1902
+Sumampattus	hudsoni Galiano 1996
+Sumampattus	pantherinus Mello-Leitão 1942
+Sumampattus	quinqueradiatus Taczanowski 1878
+Salpesia	bicolor Keyserling 1883
+Salpesia	bimaculata Keyserling 1883
+Salpesia	soricina Simon 1901
+Salpesia	squalida Keyserling 1883
+Salpesia	villosa Keyserling 1883
+Schenkelia	benoiti Wanless & Clark 1975
+Schenkelia	gertschi Berland & Millot 1941
+Schenkelia	lesserti Berland & Millot 1941
+Schenkelia	modesta Lessert 1927
+Phausina	bivittata Simon 1902
+Phausina	flavofrenata Simon 1902
+Phausina	guttipes Simon 1902
+Phausina	leucopogon Simon 1905
+Descanso	chapoda Peckham & Peckham 1892
+Descanso	discicollis Taczanowski 1878
+Descanso	formosus Bryant 1943
+Descanso	insolitus Chickering 1946
+Descanso	magnus Bryant 1943
+Descanso	montanus Bryant 1943
+Descanso	peregrinus Chickering 1946
+Descanso	sobrius Galiano 1986
+Descanso	vagus Peckham & Peckham 1892
+Descanso	ventrosus Galiano 1986
+Cenattus	exophthalmus Petrunkevitch 1942
+Opisthoncus	abnormis Koch L. 1881
+Opisthoncus	albiventris Koch L. 1881
+Opisthoncus	alborufescens Koch L. 1880
+Opisthoncus	barbipalpis Keyserling 1882
+Opisthoncus	bellus Karsch 1878
+Opisthoncus	bitaeniatus L. Koch 1880
+Opisthoncus	clarus Keyserling 1883
+Opisthoncus	confinis L. Koch 1881
+Opisthoncus	confinus L. Koch 1881
+Opisthoncus	delectabilis Rainbow 1920
+Opisthoncus	devexus Simon 1909
+Opisthoncus	eriognathus Thorell 1881
+Opisthoncus	grassator Keyserling 1883
+Opisthoncus	inconspicuus Thorell 1881
+Opisthoncus	keyserlingi Zabka 1991
+Opisthoncus	kochi Zabka 1991
+Opisthoncus	lineativentris Koch L. 1880
+Opisthoncus	machaerodus Simon 1909
+Opisthoncus	magnidens Koch L. 1880
+Opisthoncus	mordax L. Koch 1880
+Opisthoncus	necator L. Koch 1881
+Opisthoncus	nigrifemur Strand 1911
+Opisthoncus	nigrofemoratus L. Koch 1867
+Opisthoncus	pallidulus L. Koch 1880
+Opisthoncus	parcedentatus Koch L. 1880
+Opisthoncus	polyphemus Koch L. 1867
+Opisthoncus	quadratarius L. Koch 1867
+Opisthoncus	rubriceps Thorell 1881
+Opisthoncus	serratofasciatus L. Koch 1881
+Opisthoncus	sexmaculatus C. L. Koch 1846
+Opisthoncus	tenuipes Keyserling 1882
+Opisthoncus	unicolor L. Koch 1881
+Opisthoncus	versimilis Peckham & Peckham 1901
+Vatovia	albosignata Caporiacco 1940
+Sarinda	armata Peckham Peckham 1892
+Sarinda	atrata Taczanowski 1871
+Sarinda	capibarae Galiano 1967
+Sarinda	cayennensis Taczanowski 1871
+Sarinda	chacoensis Galiano 1996
+Sarinda	cutleri Richman 1965
+Sarinda	exilis Mello-Leitao 1943
+Sarinda	glabra Franganillo 1930
+Sarinda	hentzi Banks 1913
+Sarinda	imitans Galiano 1965
+Sarinda	longula Taczanowski 1871
+Sarinda	marcosi Piza 1937
+Sarinda	nigra Peckham Peckham 1892
+Sarinda	panamae Galiano 1965
+Sarinda	pretiosa Banks 1909
+Sarinda	ruficeps Simon 1901
+Sarinda	silvatica Chickering 1946
+Attidops	cinctipes Banks 1900
+Attidops	cutleri Edwards 1999
+Attidops	nickersoni Edwards 1999
+Attidops	youngi Peckham Peckham 1888
+Dexippus	kleini Thorell 1891
+Dexippus	taiwanensis Peng & Li 2002
+Dexippus	topali Prószynski 1992
+Asianellus	festivus Koch C.L. 1834
+Asianellus	kazakhstanicus Logunov & Heciak 1996
+Asianellus	kuraicus Logunov & Marusik 2000
+Asianellus	ontchalaan Logunov Heciak 1996
+Asianellus	potanini Schenkel 1963
+Dendryphantes	aethiopicus Wesolowska Tomasiewicz 2008
+Dendryphantes	amphibolus Chamberlin 1916
+Dendryphantes	andinus Chamberlin 1916
+Dendryphantes	arboretus Wesolowska Cumming 2008
+Dendryphantes	auratus C.L. Koch 1837
+Dendryphantes	barguzinensis Danilov 1997
+Dendryphantes	barrosmachadoi Caporiacco 1955
+Dendryphantes	biankii Prószynski 1979
+Dendryphantes	bimaculatus C.L. Koch 1846
+Dendryphantes	bisquinquepunctatus Taczanowski 1878
+Dendryphantes	calus Chamberlin 1916
+Dendryphantes	caporiaccoi Roewer 1951
+Dendryphantes	centromaculatus Taczanowski 1878
+Dendryphantes	coccineocinctus Caporiacco 1954
+Dendryphantes	czekanowskii Prószynski 1979
+Dendryphantes	darchan Logunov 1993
+Dendryphantes	duodecempunctatus Mello-Leitao 1943
+Dendryphantes	franganilloi Caporiacco 1955
+Dendryphantes	fulvipes Mello-Leitao 1943
+Dendryphantes	fusconotatus Grube 1861
+Dendryphantes	gertschi Caporiacco 1947
+Dendryphantes	hararensis Wesolowska Cumming 2008
+Dendryphantes	hastatus Clerck 1757
+Dendryphantes	hewitti Lessert 1925
+Dendryphantes	honestus C. L. Koch 1846
+Dendryphantes	lanipes C.L. Koch 1846
+Dendryphantes	lepidus Peckham & Peckham 1901
+Dendryphantes	linzhiensis Hu 2001
+Dendryphantes	madrynensis Mello-Leitao 1940
+Dendryphantes	mendicus C. L. Koch 1846
+Dendryphantes	modestus Mello-Leitao 1941
+Dendryphantes	mordax Koch C.L. 1846
+Dendryphantes	nicator Wesolowska van Harten 1994
+Dendryphantes	nigromaculatus Keyserling 1884
+Dendryphantes	niveornatus Mello-Leitao 1936
+Dendryphantes	nobilis C. L. Koch 1846
+Dendryphantes	ovchinnikovi Logunov & Marusik 1994
+Dendryphantes	patagonicus Simon 1905
+Dendryphantes	petilus Blackwall 1870
+Dendryphantes	potanini Logunov 1993
+Dendryphantes	praeposterus Denis 1958
+Dendryphantes	pseudochuldensis Peng Xie & Kim 1994
+Dendryphantes	pugnax C. L. Koch 1846
+Dendryphantes	purcelli Peckham Peckham 1903
+Dendryphantes	quaesitus Wesolowska & van Harten 1994
+Dendryphantes	rafalskii Wesolowska 1999
+Dendryphantes	ravidus Simon 1868
+Dendryphantes	reimoseri Roewer 1951
+Dendryphantes	riparius Lebert 1877
+Dendryphantes	rudis Sundevall 1832
+Dendryphantes	sacci Simon 1886
+Dendryphantes	schultzei Simon 1910
+Dendryphantes	secretus Wesolowska 1995
+Dendryphantes	seriatus Taczanowski 1878
+Dendryphantes	sexguttatus Mello-Leitao 1945
+Dendryphantes	spinosissimus Caporiacco 1954
+Dendryphantes	strenuus C. L. Koch 1846
+Dendryphantes	tuvinensis Logunov 1991
+Dendryphantes	villarrica Richardson 2010
+Dendryphantes	yadongensis Hu 2001
+Dendryphantes	zygoballoides Chamberlin 1924

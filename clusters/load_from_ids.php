@@ -3,6 +3,7 @@
 require_once (dirname(__FILE__) . '/cluster.php');
 
 $filename = '5102577.txt';
+$filename = 'names4495670_4499910.txt';
 
 $file = @fopen($filename, "r") or die("couldn't open $filename");
 

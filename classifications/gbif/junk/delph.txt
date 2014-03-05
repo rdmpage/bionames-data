@@ -1,0 +1,120 @@
+Anacharsis	orbus
+Australodelphis	mirus
+Delphinus	capensis capensis Gray 1828
+Delphinus	capensis Gray 1828
+Delphinus	capensis tropicalis van Bree 1971
+Delphinus	tropicalis van Bree 1971
+Delphinus	delphis delphis Linnaeus 1758
+Delphinus	delphis Linnaeus 1758
+Delphinus	delphis ponticus Barabash 1935
+Delphinus	ponticus Barabash 1935
+Delphinus	domeykoi
+Feresa	attenuata Gray 1874
+Globicephala	etruriae
+Globicephala	karsteni
+Globicephala	macrorhynchus Gray 1846
+Globicephala	macrorhyncus
+Globicephala	melas Traill 1809
+Globicephala	melas edwardii Smith 1834
+Globicephala	edwardii Smith 1834
+Globicephala	melas melas
+Globicephala	melas
+Lagenodelphis	hosei Fraser 1956
+Lagenorhynchus	acutus Gray 1828
+Lagenorhynchus	albirostris Gray 1846
+Lagenorhynchus	australis Peale 1848
+Lagenorhynchus	cruciger Quoy & Gaimard 1824
+Lagenorhynchus	harmatuki
+Lagenorhynchus	obliquidens Gill 1865
+Lagenorhynchus	obscurus fitzroyi Waterhouse 1838
+Lagenorhynchus	fitzroyi Waterhouse 1838
+Lagenorhynchus	obscurus Gray 1828
+Lagenorhynchus	obscurus obscurus
+Lagenorhynchus	obscurus
+Orcaella	brevirostris Owen in Gray 1866
+Orcaella	heinsohni Beasley Robertson & Arnold 2005
+Sousa	chinensis Osbeck 1765
+Sousa	plumbea Cuvier 1829
+Sousa	teuszii Kükenthal 1892
+Stenella	attenuata graffmani Lönnberg 1934
+Stenella	graffmani Lönnberg 1934
+Stenella	attenuata attenuata
+Stenella	attenuata
+Stenella	attenuata Gray 1846
+Stenella	clymene Gray 1850
+Stenella	coeruleoalba Meyen 1833
+Stenella	frontalis Cuvier 1829
+Stenella	giulii
+Stenella	kabatensis
+Stenella	longirostris orientalis Perrin 1990
+Stenella	orientalis Perrin 1990
+Stenella	longirostris roseiventris
+Stenella	roseiventris
+Stenella	longirostris Gray 1828
+Stenella	longirostris centroamericana Perrin 1990
+Stenella	centroamericana Perrin 1990
+Stenella	longirostris longirostris Gray 1828
+Stenella	rayi
+Astadelphis	gastaldi
+Astadelphis	gastaldii
+Lissodelphis	borealis Peale 1848
+Lissodelphis	peronii Lacepède 1804
+Steno	bredanensis Cuvier in Lesson 1828
+Steno	cudmorei Chapman
+Grampus	griseus griseus
+Grampus	griseus
+Grampus	griseus sowerbianus
+Grampus	sowerbianus
+Grampus	griseus stearnsi
+Grampus	stearnsi
+Grampus	griseus Cuvier 1812
+Peponocephala	electra Gray 1846
+Sotalia	fluviatilis Gervais & Deville 1853
+Sotalia	guianensis -van Bénéden 1864
+Arimidelphis	sorbinii
+Cephalorhynchus	commersonii Lacepède 1804
+Cephalorhynchus	commersonii commersonii
+Cephalorhynchus	commersonii
+Cephalorhynchus	commersonii kerguelensis Robineau Goodall Pichler & Baker 2007
+Cephalorhynchus	kerguelensis Robineau Goodall Pichler & Baker 2007
+Cephalorhynchus	eutropia Gray 1846
+Cephalorhynchus	heavisidii Gray 1828
+Cephalorhynchus	hectori -van Bénéden 1881
+Cephalorhynchus	hectori maui Baker Smith & Pichler 2002
+Cephalorhynchus	maui Baker Smith & Pichler 2002
+Cephalorhynchus	hectori hectori
+Cephalorhynchus	hectori
+Cephalorhynchus	platyrhinus
+Hemisyntrachelus	cortesii
+Hemisyntrachelus	pisanus
+Lagenoelphis	hosei Fraser 1956
+Orcinus	citoniensis
+Orcinus	meyeri
+Orcinus	orca Linnaeus 1758
+Orcinus	orca orca
+Orcinus	orca
+Orcinus	orca pacifica
+Orcinus	pacifica
+Orcinus	paleorca
+Pseudorca	crassidens Owen 1846
+Pseudorca	yokoyamai
+Tursiops	aduncus aduncus
+Tursiops	aduncus
+Tursiops	aduncus Ehrenberg 1833
+Tursiops	astensis
+Tursiops	australis Charlton-Robb Gershwin Thompson Austin Owen & McKechnie 2011
+Tursiops	brochii
+Tursiops	capellinii
+Tursiops	nesarnack nesarnack
+Tursiops	nesarnack
+Tursiops	oligodon
+Tursiops	osennae
+Tursiops	truncatus ponticus Barabash-Nikiforov 1940
+Tursiops	ponticus Barabash-Nikiforov 1940
+Tursiops	truncatus gillii Dall 1873
+Tursiops	gillii Dall 1873
+Tursiops	truncatus Montagu 1821
+Tursiops	truncatus truncatus
+Tursiops	truncatus
+Tursiops	tursio cymodoce
+Tursiops	cymodoce

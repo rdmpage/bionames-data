@@ -1,0 +1,507 @@
+Macaca	arctoides
+Macaca	assamensis pelops
+Macaca	pelops
+Macaca	assamensis assamensis
+Macaca	assamensis
+Macaca	cyclopis
+Macaca	fascicularis atriceps
+Macaca	atriceps
+Macaca	fascicularis condorensis
+Macaca	condorensis
+Macaca	fascicularis fuscus
+Macaca	fuscus
+Macaca	fascicularis aureus
+Macaca	aureus
+Macaca	fascicularis karimondjawae
+Macaca	karimondjawae
+Macaca	fascicularis lasiae
+Macaca	lasiae
+Macaca	fascicularis philippensis
+Macaca	philippensis
+Macaca	fascicularis tua
+Macaca	tua
+Macaca	fascicularis umbrosus
+Macaca	umbrosus
+Macaca	fascicularis
+Macaca	fascicularis fascicularis
+Macaca	fuscata yakui
+Macaca	yakui
+Macaca	fuscata
+Macaca	fuscata fuscata
+Macaca	hecki
+Macaca	leonina
+Macaca	maura
+Macaca	mulatta
+Macaca	munzala
+Macaca	nemestrina
+Macaca	nigra
+Macaca	nigrescens
+Macaca	ochreata
+Macaca	ochreata ochreata
+Macaca	ochreata brunnescens
+Macaca	brunnescens
+Macaca	pagensis
+Macaca	radiata radiata
+Macaca	radiata
+Macaca	radiata diluta
+Macaca	diluta
+Macaca	siberu
+Macaca	silenus
+Macaca	sinica aurifrons
+Macaca	aurifrons
+Macaca	sinica opisthomelas
+Macaca	opisthomelas
+Macaca	sinica sinica
+Macaca	sinica
+Macaca	sylvanus
+Macaca	thibetana huangshanensis
+Macaca	huangshanensis
+Macaca	thibetana guiahouensis
+Macaca	guiahouensis
+Macaca	thibetana esau
+Macaca	esau
+Macaca	thibetana
+Macaca	thibetana thibetana
+Macaca	tonkeana
+Cercopithecus	albogularis moloneyi
+Cercopithecus	moloneyi
+Cercopithecus	albogularis phylax
+Cercopithecus	phylax
+Cercopithecus	albogularis zammaranoi
+Cercopithecus	zammaranoi
+Cercopithecus	albogularis
+Cercopithecus	albogularis monoides
+Cercopithecus	monoides
+Cercopithecus	albogularis francescae
+Cercopithecus	francescae
+Cercopithecus	albogularis albogularis
+Cercopithecus	albogularis albotorquatus
+Cercopithecus	albotorquatus
+Cercopithecus	albogularis labiatus
+Cercopithecus	labiatus
+Cercopithecus	albogularis kolbi
+Cercopithecus	kolbi
+Cercopithecus	albogularis erythrarchus
+Cercopithecus	erythrarchus
+Cercopithecus	albogularis kibonotensis
+Cercopithecus	kibonotensis
+Cercopithecus	albogularis schwarzi
+Cercopithecus	schwarzi
+Cercopithecus	ascanius atrinasus
+Cercopithecus	atrinasus
+Cercopithecus	ascanius schmidti
+Cercopithecus	schmidti
+Cercopithecus	ascanius katangae
+Cercopithecus	katangae
+Cercopithecus	ascanius whitesidei
+Cercopithecus	whitesidei
+Cercopithecus	ascanius
+Cercopithecus	ascanius ascanius
+Cercopithecus	campbelli
+Cercopithecus	campbelli campbelli
+Cercopithecus	campbelli lowei
+Cercopithecus	lowei
+Cercopithecus	cephus ngottoensis
+Cercopithecus	ngottoensis
+Cercopithecus	cephus cephodes
+Cercopithecus	cephodes
+Cercopithecus	cephus
+Cercopithecus	cephus cephus
+Cercopithecus	denti
+Cercopithecus	diana
+Cercopithecus	diana roloway
+Cercopithecus	roloway
+Cercopithecus	diana diana
+Cercopithecus	doggetti
+Cercopithecus	dryas
+Cercopithecus	erythrogaster pococki
+Cercopithecus	pococki
+Cercopithecus	erythrogaster
+Cercopithecus	erythrogaster erythrogaster
+Cercopithecus	erythrotis camerunensis
+Cercopithecus	camerunensis
+Cercopithecus	erythrotis
+Cercopithecus	erythrotis erythrotis
+Cercopithecus	hamlyni hamlyni
+Cercopithecus	hamlyni
+Cercopithecus	hamlyni kahuziensis
+Cercopithecus	kahuziensis
+Cercopithecus	kandti
+Cercopithecus	lhoesti
+Cercopithecus	mitis elgonis
+Cercopithecus	elgonis
+Cercopithecus	mitis albogularis
+Cercopithecus	mitis boutourlinii
+Cercopithecus	boutourlinii
+Cercopithecus	mitis doggetti
+Cercopithecus	mitis labiatus
+Cercopithecus	mitis schoutedeni
+Cercopithecus	schoutedeni
+Cercopithecus	mitis zammaronoi
+Cercopithecus	zammaronoi
+Cercopithecus	mitis albotorquatus
+Cercopithecus	mitis erythrarchus
+Cercopithecus	mitis heymansi
+Cercopithecus	heymansi
+Cercopithecus	mitis francescae
+Cercopithecus	mitis kolbi
+Cercopithecus	mitis monoides
+Cercopithecus	mitis opisthostictus
+Cercopithecus	opisthostictus
+Cercopithecus	mitis stuhlmanni
+Cercopithecus	stuhlmanni
+Cercopithecus	mitis moloneyi
+Cercopithecus	mitis kandti
+Cercopithecus	mitis
+Cercopithecus	mitis mitis
+Cercopithecus	mona
+Cercopithecus	neglectus
+Cercopithecus	nictitans martini
+Cercopithecus	martini
+Cercopithecus	nictitans
+Cercopithecus	nictitans nictitans
+Cercopithecus	petaurista buettikoferi
+Cercopithecus	buettikoferi
+Cercopithecus	petaurista petaurista
+Cercopithecus	petaurista
+Cercopithecus	pogonias wolfi
+Cercopithecus	wolfi
+Cercopithecus	pogonias pogonias
+Cercopithecus	pogonias
+Cercopithecus	pogonias elegans
+Cercopithecus	elegans
+Cercopithecus	pogonias nigripes
+Cercopithecus	nigripes
+Cercopithecus	pogonias schwarzianus
+Cercopithecus	schwarzianus
+Cercopithecus	pogonias grayi
+Cercopithecus	grayi
+Cercopithecus	pogonias denti
+Cercopithecus	preussi insularis
+Cercopithecus	insularis
+Cercopithecus	preussi preussi
+Cercopithecus	preussi
+Cercopithecus	sclateri
+Cercopithecus	solatus
+Cercopithecus	wolfi elegans
+Cercopithecus	wolfi wolfi
+Simias	concolor
+Simias	concolor concolor
+Simias	concolor siberu
+Simias	siberu
+Rungwecebus	kipunji
+Cercocebus	agilis
+Cercocebus	atys lunulatus
+Cercocebus	lunulatus
+Cercocebus	atys
+Cercocebus	atys atys
+Cercocebus	chrysogaster
+Cercocebus	galeritus
+Cercocebus	sanjei
+Cercocebus	torquatus
+Theropithecus	gelada gelada
+Theropithecus	gelada
+Theropithecus	gelada obscurus
+Theropithecus	obscurus
+Theropithecus	oswaldi
+Dolichopithecus	ruscinensis
+Colobus	angolensis palliatus
+Colobus	palliatus
+Colobus	angolensis ruwenzorii
+Colobus	ruwenzorii
+Colobus	angolensis cottoni
+Colobus	cottoni
+Colobus	angolensis prigoginei
+Colobus	prigoginei
+Colobus	angolensis cordieri
+Colobus	cordieri
+Colobus	angolensis palliates
+Colobus	palliates
+Colobus	angolensis
+Colobus	angolensis angolensis
+Colobus	guereza percivali
+Colobus	percivali
+Colobus	guereza caudatus
+Colobus	caudatus
+Colobus	guereza matschiei
+Colobus	matschiei
+Colobus	guereza dodingae
+Colobus	dodingae
+Colobus	guereza kikuyuensis
+Colobus	kikuyuensis
+Colobus	guereza occidentalis
+Colobus	occidentalis
+Colobus	guereza gallarum
+Colobus	gallarum
+Colobus	guereza
+Colobus	guereza guereza
+Colobus	polykomos
+Colobus	satanas anthracinus
+Colobus	anthracinus
+Colobus	satanas satanas
+Colobus	satanas
+Colobus	vellerosus
+Presbytis	chrysomelas cruciger
+Presbytis	cruciger
+Presbytis	chrysomelas chrysomelas
+Presbytis	chrysomelas
+Presbytis	comata fredericae
+Presbytis	fredericae
+Presbytis	comata comata
+Presbytis	comata
+Presbytis	femoralis robinsoni
+Presbytis	robinsoni
+Presbytis	femoralis percura
+Presbytis	percura
+Presbytis	femoralis femoralis
+Presbytis	femoralis
+Presbytis	frontata
+Presbytis	hosei canicrus
+Presbytis	canicrus
+Presbytis	hosei everetti
+Presbytis	everetti
+Presbytis	hosei sabana
+Presbytis	sabana
+Presbytis	hosei
+Presbytis	hosei hosei
+Presbytis	melalophos bicolor
+Presbytis	bicolor
+Presbytis	melalophos mitrata
+Presbytis	mitrata
+Presbytis	melalophos sumatranus
+Presbytis	sumatranus
+Presbytis	melalophos
+Presbytis	melalophos melalophos
+Presbytis	natunae
+Presbytis	potenziani siberu
+Presbytis	siberu
+Presbytis	potenziani
+Presbytis	potenziani potenziani
+Presbytis	rubicunda chrysea
+Presbytis	chrysea
+Presbytis	rubicunda ignita
+Presbytis	ignita
+Presbytis	rubicunda carimatae
+Presbytis	carimatae
+Presbytis	rubicunda rubida
+Presbytis	rubida
+Presbytis	rubicunda rubicunda
+Presbytis	rubicunda
+Presbytis	siamensis rhionis
+Presbytis	rhionis
+Presbytis	siamensis paenulata
+Presbytis	paenulata
+Presbytis	siamensis cana
+Presbytis	cana
+Presbytis	siamensis
+Presbytis	siamensis siamensis
+Presbytis	thomasi
+Procolobus	badius badius
+Procolobus	badius
+Procolobus	badius temminckii
+Procolobus	temminckii
+Procolobus	badius waldroni
+Procolobus	waldroni
+Procolobus	gordonorum
+Procolobus	kirkii
+Procolobus	pennantii
+Procolobus	pennantii bouvieri
+Procolobus	bouvieri
+Procolobus	pennantii epieni
+Procolobus	epieni
+Procolobus	pennantii pennantii
+Procolobus	preussi
+Procolobus	rufomitratus rufomitratus
+Procolobus	rufomitratus
+Procolobus	rufomitratus tholloni
+Procolobus	tholloni
+Procolobus	rufomitratus oustaleti
+Procolobus	oustaleti
+Procolobus	rufomitratus tephrosceles
+Procolobus	tephrosceles
+Procolobus	verus
+Pygathrix	avunculus
+Pygathrix	bieti
+Pygathrix	brelichi
+Pygathrix	cinerea
+Pygathrix	nemaeus
+Pygathrix	nigripes
+Pygathrix	roxellana
+Allenopithecus	nigroviridis
+Semnopithecus	ajax
+Semnopithecus	dussumieri
+Semnopithecus	entellus
+Semnopithecus	hector
+Semnopithecus	hypoleucos
+Semnopithecus	priam thersites
+Semnopithecus	thersites
+Semnopithecus	priam priam
+Semnopithecus	priam
+Semnopithecus	schistaceus
+Victoriapithecus	macinnesi
+Prohylobates	tandyi
+Chlorocebus	aethiops
+Chlorocebus	cynosuros
+Chlorocebus	djamdjamensis
+Chlorocebus	lhoesti
+Chlorocebus	patas
+Chlorocebus	pygerythrus
+Chlorocebus	pygerythrus nesiotes
+Chlorocebus	nesiotes
+Chlorocebus	pygerythrus nifoviridis
+Chlorocebus	nifoviridis
+Chlorocebus	pygerythrus hilgerti
+Chlorocebus	hilgerti
+Chlorocebus	pygerythrus excubutor
+Chlorocebus	excubutor
+Chlorocebus	pygerythrus pygerythrus
+Chlorocebus	sabaeus
+Chlorocebus	solatus
+Chlorocebus	tantalus
+Chlorocebus	tantalus marrensis
+Chlorocebus	marrensis
+Chlorocebus	tantalus budgetti
+Chlorocebus	budgetti
+Chlorocebus	tantalus tantalus
+Rhinopithecus	avunculus
+Rhinopithecus	bieti
+Rhinopithecus	brelichi
+Rhinopithecus	roxellana qinlingensis
+Rhinopithecus	qinlingensis
+Rhinopithecus	roxellana hubeiensis
+Rhinopithecus	hubeiensis
+Rhinopithecus	roxellana
+Rhinopithecus	roxellana roxellana
+Trachypithecus	auratus mauritius
+Trachypithecus	mauritius
+Trachypithecus	auratus
+Trachypithecus	auratus auratus
+Trachypithecus	barbei
+Trachypithecus	cristatus vigilans
+Trachypithecus	vigilans
+Trachypithecus	cristatus
+Trachypithecus	cristatus cristatus
+Trachypithecus	delacouri
+Trachypithecus	ebenus
+Trachypithecus	francoisi
+Trachypithecus	geei bhutanensis
+Trachypithecus	bhutanensis
+Trachypithecus	geei
+Trachypithecus	geei geei
+Trachypithecus	germaini caudalis
+Trachypithecus	caudalis
+Trachypithecus	germaini germaini
+Trachypithecus	germaini
+Trachypithecus	hatinhensis
+Trachypithecus	johnii
+Trachypithecus	laotum
+Trachypithecus	obscurus carbo
+Trachypithecus	carbo
+Trachypithecus	obscurus flavicauda
+Trachypithecus	flavicauda
+Trachypithecus	obscurus styx
+Trachypithecus	styx
+Trachypithecus	obscurus seimundi
+Trachypithecus	seimundi
+Trachypithecus	obscurus sanctorum
+Trachypithecus	sanctorum
+Trachypithecus	obscurus obscurus
+Trachypithecus	obscurus
+Trachypithecus	obscurus halonifer
+Trachypithecus	halonifer
+Trachypithecus	phayrei crepuscula
+Trachypithecus	crepuscula
+Trachypithecus	phayrei shanicus
+Trachypithecus	shanicus
+Trachypithecus	phayrei phayrei
+Trachypithecus	phayrei
+Trachypithecus	pileatus durga
+Trachypithecus	durga
+Trachypithecus	pileatus brahma
+Trachypithecus	brahma
+Trachypithecus	pileatus tenebricus
+Trachypithecus	tenebricus
+Trachypithecus	pileatus
+Trachypithecus	pileatus pileatus
+Trachypithecus	poliocephalus leucocephalus
+Trachypithecus	leucocephalus
+Trachypithecus	poliocephalus
+Trachypithecus	poliocephalus poliocephalus
+Trachypithecus	shortridgei
+Trachypithecus	vetulus monticola
+Trachypithecus	monticola
+Trachypithecus	vetulus nestor
+Trachypithecus	nestor
+Trachypithecus	vetulus philbricki
+Trachypithecus	philbricki
+Trachypithecus	vetulus vetulus
+Trachypithecus	vetulus
+Erythrocebus	patas
+Miopithecus	ogouensis
+Miopithecus	talapoin
+Mandrillus	leucophaeus poensis
+Mandrillus	poensis
+Mandrillus	leucophaeus leucophaeus
+Mandrillus	leucophaeus
+Mandrillus	sphinx
+Mesopithecus	monspessulanus
+Mesopithecus	pentelicus
+Nasalis	concolor
+Nasalis	larvatus
+Nasalis	larvatus orientalis
+Nasalis	orientalis
+Nasalis	larvatus larvatus
+Lophocebus	albigena osmani
+Lophocebus	osmani
+Lophocebus	albigena johnstoni
+Lophocebus	johnstoni
+Lophocebus	albigena
+Lophocebus	albigena albigena
+Lophocebus	aterrimus opdenboschi
+Lophocebus	opdenboschi
+Lophocebus	aterrimus aterrimus
+Lophocebus	aterrimus
+Lophocebus	kipunji
+Piliocolobus	badius temminckii
+Piliocolobus	temminckii
+Piliocolobus	badius waldronae
+Piliocolobus	waldronae
+Piliocolobus	badius badius
+Piliocolobus	badius
+Piliocolobus	foai parmentierorum
+Piliocolobus	parmentierorum
+Piliocolobus	foai oustaleti
+Piliocolobus	oustaleti
+Piliocolobus	foai semlikiensis
+Piliocolobus	semlikiensis
+Piliocolobus	foai ellioti
+Piliocolobus	ellioti
+Piliocolobus	foai
+Piliocolobus	foai foai
+Piliocolobus	gordonorum
+Piliocolobus	kirkii
+Piliocolobus	pennantii epieni
+Piliocolobus	epieni
+Piliocolobus	pennantii bouvieri
+Piliocolobus	bouvieri
+Piliocolobus	pennantii pennantii
+Piliocolobus	pennantii
+Piliocolobus	preussi
+Piliocolobus	rufomitratus
+Piliocolobus	tephrosceles
+Piliocolobus	tholloni
+Papio	anubis
+Papio	cynocephalus
+Papio	cynocephalus ibeanus
+Papio	ibeanus
+Papio	cynocephalus cynocephalus
+Papio	cynocephalus kindae
+Papio	kindae
+Papio	hamadryas
+Papio	papio
+Papio	ursinus ruacana
+Papio	ruacana
+Papio	ursinus griseipes
+Papio	griseipes
+Papio	ursinus
+Papio	ursinus ursinus

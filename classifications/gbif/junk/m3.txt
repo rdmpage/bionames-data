@@ -1,0 +1,334 @@
+Otomops	formosus
+Otomops	johnstonei
+Otomops	madagascariensis
+Otomops	martiensseni icarus
+Otomops	icarus
+Otomops	martiensseni
+Otomops	martiensseni martiensseni
+Otomops	papuensis
+Otomops	secundus
+Otomops	wroughtoni
+Mops	brachypterus leonis
+Mops	leonis
+Mops	brachypterus brachypterus
+Mops	brachypterus
+Mops	condylurus orientis
+Mops	orientis
+Mops	condylurus wonderi
+Mops	wonderi
+Mops	condylurus osborni
+Mops	osborni
+Mops	condylurus
+Mops	condylurus condylurus
+Mops	congicus
+Mops	demonstrator
+Mops	leucostigma
+Mops	midas miarensis
+Mops	miarensis
+Mops	midas midas
+Mops	midas
+Mops	mops
+Mops	nanulus
+Mops	niangarae
+Mops	niveiventer
+Mops	petersoni
+Mops	sarasinorum lanei
+Mops	lanei
+Mops	sarasinorum
+Mops	sarasinorum sarasinorum
+Mops	spurrelli
+Mops	thersites
+Mops	trevori
+Mormopterus	acetabulosus
+Mormopterus	beccarii astrolabiensis
+Mormopterus	astrolabiensis
+Mormopterus	beccarii
+Mormopterus	beccarii beccarii
+Mormopterus	doriae
+Mormopterus	helveticus
+Mormopterus	jugularis
+Mormopterus	kalinowskii
+Mormopterus	loriae ridei
+Mormopterus	ridei
+Mormopterus	loriae cobourgiana
+Mormopterus	cobourgiana
+Mormopterus	loriae
+Mormopterus	loriae loriae
+Mormopterus	minutus
+Mormopterus	nonghensis
+Mormopterus	norfolkensis
+Mormopterus	petrophilus
+Mormopterus	phrudus
+Mormopterus	planiceps
+Mormopterus	setiger
+Mormopterus	stehlini
+Chaerephon	aloysiisabaudiae
+Chaerephon	ansorgei
+Chaerephon	bemmeleni cistura
+Chaerephon	cistura
+Chaerephon	bemmeleni bemmeleni
+Chaerephon	bemmeleni
+Chaerephon	bivittata
+Chaerephon	bivittatus
+Chaerephon	bregullae
+Chaerephon	chapini
+Chaerephon	chapini chapini
+Chaerephon	chapini lancasteri
+Chaerephon	lancasteri
+Chaerephon	gallagheri
+Chaerephon	jobensis colonicus
+Chaerephon	colonicus
+Chaerephon	jobensis
+Chaerephon	jobensis jobensis
+Chaerephon	johorensis
+Chaerephon	leucogaster
+Chaerephon	major
+Chaerephon	nigeriae spillmani
+Chaerephon	spillmani
+Chaerephon	nigeriae
+Chaerephon	nigeriae nigeriae
+Chaerephon	plicata
+Chaerephon	plicatus tenuis
+Chaerephon	tenuis
+Chaerephon	plicatus luzonus
+Chaerephon	luzonus
+Chaerephon	plicatus insularis
+Chaerephon	insularis
+Chaerephon	plicatus dilatatus
+Chaerephon	dilatatus
+Chaerephon	plicatus
+Chaerephon	plicatus plicatus
+Chaerephon	pumila
+Chaerephon	pumilus
+Chaerephon	russata
+Chaerephon	russatus
+Chaerephon	shortridgei
+Chaerephon	solomonis
+Chaerephon	tomensis
+Tadarida	aegyptiaca bocagei
+Tadarida	bocagei
+Tadarida	aegyptiaca thomasi
+Tadarida	thomasi
+Tadarida	aegyptiaca tragatus
+Tadarida	tragatus
+Tadarida	aegyptiaca sindica
+Tadarida	sindica
+Tadarida	aegyptiaca
+Tadarida	aegyptiaca aegyptiaca
+Tadarida	aloysiisabaudiae
+Tadarida	ansorgei
+Tadarida	australis
+Tadarida	bemmeleni
+Tadarida	bivittata
+Tadarida	brachyptera
+Tadarida	brasiliensis constanzae
+Tadarida	constanzae
+Tadarida	brasiliensis bahamensis
+Tadarida	bahamensis
+Tadarida	brasiliensis cynocephala
+Tadarida	cynocephala
+Tadarida	brasiliensis mexicana
+Tadarida	mexicana
+Tadarida	brasiliensis murina
+Tadarida	murina
+Tadarida	brasiliensis antillularum
+Tadarida	antillularum
+Tadarida	brasiliensis intermedia
+Tadarida	intermedia
+Tadarida	brasiliensis muscula
+Tadarida	muscula
+Tadarida	brasiliensis brasiliensis
+Tadarida	brasiliensis
+Tadarida	bregullae
+Tadarida	chapini
+Tadarida	condylura
+Tadarida	congica
+Tadarida	constantinei
+Tadarida	demonstrator
+Tadarida	engesseri
+Tadarida	espiritosantensis
+Tadarida	fulminans mastersoni
+Tadarida	mastersoni
+Tadarida	fulminans fulminans
+Tadarida	fulminans
+Tadarida	gallagheri
+Tadarida	insignis
+Tadarida	jobensis
+Tadarida	jobimena
+Tadarida	johorensis
+Tadarida	kuboriensis
+Tadarida	latouchei
+Tadarida	leptognatha
+Tadarida	leucostigma
+Tadarida	lobata
+Tadarida	major
+Tadarida	midas
+Tadarida	mops
+Tadarida	nanula
+Tadarida	niangarae
+Tadarida	nigeriae
+Tadarida	niveiventer
+Tadarida	petersoni
+Tadarida	plicata
+Tadarida	pumila
+Tadarida	rusingae
+Tadarida	russata
+Tadarida	sarasinorum
+Tadarida	solomonis
+Tadarida	spurrelli
+Tadarida	teniotis teniotis
+Tadarida	teniotis
+Tadarida	teniotis rueppelli
+Tadarida	rueppelli
+Tadarida	thersites
+Tadarida	tomensis
+Tadarida	trevori
+Tadarida	ventralis africana
+Tadarida	africana
+Tadarida	ventralis ventralis
+Tadarida	ventralis
+Molossus	ater
+Molossus	aztecus
+Molossus	barnesi
+Molossus	bondae
+Molossus	coibensis
+Molossus	colibensis
+Molossus	currentium bondae
+Molossus	currentium robustus
+Molossus	robustus
+Molossus	currentium
+Molossus	currentium currentium
+Molossus	molossus verrilli
+Molossus	verrilli
+Molossus	molossus pygmaeus
+Molossus	pygmaeus
+Molossus	molossus fortis
+Molossus	fortis
+Molossus	molossus milleri
+Molossus	milleri
+Molossus	molossus debilis
+Molossus	debilis
+Molossus	molossus tropidorhynchus
+Molossus	tropidorhynchus
+Molossus	molossus molossus
+Molossus	molossus
+Molossus	pretiosus
+Molossus	rufus
+Molossus	sinaloae sinaloae
+Molossus	sinaloae
+Molossus	sinaloae trinitatus
+Molossus	trinitatus
+Nyctinomus	helveticus
+Nyctinomus	stehlini
+Platymops	setiger macmillani
+Platymops	macmillani
+Platymops	setiger setiger
+Platymops	setiger
+Nyctinomops	aurispinosus
+Nyctinomops	femorosaccus
+Nyctinomops	laticaudatus yucatanicus
+Nyctinomops	yucatanicus
+Nyctinomops	laticaudatus ferruginea
+Nyctinomops	ferruginea
+Nyctinomops	laticaudatus macarenensis
+Nyctinomops	macarenensis
+Nyctinomops	laticaudatus europs
+Nyctinomops	europs
+Nyctinomops	laticaudatus laticaudatus
+Nyctinomops	laticaudatus
+Nyctinomops	macrotis
+Eumops	auripendulus major
+Eumops	major
+Eumops	auripendulus auripendulus
+Eumops	auripendulus
+Eumops	bonariensis
+Eumops	bonariensis delticus
+Eumops	delticus
+Eumops	bonariensis nanus
+Eumops	nanus
+Eumops	bonariensis bonariensis
+Eumops	dabbenei
+Eumops	floridanus
+Eumops	glaucinus floridanus
+Eumops	glaucinus glaucinus
+Eumops	glaucinus
+Eumops	hansae
+Eumops	maurus
+Eumops	patagonicus beckeri
+Eumops	beckeri
+Eumops	patagonicus
+Eumops	patagonicus patagonicus
+Eumops	perotis californicus
+Eumops	californicus
+Eumops	perotis gigas
+Eumops	gigas
+Eumops	perotis
+Eumops	perotis perotis
+Eumops	trumbulli
+Eumops	underwoodi sonoriensis
+Eumops	sonoriensis
+Eumops	underwoodi
+Eumops	underwoodi underwoodi
+Cheiromeles	parvidens
+Cheiromeles	torquatus caudatus
+Cheiromeles	caudatus
+Cheiromeles	torquatus jacobsoni
+Cheiromeles	jacobsoni
+Cheiromeles	torquatus torquatus
+Cheiromeles	torquatus
+Molossops	abrasus
+Molossops	aequatorianus
+Molossops	greenhalli
+Molossops	mattogrossensis
+Molossops	neglectus
+Molossops	planirostris
+Molossops	temminckii sylvia
+Molossops	sylvia
+Molossops	temminckii griseiventer
+Molossops	griseiventer
+Molossops	temminckii
+Molossops	temminckii temminckii
+Molossops	temminickii
+Sauromys	petrophilus erongensis
+Sauromys	erongensis
+Sauromys	petrophilus fitzsimonsi
+Sauromys	fitzsimonsi
+Sauromys	petrophilus umbratus
+Sauromys	umbratus
+Sauromys	petrophilus haagneri
+Sauromys	haagneri
+Sauromys	petrophilus petrophilus
+Sauromys	petrophilus
+Promops	centralis occultus
+Promops	occultus
+Promops	centralis davisoni
+Promops	davisoni
+Promops	centralis
+Promops	centralis centralis
+Promops	nasutus pamana
+Promops	pamana
+Promops	nasutus fosteri
+Promops	fosteri
+Promops	nasutus ancilla
+Promops	ancilla
+Promops	nasutus downsi
+Promops	downsi
+Promops	nasutus nasutus
+Promops	nasutus
+Cynomops	abrasus brachymeles
+Cynomops	brachymeles
+Cynomops	abrasus cerastes
+Cynomops	cerastes
+Cynomops	abrasus mastivus
+Cynomops	mastivus
+Cynomops	abrasus
+Cynomops	abrasus abrasus
+Cynomops	greenhalli
+Cynomops	mexicanus
+Cynomops	paranus
+Cynomops	planirostris
+Myopterus	daubentonii albatus
+Myopterus	albatus
+Myopterus	daubentonii
+Myopterus	daubentonii daubentonii
+Myopterus	whitleyi

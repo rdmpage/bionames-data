@@ -1,0 +1,2339 @@
+Abditomys	latidens Sanborn 1952
+Allocricetulus	curtatus Allen 1925
+Allocricetulus	eversmanni Brandt 1859
+Alticola	albicauda True 1894
+Alticola	albicaudus True 1894
+Alticola	argentatus Severtzov 1879
+Alticola	barakshin Bannikov 1947
+Alticola	lemminus Miller 1898
+Alticola	macrotis Radde 1862
+Alticola	montosa True 1894
+Alticola	olchoensis
+Alticola	olchonensis Litvinov 1960
+Alticola	roylei Gray 1842
+Alticola	semicanus Allen 1924
+Alticola	stoliczkanus Blanford 1875
+Alticola	stracheyi Thomas 1880
+Alticola	strelzowi Kastschenko 1899
+Alticola	tuvinicus Ognev 1950
+Anisomys	imitator Thomas 1904
+Aratomys	bilikeensis
+Aratomys	multifidus
+Arrujaomys	eeyimma Shean
+Arvicanthis	abyssinicus abyssinicus
+Arvicanthis	abyssinicus
+Arvicanthis	abyssinicus virescens
+Arvicanthis	virescens
+Arvicanthis	abyssinicus Rueppell 1842
+Arvicanthis	ansorgei Thomas 1910
+Arvicanthis	blicki Frick 1914
+Arvicanthis	nairobae Allen 1909
+Arvicanthis	neumanni Matschie 1894
+Arvicanthis	niloticus Desmarest 1822
+Arvicanthis	rufinus Temminck 1853
+Atavocricetodon	atavoides
+Atavocricetodon	atavus
+Atavocricetodon	huberi
+Atavocricetodon	hugueneyae
+Atavocricetodon	minusculus
+Atavocricetodon	murinus
+Atavocricetodon	nanoides
+Atavocricetodon	nanus
+Atavocricetodon	paaliensis
+Baiomys	aquilonius
+Baiomys	kolbi
+Baiomys	mowi
+Baiomys	muscularis
+Baiomys	musculus Merriam 1892
+Baiomys	rexroadi
+Baiomys	taylori Thomas 1887
+Bandicota	bengalensis Gray & Hardwicke 1833
+Bandicota	indica Bechstein 1800
+Bandicota	savilei Thomas 1916
+Batomys	dentatus Miller 1911
+Batomys	granti Thomas 1895
+Batomys	russatus Musser Heaney
+Batomys	salomonseni Sanborn 1953
+Berylmys	berdmorei Blyth 1851
+Berylmys	bowersi Anderson 1879
+Berylmys	mackenziei Thomas 1916
+Berylmys	manipulus Thomas 1916
+Bibimys	chacoensis Shamel 1931
+Bibimys	labiosus Winge 1887
+Bibimys	torresi Massoia 1979
+Blanfordimys	afghanus Thomas 1912
+Blanfordimys	bucharensis Vinogradov 1930
+Blanfordimys	bucharicus Vinogradov 1930
+Byzantinia	bayraktepensis
+Byzantinia	dardanellensis
+Byzantinia	nikosi
+Byzantinia	ozansoyi
+Byzantinia	pikermiensis
+Calomys	boliviae Thomas 1901
+Calomys	callidus Thomas 1916
+Calomys	callosus Rengger 1830
+Calomys	expulsus Lund 1841
+Calomys	fecundus Thomas 1926
+Calomys	hummelincki Husson 1960
+Calomys	laucha Fischer 1814
+Calomys	lepidus Thomas 1884
+Calomys	maculatus
+Calomys	musculinus Thomas 1913
+Calomys	sorellus Thomas 1900
+Calomys	tener Winge 1887
+Calomys	tocantinsi Bonvicino Lima
+Calomys	venustus Thomas 1894
+Canariomys	tamarani Lopez-Martinez & Lopez-Jurado 1987
+Celaenomys	silaceus Thomas 1895
+Chelemys	delfini Cabrera 1905
+Chelemys	macronyx Thomas 1894
+Chelemys	megalonyx Waterhouse 1845
+Chibchanomys	orcesi Jenkins & Barnett 1997
+Chibchanomys	trichotis Thomas 1897
+Clethrionomys	californicus Merriam 1890
+Clethrionomys	centralis Miller 1906
+Clethrionomys	gapperi Vigors 1830
+Clethrionomys	glareolus Schreber 1780
+Clethrionomys	rufocanus Sundevall 1846
+Clethrionomys	rutilus rossicus Dukelsky 1928
+Clethrionomys	rossicus Dukelsky 1928
+Clethrionomys	rutilus rutilus
+Clethrionomys	rutilus
+Clethrionomys	rutilus Pallas 1779
+Clethrionomys	sikotanensis Tokuda 1935
+Copemys	barstowensis
+Copemys	dentalis
+Copemys	esmeraldensis
+Copemys	lindsayi
+Copemys	longidens
+Copemys	loxodon
+Copemys	mariae
+Copemys	pagei
+Copemys	pisinnus
+Copemys	russelli
+Copemys	shotwelli
+Copemys	tenuis
+Cricetulus	alticola Thomas 1917
+Cricetulus	barabensis Pallas 1773
+Cricetulus	grangeri
+Cricetulus	kamensis Satunin 1903
+Cricetulus	lama Bonhote 1905
+Cricetulus	longicaudatus Milne-Edwards 1867
+Cricetulus	migratorius Pallas 1773
+Cricetulus	sokolovi Orlov & Malygin 1988
+Cricetulus	tibetanus Thomas 1922
+Cricetus	barrieri
+Cricetus	cricetus latycranius Ognev 1922
+Cricetus	latycranius Ognev 1922
+Cricetus	cricetus canescens Nehring 1899
+Cricetus	canescens Nehring 1899
+Cricetus	cricetus cricetus Linnaeus 1758
+Cricetus	cricetus Linnaeus 1758
+Cricetus	kormosi
+Cricetus	lophidens
+Crossomys	moncktoni Thomas 1907
+Delomys	collinus Thomas 1917
+Delomys	dorsalis Hensel 1872
+Delomys	sublineatus Thomas 1903
+Democricetodon	affinis
+Democricetodon	brevis
+Democricetodon	crassus
+Democricetodon	darocensis
+Democricetodon	franconicus
+Democricetodon	freisingensis
+Democricetodon	gaillardi
+Democricetodon	hispanicus
+Democricetodon	minor gracilis
+Democricetodon	gracilis
+Democricetodon	minor
+Democricetodon	minor minor
+Democricetodon	mutilus
+Democricetodon	romieviensis
+Democricetodon	similis
+Democricetodon	sulcatus
+Democricetodon	vindoboniensis
+Desmodillus	auricularis Smith 1834
+Dinaromys	bogdanovi Martino 1922
+Dipodillus	bottai Lataste 1882
+Dipodillus	campestris Loche 1867
+Dipodillus	dasyurus Wagner 1842
+Dipodillus	harwoodi Thomas 1901
+Dipodillus	jamesi Harrison 1967
+Dipodillus	lowei Thomas & Hinton 1923
+Dipodillus	mackilligini Thomas 1904
+Dipodillus	maghrebi Schlitter & Setzer 1972
+Dipodillus	rupicola Granjon Aniskin Volobouev
+Dipodillus	simoni Lataste 1881
+Dipodillus	somalicus Thomas 1910
+Dipodillus	stigmonyx Heuglin 1877
+Dipodillus	zakariai Cockrum Vaughn
+Echiothrix	centrosa Miller & Hollister 1921
+Echiothrix	leucura Gray 1867
+Eliurus	antsingy Carleton Goodman
+Eliurus	danieli Carleton & Goodman 2007
+Eliurus	ellermani Carleton 1994
+Eliurus	grandidieri Carleton & Goodman 1998
+Eliurus	majori Thomas 1895
+Eliurus	minor Major 1896
+Eliurus	myoxinus Milne-Edwards 1885
+Eliurus	penicillatus Thomas 1908
+Eliurus	petteri Carleton 1994
+Eliurus	tanala Major 1896
+Eliurus	webbi Ellerman 1949
+Epimeriones	austriacus
+Eucricetodon	aquitanicus
+Eucricetodon	collatus
+Eucricetodon	dubius
+Eucricetodon	gerandianus
+Eucricetodon	infralactorensis
+Eucricetodon	longidens
+Eucricetodon	martinensis
+Eucricetodon	youngi
+Euneomys	chinchilloides Waterhouse 1839
+Euneomys	fossor Thomas 1899
+Euneomys	mordax Thomas 1912
+Euneomys	petersoni Allen 1903
+Gerbillurus	paeba Smith 1836
+Gerbillurus	setzeri Schlitter 1973
+Gerbillurus	tytonis Bauer & Niethammer 1960
+Gerbillurus	vallinus Thomas 1918
+Grammomys	aridulus Thomas & Hinton 1923
+Grammomys	buntingi Thomas 1911
+Grammomys	caniceps Hutterer & Dieterlen 1984
+Grammomys	cometes Thomas & Wroughton 1908
+Grammomys	dolichurus Smuts 1832
+Grammomys	dolichutus
+Grammomys	dryas Thomas 1907
+Grammomys	gigas Dollman 1911
+Grammomys	ibeanus Osgood 1910
+Grammomys	kuru Thomas & Wroughton 1907
+Grammomys	macmillani Wroughton 1907
+Grammomys	minnae Hutterer & Dieterlen 1984
+Grammomys	poensis Eisentraut 1965
+Grammomys	rutilans Peters 1876
+Hadromys	humei Thomas 1886
+Hadromys	yunnanensis Yang & Wang 1987
+Hibbardomys	fayae
+Hibbardomys	marthae
+Hibbardomys	skinneri
+Hibbardomys	voorhiesi
+Hibbardomys	zakrzewskii
+Huerzelerimys	minor
+Huerzelerimys	oreopitheci
+Huerzelerimys	turoliensis
+Huerzelerimys	vireti
+Hybomys	badius Osgood 1936
+Hybomys	basilii Eisentraut 1965
+Hybomys	eisentrauti Van der Straeten & Hutterer 1986
+Hybomys	lunaris Thomas 1906
+Hybomys	planifrons Miller 1900
+Hybomys	trivirgatus Temminck 1853
+Hybomys	univittatus Peters 1876
+Hylomyscus	aeta Thomas 1911
+Hylomyscus	alleni Waterhouse 1838
+Hylomyscus	baeri Heim de Balsac & Aellen 1965
+Hylomyscus	carillus Thomas 1904
+Hylomyscus	denniae Thomas 1906
+Hylomyscus	grandis Eisentraut 1969
+Hylomyscus	parvus Brosset Dubost
+Hylomyscus	stella Thomas 1911
+Hyomys	dammermani Stein 1933
+Hyomys	goliath Milne-Edwards 1900
+Irenomys	tarsalis Philippi 1900
+Isthmomys	flavidus Bangs 1902
+Isthmomys	pirrensis Goldman 1912
+Jacobsomys	verdensis
+Lamottemys	okuensis Petter 1986
+Lartetomys	mirabilis
+Lartetomys	zapfei
+Lemmus	amurensis Vinogradov 1924
+Lemmus	lemmus Linnaeus 1758
+Lemmus	portenkoi Tchernyavsky 1967
+Lemmus	sibiricus Kerr 1792
+Lenoxus	apicalis Allen 1900
+Limnomys	bryophilus Rickart Heaney
+Limnomys	sibuanus Mearns 1905
+Lorentzimys	nouhuysi Jentink 1911
+Madromys	blanfordi Thomas 1881
+Mastacomys	fuscus Thomas 1882
+Maxomys	alticola Thomas 1888
+Maxomys	baeodon Thomas 1894
+Maxomys	bartelsii Jentink 1910
+Maxomys	dollmani Ellerman 1941
+Maxomys	hellwaldii Jentink 1878
+Maxomys	hylomyoides Robinson & Kloss 1916
+Maxomys	inas Bonhote 1906
+Maxomys	inflatus Robinson & Kloss 1916
+Maxomys	moi Robinson & Kloss 1922
+Maxomys	musschenbroekii Jentink 1878
+Maxomys	ochraceiventer Thomas 1894
+Maxomys	pagensis Miller 1903
+Maxomys	panglima Robinson 1921
+Maxomys	rajah Thomas 1894
+Maxomys	surfier
+Maxomys	surifer Miller 1900
+Maxomys	wattsi Musser 1991
+Maxomys	whiteheadi Thomas 1894
+Melasmothrix	naso Miller & Hollister 1921
+Melissiodon	arambourgi
+Melissiodon	bernlochensis
+Melissiodon	chatticum
+Melissiodon	dominans
+Melissiodon	emmerichi
+Melissiodon	quercyi
+Melissiodon	schalki
+Melissiodon	schaubi
+Melissiodon	schlosseri
+Melissiodon	schroderi
+Meriones	arimalius Cheesman & Hinton 1924
+Meriones	chengi Wang 1964
+Meriones	crassus Sundevall 1842
+Meriones	dahli Shidlovsky 1962
+Meriones	grandis Cabrera 1907
+Meriones	hurrianae Jordon 1867
+Meriones	libycus Lichtenstein 1823
+Meriones	meridianus Pallas 1773
+Meriones	persicus Blanford 1875
+Meriones	rex Yerbury & Thomas 1895
+Meriones	sacramenti Thomas 1922
+Meriones	shawi Duvernoy 1842
+Meriones	tamariscinus Pallas 1773
+Meriones	tristrami Thomas 1892
+Meriones	unguiculatus Milne-Edwards 1867
+Meriones	vinogradovi Heptner 1931
+Meriones	zarudnyi Heptner 1937
+Meteamys	alpani
+Micaelamys	granti Wroughton 1908
+Micaelamys	namaquensis Smith 1834
+Muhsinia	steffensi
+Nebraskomys	mcgrewi
+Nebraskomys	rexroadensis
+Neocometes	similis
+Neofiber	alleni True 1884
+Neofiber	diluvianus
+Neofiber	leonardi
+Neohydromys	fuscus Laurie 1952
+Nesokia	bunnii Khajuria 1981
+Nesokia	indica Gray & Hardwicke 1830
+Nesoromys	ceramicus Thomas 1920
+Nesoryzomys	darwini Osgood 1929
+Nesoryzomys	fernandinae Hutterer & Hirsch 1979
+Nesoryzomys	indefessus Thomas 1899
+Nesoryzomys	narboroughi Heller 1904
+Nesoryzomys	swarthi Orr 1938
+Oligoryzomys	andinus Osgood 1914
+Oligoryzomys	arenalis Thomas 1913
+Oligoryzomys	brendae Massoia 1998
+Oligoryzomys	chacoensis Myers & Carleton 1981
+Oligoryzomys	delticola Thomas 1917
+Oligoryzomys	destructor Tschudi 1844
+Oligoryzomys	eliurus Wagner 1845
+Oligoryzomys	flavescens Waterhouse 1837
+Oligoryzomys	fornesi Massoia 1973
+Oligoryzomys	fulvescens Saussure 1860
+Oligoryzomys	griseolus Osgood 1912
+Oligoryzomys	longicaudatus Bennett 1832
+Oligoryzomys	magellanicus Bennett 1836
+Oligoryzomys	microtis Allen 1916
+Oligoryzomys	moojeni Weksler & Bonvicino 2005
+Oligoryzomys	nigripes Olfers 1818
+Oligoryzomys	rupestris Weksler & Bonvicino 2005
+Oligoryzomys	stramineus Bonvicino & Weksler 1998
+Oligoryzomys	vegetus Bangs 1902
+Oligoryzomys	victus Thomas 1898
+Paciculus	insolitus
+Paciculus	montanus
+Paciculus	nebraskensis
+Paciculus	woodi
+Papagomys	armandvillei Jentink 1892
+Papagomys	theodorverhoeveni Musser 1981
+Pappocricetodon	antiquus
+Pappocricetodon	kazakstanicus
+Pappocricetodon	recunensis
+Parapelomys	robertsi
+Phenacomys	brachyodus
+Phenacomys	deeringensis
+Phenacomys	gryci
+Phenacomys	intermedius Merriam 1889
+Phenacomys	ungava Merriam 1889
+Phloeomys	cumingi Waterhouse 1839
+Phloeomys	pallidus Nehring 1890
+Pithecheir	melanurus Cuvier 1833
+Pithecheir	parvus Kloss 1916
+Pliomys	hungaricus
+Prionomys	batesi Dollman 1910
+Progonomys	cathalai
+Progonomys	hispanicus
+Progonomys	orientalis
+Progonomys	woelferi
+Prometheomys	schaposchnikowi Satunin 1901
+Protatera	davidi
+Protochromys	fellowsi Hinton 1943
+Pseudocricetodon	adroveri
+Pseudocricetodon	moguntiacus moguntiacus
+Pseudocricetodon	moguntiacus
+Pseudocricetodon	moguntiacus orientalis
+Pseudocricetodon	orientalis
+Pseudocricetodon	montalbensis
+Pseudocricetodon	nawabi
+Pseudocricetodon	philippi
+Pseudocricetodon	simplex
+Pseudocricetodon	thaleri
+Pseudomeriones	abbreviatus
+Pseudomeriones	latidens
+Rhagamys	orthodon Hensel 1856
+Rhipidomys	austrinus Thomas 1921
+Rhipidomys	cariri Tribe 2005
+Rhipidomys	caucensis Allen 1913
+Rhipidomys	couesi Allen & Chapman 1893
+Rhipidomys	emiliae Allen 1916
+Rhipidomys	fulviventer Thomas 1896
+Rhipidomys	gardneri Patton da Silva
+Rhipidomys	latimanus Tomes 1860
+Rhipidomys	leucodactylus Tschudi 1844
+Rhipidomys	macconnelli de Winton 1900
+Rhipidomys	macrurus Gervais 1855
+Rhipidomys	maculipes
+Rhipidomys	mastacalis Lund 1840
+Rhipidomys	modicus Thomas 1926
+Rhipidomys	nitela Thomas 1901
+Rhipidomys	ochrogaster Allen 1901
+Rhipidomys	scandens Goldman 1913
+Rhipidomys	venezuelae Thomas 1896
+Rhipidomys	venustus Thomas 1900
+Rhipidomys	wetzeli Gardner 1989
+Rhombomys	opimus Lichtenstein 1823
+Rhynchomys	banahao Balete Rickart Rosell-Ambal Jansa & Heaney 2007
+Rhynchomys	isarogensis Musser & Freeman 1981
+Rhynchomys	soricoides Thomas 1895
+Rhynchomys	tapulao Balete Rickart Rosell-Ambal Jansa & Heaney 2007
+Saccostomus	campestris Peters 1846
+Saccostomus	mearnsi Heller 1910
+Sommeromys	macrorhinos Musser & Durden 2002
+Spalax	arenarius Reshetnik 1939
+Spalax	carmeli Nevo Ivanitskaya
+Spalax	ehrenbergi Nehring 1897
+Spalax	galili Nevo Ivanitskaya
+Spalax	giganteus Nehring 1898
+Spalax	golani Nevo Ivanitskaya
+Spalax	graecus Nehring 1898
+Spalax	graecus istricus Mehely 1909
+Spalax	istricus Mehely 1909
+Spalax	graecus graecus Nehring 1898
+Spalax	judaei Nevo Ivanitskaya
+Spalax	leucodon Nordmann 1840
+Spalax	microphthalmus Guldenstaedt 1770
+Spalax	micropthalmus
+Spalax	nehringi Satunin 1898
+Spalax	sotirisi
+Spalax	uralensis Tiflov & Usov 1939
+Spalax	zemni Erxleben 1777
+Spanocricetodon	ningensis
+Spelaeomys	florensis Hooijer 1957
+Srilankamys	ohiensis Phillips 1929
+Stenocephalemys	albipes Rüppell 1842
+Stenocephalemys	albocaudata Frick 1914
+Stenocephalemys	griseicauda Petter 1972
+Stenocephalemys	ruppi Van der Straeten & Dieterlen 1983
+Stenomys	ceramicus Thomas 1920
+Stenomys	niobe Thomas 1906
+Stenomys	richardsoni Tate 1949
+Stenomys	vandeuseni Taylor & Calaby 1982
+Stenomys	verecundus Thomas 1904
+Sundamys	infraluteus Thomas 1888
+Sundamys	maxi Sody 1932
+Sundamys	muelleri Jentink 1879
+Tachyoryctes	ankoliae Thomas 1909
+Tachyoryctes	annectens Thomas 1891
+Tachyoryctes	audax Thomas 1910
+Tachyoryctes	daemon Thomas 1909
+Tachyoryctes	ibeanus Thomas 1900
+Tachyoryctes	macrocephalus Rüppell 1842
+Tachyoryctes	naivashae Thomas 1909
+Tachyoryctes	rex Heller 1910
+Tachyoryctes	ruandae Lönnberg & Gyldenstolpe 1925
+Tachyoryctes	ruddi Thomas 1909
+Tachyoryctes	rundae
+Tachyoryctes	spalacinus Thomas 1909
+Tachyoryctes	splendens Rüppell 1835
+Tachyoryctes	storeyi Thomas 1909
+Tateomys	macrocercus Musser 1982
+Tateomys	rhinogradoides Musser 1969
+Taterillus	arenarius Robbins 1974
+Taterillus	congicus Thomas 1915
+Taterillus	emini Thomas 1892
+Taterillus	gracilis Thomas 1892
+Taterillus	harringtoni Thomas 1906
+Taterillus	lacustris Thomas & Wroughton 1907
+Taterillus	petteri Gautun Tranier & Sicard 1985
+Taterillus	pygargus Cuvier 1838
+Taterillus	tranieri Dobigny Granjon Aniskin Ba
+Thallomys	loringi Heller 1909
+Thallomys	nigricauda Thomas 1882
+Thallomys	paedulcus Sundevall 1846
+Thallomys	shortridgei Thomas & Hinton 1923
+Thamnomys	kempi Dollman 1911
+Thamnomys	major Hatt 1934
+Thamnomys	schoutedeni Hatt 1934
+Thamnomys	venustus Thomas 1907
+Tokudaia	muennicki
+Tokudaia	muenninki Johnson 1946
+Tokudaia	osimensis Abe 1934
+Tokudaia	tokunoshimensis Endo & Tsuchiya 2006
+Tonkinomys	daovantieni Musser Lunde & Son 2006
+Trilophomys	canterranensis
+Trilophomys	depereti
+Trilophomys	pyrenaicus
+Trilophomys	schaubi
+Tryphomys	adustus Miller 1910
+Tscherskia	triton de Winton 1899
+Uranomys	ruddi Dollman 1909
+Uromys	anak Thomas 1907
+Uromys	boeadii Groves & Flannery 1994
+Uromys	caudimaculatus Krefft 1867
+Uromys	emmae Groves & Flannery 1994
+Uromys	hadrourus Winter 1983
+Uromys	imperator Thomas 1888
+Uromys	neobritanicus Tate & Archbold 1935
+Uromys	neobritannicus Tate & Archbold 1935
+Uromys	porculus Thomas 1904
+Uromys	rex Thomas 1888
+Uromys	siebersi Thomas 1923
+Wiedomys	cerradensis Gonçalves Almeida & Bonvicino 2005
+Wiedomys	pyrrhorhinos Wied-Neuwied 1821
+Xenomys	nelsoni Merriam 1892
+Yatkolamys	edwardsi
+Zyzomys	argurus Thomas 1889
+Zyzomys	maini Kitchener 1989
+Zyzomys	palatalis Kitchener 1989
+Zyzomys	palatilis Kitchener 1989
+Zyzomys	pedunculatus Waite 1896
+Zyzomys	woodwardi Thomas 1909
+Abeomelomys	sevia Tate & Archbold 1935
+Abrawayaomys	ruschii Cunha & Cruz 1979
+Adelomyarion	vireti
+Aethomys	bocagei Thomas 1904
+Aethomys	chrysophilus de Winton 1897
+Aethomys	granti Wroughton 1908
+Aethomys	helleri
+Aethomys	hindei Thomas 1902
+Aethomys	ineptus Thomas & Wroughton 1908
+Aethomys	kaiseri Noack 1887
+Aethomys	namaquensis Smith 1834
+Aethomys	nyikae Thomas 1897
+Aethomys	silindensis Roberts 1938
+Aethomys	stannarius Thomas 1913
+Aethomys	thomasi de Winton 1897
+Allorattus	engesseri
+Anomalomys	aliveriensis
+Anomalomys	gaillardi
+Anomalomys	gaudryi
+Anomalomys	gernoti
+Anomalomys	minor
+Anomalomys	minutus
+Apodemus	agrarius Pallas 1771
+Apodemus	alpicola Heinrich 1952
+Apodemus	argenteus Temminck 1844
+Apodemus	arianus Blanford 1881
+Apodemus	chevrieri Milne-Edwards 1868
+Apodemus	draco Barrett-Hamilton 1900
+Apodemus	epimelas Nehring 1902
+Apodemus	flavicollis Melchior 1834
+Apodemus	fulvipectus Ognev 1924
+Apodemus	gudrunae
+Apodemus	gurkha Thomas 1924
+Apodemus	hermonensis Filippucci Simson
+Apodemus	hyrcanicus Vorontsov Boyeskorov
+Apodemus	latronum Thomas 1911
+Apodemus	lii
+Apodemus	mystacinus Danford & Alston 1877
+Apodemus	orestes
+Apodemus	pallipes Barrett-Hamilton 1900
+Apodemus	peninsulae Thomas 1907
+Apodemus	ponticus Sviridenko 1936
+Apodemus	rusiges Miller 1913
+Apodemus	semotus Thomas 1908
+Apodemus	speciosus Temminck 1844
+Apodemus	sylvaticus Linnaeus 1758
+Apodemus	uralensis Pallas 1811
+Apodemus	wardi Wroughton 1908
+Apodemus	witherbyi Thomas 1902
+Apomys	abrae Sanborn 1952
+Apomys	camiguinensis Heaney & Tabaranza Jr. 2006
+Apomys	datae Meyer 1899
+Apomys	gracilirostris Ruedas 1995
+Apomys	hylocetes Mearns 1905
+Apomys	hylocoetes Mearns 1905
+Apomys	insignis Mearns 1905
+Apomys	littoralis Sanborn 1952
+Apomys	microdon Hollister 1913
+Apomys	musculus Miller 1911
+Apomys	sacobianus Johnson 1962
+Archboldomys	kalinga Balete Rickart & Heaney 2006
+Archboldomys	luzonensis Musser 1982
+Archboldomys	musseri Rickart Heaney Tabaranza Jr.
+Castromys	inflatus
+Castromys	juniensis
+Castromys	littoralis
+Arvicola	amphibius Linnaeus 1758
+Arvicola	intermedius
+Arvicola	sapidus Miller 1908
+Arvicola	sapidus tenebricus Miller 1908
+Arvicola	tenebricus Miller 1908
+Arvicola	sapidus sapidus
+Arvicola	sapidus
+Arvicola	scherman Shaw 1801
+Arvicola	terrestris exitus Miller 1910
+Arvicola	exitus Miller 1910
+Arvicola	terrestris italicus Savi 1839
+Arvicola	italicus Savi 1839
+Arvicola	terrestris meridionalis Ognev 1922
+Arvicola	meridionalis Ognev 1922
+Arvicola	terrestris monticola de Selys-Longchamps 1838
+Arvicola	monticola de Selys-Longchamps 1838
+Arvicola	terrestris scherman Shaw 1801
+Arvicola	terrestris terrestris
+Arvicola	terrestris
+Arvicola	terrestris Linnaeus 1758
+Arvicola	terrestris ferrugineus Ognev 1933
+Arvicola	ferrugineus Ognev 1933
+Arvicola	terrestris musignanus de Selys-Longchamps 1839
+Arvicola	musignanus de Selys-Longchamps 1839
+Arvicola	terrestris amphibius Linnaeus 1758
+Arvicola	terrestris cantabriae Ventura & Gosalbez 1989
+Arvicola	cantabriae Ventura & Gosalbez 1989
+Bullimus	bagobus Mearns 1905
+Bullimus	gamay Rickart Heaney
+Bullimus	luzonicus Thomas 1895
+Bunomys	andrewsi Allen 1911
+Bunomys	chrysocomus Hoffmann 1887
+Bunomys	coelestis Thomas 1896
+Bunomys	fratrorum Thomas 1896
+Bunomys	heinrichi Tate & Archbold 1935
+Bunomys	penitus Miller & Hollister 1921
+Bunomys	prolatus Musser 1991
+Cannomys	badius Hodgson 1841
+Centralomys	benericettii
+Centralomys	magnus
+Coloradoeumys	galbreathi
+Conilurus	albipes Lichtenstein 1829
+Conilurus	pedunculatus Waite 1896
+Conilurus	penicillatus Gould 1842
+Cricetodon	albanensis
+Cricetodon	aliveriensis
+Cricetodon	aureus
+Cricetodon	caucasicus
+Cricetodon	hungaricus
+Cricetodon	jotae
+Cricetodon	jumaensis
+Cricetodon	kasapligili
+Cricetodon	lavocati
+Cricetodon	meini
+Cricetodon	rhodanieus
+Cricetodon	sansaniensis
+Cricetodon	schaubi
+Cricetodon	schaubii
+Cricetodon	tobieni
+Cricetodon	versteegi
+Cricetomys	ansorgei Thomas 1904
+Cricetomys	emini Wroughton 1910
+Cricetomys	gambians
+Cricetomys	gambianus Waterhouse 1840
+Cricetomys	kivuensis Lönnberg 1917
+Desmomys	harringtoni Thomas 1902
+Desmomys	yaldeni Lavrenchenko 2003
+Diomys	crumpi Thomas 1917
+Edirnella	kempeni
+Edirnella	sinani
+Enginia	beckerplateni
+Enginia	djanpolati
+Enginia	gertcheki
+Eoeumys	vetus
+Eothenomys	cachinus Thomas 1921
+Eothenomys	chinensis Thomas 1891
+Eothenomys	custos Thomas 1912
+Eothenomys	eva Thomas 1911
+Eothenomys	inez Thomas 1908
+Eothenomys	melanogaster Milne-Edwards 1871
+Eothenomys	miletus Thomas 1914
+Eothenomys	olitor Thomas 1911
+Eothenomys	proditor Hinton 1923
+Eothenomys	regulus Thomas 1907
+Eothenomys	shanseius Thomas 1908
+Eothenomys	wardi Thomas 1912
+Eropeplus	canus Miller & Hollister 1921
+Eumyarion	bifidus
+Eumyarion	helveticus
+Eumyarion	latior
+Eumyarion	leemanni
+Eumyarion	medius
+Eumyarion	orhani
+Eumyarion	weinfurteri
+Eumys	brachyodus
+Eumys	elegans
+Eumys	parvidens
+Fahlbuschia	darocensis
+Fahlbuschia	koenigswaldi
+Fahlbuschia	larteti
+Gerbilliscus	afra Gray 1830
+Gerbilliscus	boehmi Noack 1887
+Gerbilliscus	brantsii Smith 1836
+Gerbilliscus	gambiana Thomas 1910
+Gerbilliscus	guineae Thomas 1910
+Gerbilliscus	inclusus Thomas & Wroughton 1908
+Gerbilliscus	kempi Wroughton 1906
+Gerbilliscus	leucogaster Peters 1852
+Gerbilliscus	nigricaudus Peters 1879
+Gerbilliscus	phillipsi de Winton 1898
+Gerbilliscus	robustus Cretzschmar 1826
+Gerbilliscus	validus Bocage 1890
+Gerbillus	acticola Thomas 1918
+Gerbillus	agag Thomas 1903
+Gerbillus	allenbyi Thomas 1918
+Gerbillus	amoenus de Winton 1902
+Gerbillus	andersoni de Winton 1902
+Gerbillus	aquilus Schlitter & Setzer 1972
+Gerbillus	bilensis Frick 1914
+Gerbillus	bonhotei Thomas 1919
+Gerbillus	bottai Lataste 1882
+Gerbillus	brockmani Thomas 1910
+Gerbillus	burtoni Cuvier 1838
+Gerbillus	campestris Loche 1867
+Gerbillus	cheesmani Thomas 1919
+Gerbillus	cosensi Dollman 1914
+Gerbillus	dalloni Heim de Balsac 1936
+Gerbillus	dasyurus Wagner 1842
+Gerbillus	diminutus Dollman 1911
+Gerbillus	dongolanus Heuglin 1877
+Gerbillus	dunni Thomas 1904
+Gerbillus	famulus Yerbury & Thomas 1895
+Gerbillus	floweri Thomas 1919
+Gerbillus	garamantis Lataste 1881
+Gerbillus	gerbillus Olivier 1801
+Gerbillus	gleadowi Murray 1886
+Gerbillus	grobbeni Klaptocz 1909
+Gerbillus	harwoodi Thomas 1901
+Gerbillus	henleyi de Winton 1903
+Gerbillus	hesperinus Cabrera 1936
+Gerbillus	hoogstraali Lay 1975
+Gerbillus	jamesi Harrison 1967
+Gerbillus	juliani St. Leger 1935
+Gerbillus	latastei Thomas & Trouessart 1903
+Gerbillus	lowei Thomas & Hinton 1923
+Gerbillus	mackillingini Thomas 1904
+Gerbillus	maghrebi Schlitter & Setzer 1972
+Gerbillus	mauritaniae Heim de Balsac 1943
+Gerbillus	mesopotamiae Harrison 1956
+Gerbillus	muriculus Thomas & Hinton 1923
+Gerbillus	nancillus Thomas & Hinton 1923
+Gerbillus	nanus Blanford 1875
+Gerbillus	nigeriae Thomas & Hinton 1920
+Gerbillus	occidiuus
+Gerbillus	occiduus Lay 1975
+Gerbillus	percivali Dollman 1914
+Gerbillus	perpallidus Setzer 1958
+Gerbillus	poecilops Yerbury & Thomas 1895
+Gerbillus	principulus Thomas & Hinton 1923
+Gerbillus	pulvinatus Rhoads 1896
+Gerbillus	pusillus Peters 1878
+Gerbillus	pyramidum Geoffroy 1825
+Gerbillus	quadrimaculatus Lataste 1882
+Gerbillus	riggenbachi Thomas 1903
+Gerbillus	rosalinda St. Leger 1929
+Gerbillus	ruberrimus Rhoads 1896
+Gerbillus	rupicola Granjon Aniskin Volobouev & Sicard 2002
+Gerbillus	simoni Lataste 1881
+Gerbillus	somalicus Thomas 1910
+Gerbillus	stigmonyx Heuglin 1877
+Gerbillus	syrticus Misonne 1974
+Gerbillus	tarabuli Thomas 1902
+Gerbillus	vivax Thomas 1902
+Gerbillus	watersi de Winton 1901
+Gerbillus	zakariai
+Heramys	eviensis
+Hyperacrius	fertilis True 1894
+Hyperacrius	wynnei Blanford 1881
+Juscelinomys	candango Moojen 1965
+Juscelinomys	guaporensis Emmons 1999
+Juscelinomys	huanchacae Emmons 1999
+Lasiopodomys	brandtii Radde 1861
+Lasiopodomys	deceitensis
+Lasiopodomys	fuscus Büchner 1889
+Lasiopodomys	mandarinus Milne-Edwards 1871
+Leidymys	alicae
+Leidymys	azybaevi
+Leidymys	blacki
+Leidymys	cerasus
+Leidymys	korthi
+Leidymys	lockingtonianus
+Leidymys	nematodon
+Leidymys	parvus
+Leptomys	elegans Thomas 1897
+Leptomys	ernstmayri Ruemmler 1932
+Leptomys	signatus Tate & Archbold 1938
+Margaretamys	beccarii Jentink 1880
+Margaretamys	elegans Musser 1981
+Margaretamys	parvus Musser 1981
+Megacricetodon	andrewsi
+Megacricetodon	bavaricus
+Megacricetodon	bourgeoisi
+Megacricetodon	collongensis
+Megacricetodon	crusafonti
+Megacricetodon	debruijni
+Megacricetodon	gregarius
+Megacricetodon	ibericus
+Megacricetodon	lappi
+Megacricetodon	lopezae
+Megacricetodon	minor
+Megacricetodon	minutus
+Megacricetodon	primitivus
+Megacricetodon	rafaeli
+Megacricetodon	similis
+Megacricetodon	sinensis
+Megalomys	audreyae
+Megalomys	desmarestii Fischer 1829
+Megalomys	luciae Forsyth Major 1901
+Melanomys	caliginosus Tomes 1860
+Melanomys	robustulus Thomas 1914
+Melanomys	zunigae Sanborn 1949
+Mesocricetus	auratus Waterhouse 1839
+Mesocricetus	brandti Nehring 1898
+Mesocricetus	newtoni Nehring 1898
+Mesocricetus	primitivus
+Mesocricetus	raddei Nehring 1894
+Microdillus	peeli de Winton 1898
+Microryzomys	altissimus Osgood 1933
+Microryzomys	minutus Tomes 1860
+Microtocricetus	molassicus
+Microtus	abbreviatus Miller 1899
+Microtus	agrestis armoricanus Balsac & Beaufort 1966
+Microtus	armoricanus Balsac & Beaufort 1966
+Microtus	agrestis levernedii Crespon 1844
+Microtus	levernedii Crespon 1844
+Microtus	agrestis estiae Reinwaldt 1927
+Microtus	estiae Reinwaldt 1927
+Microtus	agrestis gregarius Linnaeus 1766
+Microtus	gregarius Linnaeus 1766
+Microtus	agrestis nigra Fatio 1869
+Microtus	nigra Fatio 1869
+Microtus	agrestis agrestis
+Microtus	agrestis
+Microtus	agrestis macgillivraii Barrett-Hamilton & Hinton 1913
+Microtus	macgillivraii Barrett-Hamilton & Hinton 1913
+Microtus	agrestis Linnaeus 1761
+Microtus	agrestis neglectus Jenyns 1841
+Microtus	neglectus Jenyns 1841
+Microtus	anatolicus Kry?tufek
+Microtus	arvalis Pallas 1778
+Microtus	australis
+Microtus	bavaricus König 1962
+Microtus	brachycercus Lehmann 1961
+Microtus	brecciensis
+Microtus	breweri Baird 1857
+Microtus	bucharicus
+Microtus	cabrerae Thomas 1906
+Microtus	californicus scirpensis Bailey 1900
+Microtus	scirpensis Bailey 1900
+Microtus	californicus californicus Peale 1848
+Microtus	californicus Peale 1848
+Microtus	canicaudus Miller 1897
+Microtus	chrotorrhinus Miller 1894
+Microtus	clarkei Hinton 1923
+Microtus	daghestanicus Shidlovsky 1919
+Microtus	dogramacii Kefelio
+Microtus	duodecimcostatus de Selys-Longchamps 1839
+Microtus	epimticeps
+Microtus	evoronensis Kovalskaya & Sokolov 1980
+Microtus	felteni Malec & Storch 1963
+Microtus	fortis Büchner 1889
+Microtus	gerbei Gerbe 1879
+Microtus	gregalis Pallas 1779
+Microtus	guatemalensis Merriam 1898
+Microtus	guentheri Danford & Alston 1880
+Microtus	guildayi
+Microtus	hibbardi
+Microtus	hyperboreus Vinogradov 1934
+Microtus	ilaeus Thomas 1912
+Microtus	irani Thomas 1921
+Microtus	irene Thomas 1911
+Microtus	juldaschi Severtzov 1879
+Microtus	kermanensis Roguin 1988
+Microtus	kikuchii Kuroda 1920
+Microtus	kirgisorum Ognev 1950
+Microtus	leucurus Blyth 1863
+Microtus	levis Miller 1908
+Microtus	liechtensteini Wettstein 1927
+Microtus	limnophilus Büchner 1889
+Microtus	llanensis
+Microtus	longicaudus coronarius Swarth 1911
+Microtus	coronarius Swarth 1911
+Microtus	longicaudus longicaudus Merriam 1888
+Microtus	longicaudus Merriam 1888
+Microtus	lusitanicus Gerbe 1879
+Microtus	majori Thomas 1906
+Microtus	mandarinus
+Microtus	maximowiczii Schrenk 1859
+Microtus	meadensis
+Microtus	mexicanus Saussure 1861
+Microtus	mexicanus hualpaiensis Goldman 1938
+Microtus	hualpaiensis Goldman 1938
+Microtus	mexicanus mexicanus
+Microtus	mexicanus
+Microtus	middendoffi
+Microtus	middendorffi Poliakov 1881
+Microtus	middendorffii Poljakov 1881
+Microtus	miurus Osgood 1901
+Microtus	mogollonensis Swarth 1911
+Microtus	mongolicus Radde 1861
+Microtus	montanus Peale 1848
+Microtus	montebelli Milne-Edwards 1872
+Microtus	morlani
+Microtus	mujanensis Orlov & Kovalskaya 1978
+Microtus	multiplex Fatio 1905
+Microtus	nasarovi Shidlovsky 1938
+Microtus	oaxacensis Goodwin 1966
+Microtus	obscurus Eversmann 1841
+Microtus	ochrogaster Wagner 1842
+Microtus	oeconomus finmarchicus Siivonen 1967
+Microtus	finmarchicus Siivonen 1967
+Microtus	oeconomus mehelyi Ehik 1928
+Microtus	mehelyi Ehik 1928
+Microtus	oeconomus petschorae Ognev 1944
+Microtus	petschorae Ognev 1944
+Microtus	oeconomus stimmingi Nehring 1899
+Microtus	stimmingi Nehring 1899
+Microtus	oeconomus arenicola de Selys-Longchamps 1841
+Microtus	arenicola de Selys-Longchamps 1841
+Microtus	oeconomus medius Nilsson 1844
+Microtus	medius Nilsson 1844
+Microtus	oeconomus ratticeps Keyserling & Blasius 1841
+Microtus	ratticeps Keyserling & Blasius 1841
+Microtus	oeconomus oeconomus
+Microtus	oeconomus
+Microtus	oeconomus Pallas 1776
+Microtus	oregoni Bachman 1839
+Microtus	paradoxus Ognev & Heptner 1928
+Microtus	paroperarius
+Microtus	pennsylvanicus chihuahuensis Bradley & Cockrum 1968
+Microtus	chihuahuensis Bradley & Cockrum 1968
+Microtus	pennsylvanicus dukecampbelli
+Microtus	dukecampbelli
+Microtus	pennsylvanicus Ord 1815
+Microtus	pennsylvanicus pennsylvanicus
+Microtus	pennsylvanicus
+Microtus	pinetorum LeConte 1830
+Microtus	pinetorum nemoralis Bailey 1898
+Microtus	nemoralis Bailey 1898
+Microtus	pinetorum parvulus Howell 1916
+Microtus	parvulus Howell 1916
+Microtus	pinetorum pinetorum LeConte 1830
+Microtus	qazvinensis Golenishchev 2003
+Microtus	quasiater Coues 1874
+Microtus	richardsoni De Kay 1842
+Microtus	rossiaemeridionalis Ognev 1924
+Microtus	sachalinensis Vasin 1955
+Microtus	savii de Selys-Longchamps 1838
+Microtus	savii nebrodensis Mina-Palumbo 1868
+Microtus	nebrodensis Mina-Palumbo 1868
+Microtus	savii savii
+Microtus	savii
+Microtus	savii brachycerus von Lehman 1961
+Microtus	brachycerus von Lehman 1961
+Microtus	schelkovnikovi Satunin 1907
+Microtus	schidlovskii Argyropulo 1933
+Microtus	sikimensis Hodgson 1849
+Microtus	socialis Pallas 1773
+Microtus	subterraneus de Selys-Longchamps 1836
+Microtus	tatricus zykovi Zagorodnyuk 1989
+Microtus	zykovi Zagorodnyuk 1989
+Microtus	tatricus Kratochvil 1952
+Microtus	tatricus tatricus
+Microtus	tatricus
+Microtus	thomasi Barrett-Hamilton 1903
+Microtus	townsendii Bachman 1839
+Microtus	transcaspicus Satunin 1905
+Microtus	umbrosus Merriam 1898
+Microtus	xanthognathus Leach 1815
+Mimomys	dakotaensis
+Mimomys	davakosi
+Mimomys	occitanus occitanus
+Mimomys	occitanus
+Mimomys	occitanus rhabonensis
+Mimomys	rhabonensis
+Mimomys	panacaensis
+Mimomys	pliocaenicus
+Mimomys	virginianus
+Mimomys	youhenicus
+Muriculus	imberbis Rueppell 1842
+Mylomys	dybowski
+Mylomys	dybowskii Pousargues 1893
+Mylomys	rex Thomas 1906
+Myomys	albipes Rueppell 1842
+Myomys	daltoni Thomas 1892
+Myomys	derooi Van der Straeten & Verheyen 1978
+Myomys	fumatus Peters 1878
+Myomys	ruppi Van der Straeten & Dieterlen 1983
+Myomys	verreauxii Smith 1834
+Myomys	yemeni Sandborn & Hoogstraal 1953
+Myomyscus	angolensis Bocage 1890
+Myomyscus	brockmani Thomas 1908
+Myomyscus	verreauxii Smith 1834
+Myomyscus	yemeni Sanborn & Hoogstraal 1953
+Nannocricetus	mongolicus
+Neacomys	dubosti Voss Lunde
+Neacomys	guianae Thomas 1905
+Neacomys	minutus Patton da Silva
+Neacomys	musseri Patton da Silva
+Neacomys	paracou Voss Lunde
+Neacomys	pictus Goldman 1912
+Neacomys	spinosus Thomas 1882
+Neacomys	tenuipes Thomas 1900
+Neocricetodon	ambarrensis
+Neocricetodon	fahlbuschi
+Neocricetodon	lavocati
+Neocricetodon	occidentalis
+Neocricetodon	polonicus
+Neocricetodon	sesae
+Neocricetodon	skofleki
+Nilopegamys	plumbeus Osgood 1928
+Niviventer	andersoni Thomas 1911
+Niviventer	brahma Thomas 1914
+Niviventer	cameroni Chasen 1940
+Niviventer	confucianus Milne-Edwards 1871
+Niviventer	coninga Swinhoe 1864
+Niviventer	coxingi Swinhoe 1864
+Niviventer	cremoriventer Miller 1900
+Niviventer	culturatus Thomas 1917
+Niviventer	eha Wroughton 1916
+Niviventer	excelsior Thomas 1911
+Niviventer	fraternus Robinson & Kloss 1916
+Niviventer	fulvescens Gray 1847
+Niviventer	hinpoon Marshall 1976
+Niviventer	langbianis Robinson & Kloss 1922
+Niviventer	lepturus Jentink 1879
+Niviventer	niviventer Hodgson 1836
+Niviventer	rapit Bonhote 1903
+Niviventer	tenaster Thomas 1916
+Ogmodontomys	pipecreekensis
+Ogmodontomys	poaphagus
+Ogmodontomys	sawrockensis
+Onychomys	arenicola Mearns 1896
+Onychomys	bensoni
+Onychomys	gidleyi
+Onychomys	hollisteri
+Onychomys	leucogaster Wied-Neuwied 1841
+Onychomys	martini
+Onychomys	pedroensis
+Onychomys	torridus Coues 1874
+Orientalomys	similis
+Orientalomys	sinensis
+Ototylomys	phyllotis Merriam 1901
+Pachyuromys	duprasi Lataste 1880
+Parahydromys	asper Thomas 1906
+Paramelomys	gressitti Menzies 1996
+Paramelomys	levipes Thomas 1897
+Paramelomys	lorentzii Jentink 1908
+Paramelomys	mollis Thomas 1913
+Paramelomys	moncktoni Thomas 1904
+Paramelomys	naso Thomas 1911
+Paramelomys	platyops Thomas 1906
+Paramelomys	rubex Thomas 1922
+Paramelomys	steini Rümmler 1935
+Paronychomys	alticuspis
+Paronychomys	lemredfieldi
+Paronychomys	tuttlei
+Parotomys	brantsii Smith 1834
+Parotomys	littledalei Thomas 1918
+Parotomys	llittledalei
+Peromyscus	antiquus
+Peromyscus	anyapahensis
+Peromyscus	attwateri Allen 1895
+Peromyscus	aztecus Saussure 1860
+Peromyscus	baumgartneri
+Peromyscus	beatae Thomas 1903
+Peromyscus	berendsensis
+Peromyscus	boylii Baird 1855
+Peromyscus	brachygnathus
+Peromyscus	bullatus Osgood 1904
+Peromyscus	californicus Gambel 1848
+Peromyscus	caniceps Burt 1932
+Peromyscus	cochrani
+Peromyscus	complexus
+Peromyscus	cragini
+Peromyscus	crinitus Merriam 1891
+Peromyscus	cumberlandensis
+Peromyscus	dickeyi Burt 1932
+Peromyscus	difficilis Allen 1891
+Peromyscus	eremicus Baird 1858
+Peromyscus	eva Thomas 1898
+Peromyscus	fraterculus Miller 1892
+Peromyscus	furvus Allen & Chapman 1897
+Peromyscus	gossypinus gossypinus
+Peromyscus	gossypinus
+Peromyscus	gossypinus allapaticola Schwartz 1952
+Peromyscus	allapaticola Schwartz 1952
+Peromyscus	gossypinus LeConte 1853
+Peromyscus	grandis Goodwin 1932
+Peromyscus	gratus Merriam 1898
+Peromyscus	guardia Townsend 1912
+Peromyscus	guatemalensis Merriam 1898
+Peromyscus	gymnotis Thomas 1894
+Peromyscus	hagermanensis
+Peromyscus	hooperi Lee & Schmidly 1977
+Peromyscus	hylocetes Merriam 1898
+Peromyscus	imperfectus
+Peromyscus	interparietalis Burt 1932
+Peromyscus	irvingtonensis
+Peromyscus	kansasensis
+Peromyscus	keeni Merriam 1897
+Peromyscus	leucopus Rafinesque 1818
+Peromyscus	levipes Merriam 1898
+Peromyscus	madrensis Merriam 1898
+Peromyscus	maniculatus Wagner 1845
+Peromyscus	maximus
+Peromyscus	mayensis Carleton & Huckaby 1975
+Peromyscus	megalops Merriam 1898
+Peromyscus	mekisturus Merriam 1898
+Peromyscus	melanocarpus Osgood 1904
+Peromyscus	melanophrys Coues 1874
+Peromyscus	melanotis Allen & Chapman 1897
+Peromyscus	melanurus Osgood 1909
+Peromyscus	merriami Mearns 1896
+Peromyscus	mexicanus Saussure 1860
+Peromyscus	minimus
+Peromyscus	nasutus Allen 1891
+Peromyscus	nesodytes
+Peromyscus	nosher
+Peromyscus	ochraventer Baker 1951
+Peromyscus	oreas Bangs 1898
+Peromyscus	pectoralis Osgood 1904
+Peromyscus	pembertoni Burt 1932
+Peromyscus	perfulvus Osgood 1945
+Peromyscus	pliocenicus
+Peromyscus	polionotus colemani Schwartz 1954
+Peromyscus	colemani Schwartz 1954
+Peromyscus	polionotus phasma Bangs 1898
+Peromyscus	phasma Bangs 1898
+Peromyscus	polionotus albifrons Osgood 1909
+Peromyscus	albifrons Osgood 1909
+Peromyscus	polionotus allophrys Bowen 1968
+Peromyscus	allophrys Bowen 1968
+Peromyscus	polionotus lucubrans Schwartz 1954
+Peromyscus	lucubrans Schwartz 1954
+Peromyscus	polionotus rhoadsi Bangs 1898
+Peromyscus	rhoadsi Bangs 1898
+Peromyscus	polionotus trissyllepsis Bowen 1968
+Peromyscus	trissyllepsis Bowen 1968
+Peromyscus	polionotus decoloratus Howell 1939
+Peromyscus	decoloratus Howell 1939
+Peromyscus	polionotus leucocephalus Howell 1920
+Peromyscus	leucocephalus Howell 1920
+Peromyscus	polionotus subgriseus Chapman 1893
+Peromyscus	subgriseus Chapman 1893
+Peromyscus	polionotus ammobates Bowen 1968
+Peromyscus	ammobates Bowen 1968
+Peromyscus	polionotus niveiventris Chapman 1889
+Peromyscus	niveiventris Chapman 1889
+Peromyscus	polionotus peninsularis Howell 1939
+Peromyscus	peninsularis Howell 1939
+Peromyscus	polionotus polionotus
+Peromyscus	polionotus
+Peromyscus	polionotus Wagner 1843
+Peromyscus	polius Osgood 1904
+Peromyscus	progressus
+Peromyscus	pseudocrinitus Burt 1932
+Peromyscus	sagax Elliot 1903
+Peromyscus	sarmocophinus
+Peromyscus	schmidlyi Bradley 2004
+Peromyscus	sejugis Burt 1932
+Peromyscus	simulus Osgood 1904
+Peromyscus	sitkensis Merriam 1897
+Peromyscus	slevini Mailliard 1924
+Peromyscus	spicilegus Allen 1897
+Peromyscus	stephani Townsend 1912
+Peromyscus	stirtoni Dickey 1928
+Peromyscus	truei Shufeldt 1885
+Peromyscus	winkelmanni Carleton 1977
+Peromyscus	yucatanicus Allen & Chapman 1897
+Peromyscus	zarhynchus Merriam 1898
+Platacanthomys	lasiurus Blyth 1859
+Podoxymys	roraimae Anthony 1929
+Praomys	daltoni Thomas 1892
+Praomys	degraaffi Van der Straeten & Kerbis Peterhans 1999
+Praomys	delectorum Thomas 1910
+Praomys	derooi Van der Straeten & Verheyen 1978
+Praomys	hartwigi Eisentraut 1968
+Praomys	jacksoni de Winton 1897
+Praomys	lukolelae Hatt 1934
+Praomys	minor Hatt 1934
+Praomys	misonnei Van der Straeten & Dieterlen 1987
+Praomys	morio Trouessart 1881
+Praomys	mutoni Van der Straeten & Dudu 1990
+Praomys	obscurus Hutterer & Dieterlen 1992
+Praomys	petteri Van der Straeten Lecompte
+Praomys	rostratus Miller 1900
+Praomys	tullbergi Thomas 1894
+Praomys	verschureni Verheyen & Van der Straeten 1977
+Pseudoryzomys	simplex Winge 1887
+Reithrodon	auritus Fischer 1814
+Reithrodon	typicus Waterhouse 1837
+Rhabdomys	dilectus De Winton 1897
+Rhabdomys	pumilio Sparrman 1784
+Scotinomys	teguina Alston 1877
+Scotinomys	xerampelinus Bangs 1902
+Sekeetamys	calurus Thomas 1892
+Sinocricetus	progressus
+Sinocricetus	zdanskyi
+Synaptomys	australis
+Synaptomys	borealis Richardson 1828
+Synaptomys	bunkeri
+Synaptomys	cooperi Baird 1858
+Synaptomys	morgani
+Tachyoryctoides	kokonorensis
+Taeromys	arcuatus Tate & Archbold 1935
+Taeromys	callitrichus Jentink 1878
+Taeromys	celebensis Gray 1867
+Taeromys	hamatus Miller & Hollister 1921
+Taeromys	microbullatus Tate & Archbold 1935
+Taeromys	punicans Miller & Hollister 1921
+Taeromys	taerae Sody 1932
+Typhlomys	chapensis Osgood 1932
+Typhlomys	cinereus Milne-Edwards 1877
+Witenia	flava
+Witenia	fusca
+Xenuromys	barbatus Milne-Edwards 1900
+Zelotomys	hildegardeae Thomas 1902
+Zelotomys	woosnami Schwann 1906
+Zygodontomys	brevicauda Allen & Chapman 1893
+Zygodontomys	brunneus Thomas 1898
+Acomys	airensis Thomas & Hinton 1921
+Acomys	cahirinus Desmarest 1819
+Acomys	chudeaui Kollman 1911
+Acomys	cilicicus Spitzenberger 1978
+Acomys	cineraceus Heuglin 1877
+Acomys	cineraseus Fitzinger & Heuglin 1866
+Acomys	dimidiatus Cretzschmar 1826
+Acomys	ignitus Dollman 1910
+Acomys	johannis Thomas 1912
+Acomys	kempi Dollman 1911
+Acomys	louisae Thomas 1896
+Acomys	minous Bate 1906
+Acomys	mullah Thomas 1904
+Acomys	nesiotes Bate 1903
+Acomys	percivali Dollman 1911
+Acomys	perdvali
+Acomys	russatus Wagner 1840
+Acomys	seurati Heim de Balsac 1936
+Acomys	spinosissimus Peters 1852
+Acomys	subspinosus Waterhouse 1838
+Acomys	wilsoni Thomas 1892
+Aepeomys	fuscatus Allen 1912
+Aepeomys	lugens Thomas 1896
+Aepeomys	reigi Ochoa Aguilera Pacheco
+Ammodillus	imbellis de Winton 1898
+Anatolomys	teilhardi
+Andalgalomys	olrogi Williams & Mares 1978
+Andalgalomys	pearsoni Myers 1977
+Andalgalomys	roigi Mares & Braun 1996
+Anotomys	leander Thomas 1906
+Auliscomys	boliviensis Waterhouse 1846
+Auliscomys	micropus Waterhouse 1837
+Auliscomys	pictus Thomas 1884
+Auliscomys	sublimis Thomas 1900
+Bensonomys	coffeyi
+Bensonomys	hershkovitzi
+Bensonomys	lindsayi
+Blarinomys	breviceps Winge 1887
+Bolomys	amoenus Thomas 1900
+Bolomys	lactens Thomas 1918
+Bolomys	lasiurus Lund 1841
+Bolomys	obscurus Waterhouse 1837
+Bolomys	punctulatus Thomas 1894
+Bolomys	temchuki Massoia 1980
+Brachiones	przewalskii Büchner 1889
+Brachytarsomys	albicauda Günther 1875
+Brachytarsomys	villosa Petter 1962
+Cansumys	canus Allen 1928
+Carpomys	melanurus Thomas 1895
+Carpomys	phaeurus Thomas 1895
+Chilomys	instans Thomas 1895
+Chionomys	gud Satunin 1909
+Chionomys	nivalis Martins 1842
+Chionomys	roberti Thomas 1906
+Chiromyscus	chiropus Thomas 1891
+Chiropodomys	calamianensis Taylor 1934
+Chiropodomys	gliroides Blyth 1856
+Chiropodomys	karlkoopmani Musser 1979
+Chiropodomys	major Thomas 1893
+Chiropodomys	muroides Medway 1965
+Chiropodomys	pusillus Thomas 1893
+Chrotomys	gonzalesi Rickart & Heaney 1991
+Chrotomys	mindorensis Kellogg 1945
+Chrotomys	sibuyanensis Rickart Heaney Goodman & Jansa 2005
+Chrotomys	silaceus Thomas 1895
+Chrotomys	whiteheadi Thomas 1895
+Collimys	primus
+Colomys	goslingi Thomas & Wroughton 1907
+Dacnomys	millardi Thomas 1916
+Dasymys	alleni Lawrence & Loveridge 1953
+Dasymys	cabrali Verheyen Hulselmans Dierckx Colyn Leirs
+Dasymys	foxi Thomas 1912
+Dasymys	incomtus Sundevall 1847
+Dasymys	montanus Thomas 1906
+Dasymys	nudipes Peters 1870
+Dasymys	rufulus Miller 1900
+Dasymys	rwandae Verheyen Hulselmans Dierckx Colyn Leirs
+Dasymys	sua Verheyen Hulselmans Dierckx Colyn Leirs
+Dendromus	areas
+Dendromus	insignis Thomas 1903
+Dendromus	kahuziensis Dieterlen 1969
+Dendromus	kivu Thomas 1916
+Dendromus	leucostomus Monard 1933
+Dendromus	lovati de Winton 1900
+Dendromus	melanotis Smith 1834
+Dendromus	mesomelas Brants 1827
+Dendromus	messorius Thomas 1903
+Dendromus	mystacalis Heuglin 1863
+Dendromus	nyasae Thomas 1916
+Dendromus	nyikae Wroughton 1909
+Dendromus	oreas Osgood 1936
+Dendromus	vernayi Hill & Carter 1937
+Deomys	ferrugineus Thomas 1888
+Desmodilliscus	braueri Wettstein 1916
+Dicrostonyx	exsul Allen 1919
+Dicrostonyx	groenlandicus Traill 1823
+Dicrostonyx	hudsonius Pallas 1778
+Dicrostonyx	kilangmiutak Anderson & Rand 1945
+Dicrostonyx	nelsoni Merriam 1900
+Dicrostonyx	nunatakensis Youngman 1967
+Dicrostonyx	richardsoni Merriam 1900
+Dicrostonyx	rubricatus Richardson 1889
+Dicrostonyx	torquatus Pallas 1778
+Dicrostonyx	unalascensis Merriam 1900
+Dicrostonyx	vinogradovi Ognev 1948
+Diplothrix	legata Thomas 1906
+Diplothrix	legatus Thomas 1906
+Eligmodontia	moreni Thomas 1896
+Eligmodontia	morgani Allen 1901
+Eligmodontia	puerulus Philippi 1896
+Eligmodontia	typus Cuvier 1837
+Eolagurus	luteus Eversmann 1840
+Eolagurus	przewalskii Büchner 1889
+Galenomys	garleppi Thomas 1898
+Galushamys	redingtonensis
+Geringia	gloveri
+Geringia	mcgregori
+Golunda	ellioti Gray 1837
+Goniodontomys	disjunctus
+Graomys	centralis Thomas 1902
+Graomys	domorum Thomas 1902
+Graomys	edithae Thomas 1919
+Graomys	griseoflavus Waterhouse 1837
+Haeromys	margarettae Thomas 1893
+Haeromys	minahassae Thomas 1896
+Haeromys	pusillus Thomas 1893
+Heimyscus	fumosus 
+Hodomys	alieni
+Hodomys	alleni Merriam 1892
+Holochilus	brasiliensis Desmarest 1819
+Holochilus	chacarius Thomas 1906
+Holochilus	magnus Hershkovitz 1955
+Holochilus	sciureus Wagner 1842
+Lagurus	intermedius
+Lagurus	lagurus Pallas 1773
+Lagurus	pannonicus
+Leopoldamys	ciliatus Bonhote 1900
+Leopoldamys	edwardsi Thomas 1882
+Leopoldamys	milleti Robinson & Kloss 1922
+Leopoldamys	neilli Marshall 1976
+Leopoldamys	sabanus Thomas 1887
+Leopoldamys	siporanus Thomas 1895
+Leporillus	apicalis Gould 1853
+Leporillus	conditor Sturt 1848
+Leporillus	thomas
+Lignitella	suemengeni
+Loupomys	monahani
+Macrotarsomys	bastardi Milne-Edwards & Grandidier 1898
+Macrotarsomys	ingens Petter 1959
+Macrotarsomys	petteri Goodman & Soarimalala 2005
+Macruromys	elegans Stein 1933
+Macruromys	major Ruemmler 1935
+Malacomys	cansdalei Ansell 1958
+Malacomys	edwardsi Rochebrune 1885
+Malacomys	longipes Milne-Edwards 1877
+Malacomys	lukolelae Hatt 1934
+Malacomys	verschureni Verheyen & Van der Straeten 1977
+Mammelomys	lanosus Thomas 1922
+Mammelomys	rattoides Thomas 1922
+Mayermys	ellermani Laurie & Hill 1954
+Megadendromus	nikolausi Dieterlen & Rupp 1978
+Mellalomys	rhassoulensis
+Melomys	aerosus Thomas 1920
+Melomys	arcium Thomas 1913
+Melomys	bannisteri Kitchener & Maryanto 1993
+Melomys	bougainville Troughton 1936
+Melomys	burtoni Ramsay 1887
+Melomys	capensis Tate 1951
+Melomys	caurinus Thomas 1921
+Melomys	cervinipes Gould 1852
+Melomys	cooperae Kitchener
+Melomys	dollmani Rümmler 1935
+Melomys	fellowsi Hinton 1943
+Melomys	fraterculus Thomas 1920
+Melomys	frigicola Tate 1951
+Melomys	fulgens Thomas 1920
+Melomys	gracilis Thomas 1906
+Melomys	howi Kitchener
+Melomys	lanosus Thomas 1922
+Melomys	leucogaster Jentink 1908
+Melomys	levipes Thomas 1897
+Melomys	littoralis
+Melomys	lorentzi
+Melomys	lorentzii Jentink 1908
+Melomys	lutillus Thomas 1913
+Melomys	matambuai Flannery Colgan
+Melomys	mollis Thomas 1913
+Melomys	moncktoni Thomas 1904
+Melomys	obiensis Thomas 1911
+Melomys	paveli Helgen 2003
+Melomys	platyops Thomas 1906
+Melomys	rattoides Thomas 1922
+Melomys	rubex Thomas 1922
+Melomys	rubicola Thomas 1924
+Melomys	rufescens Alston 1877
+Melomys	spechti Flannery & Wickler 1990
+Melomys	talaudium Thomas 1921
+Mesembriomys	argurus
+Mesembriomys	gouldii Gray 1843
+Mesembriomys	macrurus Peters 1876
+Mirabella	anatolica
+Mirabella	crenulata
+Mirabella	ridicula
+Mirabella	tuberosa
+Mus	amphibius
+Mus	baoulei Vermeiren & Verheyen 1980
+Mus	booduga Gray 1837
+Mus	bufo Thomas 1906
+Mus	callewaerti Thomas 1925
+Mus	caroli Bonhote 1902
+Mus	cervicolor Hodgson 1845
+Mus	cookii Ryley 1914
+Mus	crociduroides Robinson & Kloss 1916
+Mus	cypriacus Cucchi Orth Auffray Renaud Fabre Catalan Hadjisterkotis Bonhomme & Vigne 2006
+Mus	domesticus Rutty 1772
+Mus	famulus Bonhote 1898
+Mus	fernandoni Phillips 1932
+Mus	fragilicauda Auffray Orth Catalan Gonzalez Desmarais
+Mus	goundae Petter & Genest 1970
+Mus	haussa Thomas & Hinton 1920
+Mus	hermannsburgensis Waite 1896
+Mus	hipparionum
+Mus	indutus Thomas 1910
+Mus	ique
+Mus	jaculus
+Mus	kasaicus Cabrera 1924
+Mus	leporinus
+Mus	longipes
+Mus	macedonicus Petrov & Ruzic 1983
+Mus	mahomet Rhoads 1896
+Mus	manicatus Gould 1858
+Mus	mattheyi Petter 1969
+Mus	mayori Thomas 1915
+Mus	minutoides Smith 1834
+Mus	musculoides Temminck 1853
+Mus	musculus domesticus Schwarz & Schwarz 1943
+Mus	domesticus Schwarz & Schwarz 1943
+Mus	musculus bactrianus Blyth 1846
+Mus	bactrianus Blyth 1846
+Mus	musculus gentilulus Thomas 1919
+Mus	gentilulus Thomas 1919
+Mus	musculus musculus Linnaeus 1758
+Mus	musculus Linnaeus 1758
+Mus	musculus castaneus Waterhouse 1843
+Mus	castaneus Waterhouse 1843
+Mus	neavei Thomas 1910
+Mus	orangiae Roberts 1926
+Mus	oubanguii Petter & Genest 1970
+Mus	pahari Thomas 1916
+Mus	phillipsi Wroughton 1912
+Mus	platythrix Bennett 1832
+Mus	porcellus
+Mus	saxicola Elliot 1839
+Mus	setulosus Peters 1876
+Mus	setzeri Petter 1978
+Mus	shortridgei Thomas 1914
+Mus	sorella Thomas 1909
+Mus	spicilegus Petenyi 1882
+Mus	spretus Lataste 1883
+Mus	striatus
+Mus	sylvaticus
+Mus	tenellus Thomas 1903
+Mus	terricolor Blyth 1851
+Mus	triton Thomas 1909
+Mus	vulcani Robinson & Kloss 1919
+Myopus	schisticolor Lilljeborg 1844
+Nannospalax	ehrenbergi Nehring 1898
+Nannospalax	leucodon Nordmann 1840
+Nannospalax	nehringi Satunin 1898
+Nelsonia	goldmani Merriam 1903
+Nelsonia	neotomodon Merriam 1897
+Occitanomys	adroveri
+Occitanomys	anomalus
+Occitanomys	brailloni
+Occitanomys	debruijni
+Occitanomys	montheleni
+Occitanomys	neutrum
+Occitanomys	provocator
+Occitanomys	sondaari
+Oenomys	hypoxanthus Pucheran 1855
+Oenomys	ornatus Thomas 1911
+Ondatra	annectens
+Ondatra	idahoensis
+Ondatra	meadensis
+Ondatra	minor
+Ondatra	zibethicus Linnaeus 1766
+Ondatra	zibethicus zibethicus Linnaeus 1766
+Oryzomys	albigularis Tomes 1860
+Oryzomys	alfaroi Allen 1891
+Oryzomys	angouya Fischer 1814
+Oryzomys	antillarum Thomas 1898
+Oryzomys	auriventer Thomas 1890
+Oryzomys	balneator Thomas 1900
+Oryzomys	bolivaris Allen 1901
+Oryzomys	buccinatus Olfers 1818
+Oryzomys	capito Olfers 1818
+Oryzomys	caracolus Thomas 1914
+Oryzomys	chapmani Thomas 1898
+Oryzomys	couesi Alston 1877
+Oryzomys	curasoae McFarlane & Debrot 2001
+Oryzomys	devius Bangs 1902
+Oryzomys	dimidiatus Thomas 1905
+Oryzomys	emmonsae Musser Carleton Brothers
+Oryzomys	galapagoensis Waterhouse 1839
+Oryzomys	gorgasi Hershkovitz 1971
+Oryzomys	hammondi Thomas 1913
+Oryzomys	intectus Thomas 1921
+Oryzomys	intermedius Leche 1886
+Oryzomys	keaysi Allen 1900
+Oryzomys	kelloggi Avila-Pires 1959
+Oryzomys	lamia Thomas 1901
+Oryzomys	laticeps Lund 1840
+Oryzomys	legatus Thomas 1925
+Oryzomys	levipes Thomas 1902
+Oryzomys	macconnelli Thomas 1910
+Oryzomys	maracajuensis Langguth & Bonvicino 2002
+Oryzomys	marinhus Bonvicino 2003
+Oryzomys	megacephalus Fischer 1814
+Oryzomys	melanotis Thomas 1893
+Oryzomys	meridensis Thomas 1894
+Oryzomys	nelsoni Merriam 1898
+Oryzomys	nitidus Thomas 1884
+Oryzomys	oniscus Thomas 1904
+Oryzomys	palustris coloratus Bangs 1898
+Oryzomys	coloratus Bangs 1898
+Oryzomys	palustris natator Chapman 1893
+Oryzomys	natator Chapman 1893
+Oryzomys	palustris planirostris Hamilton 1955
+Oryzomys	planirostris Hamilton 1955
+Oryzomys	palustris Harlan 1837
+Oryzomys	palustris palustris
+Oryzomys	palustris
+Oryzomys	palustris sanibeli Hamilton 1955
+Oryzomys	sanibeli Hamilton 1955
+Oryzomys	palustris texensis Allen 1894
+Oryzomys	texensis Allen 1894
+Oryzomys	perenensis Allen 1901
+Oryzomys	pliocaenicus
+Oryzomys	polius Osgood 1913
+Oryzomys	ratticeps Hensel 1873
+Oryzomys	rhabdops Merriam 1901
+Oryzomys	rostratus Merriam 1901
+Oryzomys	russatus Wagner 1848
+Oryzomys	saturatior Merriam 1901
+Oryzomys	scotti Langguth & Bonvicino 2002
+Oryzomys	seuanezi Weksler Geise
+Oryzomys	subflavus Wagner 1842
+Oryzomys	talamancae Allen 1891
+Oryzomys	tatei Musser Carleton Brothers
+Oryzomys	xanthaeolus Thomas 1894
+Oryzomys	xantheolus Thomas 1894
+Oryzomys	yunganus Thomas 1902
+Otonyctomys	hatti Anthony 1932
+Paramicrotoscoptes	hibbardi
+Petromyscus	barbouri Shortridge & Carter 1938
+Petromyscus	collinus Thomas & Hinton 1925
+Petromyscus	monticularis Thomas & Hinton 1925
+Petromyscus	shortridgei Thomas 1926
+Phaenomys	ferrugineus Thomas 1894
+Phodopus	campbelli Thomas 1905
+Phodopus	roborovskii Satunin 1903
+Phodopus	sungorus Pallas 1773
+Phyllotis	amicus Thomas 1900
+Phyllotis	andia
+Phyllotis	andium Thomas 1912
+Phyllotis	anitae Jayat D'Elia Pardiñas & Namen 2007
+Phyllotis	bonaeriensis Crespo 1964
+Phyllotis	bonariensis Crespo 1964
+Phyllotis	caprina
+Phyllotis	caprinus Pearson 1958
+Phyllotis	darwini Waterhouse 1837
+Phyllotis	definitus Osgood 1915
+Phyllotis	gerbillus Thomas 1900
+Phyllotis	haggardi Thomas 1908
+Phyllotis	limatus Thomas 1912
+Phyllotis	magister Thomas 1912
+Phyllotis	osgoodi Mann 1945
+Phyllotis	osilae Allen 1901
+Phyllotis	wolffsohni Thomas 1902
+Phyllotis	wolfsohni
+Phyllotis	xanthopygus Waterhouse 1837
+Pliolemmus	antiquus
+Pliospalax	macoveii
+Podomys	floridanus Chapman 1889
+Podomys	oklahomensis
+Pogonomys	championi Flannery 1988
+Pogonomys	fergussoniensis Laurie 1952
+Pogonomys	loriae Thomas 1897
+Pogonomys	macrourus Milne-Edwards 1877
+Pogonomys	mollipilosus Peters & Doria 1881
+Pogonomys	sylvestris Thomas 1920
+Pogonomys	zonae
+Predicrostonyx	hopkinsi
+Prosigmodon	chihuahuensis
+Prosigmodon	ferrusquiai
+Prosigmodon	holocuspis
+Prosigmodon	oroscoi
+Prosiphneus	licenti
+Pseudomys	albocinereus Gould 1845
+Pseudomys	apodemoides Finlayson 1932
+Pseudomys	auritus Thomas 1910
+Pseudomys	australis Gray 1832
+Pseudomys	baynesi
+Pseudomys	bolami Troughton 1932
+Pseudomys	calabyi Kitchener & Humphreys 1987
+Pseudomys	chapmani Kitchener 1980
+Pseudomys	delicatulus Gould 1842
+Pseudomys	desertor Troughton 1932
+Pseudomys	fieldi Waite 1896
+Pseudomys	fumeus Brazenor 1934
+Pseudomys	fuscus Thomas 1882
+Pseudomys	glaucus Thomas 1910
+Pseudomys	gouldii Waterhouse 1839
+Pseudomys	gracilicaudatus Gould 1845
+Pseudomys	hermannsburgensis Waite 1896
+Pseudomys	higginsi Trouessart 1897
+Pseudomys	johnsoni Kitchener 1985
+Pseudomys	laborifex Kitchener & Humphreys 1986
+Pseudomys	nanus Gould 1858
+Pseudomys	novaehollandiae Waterhouse 1843
+Pseudomys	occidentalis Tate 1951
+Pseudomys	oralis Thomas 1921
+Pseudomys	patrius Thomas & Dollman 1909
+Pseudomys	pilligaensis Fox & Briscoe 1980
+Pseudomys	praeconis Thomas 1910
+Pseudomys	shortridgei Thomas 1907
+Pseudomys	waitei Troughton 1932
+Punomys	kofordi Pacheco & Patton 1995
+Punomys	lemminus Osgood 1943
+Rattus	adustus Sody 1940
+Rattus	andamanensis Blyth 1860
+Rattus	annandalei Bonhote 1903
+Rattus	arfakienis Rümmler 1935
+Rattus	arfakiensis Rümmler 1935
+Rattus	argentiventer Robinson & Kloss 1916
+Rattus	arrogans Thomas 1922
+Rattus	baluensis Thomas 1894
+Rattus	blangorum Miller 1942
+Rattus	bontanus Thomas 1921
+Rattus	burrus Miller 1902
+Rattus	colletti Thomas 1904
+Rattus	culmorum
+Rattus	elaphinus Sody 1941
+Rattus	enganus Miller 1906
+Rattus	everetti Guenther 1879
+Rattus	exulans Peale 1848
+Rattus	feliceus Thomas 1920
+Rattus	foramineus Sody 1941
+Rattus	fuscipes Waterhouse 1839
+Rattus	giluwensis Hill 1960
+Rattus	greyii
+Rattus	hainaldi Kitchener How
+Rattus	hoffmanni Matschie 1901
+Rattus	hoogerwerfi Chasen 1939
+Rattus	hoxaensis
+Rattus	jobiensis Ruemmler 1935
+Rattus	koopmani Musser & Holden 1991
+Rattus	korinchi Robinson & Kloss 1916
+Rattus	leucopus Gray 1867
+Rattus	losea Swinhoe 1871
+Rattus	lugens Miller 1903
+Rattus	lutreolus Gray 1841
+Rattus	macleari Thomas 1887
+Rattus	marmosurus Thomas 1921
+Rattus	mindorensis Thomas 1898
+Rattus	mollicomulus Tate & Archbold 1935
+Rattus	montanus Phillips 1932
+Rattus	mordax Thomas 1904
+Rattus	morotaiensis Kellogg 1945
+Rattus	nativitatis Thomas 1889
+Rattus	niobe Thomas 1906
+Rattus	nitidus Hodgson 1845
+Rattus	norvegicus Berkenhout 1769
+Rattus	novaeguineae Taylor & Calaby 1982
+Rattus	omichlodes Misonne 1979
+Rattus	osgoodi Musser & Newcomb 1985
+Rattus	palmarum Zelebor 1869
+Rattus	pelurus Sody 1941
+Rattus	pococki Ellerman 1941
+Rattus	praetor Thomas 1888
+Rattus	pyctoris Hodgson 1845
+Rattus	ranjiniae Agrawal & Ghosal 1969
+Rattus	rattus Linnaeus 1758
+Rattus	richardsoni Tate 1949
+Rattus	salocco Tate & Archbold 1935
+Rattus	sanila Flannery & White 1991
+Rattus	satarae Hinton 1918
+Rattus	sikkimensis Hinton 1919
+Rattus	simalurensis Miller 1903
+Rattus	sordidus Gould 1858
+Rattus	steini Ruemmler 1935
+Rattus	stoicus Miller 1902
+Rattus	tanezumi Temminck 1844
+Rattus	tawitawiensis Musser & Heaney 1985
+Rattus	timorensis Kitchener Aplin
+Rattus	tiomanicus Miller 1900
+Rattus	tunneyi Thomas 1904
+Rattus	turkestanicus Satunin 1903
+Rattus	tyrannus
+Rattus	vandeuseni Taylor & Calaby 1982
+Rattus	verecundus Thomas 1904
+Rattus	villosissimus Waite 1898
+Rattus	xanthurus Gray 1867
+Reithrodontomys	bakeri Bradley Mendez-Harclerode Hamilton & Ceballos 2004
+Reithrodontomys	brevirostris Goodwin 1943
+Reithrodontomys	burti Benson 1939
+Reithrodontomys	chrysopsis Merriam 1900
+Reithrodontomys	creper Bangs 1902
+Reithrodontomys	darienensis Pearson 1939
+Reithrodontomys	dariensis
+Reithrodontomys	fulvescens Allen 1894
+Reithrodontomys	galushai
+Reithrodontomys	gracilis Allen & Chapman 1897
+Reithrodontomys	hirsutus Merriam 1901
+Reithrodontomys	humulis Audubon & Bachman 1841
+Reithrodontomys	megalotis Baird 1858
+Reithrodontomys	mexicanus Saussure 1860
+Reithrodontomys	microdon Merriam 1901
+Reithrodontomys	montanus Baird 1855
+Reithrodontomys	moorei
+Reithrodontomys	paradoxus Jones & Genoways 1970
+Reithrodontomys	pratincola
+Reithrodontomys	raviventris Dixon 1908
+Reithrodontomys	rexroadensis
+Reithrodontomys	rodriguezi Goodwin 1943
+Reithrodontomys	spectabilis Jones & Lawlor 1965
+Reithrodontomys	sumichrasti Saussure 1861
+Reithrodontomys	tenuirostris Merriam 1901
+Reithrodontomys	wetmorei
+Reithrodontomys	zacatecae Merriam 1901
+Repomys	arizonensis
+Repomys	gustelyi
+Repomys	maxumi
+Repomys	panacaensis
+Rhagomys	longilingua Luna & Patterson 2003
+Rhagomys	orthodon
+Rhagomys	rufescens Thomas 1886
+Rheomys	mexicanus Goodwin 1959
+Rheomys	raptor Goldman 1912
+Rheomys	thomasi Dickey 1928
+Rheomys	underwoodi Thomas 1906
+Rotundomys	bressanus
+Rotundomys	bressanus bressanus
+Rotundomys	freiriensis
+Rotundomys	montisrotundi
+Rotundomys	mundi
+Ruscinomys	africanus
+Ruscinomys	europaeus
+Ruscinomys	hellenicus
+Ruscinomys	lasallei
+Saxatilomys	paulinae Musser Smith Robinson & Lunde 2005
+Scapteromys	aquaticus Thomas 1920
+Scapteromys	tumidus Waterhouse 1837
+Scottimus	ambiguus
+Scottimus	exiguus
+Scottimus	kellamorum
+Scottimus	longiquus
+Scottimus	lophatus
+Scottimus	viduus
+Sigmodontomys	alfari Allen 1897
+Sigmodontomys	aphrastus Harris 1932
+Solomys	ponceleti Troughton 1935
+Solomys	salamonis Ramsay 1883
+Solomys	salebrosus Troughton 1936
+Solomys	sapientis Thomas 1902
+Solomys	spriggsarum Flannery & Wickler 1990
+Steatomys	bocagei Thomas 1892
+Steatomys	caurinus Thomas 1912
+Steatomys	cuppedius Thomas & Hinton 1920
+Steatomys	jacksoni Hayman 1936
+Steatomys	krebsii Peters 1852
+Steatomys	opimus Pousargues 1894
+Steatomys	parvus Rhoads 1896
+Steatomys	pratensis Peters 1846
+Symmetrodontomys	beckensis
+Symmetrodontomys	daamsi
+Symmetrodontomys	simplicidens
+Thomasomys	apeco Leo & Gardner 1993
+Thomasomys	aureus Tomes 1860
+Thomasomys	baeops Thomas 1899
+Thomasomys	bombycinus Anthony 1925
+Thomasomys	caudivarius Anthony 1923
+Thomasomys	cinereiventer Allen 1912
+Thomasomys	cinereus Thomas 1882
+Thomasomys	cinnameus Anthony 1924
+Thomasomys	daphne Thomas 1917
+Thomasomys	eleusis Thomas 1926
+Thomasomys	erro Anthony 1926
+Thomasomys	gracilis Thomas 1917
+Thomasomys	hudsoni Anthony 1923
+Thomasomys	hylophilus Osgood 1912
+Thomasomys	incanus Thomas 1894
+Thomasomys	ischyrus Osgood 1914
+Thomasomys	ischyurus Osgood 1914
+Thomasomys	kalinowskii Thomas 1894
+Thomasomys	ladewi Anthony 1926
+Thomasomys	laniger Thomas 1895
+Thomasomys	macrotis Gardner & Romo 1993
+Thomasomys	monochromos Bangs 1900
+Thomasomys	niveipes Thomas 1896
+Thomasomys	notatus Thomas 1917
+Thomasomys	onkiro Luna & Pacheco 2002
+Thomasomys	oreas Anthony 1926
+Thomasomys	paramorum Thomas 1898
+Thomasomys	popayanus Allen 1912
+Thomasomys	praetor Thomas 1900
+Thomasomys	pyrrhonotus Thomas 1886
+Thomasomys	rhoadsi Stone 1914
+Thomasomys	rosalinda Thomas & St. Leger 1926
+Thomasomys	silvestris Anthony 1924
+Thomasomys	taczanowskii Thomas 1882
+Thomasomys	ucucha Voss 2003
+Thomasomys	vestitus Thomas 1898
+Thomasomys	vulcani Thomas 1898
+Volemys	clarkei Hinton 1923
+Volemys	kikuchii Kuroda 1920
+Volemys	millicens Thomas 1911
+Volemys	musseri Lawrence 1982
+Xeromys	myoides Thomas 1889
+Deperetomys	anatolicus
+Deperetomys	hagni
+Deperetomys	intermedia
+Deperetomys	intermedius
+Dephomys	defua Miller 1900
+Dephomys	eburnea Heim de Balsac & Bellier 1967
+Dephomys	eburneae Heim de Balsac & Bellier 1967
+Abelmoschomys	simpsoni
+Akodon	aerosus Thomas 1913
+Akodon	affinis Allen 1912
+Akodon	albiventer Thomas 1897
+Akodon	aliquantulus Díaz Barquez Braun
+Akodon	azarae Fischer 1829
+Akodon	bogotensis Thomas 1895
+Akodon	boliviensis Meyen 1833
+Akodon	budini Thomas 1918
+Akodon	cursor Winge 1887
+Akodon	dayi Osgood 1916
+Akodon	dolores Thomas 1916
+Akodon	fumeus Thomas 1902
+Akodon	hershkovitzi Patterson Gallardo & Freas 1984
+Akodon	illuteus Thomas 1925
+Akodon	iniscatus Thomas 1919
+Akodon	juninensis Myers Patton & Smith 1990
+Akodon	kempi Thomas 1917
+Akodon	kofordi Myers & Patton 1989
+Akodon	lanosus Thomas 1897
+Akodon	latebricola Anthony 1924
+Akodon	leucolimnaeus Cabrera 1926
+Akodon	lindberghi Hershkovitz 1990
+Akodon	longipilis Waterhouse 1837
+Akodon	lutescens Allen 1901
+Akodon	mansoensis De Santis & Justo 1980
+Akodon	markhami Pine 1973
+Akodon	mimus Thomas 1901
+Akodon	molinae Contreras 1968
+Akodon	mollis Thomas 1894
+Akodon	montensis Thomas 1913
+Akodon	mystax Hershkovitz 1998
+Akodon	neocenus Thomas 1919
+Akodon	nigrita Lichtenstein 1829
+Akodon	oenos Braun Mares
+Akodon	olivaceous
+Akodon	olivaceus Waterhouse 1837
+Akodon	orophilus Osgood 1913
+Akodon	paranaensis Christoff Fagundes Sbalqueiro Mattevi
+Akodon	pervalens Thomas 1925
+Akodon	philipmyersi Pardiñas D'Elia Cirignoli & Suarez 2005
+Akodon	puer Thomas 1902
+Akodon	reigi González Langguth
+Akodon	sanborni Osgood 1943
+Akodon	sanctipaulensis Hershkovitz 1990
+Akodon	serrensis Thomas 1902
+Akodon	siberiae Myers & Patton 1989
+Akodon	simulator Thomas 1916
+Akodon	spegazzinii Thomas 1897
+Akodon	subfuscus Osgood 1944
+Akodon	surdus Thomas 1917
+Akodon	sylvanus Thomas 1921
+Akodon	toba Thomas 1921
+Akodon	torques Thomas 1917
+Akodon	urichi Allen & Chapman 1897
+Akodon	varius Thomas 1902
+Akodon	xanthorhinus Waterhouse 1837
+Andinomys	edax Thomas 1902
+Anonymomys	mindorensis Musser 1981
+Arborimus	albipes Merriam 1901
+Arborimus	longicaudus True 1890
+Arborimus	pomo Johnson & George 1991
+Arborimus	porno
+Atopomys	texensis
+Baiyankamys	habbema Tate & Archbold 1941
+Baiyankamys	shawmayeri Hinton 1943
+Beamys	hindei Thomas 1909
+Beamys	hinderi
+Beamys	major Dollman 1914
+Boltimys	broomi
+Brachyuromys	betsileoensis Bartlett 1880
+Brachyuromys	ramirohitra Major 1896
+Calomyscus	bailwardi Thomas 1905
+Calomyscus	baluchi Thomas 1920
+Calomyscus	delicatus
+Calomyscus	elburzensis Goodwin 1938
+Calomyscus	grandis Schlitter & Setzer 1973
+Calomyscus	hotsoni Thomas 1920
+Calomyscus	minor
+Calomyscus	mystax Kashkarov 1925
+Calomyscus	tsolovi Peshev 1991
+Calomyscus	urartensis Vorontsov & Kartavseva 1979
+Castillomys	crusafonti
+Castillomys	gracilis
+Castillomys	margaritae
+Castillomys	rivas
+Chardinomys	bilikeensis
+Chardinomys	louisi
+Chardinomys	yusheensis
+Chinchillula	sahamae Thomas 1898
+Chiruromys	forbesi Thomas 1888
+Chiruromys	lamia Thomas 1897
+Chiruromys	vates Thomas 1908
+Chroeomys	andinus Philippi 1858
+Chroeomys	jelskii Thomas 1894
+Coccymys	albidens Tate 1951
+Coccymys	ruemmleri Tate & Archbold 1941
+Coryphomys	buehleri Schaub 1937
+Crateromys	australis Musser Heaney
+Crateromys	heaneyi Gonzales & Kennedy 1996
+Crateromys	paulus Musser & Gordon 1981
+Crateromys	schadenbergi Meyer 1895
+Cremnomys	blanfordi Thomas 1881
+Cremnomys	cutchicus Wroughton 1912
+Cremnomys	elvira Ellerman 1946
+Crunomys	celebensis Musser 1982
+Crunomys	fallax Thomas 1897
+Crunomys	melanius Thomas 1907
+Crunomys	rabori Musser 1982
+Crunomys	suncoides Rickart Heaney Tabaranza Jr.
+Delanymys	brooksi Hayman 1962
+Dendroprionomys	rousseloti Petter 1966
+Ellobius	alaicus Vorontsov et al. 1969
+Ellobius	fuscocapillus Blyth 1843
+Ellobius	lutescens Thomas 1897
+Ellobius	talpinus Pallas 1770
+Ellobius	tancrei Blasius 1884
+Geoxus	valdivianus Philippi 1858
+Guildayomys	hibbardi
+Guildayomys	matthewsi
+Gymnuromys	roberti Major 1896
+Habromys	chinanteco Robertson & Musser 1976
+Habromys	delicatulus Carleton Sánchez
+Habromys	ixtlani Goodwin 1964
+Habromys	lepturus Merriam 1898
+Habromys	lophurus Osgood 1904
+Habromys	schmidlyi Romo-Vázquez León-Paniagua & Sánchez 2005
+Habromys	simulatus Osgood 1904
+Hapalomys	delacouri Thomas 1927
+Hapalomys	longicaudatus Blyth 1859
+Hattomys	beetsi
+Hattomys	gargantua
+Hattomys	nazarii
+Heterocricetodon	hausi
+Heterocricetodon	helbingi
+Heterocricetodon	landroveri
+Heterocricetodon	schlosseri
+Heterocricetodon	stehlini
+Hispanomys	daamsi
+Hispanomys	dispectus
+Hispanomys	freudenthali
+Hispanomys	peralensis
+Hispanomys	thaleri
+Huaxiamys	downsi
+Hydromys	chrysogaster Geoffroy 1804
+Hydromys	habbema Tate & Archbold 1941
+Hydromys	hussoni Musser & Piik 1982
+Hydromys	neobritannicus Tate & Archbold 1935
+Hydromys	neobrittanicus Tate & Archbold 1935
+Hydromys	shawmayeri Hinton 1943
+Hydromys	ziegleri Helgen 2005
+Hypogeomys	antimena Grandidier 1869
+Ichthyomys	hydrobates Winge 1891
+Ichthyomys	pittieri Handley & Mondolfi 1963
+Ichthyomys	stolzmanni Thomas 1893
+Ichthyomys	tweedii Anthony 1921
+Kadarsanomys	sodyi Bartels 1937
+Komodomys	rintjanus Sody 1941
+Kunsia	fronto Winge 1887
+Kunsia	tomentosus Lichtenstein 1830
+Leggadina	forresti Thomas 1906
+Leggadina	hermannsburgensis
+Leggadina	idjibudoo
+Leggadina	lakedownensis Watts 1976
+Leggadina	thomas
+Leimacomys	buettneri Matschie 1893
+Leimacomys	büttneri Matschie 1893
+Lemmiscus	curtatus Cope 1868
+Lemniscomys	barbarus Linnaeus 1766
+Lemniscomys	bellieri Van der Straeten 1975
+Lemniscomys	griselda Thomas 1904
+Lemniscomys	hoogstraali Dieterlen 1991
+Lemniscomys	linulus Thomas 1910
+Lemniscomys	macculus Thomas & Wroughton 1910
+Lemniscomys	mittendofi
+Lemniscomys	mittendorfi Eisentraut 1968
+Lemniscomys	rosalia Thomas 1904
+Lemniscomys	roseveari Van der Straeten 1980
+Lemniscomys	striatus Linnaeus 1758
+Lemniscomys	zebra Heuglin 1864
+Lenomys	meyeri Jentink 1879
+Lenothrix	canus Miller 1903
+Lophiomys	imhausi Milne-Edwards 1867
+Lophiomys	maroccanus
+Lophuromys	angolensis Verheyen Dierckx
+Lophuromys	ansorgei De Winton 1896
+Lophuromys	aquilus True 1892
+Lophuromys	brevicaudus Osgood 1936
+Lophuromys	brunneus Thomas 1906
+Lophuromys	chrysopus Osgood 1936
+Lophuromys	cinereus Dieterlen & Gelmroth 1974
+Lophuromys	dieterleni Verheyen Hulselmans Colyn
+Lophuromys	dudui Verheyen Hulselmans Dierckx
+Lophuromys	eisentrauti Dieterlen 1978
+Lophuromys	flavopunctatus Thomas 1888
+Lophuromys	huttereri Verheyen Colyn
+Lophuromys	luteogaster Hatt 1934
+Lophuromys	medicaudatus Dieterlen 1975
+Lophuromys	melanonyx Petter 1972
+Lophuromys	nudicaudus Heller 1911
+Lophuromys	rahmi Verheyen 1964
+Lophuromys	roseveari Verheyen Hulselmans Colyn
+Lophuromys	sikapui
+Lophuromys	sikapusi Temminck 1853
+Lophuromys	verhageni Verheyen Hulselmans Dierckx
+Lophuromys	woosnami Thomas 1906
+Lophuromys	zena Dollman 1909
+Malacothrix	typica Smith 1834
+Mallomys	aroaensis De Vis 1907
+Mallomys	gunung Flannery Aplin Groves
+Mallomys	istapantap Flannery Aplin Groves
+Mallomys	rothschildi Thomas 1898
+Malpaisomys	insularis Hutterer Lopez-Martinez
+Mastomys	angolensis Bocage 1890
+Mastomys	awashensis Lavrenchenko Likhnova
+Mastomys	butleri
+Mastomys	coucha Smith 1834
+Mastomys	daltoni
+Mastomys	derooi
+Mastomys	erythroleucus Temminck 1853
+Mastomys	fumatus
+Mastomys	hildebrandtii Peters 1878
+Mastomys	huberti Wroughton 1909
+Mastomys	kollmannspergeri Petter 1957
+Mastomys	natalensis Smith 1834
+Mastomys	pernanus Kershaw 1921
+Mastomys	ruppi
+Mastomys	shortridgei St. Leger 1933
+Mastomys	verheyeni Robbins & Van der Straeten 1989
+Mastomys	verheyni
+Mastomys	verreauxii
+Mastomys	yemeni
+Megadontomys	cryophilus Musser 1964
+Megadontomys	nelsoni Merriam 1898
+Megadontomys	thomasi Merriam 1898
+Microhydromys	musseri Flannery 1989
+Microhydromys	richardsoni Tate & Archbold 1941
+Micromys	bendai
+Micromys	kozaniensis
+Micromys	minutus Pallas 1771
+Micromys	steffensi
+Millardia	gleadowi Murray 1886
+Millardia	kathleenae Thomas 1914
+Millardia	kondana Mishra & Dhanda 1975
+Millardia	meltada Gray 1837
+Myocricetodon	cherifiensis
+Myospalax	aspalax Pallas 1776
+Myospalax	epsilanus Thomas 1912
+Myospalax	fontanierii Milne-Edwards 1867
+Myospalax	myospalax Laxmann 1773
+Myospalax	psilurus Milne-Edwards 1874
+Myospalax	rothschildi Thomas 1911
+Myospalax	smithii Thomas 1911
+Myotomys	sloggetti Thomas 1902
+Myotomys	unisulcatus Cuvier 1829
+Mystromys	albicaudatus Smith 1834
+Nectomys	apicalis Peters 1860
+Nectomys	magdalenae Thomas 1897
+Nectomys	palmipes Allen & Chapman 1893
+Nectomys	parvipes Petter 1979
+Nectomys	rattus Pelzeln 1883
+Nectomys	squamipes Brants 1827
+Neotoma	albigula Hartley 1894
+Neotoma	amplidonta
+Neotoma	angustapalata Baker 1951
+Neotoma	anthonyi Allen 1898
+Neotoma	bryanti Merriam 1887
+Neotoma	bunkeri Burt 1932
+Neotoma	chrysomelas Allen 1908
+Neotoma	cinerea Ord 1815
+Neotoma	devia Goldman 1927
+Neotoma	findleyi
+Neotoma	floridana Ord 1818
+Neotoma	floridana floridana
+Neotoma	floridana
+Neotoma	floridana smalli Sherman 1955
+Neotoma	smalli Sherman 1955
+Neotoma	fossilis
+Neotoma	fuscipes riparia Hooper 1938
+Neotoma	riparia Hooper 1938
+Neotoma	fuscipes fuscipes
+Neotoma	fuscipes
+Neotoma	fuscipes Baird 1858
+Neotoma	goldmani Merriam 1903
+Neotoma	lepida Thomas 1893
+Neotoma	leucodon Merriam 1894
+Neotoma	leucopetrica
+Neotoma	macrotis Thomas 1893
+Neotoma	magister Baird 1857
+Neotoma	martinensis Goldman 1905
+Neotoma	mexicana Baird 1855
+Neotoma	micropus Baird 1855
+Neotoma	minutus
+Neotoma	nelsoni Goldman 1905
+Neotoma	ozarkensis
+Neotoma	palatina Goldman 1905
+Neotoma	phenax Merriam 1903
+Neotoma	pygmaea
+Neotoma	quadriplicata
+Neotoma	sawrockensis
+Neotoma	spelaea
+Neotoma	stephensi Goldman 1905
+Neotoma	taylori
+Neotoma	varia Burt 1932
+Neotoma	vaughani
+Neotomodon	alstoni Merriam 1898
+Neotomys	ebriosus Thomas 1894
+Nesomys	audeberti Jentink 1879
+Nesomys	lambertoni Grandidier 1928
+Nesomys	rufus Peters 1870
+Neusticomys	ferreirai Percequillo Carmignotto & Silva 2005
+Neusticomys	monticolus Anthony 1921
+Neusticomys	mussoi Ochoa & Soriano 1991
+Neusticomys	oyapocki Dubost & Petter 1978
+Neusticomys	peruviensis Musser & Gardner 1974
+Neusticomys	venezuelae Anthony 1929
+Notiomys	edwardsii Thomas 1890
+Notomys	alexis Thomas 1922
+Notomys	amplus Brazenor 1936
+Notomys	aquilo Thomas 1921
+Notomys	cervinus Gould 1853
+Notomys	fuscus Jones 1925
+Notomys	longicaudatus Gould 1844
+Notomys	macrotis Thomas 1921
+Notomys	mitchellii Ogilby 1838
+Notomys	mordax Thomas 1922
+Nyctomys	sumichrasti Saussure 1860
+Ochrotomys	nuttalli Harlan 1832
+Oecomys	auyantepui Tate 1939
+Oecomys	bicolor Tomes 1860
+Oecomys	catherinae Thomas 1909
+Oecomys	cleberi Locks 1981
+Oecomys	concolor Wagner 1845
+Oecomys	flavicans Thomas 1894
+Oecomys	mamorae Thomas 1906
+Oecomys	paricola Thomas 1904
+Oecomys	phaeotis Thomas 1901
+Oecomys	rex Thomas 1910
+Oecomys	roberti Thomas 1904
+Oecomys	rutilus Anthony 1921
+Oecomys	speciosus Allen & Chapman 1893
+Oecomys	superans Thomas 1911
+Oecomys	trinitatis Allen & Chapman 1893
+Osgoodomys	banderanus Allen 1897
+Otomys	anchietae Bocage 1882
+Otomys	angoniensis Wroughton 1906
+Otomys	barbouri Lawrence & Loveridge 1953
+Otomys	burtoni Thomas 1918
+Otomys	cuanzensis Hill & Carter 1937
+Otomys	dartmouthi Thomas 1906
+Otomys	denti Thomas 1906
+Otomys	dollmani Heller 1912
+Otomys	irroratus Brants 1827
+Otomys	jacksoni Thomas 1891
+Otomys	karoensis
+Otomys	lacustris Allen & Loveridge 1933
+Otomys	laminatus Thomas & Schwann 1905
+Otomys	maximus Roberts 1924
+Otomys	occidentalis Dieterlen & Van der Straeten 1992
+Otomys	orestes Thomas 1900
+Otomys	saundersiae Roberts 1929
+Otomys	sloggetti Thomas 1902
+Otomys	tropicalis Thomas 1902
+Otomys	typus Heuglin 1877
+Otomys	unisulcatus Cuvier 1829
+Otomys	uzungwensis Lawrence & Loveridge 1953
+Oxymycterus	akodontius Thomas 1921
+Oxymycterus	amazonicus Hershkovitz 1994
+Oxymycterus	angularis Thomas 1909
+Oxymycterus	caparoae Hershkovitz 1998
+Oxymycterus	dasytrichus Schinz 1821
+Oxymycterus	delator Thomas 1903
+Oxymycterus	hiska Hinojosa Anderson & Patton 1987
+Oxymycterus	hispidus Pictet 1843
+Oxymycterus	hucucha Hinojosa Anderson & Patton 1987
+Oxymycterus	iheringi Thomas 1896
+Oxymycterus	inca Thomas 1900
+Oxymycterus	josei Hoffmann Lessa
+Oxymycterus	judex
+Oxymycterus	juliacae
+Oxymycterus	nasutus Waterhouse 1837
+Oxymycterus	paramensis Thomas 1902
+Oxymycterus	platensis
+Oxymycterus	quaestor Thomas 1903
+Oxymycterus	roberti Thomas 1901
+Oxymycterus	rufus Fischer 1814
+Palawanomys	furvus Musser & Newcomb 1983
+Paracricetodon	cadurcensis
+Paracricetodon	confluens
+Paracricetodon	dehmi
+Paracricetodon	kavakderensis
+Paracricetodon	kodjayarmensis
+Paracricetodon	spectabilis
+Paracricetodon	walgeri
+Paracricetodon	wentgesi
+Paraethomys	lissasfensis
+Paraleptomys	rufilatus Osgood 1945
+Paraleptomys	wilhelmina Tate & Archbold 1941
+Parapodemus	coronensis
+Parapodemus	gaudryi barbarae
+Parapodemus	barbarae
+Parapodemus	gaudryi
+Parapodemus	gaudryi gaudryi
+Parapodemus	lugdunensis
+Parapodemus	meini
+Paruromys	dominator Thomas 1921
+Paruromys	ursinus Sody 1941
+Paulamys	naso Musser 1981
+Pelomys	campanae Huet 1888
+Pelomys	europeus
+Pelomys	fallax Peters 1852
+Pelomys	hopkinsi Hayman 1955
+Pelomys	isseli de Beaux 1924
+Pelomys	minor Cabrera & Ruxton 1926
+Phaulomys	andersoni Thomas 1905
+Phaulomys	smithii Thomas 1905
+Pithecheirops	ition
+Pithecheirops	otion Emmons 1993
+Plesiodipus	leei
+Pliophenacomys	dixonensis
+Pliophenacomys	finneyi
+Pliophenacomys	koenigswaldi
+Pliophenacomys	osborni
+Pliophenacomys	primaevus
+Pliophenacomys	wilsoni
+Pliotomodon	primitivus
+Pogonomelomys	brassi Tate & Archbold 1941
+Pogonomelomys	bruijni Peters & Doria 1876
+Pogonomelomys	bruijnii Peters & Doria 1876
+Pogonomelomys	mayeri Rothschild & Dollman 1932
+Pogonomelomys	sevia Tate & Archbold 1935
+Proedromys	bedfordi Thomas 1911
+Proedromys	liangshanensis Liu Sun Zeng & Zhao 2007
+Proneofiber	guildayi
+Prosomys	mimus
+Prospalax	petteri
+Psammomys	obesus Cretzschmar 1828
+Psammomys	vexillaris Thomas 1925
+Pseudohydromys	ellermani Laurie & Hill 1954
+Pseudohydromys	fuscus Laurie 1952
+Pseudohydromys	germani Helgen 2005
+Pseudohydromys	murinus Ruemmler 1934
+Pseudohydromys	occidentalis Tate 1951
+Rhizomys	pruinosus Blyth 1851
+Rhizomys	sinensis Gray 1831
+Rhizomys	sumatrensis Raffles 1821
+Scolomys	melanops Anthony 1924
+Scolomys	ucayalensis Pacheco 1991
+Sigmodon	alleni Bailey 1902
+Sigmodon	alstoni Thomas 1881
+Sigmodon	arizonae plenus Goldman 1928
+Sigmodon	plenus Goldman 1928
+Sigmodon	arizonae arizonae Mearns 1890
+Sigmodon	arizonae Mearns 1890
+Sigmodon	atavus
+Sigmodon	bakeri
+Sigmodon	curtisi
+Sigmodon	fulviventer Allen 1889
+Sigmodon	hirsutus Burmeister 1854
+Sigmodon	hispidus Say & Ord 1825
+Sigmodon	hudspethensis
+Sigmodon	inopinatus Anthony 1924
+Sigmodon	leucotis Bailey 1902
+Sigmodon	libitinus
+Sigmodon	lindsayi
+Sigmodon	mascotensis Allen 1897
+Sigmodon	minor
+Sigmodon	ochrognathus Bailey 1902
+Sigmodon	peruanus Allen 1897
+Sigmodon	planifrons Nelson & Goldman 1933
+Sigmodon	toltecus Saussure 1860
+Sigmodon	zanjonensis Goodwin 1932
+Stephanomys	ramblensis
+Stephanomys	stadii
+Stochomys	longicaudatus Tullberg 1893
+Tarsomys	apoensis Mearns 1905
+Tarsomys	echinatus Musser & Heaney 1992
+Tatera	afra Gray 1830
+Tatera	boehmi Noack 1887
+Tatera	brantsii Smith 1836
+Tatera	guineae Thomas 1910
+Tatera	inclusa Thomas & Wroughton 1908
+Tatera	indica Hardwicke 1807
+Tatera	kempi Wroughton 1906
+Tatera	leucogaster Peters 1852
+Tatera	nigricauda Peters 1878
+Tatera	phillipsi de Winton 1898
+Tatera	robusta Cretzschmar 1830
+Tatera	valida Bocage 1890
+Thalpomys	cerradensis Hershkovitz 1990
+Thalpomys	lasiotis Thomas 1916
+Tylomys	bullaris Merriam 1901
+Tylomys	fulviventer Anthony 1916
+Tylomys	mirae Thomas 1899
+Tylomys	nudicaudus Peters 1866
+Tylomys	panamensis Gray 1873
+Tylomys	tumbalensis Merriam 1901
+Tylomys	watsoni Thomas 1899
+Vandeleuria	nilagirica Jerdon 1867
+Vandeleuria	nolthenii Phillips 1929
+Vandeleuria	oleracea Bennett 1832
+Vernaya	fulva Allen 1927
+Wilfredomys	oenax Thomas 1928
+Wilfredomys	pictipes Osgood 1933
+Wilsoneumys	planidens

@@ -488,6 +488,9 @@ if (0)
 	$n = 'Influenza A virus (A/common teal/California/11285/2008(mixed))';
 	$n = 'Lactobacillus delbrueckii subsp. bulgaricus CNCM I-1519';
 	
+	$n = 'Myopterus daubentonii subsp. albatus Thomas, 1915';
+	$n = 'Myopterus daubentonii';
+	
 	$r = $pp->parse($n);
 	
 	print_r($r);

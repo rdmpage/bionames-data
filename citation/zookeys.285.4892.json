@@ -1,0 +1,378 @@
+{"B1":{
+"id":"B1",
+"author":[
+{"firstname":"T","lastname":"Caro","name":"T Caro"}
+],
+"type":"article",
+"title":" The adaptive significance of coloration in mammals.",
+"journal":{
+"name":"BioScience ",
+"volume":"55",
+"pages":"125--136"
+},
+"year":"2005",
+"identifier":[{"type":"doi","id":"10.1641/0006-3568(2005)055[0125:TASOCI]2.0.CO;2"}]
+
+},
+"B2":{
+"id":"B2",
+"author":[
+{"firstname":"GE","lastname":"Dobson","name":"GE Dobson"}
+],
+"type":"article",
+"title":" On the genus Chalinolobus, with descriptions of new or little-known species.",
+"journal":{
+"name":" Proceedings of the Zoological Society of London, ",
+"volume":"1875",
+"pages":"381--383"
+},
+"year":"1875",
+"identifier":[]
+
+},
+"B3":{
+"id":"B3",
+"author":[
+{"firstname":"JL","lastname":"Eger","name":"JL Eger"},
+{"firstname":"DA","lastname":"Schlitter","name":"DA Schlitter"}
+],
+"type":"article",
+"title":" A new species of Glauconycteris from West Africa (Chiroptera: Vespertilionidae).",
+"journal":{
+"name":"Acta Chiropterologica ",
+"volume":"3",
+"pages":"1--10"
+},
+"year":"2001",
+"identifier":[]
+
+},
+"B4":{
+"id":"B4",
+"author":[
+{"firstname":"J","lastname":"Fahr","name":"J Fahr"},
+{"firstname":"D","lastname":"Jacobs","name":"D Jacobs"},
+{"firstname":"FPD","lastname":"Cotterill","name":"FPD Cotterill"},
+{"firstname":"PJ","lastname":"Taylor","name":"PJ Taylor"}
+],
+"type":"generic",
+"title":" Glauconycteris superba. In: IUCN 2012. IUCN Red List of Threatened Species. Version 2012.2. www.iucnredlist.org . Downloaded on 25 October 2012.",
+"year":"2008",
+"identifier":[]
+
+},
+"B5":{
+"id":"B5",
+"author":[
+{"firstname":"MB","lastname":"Fenton","name":"MB Fenton"},
+{"firstname":"NGH","lastname":"Boyle","name":"NGH Boyle"},
+{"firstname":"TM","lastname":"Harrison","name":"TM Harrison"},
+{"firstname":"DJ","lastname":"Oxley","name":"DJ Oxley"}
+],
+"type":"article",
+"title":" Activity patterns, habitat use, and prey selection by some African insectivorous bats.",
+"journal":{
+"name":"Biotropica ",
+"volume":"9",
+"pages":"73--85"
+},
+"year":"1977",
+"identifier":[{"type":"doi","id":"10.2307/2387662"}]
+
+},
+"B6":{
+"id":"B6",
+"author":[
+{"firstname":"JS","lastname":"Findley","name":"JS Findley"},
+{"firstname":"EH","lastname":"Studier","name":"EH Studier"},
+{"firstname":"DE","lastname":"Wilson","name":"DE Wilson"}
+],
+"type":"article",
+"title":" Morphologic properties of bat wings.",
+"journal":{
+"name":"Journal of Mammalogy ",
+"volume":"53",
+"pages":"429--444"
+},
+"year":"1972",
+"identifier":[{"type":"doi","id":"10.2307/1379035"}]
+
+},
+"B7":{
+"id":"B7",
+"author":[
+{"firstname":"Tungaluna G-C","lastname":"Gembu","name":"Tungaluna G-C Gembu"}
+],
+"type":"article",
+"title":" Observation 24. Fourth observation of Glauconycteris superba from the Democratic Republic of the Congo.",
+"journal":{
+"name":"African Bat Conservation News ",
+"volume":"28",
+"pages":"2--3"
+},
+"year":"2012",
+"identifier":[]
+
+},
+"B8":{
+"id":"B8",
+"author":[
+{"firstname":"RW","lastname":"Hayman","name":"RW Hayman"}
+],
+"type":"generic",
+"title":" Two new mammals from the Belgian Congo. Annals and Magazine of Natural History, Series 11, 3: 219–224. ",
+"year":"1939",
+"identifier":[{"type":"doi","id":"10.1080/03745481.1939.9723594"}]
+
+},
+"B9":{
+"id":"B9",
+"author":[
+{"firstname":"RW","lastname":"Hayman","name":"RW Hayman"}
+],
+"type":"generic",
+"title":" A new race of Glauconycteris superba from West Africa. Annals and Magazine of Natural History, Series 11, 13: 547–550. ",
+"year":"1947",
+"identifier":[{"type":"doi","id":"10.1080/00222934608654576"}]
+
+},
+"B10":{
+"id":"B10",
+"author":[
+{"firstname":"RW","lastname":"Hayman","name":"RW Hayman"},
+{"firstname":"JE","lastname":"Hill","name":"JE Hill"}
+],
+"type":"generic",
+"title":" Order Chiroptera. In: The mammals of Africa- an identification manual (Meester J, Setzer HW, eds). Smithsonian Institution Press, Washington DC, USA, 1–73.",
+"year":"1971",
+"identifier":[]
+
+},
+"B11":{
+"id":"B11",
+"author":[
+{"firstname":"RW","lastname":"Hayman","name":"RW Hayman"},
+{"firstname":"TS","lastname":"Jones","name":"TS Jones"}
+],
+"type":"generic",
+"title":" A note on pattern variation in the vespertilionid Glauconycteris poensis (Gray). Annals and Magazine of Natural History, Series 12, 3: 761–763. ",
+"year":"1950",
+"identifier":[{"type":"doi","id":"10.1080/00222935008654104"}]
+
+},
+"B12":{
+"id":"B12",
+"author":[
+{"firstname":"SR","lastname":"Hoofer","name":"SR Hoofer"},
+{"firstname":"RA","lastname":"Van Den Bussche","name":"RA Van Den Bussche"}
+],
+"type":"generic",
+"title":" Molecular phylogenetics of the chiropteran family Vespertilionidae. Acta Chiropterologica 5(supplement): 1–63. ",
+"year":"2003",
+"identifier":[{"type":"doi","id":"10.3161/001.005.s101"}]
+
+},
+"B13":{
+"id":"B13",
+"author":[
+{"firstname":"KF","lastname":"Koopman","name":"KF Koopman"}
+],
+"type":"article",
+"title":" Bats of the Sudan.",
+"journal":{
+"name":"Bulletin of the American Museum of Natural History ",
+"volume":"154",
+"pages":"355--443"
+},
+"year":"1975",
+"identifier":[]
+
+},
+"B14":{
+"id":"B14",
+"author":[
+{"firstname":"HP","lastname":"Linder","name":"HP Linder"},
+{"firstname":"HM","lastname":"de Klerk","name":"HM de Klerk"},
+{"firstname":"J","lastname":"Born","name":"J Born"},
+{"firstname":"ND","lastname":"Burgess","name":"ND Burgess"},
+{"firstname":"J","lastname":"Fjeldsa","name":"J Fjeldsa"},
+{"firstname":"C","lastname":"Rahbek","name":"C Rahbek"}
+],
+"type":"article",
+"title":" The partitioning of Africa: statistically defined biogeographical regions in sub-Saharan Africa.",
+"journal":{
+"name":"Journal of Biogeography ",
+"volume":"39",
+"pages":"1189--1205"
+},
+"year":"2012",
+"identifier":[{"type":"doi","id":"10.1111/j.1365-2699.2012.02728.x"}]
+
+},
+"B15":{
+"id":"B15",
+"author":[
+{"firstname":"LJ","lastname":"McLellen","name":"LJ McLellen"}
+],
+"type":"article",
+"title":" Notes on the bats of Sudan.",
+"journal":{
+"name":"American Museum Novitates ",
+"volume":"2839",
+"pages":"1--12"
+},
+"year":"1986",
+"identifier":[]
+
+},
+"B16":{
+"id":"B16",
+"author":[
+{"firstname":"UM","lastname":"Norberg","name":"UM Norberg"},
+{"firstname":"JMV","lastname":"Rayner","name":"JMV Rayner"}
+],
+"type":"generic",
+"title":" Ecological morphology and flight in bats (Mammalia, Chiroptera): Wing adaptations, flight performance, foraging strategy and echolocation. Philosophical Transactions of the Royal Society of London 316B: 335–427. ",
+"year":"1987",
+"identifier":[{"type":"doi","id":"10.1098/rstb.1987.0030"}]
+
+},
+"B17":{
+"id":"B17",
+"author":[
+{"firstname":"M","lastname":"Obrist","name":"M Obrist"},
+{"firstname":"HDJN","lastname":"Aldridge","name":"HDJN Aldridge"},
+{"firstname":"MB","lastname":"Fenton","name":"MB Fenton"}
+],
+"type":"article",
+"title":"",
+"journal":{
+"name":"Journal of Mammalogy ",
+"volume":"70",
+"pages":"828--833"
+},
+"year":"1989",
+"identifier":[{"type":"doi","id":"10.2307/1381721"}]
+
+},
+"B18":{
+"id":"B18",
+"author":[
+{"firstname":"RL","lastname":"Peterson","name":"RL Peterson"},
+{"firstname":"DA","lastname":"Smith","name":"DA Smith"}
+],
+"type":"article",
+"title":" A new species of Glauconycteris (Vespertilionidae, Chiroptera).",
+"journal":{
+"name":"Royal Ontario Museum, Life Sciences Occasional Papers ",
+"volume":"22",
+"pages":"1--9"
+},
+"year":"1973",
+"identifier":[]
+
+},
+"B19":{
+"id":"B19",
+"author":[
+{"firstname":"DA","lastname":"Rambaldini","name":"DA Rambaldini"}
+],
+"type":"article",
+"title":" Glauconycteris variegata (Chiroptera: Vespertilionidae).",
+"journal":{
+"name":"Mammalian Species ",
+"volume":"42",
+"pages":"251--258"
+},
+"year":"2010",
+"identifier":[{"type":"doi","id":"10.1644/870.1"}]
+
+},
+"B20":{
+"id":"B20",
+"author":[
+{"firstname":"DM","lastname":"Reeder","name":"DM Reeder"},
+{"firstname":"KM","lastname":"Helgen","name":"KM Helgen"},
+{"firstname":"DE","lastname":"Wilson","name":"DE Wilson"}
+],
+"type":"article",
+"title":" Global trends and biases in new mammal species discoveries.",
+"journal":{
+"name":"Occasional Papers, Museum of Texas Tech University, ",
+"volume":"269",
+"pages":"1--36"
+},
+"year":"2007",
+"identifier":[]
+
+},
+"B21":{
+"id":"B21",
+"author":[
+{"firstname":"ZP","lastname":"Roehrs","name":"ZP Roehrs"},
+{"firstname":"JB","lastname":"Lack","name":"JB Lack"},
+{"firstname":"RA","lastname":"Van Den Bussche","name":"RA Van Den Bussche"}
+],
+"type":"article",
+"title":" A molecular phylogenetic reevaluation of the tribe Nycticeiini (Chiroptera: Vespertilionidae).",
+"journal":{
+"name":"Acta Chiropterologica, ",
+"volume":"13",
+"pages":"17--31"
+},
+"year":"2011",
+"identifier":[{"type":"doi","id":"10.3161/150811011X578598"}]
+
+},
+"B22":{
+"id":"B22",
+"author":[
+{"firstname":"DR","lastname":"Rosevear","name":"DR Rosevear"}
+],
+"type":"generic",
+"title":" The bats of West Africa. Trustees of the British Museum (Natural History), London, United Kingdom.",
+"year":"1965",
+"identifier":[]
+
+},
+"B23":{
+"id":"B23",
+"author":[
+{"firstname":"SE","lastname":"Santana","name":"SE Santana"},
+{"firstname":"TO","lastname":"Dial","name":"TO Dial"},
+{"firstname":"TP","lastname":"Eiting","name":"TP Eiting"},
+{"firstname":"ME","lastname":"Alfaro","name":"ME Alfaro"}
+],
+"type":"generic",
+"title":" Roosting ecology and the evolution of pelage markings in bats. PLoS ONE 6(10): e25845. ",
+"year":"2011",
+"identifier":[{"type":"doi","id":"10.1371/journal.pone.0025845"}]
+
+},
+"B24":{
+"id":"B24",
+"author":[
+{"firstname":"NB","lastname":"Simmons","name":"NB Simmons"}
+],
+"type":"chapter",
+"title":" Order Chiroptera.",
+"book":{
+"title":"Mammal species of the world."
+},
+"pages":"312--529",
+"year":"2005",
+"identifier":[]
+
+},
+"B25":{
+"id":"B25",
+"author":[
+{"firstname":"DE","lastname":"Wilson","name":"DE Wilson"},
+{"firstname":"FR","lastname":"Cole","name":"FR Cole"}
+],
+"type":"generic",
+"title":" Common names of mammals of the world. Smithsonian Institution Press, Washington DC, USA.",
+"year":"2000",
+"identifier":[]
+
+}}

@@ -1,0 +1,355 @@
+Order	Family	Num Genera	Cluster degree	Set degree	Num Edges	Fit	Before	After	Grouped	Group Fit
+Afrosoricida Stanhope, 1998	Chrysochloridae Gray, 1825	9	1	1	9	1	72	72	0	1
+Afrosoricida Stanhope, 1998	Tenrecidae Gray, 1821	10	1	1	10	1	36	36	0	1
+Artiodactyla Owen, 1841	Aglaocetidae	3	1	1	3	1	4	4	0	1
+Artiodactyla Owen, 1841	Agriochoeridae Leidy, 1869	1	1	1	1	1	9	9	0	1
+Artiodactyla Owen, 1841	Amphimerycidae Stehlin, 1910	1	1	1	1	1	2	2	0	1
+Artiodactyla Owen, 1841	Anoplotheriidae Gray, 1821	4	1	1	4	1	10	10	0	1
+Artiodactyla Owen, 1841	Anthracotheriidae Leidy, 1869	16	2	2	17	0.94117647058824	31	30	1	0.96774193548387
+Artiodactyla Owen, 1841	Antiacodontidae	3	1	1	3	1	5	5	0	1
+Artiodactyla Owen, 1841	Antilocapridae Gray, 1866	21	2	2	24	0.875	68	66	2	0.97058823529412
+Artiodactyla Owen, 1841	Bovidae Gray, 1821	75	3	2	101	0.74257425742574	907	880	27	0.97023153252481
+Artiodactyla Owen, 1841	Bunomerycidae	5	1	1	5	1	7	7	0	1
+Artiodactyla Owen, 1841	Cainotheriidae Cope, 1881	5	2	2	7	0.71428571428571	10	9	1	0.9
+Artiodactyla Owen, 1841	Camelidae Gray, 1821	40	2	3	50	0.8	115	107	8	0.9304347826087
+Artiodactyla Owen, 1841	Cebochoeridae Lydekker	3	1	1	3	1	8	8	0	1
+Artiodactyla Owen, 1841	Cervidae Goldfuss, 1820	28	6	2	37	0.75675675675676	461	454	7	0.98481561822126
+Artiodactyla Owen, 1841	Choeropotamidae Owen, 1845	5	1	1	5	1	6	6	0	1
+Artiodactyla Owen, 1841	Dacrytheriidae Deperet, 1917	1	1	1	1	1	1	1	0	1
+Artiodactyla Owen, 1841	Diacodexeidae	1	1	1	1	1	1	1	0	1
+Artiodactyla Owen, 1841	Dichobunidae Gill, 1872	16	1	1	16	1	38	38	0	1
+Artiodactyla Owen, 1841	Diorocetidae	2	1	1	2	1	4	4	0	1
+Artiodactyla Owen, 1841	Dromomerycidae Frick, 1937	1	1	1	1	1	1	1	0	1
+Artiodactyla Owen, 1841	Entelodontidae Lydekker, 1883	5	1	1	5	1	17	17	0	1
+Artiodactyla Owen, 1841	Entolodontidae	1	1	1	1	1	1	1	0	1
+Artiodactyla Owen, 1841	Eomysticetidae Sanders & Barnes, 2002	1	1	1	1	1	2	2	0	1
+Artiodactyla Owen, 1841	Gelocidae Schlosser, 1886	1	1	1	1	1	3	3	0	1
+Artiodactyla Owen, 1841	Giraffidae Gray, 1821	7	1	1	7	1	25	25	0	1
+Artiodactyla Owen, 1841	Helohyidae Marshall, 1877	6	2	2	8	0.75	14	13	1	0.92857142857143
+Artiodactyla Owen, 1841	Hippopotamidae Gray, 1821	8	5	2	13	0.61538461538462	49	45	4	0.91836734693878
+Artiodactyla Owen, 1841	Hoplitomerycidae	1	1	1	1	1	1	1	0	1
+Artiodactyla Owen, 1841	Hypertragulidae Cope, 1879	9	2	2	11	0.81818181818182	29	28	1	0.96551724137931
+Artiodactyla Owen, 1841	Leptochoeridae Marsh, 1894	5	1	1	5	1	12	12	0	1
+Artiodactyla Owen, 1841	Leptomerycidae Zittel, 1893	2	1	1	2	1	11	11	0	1
+Artiodactyla Owen, 1841	Llanocetidae Mitchell, 1989	1	1	1	1	1	1	1	0	1
+Artiodactyla Owen, 1841	Lophiomerycidae	2	1	1	2	1	2	2	0	1
+Artiodactyla Owen, 1841	Merycoidodontidae Thorpe, 1923	21	4	3	29	0.72413793103448	71	66	5	0.92957746478873
+Artiodactyla Owen, 1841	Moschidae Gray, 1821	8	1	1	8	1	43	43	0	1
+Artiodactyla Owen, 1841	Oromerycidae Gazin, 1955	6	1	1	6	1	10	10	0	1
+Artiodactyla Owen, 1841	Pakicetidae Thewissen et al., 1996	2	1	1	2	1	2	2	0	1
+Artiodactyla Owen, 1841	Palaeochoeridae	1	1	1	1	1	4	4	0	1
+Artiodactyla Owen, 1841	Palaeomerycidae Lydekker, 1883	14	1	1	14	1	27	27	0	1
+Artiodactyla Owen, 1841	Pelocetidae	3	1	1	3	1	6	6	0	1
+Artiodactyla Owen, 1841	Protoceratidae Marsh, 1891	13	2	2	15	0.86666666666667	34	33	1	0.97058823529412
+Artiodactyla Owen, 1841	Raoellidae Sahni, 1981	2	1	1	2	1	4	4	0	1
+Artiodactyla Owen, 1841	Simocetidae Fordyce, 2002	1	1	1	1	1	1	1	0	1
+Artiodactyla Owen, 1841	Suidae Gray, 1821	22	1	1	22	1	138	138	0	1
+Artiodactyla Owen, 1841	Tayassuidae Palmer, 1897	18	1	1	18	1	76	76	0	1
+Artiodactyla Owen, 1841	Tragulidae Milne-Edwards, 1864	6	1	1	6	1	120	120	0	1
+Artiodactyla Owen, 1841	Xiphodontidae Flower, 1883	2	1	1	2	1	2	2	0	1
+Carnivora Bowdich, 1821	Adapisoriculidae	1	1	1	1	1	3	3	0	1
+Carnivora Bowdich, 1821	Ailuridae Gray, 1843	1	1	1	1	1	5	5	0	1
+Carnivora Bowdich, 1821	Amphicyonidae Haeckel, 1886	18	1	1	18	1	56	56	0	1
+Carnivora Bowdich, 1821	Barbourofelidae Schultz et al., 1970	1	1	1	1	1	1	1	0	1
+Carnivora Bowdich, 1821	Canidae Fischer, 1817	51	3	2	63	0.80952380952381	557	551	6	0.98922800718133
+Carnivora Bowdich, 1821	Eupleridae Chenu, 1850	7	1	1	7	1	25	25	0	1
+Carnivora Bowdich, 1821	Felidae Fischer de Waldheim, 1817	26	3	2	39	0.66666666666667	529	521	8	0.98487712665406
+Carnivora Bowdich, 1821	Hemicyonidae	3	1	1	3	1	5	5	0	1
+Carnivora Bowdich, 1821	Herpestidae Bonaparte, 1845	14	3	2	20	0.7	344	341	3	0.99127906976744
+Carnivora Bowdich, 1821	Hyaenidae Gray, 1821	9	1	1	9	1	17	17	0	1
+Carnivora Bowdich, 1821	Mephitidae Bonaparte, 1845	4	1	1	4	1	128	128	0	1
+Carnivora Bowdich, 1821	Miacidae Cope, 1880	7	2	2	9	0.77777777777778	40	39	1	0.975
+Carnivora Bowdich, 1821	Mustelidae Fischer, 1817	64	4	2	74	0.86486486486486	905	898	7	0.99226519337017
+Carnivora Bowdich, 1821	Nandiniidae Pocock, 1929	1	1	1	1	1	9	9	0	1
+Carnivora Bowdich, 1821	Nimravidae Cope, 1880	8	1	1	8	1	21	21	0	1
+Carnivora Bowdich, 1821	Odobenidae Allen, 1880	11	1	1	11	1	23	23	0	1
+Carnivora Bowdich, 1821	Otariidae Gray, 1825	13	3	2	16	0.8125	54	51	3	0.94444444444444
+Carnivora Bowdich, 1821	Phocidae Gray, 1821	55	3	2	59	0.93220338983051	151	148	3	0.98013245033113
+Carnivora Bowdich, 1821	Procyonidae Gray, 1825	16	1	1	16	1	180	180	0	1
+Carnivora Bowdich, 1821	Stenoplesictidae Schlosser, 1923	1	1	1	1	1	1	1	0	1
+Carnivora Bowdich, 1821	Ursidae Fischer de Waldheim, 1817	10	2	2	12	0.83333333333333	121	120	1	0.99173553719008
+Carnivora Bowdich, 1821	Viverravidae Wortman & Matthew, 1899	9	1	1	9	1	30	30	0	1
+Carnivora Bowdich, 1821	Viverridae Gray, 1821	21	2	2	23	0.91304347826087	287	286	1	0.99651567944251
+Cetacea Brisson, 1762	Acrodelphinidae Rice, 1984	2	1	1	2	1	6	6	0	1
+Cetacea Brisson, 1762	Aetiocetidae Emlong, 1966	4	1	1	4	1	7	7	0	1
+Cetacea Brisson, 1762	Agorophiidae Abel, 1913	1	1	1	1	1	1	1	0	1
+Cetacea Brisson, 1762	Albireonidae Barnes, 1984	1	1	1	1	1	2	2	0	1
+Cetacea Brisson, 1762	Allodelphinidae Barnes, 2006	1	1	1	1	1	1	1	0	1
+Cetacea Brisson, 1762	Ambulocetidae Thewissen et al., 1996	3	1	1	3	1	3	3	0	1
+Cetacea Brisson, 1762	Balaenidae Gray, 1821	6	1	1	6	1	31	31	0	1
+Cetacea Brisson, 1762	Balaenopteridae Gray, 1864	14	2	2	15	0.93333333333333	78	77	1	0.98717948717949
+Cetacea Brisson, 1762	Basilosauridae Cope, 1868	11	1	1	11	1	14	14	0	1
+Cetacea Brisson, 1762	Cetotheriidae Brandt, 1872	11	1	1	11	1	36	36	0	1
+Cetacea Brisson, 1762	Cetotheriopsidae Brandt, 1872	2	1	1	2	1	3	3	0	1
+Cetacea Brisson, 1762	Dalpiazinidae Muizon, 1988	1	1	1	1	1	1	1	0	1
+Cetacea Brisson, 1762	Delphinidae Gray, 1821	23	1	2	23	1	120	119	1	0.99166666666667
+Cetacea Brisson, 1762	Eschrichtiidae Ellerman & Morrison-Scott, 1951	4	1	1	4	1	5	5	0	1
+Cetacea Brisson, 1762	Eurhinodelphidae Abel, 1901	3	1	1	3	1	7	7	0	1
+Cetacea Brisson, 1762	Eurhinodelphinidae Abel, 1901	4	1	1	4	1	13	13	0	1
+Cetacea Brisson, 1762	Hapalodectidae Ting & Li, 1987	4	1	1	4	1	11	11	0	1
+Cetacea Brisson, 1762	Hyperoodontidae Gray, 1846	6	1	1	6	1	31	31	0	1
+Cetacea Brisson, 1762	Iniidae Gray, 1846	10	1	1	10	1	18	18	0	1
+Cetacea Brisson, 1762	Janjucetidae	1	1	1	1	1	1	1	0	1
+Cetacea Brisson, 1762	Kentriodontidae Slijper, 1936	15	1	1	15	1	24	24	0	1
+Cetacea Brisson, 1762	Kogiidae Gill, 1871	2	1	1	2	1	4	4	0	1
+Cetacea Brisson, 1762	Lipotidae Zhou, Qian & Li, 1978	2	1	1	2	1	4	4	0	1
+Cetacea Brisson, 1762	Mesonychidae Cope, 1880	10	1	1	10	1	22	22	0	1
+Cetacea Brisson, 1762	Monodontidae Gray, 1821	5	1	1	5	1	6	6	0	1
+Cetacea Brisson, 1762	Neobalaenidae Gray, 1873	1	1	1	1	1	1	1	0	1
+Cetacea Brisson, 1762	Odobenocetopsidae Muizon, 1993	1	1	1	1	1	2	2	0	1
+Cetacea Brisson, 1762	Patriocetidae	1	1	1	1	1	3	3	0	1
+Cetacea Brisson, 1762	Phocoenidae Gray, 1825	10	1	1	10	1	35	35	0	1
+Cetacea Brisson, 1762	Physeteridae Gray, 1821	21	1	1	21	1	47	47	0	1
+Cetacea Brisson, 1762	Platanistidae Gray, 1846	4	1	1	4	1	11	11	0	1
+Cetacea Brisson, 1762	Protocetidae Stromer, 1908	17	1	1	17	1	22	22	0	1
+Cetacea Brisson, 1762	Remingtonocetidae Kumar & Sahni, 1986	29	1	1	29	1	35	35	0	1
+Cetacea Brisson, 1762	Rhabdosteidae Gill, 1871	1	1	1	1	1	1	1	0	1
+Cetacea Brisson, 1762	Squalodelphidae Dal Piaz, 1917	3	1	1	3	1	3	3	0	1
+Cetacea Brisson, 1762	Squalodontidae Brandt, 1873	8	1	1	8	1	43	43	0	1
+Cetacea Brisson, 1762	Triisodontidae	3	1	1	3	1	7	7	0	1
+Cetacea Brisson, 1762	Waipatiidae Fordyce, 1994	2	1	1	2	1	2	2	0	1
+Cetacea Brisson, 1762	Xenorophidae	1	1	1	1	1	1	1	0	1
+Cetacea Brisson, 1762	Ziphiidae Gray, 1850	27	1	1	27	1	41	41	0	1
+Chiroptera Blumenbach, 1779	Archaeonycteridae	1	1	1	1	1	2	2	0	1
+Chiroptera Blumenbach, 1779	Archaeonycterididae Revilliod, 1917	1	1	1	1	1	1	1	0	1
+Chiroptera Blumenbach, 1779	Craseonycteridae Hill, 1974	1	1	1	1	1	1	1	0	1
+Chiroptera Blumenbach, 1779	Emballonuridae Gervais, 1856	16	1	1	16	1	177	177	0	1
+Chiroptera Blumenbach, 1779	Furipteridae Gray, 1866	2	1	1	2	1	2	2	0	1
+Chiroptera Blumenbach, 1779	Hipposideridae Lydekker, 1891	5	1	1	5	1	5	5	0	1
+Chiroptera Blumenbach, 1779	Megadermatidae H. Allen, 1864	5	1	1	5	1	54	54	0	1
+Chiroptera Blumenbach, 1779	Molossidae Gervais, 1856	16	4	2	27	0.59259259259259	360	331	29	0.91944444444444
+Chiroptera Blumenbach, 1779	Mormoopidae Koch, 1862-63	2	1	1	2	1	56	56	0	1
+Chiroptera Blumenbach, 1779	Mystacinidae Dobson, 1875	1	1	1	1	1	2	2	0	1
+Chiroptera Blumenbach, 1779	Myzopodidae Thomas, 1904	1	1	1	1	1	2	2	0	1
+Chiroptera Blumenbach, 1779	Natalidae Gray, 1866	5	3	2	8	0.625	38	35	3	0.92105263157895
+Chiroptera Blumenbach, 1779	Noctilionidae Gray, 1821	1	1	1	1	1	13	13	0	1
+Chiroptera Blumenbach, 1779	Nycteridae Van der Hoeven, 1855	1	1	1	1	1	51	51	0	1
+Chiroptera Blumenbach, 1779	Onychonycteridae	1	1	1	1	1	1	1	0	1
+Chiroptera Blumenbach, 1779	Palaeochiropterygidae	3	1	1	3	1	3	3	0	1
+Chiroptera Blumenbach, 1779	Philisidae	3	1	1	3	1	4	4	0	1
+Chiroptera Blumenbach, 1779	Phyllostomidae Gray, 1825	57	4	2	65	0.87692307692308	461	451	10	0.97830802603037
+Chiroptera Blumenbach, 1779	Pteropidae Gray, 1821	1	1	1	1	1	1	1	0	1
+Chiroptera Blumenbach, 1779	Pteropodidae Gray, 1821	45	3	2	51	0.88235294117647	610	606	4	0.99344262295082
+Chiroptera Blumenbach, 1779	Rhinolophidae Gray, 1825	10	2	2	12	0.83333333333333	676	674	2	0.99704142011834
+Chiroptera Blumenbach, 1779	Rhinopomatidae Bonaparte, 1838	2	1	1	2	1	25	25	0	1
+Chiroptera Blumenbach, 1779	Tanzanycterididae	1	1	1	1	1	1	1	0	1
+Chiroptera Blumenbach, 1779	Thyropteridae Miller, 1907	1	1	1	1	1	14	14	0	1
+Chiroptera Blumenbach, 1779	Vespertilionidae Gray, 1821	61	10	3	102	0.59803921568627	1455	1383	72	0.95051546391753
+Cingulata Illiger, 1811	Dasypodidae Gray, 1821	13	1	1	13	1	69	69	0	1
+Cingulata Illiger, 1811	Glyptodontidae Burmeister, 1879	9	1	1	9	1	18	18	0	1
+Cingulata Illiger, 1811	Palaeopeltidae Ameghino, 1894	1	1	1	1	1	1	1	0	1
+Cingulata Illiger, 1811	Pampatheriidae Couto, 1954	1	1	1	1	1	3	3	0	1
+Dasyuromorphia Gill, 1872	Dasyuridae Goldfuss, 1820	24	4	2	27	0.88888888888889	123	120	3	0.97560975609756
+Dasyuromorphia Gill, 1872	Myrmecobiidae Waterhouse, 1841	1	1	1	1	1	4	4	0	1
+Dasyuromorphia Gill, 1872	Thylacinidae Bonaparte, 1838	1	1	1	1	1	2	2	0	1
+Dermoptera Illiger, 1811	Cynocephalidae Simpson, 1945	2	1	1	2	1	3	3	0	1
+Didelphimorphia Gill, 1872	Borhyaenidae Ameghino, 1894	14	1	1	14	1	21	21	0	1
+Didelphimorphia Gill, 1872	Didelphidae Gray, 1821	38	4	2	53	0.71698113207547	300	291	9	0.97
+Didelphimorphia Gill, 1872	Pediomyidae Simpson, 1927	4	1	1	4	1	10	10	0	1
+Didelphimorphia Gill, 1872	Sparassocynidae	3	1	1	3	1	3	3	0	1
+Didelphimorphia Gill, 1872	Stagodontidae Marsh, 1889	4	1	1	4	1	8	8	0	1
+Didelphimorphia Gill, 1872	Thylacosmilidae Riggs, 1933	1	1	1	1	1	1	1	0	1
+Diprotodontia Owen, 1866	Acrobatidae Aplin, 1987	2	1	1	2	1	2	2	0	1
+Diprotodontia Owen, 1866	Burramyidae Broom, 1898	2	1	1	2	1	18	18	0	1
+Diprotodontia Owen, 1866	Diprotodontidae Gill, 1872	8	1	1	8	1	13	13	0	1
+Diprotodontia Owen, 1866	Ektopodontidae Stirton et al., 1967	2	1	1	2	1	4	4	0	1
+Diprotodontia Owen, 1866	Hypsiprymnodontidae Collett, 1877	1	1	1	1	1	1	1	0	1
+Diprotodontia Owen, 1866	Macropodidae Gray, 1821	24	2	2	27	0.88888888888889	196	192	4	0.97959183673469
+Diprotodontia Owen, 1866	Miralinidae	1	1	1	1	1	2	2	0	1
+Diprotodontia Owen, 1866	Palorchestidae Tate, 1948	3	1	1	3	1	6	6	0	1
+Diprotodontia Owen, 1866	Petauridae Bonaparte, 1838	6	2	2	7	0.85714285714286	34	33	1	0.97058823529412
+Diprotodontia Owen, 1866	Phalangeridae Thomas, 1888	6	1	1	6	1	74	74	0	1
+Diprotodontia Owen, 1866	Phascolarctidae Owen, 1839	3	1	1	3	1	4	4	0	1
+Diprotodontia Owen, 1866	Pilkipildridae	1	1	1	1	1	1	1	0	1
+Diprotodontia Owen, 1866	Potoroidae Gray, 1821	4	1	1	4	1	21	21	0	1
+Diprotodontia Owen, 1866	Pseudocheiridae Winge, 1893	6	1	1	6	1	57	57	0	1
+Diprotodontia Owen, 1866	Tarsipedidae Gervais & Verreaux, 1842	1	1	1	1	1	1	1	0	1
+Diprotodontia Owen, 1866	Thylacoleonidae Gill, 1872	2	1	1	2	1	3	3	0	1
+Diprotodontia Owen, 1866	Vombatidae Burnett, 1829	6	1	1	6	1	19	19	0	1
+Diprotodontia Owen, 1866	Wynyardiidae Osgood, 1921	3	1	1	3	1	4	4	0	1
+Erinaceomorpha Gregory, 1910	Adapisoricidae	2	1	1	2	1	16	16	0	1
+Erinaceomorpha Gregory, 1910	Amphilemuridae Hill, 1953	10	1	1	10	1	12	12	0	1
+Erinaceomorpha Gregory, 1910	Creotarsidae Hay, 1930	3	1	1	3	1	3	3	0	1
+Erinaceomorpha Gregory, 1910	Erinaceidae G. Fischer, 1814	39	2	2	43	0.90697674418605	184	182	2	0.98913043478261
+Hyracoidea Huxley, 1869	Pliohyracidae Osborn, 1899	13	2	2	15	0.86666666666667	28	27	1	0.96428571428571
+Hyracoidea Huxley, 1869	Procaviidae Thomas, 1892	3	1	1	3	1	100	100	0	1
+Lagomorpha Brandt, 1855	Leporidae Fischer, 1817	35	3	2	41	0.85365853658537	502	499	3	0.99402390438247
+Lagomorpha Brandt, 1855	Ochotonidae Thomas, 1897	12	2	2	14	0.85714285714286	161	160	1	0.99378881987578
+Lagomorpha Brandt, 1855	Prolagidae Gureev, 1964	1	1	1	1	1	7	7	0	1
+Macroscelidea Butler, 1956	Macroscelididae Bonaparte, 1838	5	1	1	5	1	71	71	0	1
+Microbiotheria Ameghino, 1889	Microbiotheriidae Ameghino, 1887	1	1	1	1	1	1	1	0	1
+Monotremata Bonaparte, 1837	Ornithorhynchidae Gray, 1825	5	1	1	5	1	6	6	0	1
+Monotremata Bonaparte, 1837	Tachyglossidae Gill, 1872	3	2	2	5	0.6	33	32	1	0.96969696969697
+Notoryctemorphia Kirsch in Hunsaker, 1977	Notoryctidae Ogilby, 1892	1	1	1	1	1	2	2	0	1
+Paucituberculata Ameghino, 1894	Abderitidae Ameghino, 1889	1	1	1	1	1	1	1	0	1
+Paucituberculata Ameghino, 1894	Caenolestidae Trouessart, 1898	3	1	1	3	1	21	21	0	1
+Paucituberculata Ameghino, 1894	Caroloameghiniidae Ameghino, 1901	1	1	1	1	1	1	1	0	1
+Paucituberculata Ameghino, 1894	Glasbiidae Clemens, 1966	1	1	1	1	1	2	2	0	1
+Paucituberculata Ameghino, 1894	Palaeothentidae Sinclair, 1906	1	1	1	1	1	1	1	0	1
+Paucituberculata Ameghino, 1894	Polydolopidae Ameghino, 1897	4	1	1	4	1	5	5	0	1
+Peramelemorphia Ameghino, 1889	Chaeropodidae Gill, 1872	1	1	1	1	1	1	1	0	1
+Peramelemorphia Ameghino, 1889	Peramelidae Gray, 1825	6	1	1	6	1	56	56	0	1
+Peramelemorphia Ameghino, 1889	Thylacomyidae Bensley, 1903	1	1	1	1	1	3	3	0	1
+Perissodactyla Owen, 1848	Amynodontidae Scott & Osborn, 1883	4	1	1	4	1	8	8	0	1
+Perissodactyla Owen, 1848	Anchilophidae	3	1	1	3	1	5	5	0	1
+Perissodactyla Owen, 1848	Brontotheriidae Marsh, 1873	25	3	2	31	0.80645161290323	76	72	4	0.94736842105263
+Perissodactyla Owen, 1848	Cambaytheriidae	2	1	1	2	1	4	4	0	1
+Perissodactyla Owen, 1848	Chalicotheriidae Gill, 1872	5	1	1	5	1	13	13	0	1
+Perissodactyla Owen, 1848	Deperetellidae Radinsky, 1965	1	1	1	1	1	1	1	0	1
+Perissodactyla Owen, 1848	Eomoropidae Matthew, 1929	4	1	1	4	1	9	9	0	1
+Perissodactyla Owen, 1848	Equidae Gray, 1821	35	5	3	65	0.53846153846154	291	274	17	0.94158075601375
+Perissodactyla Owen, 1848	Helaletidae	6	1	1	6	1	13	13	0	1
+Perissodactyla Owen, 1848	Hyrachyidae Osborn, 1892	1	1	1	1	1	4	4	0	1
+Perissodactyla Owen, 1848	Hyracodontidae Cope, 1879	11	1	1	11	1	31	31	0	1
+Perissodactyla Owen, 1848	Indricotheriidae	1	1	1	1	1	1	1	0	1
+Perissodactyla Owen, 1848	Isectolophidae Peterson, 1915	4	1	1	4	1	8	8	0	1
+Perissodactyla Owen, 1848	Lophialetidae Matthew & Granger, 1925	4	1	1	4	1	5	5	0	1
+Perissodactyla Owen, 1848	Lophiodontidae Gill, 1872	3	1	1	3	1	4	4	0	1
+Perissodactyla Owen, 1848	Pachynolophidae Pavlow, 1888	1	1	1	1	1	1	1	0	1
+Perissodactyla Owen, 1848	Palaeotheriidae Bonaparte, 1850	3	1	1	3	1	16	16	0	1
+Perissodactyla Owen, 1848	Rhinocerotidae Gray, 1821	42	3	2	47	0.8936170212766	124	120	4	0.96774193548387
+Perissodactyla Owen, 1848	Tapiridae Gray, 1821	8	1	1	8	1	38	38	0	1
+Pholidota Weber, 1904	Escavadodontidae Rose & Lucas, 2000	1	1	1	1	1	1	1	0	1
+Pholidota Weber, 1904	Manidae Gray, 1821	5	4	2	8	0.625	22	18	4	0.81818181818182
+Pholidota Weber, 1904	Patriomanidae Szalay & Schrenk, 1998	1	1	1	1	1	1	1	0	1
+Pilosa Flower, 1883	Bradypodidae Gray, 1825	4	1	1	4	1	23	23	0	1
+Pilosa Flower, 1883	Cyclopedidae Pocock, 1924	2	1	1	2	1	16	16	0	1
+Pilosa Flower, 1883	Didymoconidae	2	1	1	2	1	3	3	0	1
+Pilosa Flower, 1883	Gypsonictopidae Van Valen, 1967	5	1	1	5	1	8	8	0	1
+Pilosa Flower, 1883	Kulbeckiidae	1	1	1	1	1	3	3	0	1
+Pilosa Flower, 1883	Leptictidae Gill, 1872	8	1	1	8	1	22	22	0	1
+Pilosa Flower, 1883	Megalonychidae Ameghino, 1889	11	1	1	11	1	33	33	0	1
+Pilosa Flower, 1883	Megatheriidae Gray, 1821	3	1	1	3	1	7	7	0	1
+Pilosa Flower, 1883	Mylodontidae Gill, 1872	7	1	1	7	1	10	10	0	1
+Pilosa Flower, 1883	Myrmecophagidae Gray, 1825	2	1	1	2	1	25	25	0	1
+Pilosa Flower, 1883	Orophodontidae Ameghino, 1894	2	1	1	2	1	2	2	0	1
+Pilosa Flower, 1883	Pseudictopidae Sulimski, 1969	1	1	1	1	1	1	1	0	1
+Pilosa Flower, 1883	Zalambdalestidae Gregory & Simpson, 1926	4	1	1	4	1	6	6	0	1
+Primates Linnaeus, 1758	Adapidae Trouessart, 1879	18	2	2	20	0.9	38	37	1	0.97368421052632
+Primates Linnaeus, 1758	Afrotarsiidae Ginsburg & Mein, 1987	1	1	1	1	1	1	1	0	1
+Primates Linnaeus, 1758	Amphipithecidae	5	1	1	5	1	5	5	0	1
+Primates Linnaeus, 1758	Anaptomorphidae Cope, 1883	45	3	2	52	0.86538461538462	87	82	5	0.94252873563218
+Primates Linnaeus, 1758	Archaeolemuridae Grandidier, 1905	2	1	1	2	1	3	3	0	1
+Primates Linnaeus, 1758	Atelidae Gray, 1825	3	1	1	3	1	24	24	0	1
+Primates Linnaeus, 1758	Azibiidae	1	1	1	1	1	1	1	0	1
+Primates Linnaeus, 1758	Callitrichidae Gray, 1821	7	4	2	11	0.63636363636364	112	99	13	0.88392857142857
+Primates Linnaeus, 1758	Carpolestidae Simpson, 1935	7	2	2	9	0.77777777777778	18	17	1	0.94444444444444
+Primates Linnaeus, 1758	Cebidae Bonaparte, 1831	8	1	1	8	1	187	187	0	1
+Primates Linnaeus, 1758	Cercopithecidae Gray, 1821	26	2	2	32	0.8125	559	535	24	0.95706618962433
+Primates Linnaeus, 1758	Cheirogaleidae Gray, 1873	6	2	2	8	0.75	32	31	1	0.96875
+Primates Linnaeus, 1758	Daubentoniidae Gray, 1863	1	1	1	1	1	2	2	0	1
+Primates Linnaeus, 1758	Dryopithecidae	2	1	1	2	1	5	5	0	1
+Primates Linnaeus, 1758	Eosimiidae Beard et al., 1994	5	1	1	5	1	10	10	0	1
+Primates Linnaeus, 1758	Galagidae Gray, 1825	1	1	1	1	1	6	6	0	1
+Primates Linnaeus, 1758	Galagonidae Gray, 1825	6	2	2	8	0.75	65	59	6	0.90769230769231
+Primates Linnaeus, 1758	Galeopithecidae Gray, 1821	1	1	1	1	1	1	1	0	1
+Primates Linnaeus, 1758	Hominidae Gray, 1825	19	2	2	21	0.9047619047619	73	72	1	0.98630136986301
+Primates Linnaeus, 1758	Hylobatidae Gray, 1871	5	4	3	12	0.41666666666667	52	45	7	0.86538461538462
+Primates Linnaeus, 1758	Indridae Burnett, 1828	3	1	1	3	1	27	27	0	1
+Primates Linnaeus, 1758	Indriidae Burnett, 1828	1	1	1	1	1	2	2	0	1
+Primates Linnaeus, 1758	Lemuridae Gray, 1821	6	1	1	6	1	43	43	0	1
+Primates Linnaeus, 1758	Loridae Gray, 1821	4	1	1	4	1	35	35	0	1
+Primates Linnaeus, 1758	Lorisidae Gray, 1821	1	1	1	1	1	1	1	0	1
+Primates Linnaeus, 1758	Megaladapidae Major, 1893	1	1	1	1	1	24	24	0	1
+Primates Linnaeus, 1758	Microchoeridae	3	1	1	3	1	7	7	0	1
+Primates Linnaeus, 1758	Micromomyidae Szalay, 1974	4	1	1	4	1	8	8	0	1
+Primates Linnaeus, 1758	Microsyopidae Osborn & Wortman, 1892	9	1	1	9	1	22	22	0	1
+Primates Linnaeus, 1758	Notharctidae Trouessart, 1879	8	2	2	10	0.8	29	28	1	0.96551724137931
+Primates Linnaeus, 1758	Oligopithecidae Kay & Williams, 1994	1	1	1	1	1	1	1	0	1
+Primates Linnaeus, 1758	Palaechthonidae Gunnell, 1989	6	1	1	6	1	11	11	0	1
+Primates Linnaeus, 1758	Palaeopropithecidae Tattersall, 1973	2	1	1	2	1	2	2	0	1
+Primates Linnaeus, 1758	Palaeopropithicidae	2	1	1	2	1	2	2	0	1
+Primates Linnaeus, 1758	Parapithecidae Schlosser, 1911	4	1	1	4	1	5	5	0	1
+Primates Linnaeus, 1758	Paromomyidae Simpson, 1940	9	1	1	9	1	21	21	0	1
+Primates Linnaeus, 1758	Picrodontidae Simpson, 1937	3	1	1	3	1	6	6	0	1
+Primates Linnaeus, 1758	Picromomyidae Rose & Bown, 1996	2	1	1	2	1	2	2	0	1
+Primates Linnaeus, 1758	Pitheciidae Mivart, 1865	5	1	1	5	1	64	64	0	1
+Primates Linnaeus, 1758	Plagiomenidae Matthew, 1918	6	1	1	6	1	7	7	0	1
+Primates Linnaeus, 1758	Plesiadapidae Trouessart, 1897	9	1	1	9	1	33	33	0	1
+Primates Linnaeus, 1758	Pliopithecidae Zapfe, 1960	7	1	1	7	1	11	11	0	1
+Primates Linnaeus, 1758	Pongidae Elliot, 1913	1	1	1	1	1	3	3	0	1
+Primates Linnaeus, 1758	Proconsulidae	1	1	1	1	1	1	1	0	1
+Primates Linnaeus, 1758	Proteopithecidae Simons, 1997	1	1	1	1	1	1	1	0	1
+Primates Linnaeus, 1758	Purgatoriidae Gunnell, 1989	1	1	1	1	1	3	3	0	1
+Primates Linnaeus, 1758	Scenopagidae	1	1	1	1	1	1	1	0	1
+Primates Linnaeus, 1758	Sivaladapidae	2	1	1	2	1	3	3	0	1
+Primates Linnaeus, 1758	Tarsiidae Gray, 1825	5	1	1	5	1	28	28	0	1
+Primates Linnaeus, 1758	Toliapinidae	2	1	1	2	1	3	3	0	1
+Primates Linnaeus, 1758	Victoriapithecidae von Koenigswald, 1969	5	1	1	5	1	6	6	0	1
+Proboscidea Illiger, 1811	Anthracobunidae Wells & Gingerich, 1983	6	1	2	6	1	8	7	1	0.875
+Proboscidea Illiger, 1811	Barytheriidae	1	1	1	1	1	1	1	0	1
+Proboscidea Illiger, 1811	Deinotheriidae Bonaparte, 1845	3	1	1	3	1	5	5	0	1
+Proboscidea Illiger, 1811	Elephantidae Gray, 1821	6	1	1	6	1	19	19	0	1
+Proboscidea Illiger, 1811	Gomphotheriidae Hay, 1922	14	2	2	16	0.875	41	40	1	0.97560975609756
+Proboscidea Illiger, 1811	Mammutidae Hay, 1922	2	1	1	2	1	12	12	0	1
+Proboscidea Illiger, 1811	Moeritheriidae Andrews, 1906	1	1	1	1	1	4	4	0	1
+Proboscidea Illiger, 1811	Numidotheriidae Shoshani & Tassy, 1992	1	1	1	1	1	1	1	0	1
+Rodentia Bowdich, 1821	Abrocomidae Miller & Gidley, 1918	2	1	1	2	1	17	17	0	1
+Rodentia Bowdich, 1821	Acaremyidae Wood, 1949	1	1	1	1	1	1	1	0	1
+Rodentia Bowdich, 1821	Agoutidae	3	1	1	3	1	75	75	0	1
+Rodentia Bowdich, 1821	Alagomyidae Dashzeveg, 1990	2	1	1	2	1	3	3	0	1
+Rodentia Bowdich, 1821	Allomyidae Marsh, 1877	11	1	1	11	1	30	30	0	1
+Rodentia Bowdich, 1821	Anomaluridae Gervais, 1849	4	1	1	4	1	13	13	0	1
+Rodentia Bowdich, 1821	Aplodontiidae Brandt, 1855	10	2	2	12	0.83333333333333	42	41	1	0.97619047619048
+Rodentia Bowdich, 1821	Archetypomyidae	1	1	1	1	1	1	1	0	1
+Rodentia Bowdich, 1821	Armintomyidae Dawson et al., 1990	1	1	1	1	1	1	1	0	1
+Rodentia Bowdich, 1821	Bathyergidae Waterhouse, 1841	5	1	1	5	1	50	50	0	1
+Rodentia Bowdich, 1821	Capromyidae Smith, 1842	9	2	2	11	0.81818181818182	41	40	1	0.97560975609756
+Rodentia Bowdich, 1821	Castoridae Hemprich, 1820	22	2	2	27	0.81481481481481	68	65	3	0.95588235294118
+Rodentia Bowdich, 1821	Caviidae Fischer de Waldheim, 1817	7	2	2	8	0.875	81	79	2	0.97530864197531
+Rodentia Bowdich, 1821	Chapattimyidae Hussain et al., 1978	8	1	1	8	1	15	15	0	1
+Rodentia Bowdich, 1821	Chinchillidae Bennett, 1833	4	1	1	4	1	64	64	0	1
+Rodentia Bowdich, 1821	Cricetidae Fischer, 1817	42	1	1	42	1	129	129	0	1
+Rodentia Bowdich, 1821	Ctenodactylidae Gervais, 1853	12	1	1	12	1	17	17	0	1
+Rodentia Bowdich, 1821	Cuniculidae Miller & Gidley, 1918	1	1	1	1	1	11	11	0	1
+Rodentia Bowdich, 1821	Cylindrodontidae Miller & Gidley, 1918	11	2	2	14	0.78571428571429	33	31	2	0.93939393939394
+Rodentia Bowdich, 1821	Diatomyidae Mein & Ginsburg, 1997	1	1	1	1	1	1	1	0	1
+Rodentia Bowdich, 1821	Dinomyidae Peters, 1873	3	1	1	3	1	3	3	0	1
+Rodentia Bowdich, 1821	Dipodidae G. Fischer, 1817	32	2	2	34	0.94117647058824	106	105	1	0.99056603773585
+Rodentia Bowdich, 1821	Echimyidae Gray, 1825	32	5	3	45	0.71111111111111	211	195	16	0.92417061611374
+Rodentia Bowdich, 1821	Eocardiidae Ameghino, 1891	1	1	1	1	1	1	1	0	1
+Rodentia Bowdich, 1821	Eomyidae Winge, 1887	28	1	1	28	1	65	65	0	1
+Rodentia Bowdich, 1821	Erethizontidae Bonaparte, 1845	8	1	1	8	1	72	72	0	1
+Rodentia Bowdich, 1821	Eutypomyidae Miller & Gidley, 1918	5	1	1	5	1	16	16	0	1
+Rodentia Bowdich, 1821	Florentiamyidae Wood, 1936	9	1	1	9	1	20	20	0	1
+Rodentia Bowdich, 1821	Geomyidae Bonaparte, 1845	34	5	3	67	0.50746268656716	943	918	25	0.97348886532344
+Rodentia Bowdich, 1821	Gliridae Muirhead, 1819	37	5	3	52	0.71153846153846	142	133	9	0.93661971830986
+Rodentia Bowdich, 1821	Heptaxodontidae Anthony, 1917	4	1	1	4	1	5	5	0	1
+Rodentia Bowdich, 1821	Heteromyidae Gray, 1868	8	3	2	12	0.66666666666667	685	680	5	0.99270072992701
+Rodentia Bowdich, 1821	Hydrochaeridae	1	1	1	1	1	1	1	0	1
+Rodentia Bowdich, 1821	Hydrochoeridae Gill, 1872	2	1	1	2	1	5	5	0	1
+Rodentia Bowdich, 1821	Hystricidae Fischer de Waldheim, 1817	3	1	1	3	1	27	27	0	1
+Rodentia Bowdich, 1821	Ischyromyidae Alston, 1876	21	2	2	27	0.77777777777778	83	80	3	0.96385542168675
+Rodentia Bowdich, 1821	Laonastidae Jenkins et al., 2005	1	1	1	1	1	1	1	0	1
+Rodentia Bowdich, 1821	Laredomyidae Wilson & Westgate, 1991	1	1	1	1	1	1	1	0	1
+Rodentia Bowdich, 1821	Muridae Illiger, 1815	399	8	7	546	0.73076923076923	2339	2216	123	0.9474134245404
+Rodentia Bowdich, 1821	Mylagaulidae Cope, 1881	12	1	1	12	1	28	28	0	1
+Rodentia Bowdich, 1821	Myoxidae Gray, 1821	9	1	1	9	1	80	80	0	1
+Rodentia Bowdich, 1821	Neoepiblemidae	1	1	1	1	1	2	2	0	1
+Rodentia Bowdich, 1821	Nesomyidae Major, 1897	2	1	1	2	1	3	3	0	1
+Rodentia Bowdich, 1821	Octodontidae Waterhouse, 1840	9	1	1	9	1	135	135	0	1
+Rodentia Bowdich, 1821	Parapedetidae	2	1	1	2	1	4	4	0	1
+Rodentia Bowdich, 1821	Pedetidae Gray, 1825	1	1	1	1	1	2	2	0	1
+Rodentia Bowdich, 1821	Petromuridae Tullberg, 1899	1	1	1	1	1	31	31	0	1
+Rodentia Bowdich, 1821	Protoptychidae Schlosser, 1911	2	1	1	2	1	2	2	0	1
+Rodentia Bowdich, 1821	Pteromuridae	1	1	1	1	1	1	1	0	1
+Rodentia Bowdich, 1821	Reithroparamyidae Wood, 1962	2	1	1	2	1	5	5	0	1
+Rodentia Bowdich, 1821	Sciuravidae Miller & Gidley, 1918	7	1	1	7	1	27	27	0	1
+Rodentia Bowdich, 1821	Sciuridae Hemprich, 1820	75	3	3	97	0.77319587628866	2124	2108	16	0.9924670433145
+Rodentia Bowdich, 1821	Simimyidae Wood, 1980	2	1	1	2	1	3	3	0	1
+Rodentia Bowdich, 1821	Spalacidae Gray, 1821	2	1	1	2	1	7	7	0	1
+Rodentia Bowdich, 1821	Theridomyidae Alston, 1876	10	1	1	10	1	21	21	0	1
+Rodentia Bowdich, 1821	Thryonomyidae Pocock, 1922	2	1	1	2	1	7	7	0	1
+Rodentia Bowdich, 1821	Tsaganomyidae Matthew & Granger, 1923	2	1	1	2	1	2	2	0	1
+Scandentia Wagner, 1855	Ptilocercidae Lyon, 1913	1	1	1	1	1	4	4	0	1
+Scandentia Wagner, 1855	Tupaiidae Gray, 1825	5	2	2	7	0.71428571428571	101	100	1	0.99009900990099
+Sirenia Illiger, 1811	Dugongidae Gray, 1821	23	1	1	23	1	54	54	0	1
+Sirenia Illiger, 1811	Prorastomidae Cope, 1889	3	1	1	3	1	3	3	0	1
+Sirenia Illiger, 1811	Protosirenidae Sickenberg, 1934	2	1	1	2	1	6	6	0	1
+Sirenia Illiger, 1811	Trichechidae Gill, 1872	6	1	1	6	1	15	15	0	1
+Soricomorpha Gregory, 1910	Nesophontidae Anthony, 1916	1	1	1	1	1	9	9	0	1
+Soricomorpha Gregory, 1910	Nyctitheriidae Simpson, 1928	19	1	1	19	1	31	31	0	1
+Soricomorpha Gregory, 1910	Solenodontidae Gill, 1872	1	1	1	1	1	8	8	0	1
+Soricomorpha Gregory, 1910	Soricidae G. Fischer, 1814	73	3	2	86	0.84883720930233	901	894	7	0.99223085460599
+Soricomorpha Gregory, 1910	Talpidae G. Fischer, 1814	47	5	5	68	0.69117647058824	311	299	12	0.96141479099678
+Tubulidentata Huxley, 1872	Orycteropodidae Gray, 1821	1	1	1	1	1	35	35	0	1

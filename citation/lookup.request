@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseURL</key>
+	<string>http://bionames.org/bionames-api/api_lookup.php</string>
+	<key>bodyString</key>
+	<string>{"id":"i1545-1410-660-1-1-Dobson1","html":"&lt;div valign=\"top\" class=\"refnumber\" id=\"i1545-1410-660-1-1-Dobson1\"&gt;&lt;td valign=\"top\"&gt;Dobson, G. E. &lt;span class=\"NLM_year\"&gt;1874&lt;\/span&gt;. &lt;span class=\"NLM_article-title\"&gt;Description of a new species of Chiroptera from India and Yunan.&lt;\/span&gt; Journal of the Asiatic Society of Bengal 43:&lt;span class=\"NLM_fpage\"&gt;237&lt;\/span&gt;\u2013&lt;span class=\"NLM_lpage\"&gt;238&lt;\/span&gt;. &lt;\/td&gt;&lt;\/div&gt;","type":"article","year":"1874","author":[{"firstname":"G E","lastname":"Dobson","name":"G E Dobson"}],"title":"Description of a new species of Chiroptera from India and Yunan","journal":{"name":"Journal of the Asiatic Society of Bengal","volume":"43","pages":"237--238"}}</string>
+	<key>followRedirect</key>
+	<true/>
+	<key>handleJSONPCallbacks</key>
+	<false/>
+	<key>headers</key>
+	<array/>
+	<key>httpMethod</key>
+	<string>POST</string>
+	<key>jsonpScript</key>
+	<string></string>
+	<key>paramBodyUIChoice</key>
+	<integer>0</integer>
+	<key>parameters</key>
+	<array/>
+	<key>parametersType</key>
+	<integer>0</integer>
+	<key>presentBeforeChallenge</key>
+	<false/>
+	<key>stringEncoding</key>
+	<integer>4</integer>
+	<key>usingHTTPBody</key>
+	<true/>
+</dict>
+</plist>

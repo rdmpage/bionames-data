@@ -1,0 +1,72 @@
+Order	Family	Num Genera	Cluster degree	Set degree	Num Edges	Fit	Before	After	Grouped	Group Fit
+Anura	Alytidae Fitzinger, 1843	2	1	1	2	1	13	13	0	1
+Anura	Aromobatidae Grant, Frost, Caldwell, Gagliardo, Haddad, Kok, Means, Noonan, Schargel & Wheeler, 2006	6	1	1	6	1	95	95	0	1
+Anura	Arthroleptidae Mivart, 1869	8	1	1	8	1	134	134	0	1
+Anura	Bombinatoridae Gray, 1825	2	1	1	2	1	8	8	0	1
+Anura	Brachycephalidae Günther, 1858	2	1	1	2	1	41	41	0	1
+Anura	Brevicipitidae Bonaparte, 1850	5	1	1	5	1	26	26	0	1
+Anura	Bufonidae Gray, 1825	48	3	2	52	0.92307692307692	577	559	18	0.96880415944541
+Anura	Calyptocephalellidae Reig, 1960	2	1	1	2	1	5	5	0	1
+Anura	Centrolenidae Taylor, 1951	5	1	1	5	1	148	148	0	1
+Anura	Ceratobatrachidae Boulenger, 1884	5	2	2	7	0.71428571428571	83	82	1	0.98795180722892
+Anura	Ceratophryidae Tschudi, 1838	7	1	1	7	1	85	85	0	1
+Anura	Ceuthomantidae	1	1	1	1	1	2	2	0	1
+Anura	Craugastoridae Hedges, Duellman & Heinicke, 2008	2	1	1	2	1	120	120	0	1
+Anura	Cycloramphidae Bonaparte, 1850	14	1	1	14	1	103	103	0	1
+Anura	Dendrobatidae Cope, 1865	12	1	1	12	1	170	170	0	1
+Anura	Dicroglossidae Anderson, 1871	13	2	2	15	0.86666666666667	170	169	1	0.99411764705882
+Anura	Discoglossidae Günther, 1859	6	1	1	6	1	7	7	0	1
+Anura	Eleutherodactylidae Lutz, 1954	4	1	1	4	1	204	204	0	1
+Anura	Gobiatidae Rocek & Nessov, 1993	2	1	1	2	1	2	2	0	1
+Anura	Heleophrynidae Noble, 1931	2	1	1	2	1	6	6	0	1
+Anura	Hemiphractidae Peters, 1862	5	1	1	5	1	92	92	0	1
+Anura	Hemisotidae Cope, 1867	1	1	1	1	1	9	9	0	1
+Anura	Hylidae Rafinesque, 1815	48	2	2	52	0.92307692307692	915	911	4	0.99562841530055
+Anura	Hylodidae Günther, 1858	3	1	1	3	1	41	41	0	1
+Anura	Hyperoliidae Laurent, 1943	17	1	1	17	1	207	207	0	1
+Anura	Leiopelmatidae Mivart, 1869	2	1	1	2	1	9	9	0	1
+Anura	Leiuperidae Bonaparte, 1850	7	1	1	7	1	79	79	0	1
+Anura	Leptodactylidae Werner, 1896	8	1	1	8	1	102	102	0	1
+Anura	Limnodynastidae Lynch, 1969	8	1	1	8	1	46	46	0	1
+Anura	Mantellidae Laurent, 1946	12	3	2	16	0.75	175	173	2	0.98857142857143
+Anura	Megophryidae Bonaparte, 1850	10	1	1	10	1	138	138	0	1
+Anura	Micrixalidae Dubois, Ohler & Biju, 2001	1	1	1	1	1	11	11	0	1
+Anura	Microhylidae Günther, 1858	64	2	2	68	0.94117647058824	442	439	3	0.99321266968326
+Anura	Myobatrachidae Schlegel in Gray, 1850	14	2	2	15	0.93333333333333	90	89	1	0.98888888888889
+Anura	Nasikabatrachidae Biju & Bossuyt, 2003	1	1	1	1	1	1	1	0	1
+Anura	Nyctibatrachidae Blommers-Schlösser, 1993	2	1	1	2	1	17	17	0	1
+Anura	Palaeobatrachidae Cope, 1865	2	1	1	2	1	4	4	0	1
+Anura	Pelobatidae Bonaparte, 1850	2	1	1	2	1	7	7	0	1
+Anura	Pelodytidae Bonaparte, 1850	1	1	1	1	1	3	3	0	1
+Anura	Petropedetidae Noble, 1931	2	1	1	2	1	16	16	0	1
+Anura	Phrynobatrachidae Laurent, 1941	1	1	1	1	1	77	77	0	1
+Anura	Pipidae Gray, 1825	11	1	1	11	1	42	42	0	1
+Anura	Ptychadenidae Dubois, 1987	3	1	1	3	1	53	53	0	1
+Anura	Pyxicephalidae Bonaparte, 1850	13	2	2	15	0.86666666666667	71	70	1	0.98591549295775
+Anura	Ranidae Rafinesque, 1814	16	3	2	22	0.72727272727273	371	368	3	0.99191374663073
+Anura	Ranixalidae Dubois, 1987	1	1	1	1	1	10	10	0	1
+Anura	Rhacophoridae Hoffman, 1932	15	6	2	25	0.6	402	313	89	0.77860696517413
+Anura	Rhinophrynidae Günther, 1859	4	1	1	4	1	5	5	0	1
+Anura	Scaphiopodidae Cope, 1865	2	1	1	2	1	18	18	0	1
+Anura	Sooglossidae Noble, 1931	2	1	1	2	1	4	4	0	1
+Anura	Strabomantidae Hedges, Duellman & Heinicke, 2008	16	1	1	16	1	554	554	0	1
+Anura	Tregobatrachidae	1	1	1	1	1	1	1	0	1
+Caudata	Ambystomatidae Gray, 1850	2	1	1	2	1	59	59	0	1
+Caudata	Amphiumidae Gray, 1825	3	1	1	3	1	5	5	0	1
+Caudata	Batrachosauroididae Auffenberg, 1958	4	1	1	4	1	4	4	0	1
+Caudata	Cryptobranchidae Fitzinger, 1826	3	1	1	3	1	13	13	0	1
+Caudata	Hynobiidae Cope, 1859	10	1	1	10	1	54	54	0	1
+Caudata	Karauridae Ivachnenko, 1978	1	1	1	1	1	1	1	0	1
+Caudata	Noterpetontidae Rage, Marshall & Gayet, 1993	1	1	1	1	1	1	1	0	1
+Caudata	Plethodontidae Gray, 1850	26	1	1	26	1	444	444	0	1
+Caudata	Prosirenidae Estes, 1969	1	1	1	1	1	1	1	0	1
+Caudata	Proteidae Gray, 1825	3	1	1	3	1	11	11	0	1
+Caudata	Rhyacotritonidae Tihen, 1958	1	1	1	1	1	4	4	0	1
+Caudata	Salamandridae Goldfuss, 1820	24	2	2	26	0.92307692307692	105	103	2	0.98095238095238
+Caudata	Scapherpetontidae Auffenberg & Goin, 1959	2	1	1	2	1	5	5	0	1
+Caudata	Sirenidae Gray, 1825	3	1	1	3	1	19	19	0	1
+Caudata	Triassuridae	1	1	1	1	1	1	1	0	1
+Gymnophiona	Albanerpetontidae Fox & Naylor, 1982	1	1	1	1	1	4	4	0	1
+Gymnophiona	Caeciliidae Rafinesque, 1814	28	2	2	30	0.93333333333333	121	120	1	0.99173553719008
+Gymnophiona	Ichthyophiidae Taylor, 1968	3	1	1	3	1	44	44	0	1
+Gymnophiona	Rhinatrematidae Nussbaum, 1977	2	1	1	2	1	9	9	0	1

@@ -1,0 +1,496 @@
+http://bionames.org/bionames-api/id/gbif/2473220stdClass Object
+(
+    [_id] => gbif/2473220
+    [_rev] => 3-e560687ea8c265832d376ccf0f43fbbd
+    [type] => taxonConcept
+    [source] => http://ecat-dev.gbif.org/checklist/1
+    [nameAccordingTo] => The Catalogue of Life, 3rd January 2011
+    [sourceIdentifier] => 2473220
+    [scientificName] => Monopeltis Smith, 1848
+    [taxonRank] => genus
+    [canonicalName] => Monopeltis
+    [author] => Smith, 1848
+    [namePublishedIn] => Ill. Zool. S. Afr. (Rept. ), pl. lxvii.
+    [parent_id] => 5682
+    [children] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [scientificName] => Monopeltis adercae Witte, 1953
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis adercae
+                    [author] => Witte, 1953
+                    [sourceIdentifier] => 2473158
+                )
+
+            [1] => stdClass Object
+                (
+                    [scientificName] => Monopeltis anchietae Bocage, 1873
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis anchietae
+                    [author] => Bocage, 1873
+                    [sourceIdentifier] => 2473177
+                )
+
+            [2] => stdClass Object
+                (
+                    [scientificName] => Monopeltis capensis Smith, 1848
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis capensis
+                    [author] => Smith, 1848
+                    [sourceIdentifier] => 2473171
+                )
+
+            [3] => stdClass Object
+                (
+                    [scientificName] => Monopeltis decosteri Boulenger, 1910
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis decosteri
+                    [author] => Boulenger, 1910
+                    [sourceIdentifier] => 2473170
+                )
+
+            [4] => stdClass Object
+                (
+                    [scientificName] => Monopeltis galeata Hallowell, 1852
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis galeata
+                    [author] => Hallowell, 1852
+                    [sourceIdentifier] => 2473160
+                )
+
+            [5] => stdClass Object
+                (
+                    [scientificName] => Monopeltis guentheri Boulenger, 1885
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis guentheri
+                    [author] => Boulenger, 1885
+                    [sourceIdentifier] => 2473211
+                )
+
+            [6] => stdClass Object
+                (
+                    [scientificName] => Monopeltis infuscata Broadley, 1997
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis infuscata
+                    [author] => Broadley, 1997
+                    [sourceIdentifier] => 2473203
+                )
+
+            [7] => stdClass Object
+                (
+                    [scientificName] => Monopeltis jugularis Peters, 1880
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis jugularis
+                    [author] => Peters, 1880
+                    [sourceIdentifier] => 2473182
+                )
+
+            [8] => stdClass Object
+                (
+                    [scientificName] => Monopeltis kabindae Witte & Laurent, 1942
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis kabindae
+                    [author] => Witte & Laurent, 1942
+                    [sourceIdentifier] => 2473213
+                )
+
+            [9] => stdClass Object
+                (
+                    [scientificName] => Monopeltis leonhardi Werner, 1910
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis leonhardi
+                    [author] => Werner, 1910
+                    [sourceIdentifier] => 2473186
+                )
+
+            [10] => stdClass Object
+                (
+                    [scientificName] => Monopeltis luandae Gans, 1976
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis luandae
+                    [author] => Gans, 1976
+                    [sourceIdentifier] => 2473214
+                )
+
+            [11] => stdClass Object
+                (
+                    [scientificName] => Monopeltis perplexus Gans, 1976
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis perplexus
+                    [author] => Gans, 1976
+                    [sourceIdentifier] => 2473173
+                )
+
+            [12] => stdClass Object
+                (
+                    [scientificName] => Monopeltis remaclei Witte, 1933
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis remaclei
+                    [author] => Witte, 1933
+                    [sourceIdentifier] => 2473188
+                )
+
+            [13] => stdClass Object
+                (
+                    [scientificName] => Monopeltis rhodesiana Broadley, Gans & Visser, 1976
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis rhodesiana
+                    [author] => Broadley, Gans & Visser, 1976
+                    [sourceIdentifier] => 2473215
+                )
+
+            [14] => stdClass Object
+                (
+                    [scientificName] => Monopeltis scalper Günther, 1876
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis scalper
+                    [author] => Günther, 1876
+                    [sourceIdentifier] => 2473189
+                )
+
+            [15] => stdClass Object
+                (
+                    [scientificName] => Monopeltis schoutedeni Witte, 1933
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis schoutedeni
+                    [author] => Witte, 1933
+                    [sourceIdentifier] => 2473218
+                )
+
+            [16] => stdClass Object
+                (
+                    [scientificName] => Monopeltis sphenorhynchus Gray, 1865
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis sphenorhynchus
+                    [author] => Gray, 1865
+                    [sourceIdentifier] => 2473172
+                )
+
+            [17] => stdClass Object
+                (
+                    [scientificName] => Monopeltis vanderysti Witte, 1922
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis vanderysti
+                    [author] => Witte, 1922
+                    [sourceIdentifier] => 2473196
+                )
+
+            [18] => stdClass Object
+                (
+                    [scientificName] => Monopeltis zambezensis Gans & Broadley, 1974
+                    [taxonRank] => species
+                    [canonicalName] => Monopeltis zambezensis
+                    [author] => Gans & Broadley, 1974
+                    [sourceIdentifier] => 2473219
+                )
+
+        )
+
+    [ancestors] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [sourceIdentifier] => 1
+                    [scientificName] => Animalia
+                    [taxonRank] => kingdom
+                    [canonicalName] => Animalia
+                )
+
+            [1] => stdClass Object
+                (
+                    [sourceIdentifier] => 44
+                    [scientificName] => Chordata
+                    [taxonRank] => phylum
+                    [canonicalName] => Chordata
+                )
+
+            [2] => stdClass Object
+                (
+                    [sourceIdentifier] => 358
+                    [scientificName] => Reptilia Laurenti, 1768
+                    [taxonRank] => class
+                    [canonicalName] => Reptilia
+                    [author] => Laurenti, 1768
+                )
+
+            [3] => stdClass Object
+                (
+                    [sourceIdentifier] => 715
+                    [scientificName] => Squamata Oppel, 1811
+                    [taxonRank] => order
+                    [canonicalName] => Squamata
+                    [author] => Oppel, 1811
+                )
+
+            [4] => stdClass Object
+                (
+                    [sourceIdentifier] => 5682
+                    [scientificName] => Amphisbaenidae Gray, 1865
+                    [taxonRank] => family
+                    [canonicalName] => Amphisbaenidae
+                    [author] => Gray, 1865
+                )
+
+        )
+
+    [synonyms] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [scientificName] => Monopletis
+                    [taxonRank] => genus
+                    [nameAccordingTo] => Interim Register of Marine and Nonmarine Genera
+                    [canonicalName] => Monopletis
+                    [sourceIdentifier] => 2472877
+                )
+
+        )
+
+    [node] => stdClass Object
+        (
+            [id] => 2473220
+            [parent_id] => 5682
+            [depth] => 2
+            [weight] => 25
+            [visit] => 158744
+            [left] => 134787
+            [right] => 134811
+            [x] => 7
+            [y] => 134800
+            [angle] => 29.702441977257
+        )
+
+    [status] => 200
+    [identifier] => stdClass Object
+        (
+            [ion] => stdClass Object
+                (
+                    [7272] => stdClass Object
+                        (
+                            [nameComplete] => Monopeltis
+                            [taxonAuthor] => Smith 1848
+                        )
+
+                )
+
+            [eol] => Array
+                (
+                    [0] => 35596
+                )
+
+        )
+
+)
+http://data.gbif.org/ws/rest/density/list?taxonconceptkey=2473220
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://data.gbif.org/ws/rest/density/stylesheet"?>
+<gbif:gbifResponse xsi:schemaLocation="http://portal.gbif.org/ws/response/gbif http://data.gbif.org/ws/rest/density/schema http://purl.org/dc/elements/1.1/ http://data.gbif.org/schema/dc.xsd http://purl.org/dc/terms/ http://data.gbif.org/schema/dcterms.xsd http://www.w3.org/1999/02/22-rdf-syntax-ns# http://data.gbif.org/schema/rdf.xsd http://www.w3.org/2002/07/owl# http://data.gbif.org/schema/owl.xsd http://rs.tdwg.org/ontology/voc/Common# http://data.gbif.org/schema/tcom.xsd http://rs.tdwg.org/ontology/voc/TaxonOccurrence# http://data.gbif.org/schema/TaxonOccurrence.xsd http://rs.tdwg.org/ontology/voc/TaxonConcept# http://data.gbif.org/schema/TaxonConcept.xsd http://rs.tdwg.org/ontology/voc/TaxonName# http://data.gbif.org/schema/TaxonName.xsd" xmlns:gbif="http://portal.gbif.org/ws/response/gbif" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <gbif:header>
+  <gbif:help>http://data.gbif.org/ws/rest/density/help
+</gbif:help>
+  <gbif:request>list</gbif:request>
+  <gbif:statements>-
+
+This document contains data shared through the GBIF Network - see http://data.gbif.org/ for more information.
+					
+All usage of these data must be in accordance with the GBIF Data Use Agreement - see http://www.gbif.org/DataProviders/Agreements/DUA
+
+-
+</gbif:statements>
+  <gbif:stylesheet>http://data.gbif.org/ws/rest/density/stylesheet</gbif:stylesheet>
+  <gbif:parameter name="maxresults" value="1000"/>
+  <gbif:parameter name="taxonconceptkey" value="2473220"/>
+  <gbif:parameter name="request" value="list"/>
+  <gbif:parameter name="service" value="density"/>
+  <gbif:parameter name="format" value="brief"/>
+<gbif:summary start="0" totalMatched="23" totalReturned="23"/>
+ </gbif:header>
+ <gbif:densityRecords>
+  <gbif:densityRecord cellid="21806">
+   <gbif:minLatitude>-30.0</gbif:minLatitude>
+   <gbif:maxLatitude>-29.0</gbif:maxLatitude>
+   <gbif:minLongitude>26.0</gbif:minLongitude>
+   <gbif:maxLongitude>27.0</gbif:maxLongitude>
+   <gbif:count>1</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=21806&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="22164">
+   <gbif:minLatitude>-29.0</gbif:minLatitude>
+   <gbif:maxLatitude>-28.0</gbif:maxLatitude>
+   <gbif:minLongitude>24.0</gbif:minLongitude>
+   <gbif:maxLongitude>25.0</gbif:maxLongitude>
+   <gbif:count>5</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=22164&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="22525">
+   <gbif:minLatitude>-28.0</gbif:minLatitude>
+   <gbif:maxLatitude>-27.0</gbif:maxLatitude>
+   <gbif:minLongitude>25.0</gbif:minLongitude>
+   <gbif:maxLongitude>26.0</gbif:maxLongitude>
+   <gbif:count>3</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=22525&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="22526">
+   <gbif:minLatitude>-28.0</gbif:minLatitude>
+   <gbif:maxLatitude>-27.0</gbif:maxLatitude>
+   <gbif:minLongitude>26.0</gbif:minLongitude>
+   <gbif:maxLongitude>27.0</gbif:maxLongitude>
+   <gbif:count>3</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=22526&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="23242">
+   <gbif:minLatitude>-26.0</gbif:minLatitude>
+   <gbif:maxLatitude>-25.0</gbif:maxLatitude>
+   <gbif:minLongitude>22.0</gbif:minLongitude>
+   <gbif:maxLongitude>23.0</gbif:maxLongitude>
+   <gbif:count>2</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=23242&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="23601">
+   <gbif:minLatitude>-25.0</gbif:minLatitude>
+   <gbif:maxLatitude>-24.0</gbif:maxLatitude>
+   <gbif:minLongitude>21.0</gbif:minLongitude>
+   <gbif:maxLongitude>22.0</gbif:maxLongitude>
+   <gbif:count>2</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=23601&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="23607">
+   <gbif:minLatitude>-25.0</gbif:minLatitude>
+   <gbif:maxLatitude>-24.0</gbif:maxLatitude>
+   <gbif:minLongitude>27.0</gbif:minLongitude>
+   <gbif:maxLongitude>28.0</gbif:maxLongitude>
+   <gbif:count>7</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=23607&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="23608">
+   <gbif:minLatitude>-25.0</gbif:minLatitude>
+   <gbif:maxLatitude>-24.0</gbif:maxLatitude>
+   <gbif:minLongitude>28.0</gbif:minLongitude>
+   <gbif:maxLongitude>29.0</gbif:maxLongitude>
+   <gbif:count>39</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=23608&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="23611">
+   <gbif:minLatitude>-25.0</gbif:minLatitude>
+   <gbif:maxLatitude>-24.0</gbif:maxLatitude>
+   <gbif:minLongitude>31.0</gbif:minLongitude>
+   <gbif:maxLongitude>32.0</gbif:maxLongitude>
+   <gbif:count>1</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=23611&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="24676">
+   <gbif:minLatitude>-22.0</gbif:minLatitude>
+   <gbif:maxLatitude>-21.0</gbif:maxLatitude>
+   <gbif:minLongitude>16.0</gbif:minLongitude>
+   <gbif:maxLongitude>17.0</gbif:maxLongitude>
+   <gbif:count>3</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=24676&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="24691">
+   <gbif:minLatitude>-22.0</gbif:minLatitude>
+   <gbif:maxLatitude>-21.0</gbif:maxLatitude>
+   <gbif:minLongitude>31.0</gbif:minLongitude>
+   <gbif:maxLongitude>32.0</gbif:maxLongitude>
+   <gbif:count>3</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=24691&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="25037">
+   <gbif:minLatitude>-21.0</gbif:minLatitude>
+   <gbif:maxLatitude>-20.0</gbif:maxLatitude>
+   <gbif:minLongitude>17.0</gbif:minLongitude>
+   <gbif:maxLongitude>18.0</gbif:maxLongitude>
+   <gbif:count>1</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=25037&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="25411">
+   <gbif:minLatitude>-20.0</gbif:minLatitude>
+   <gbif:maxLatitude>-19.0</gbif:maxLatitude>
+   <gbif:minLongitude>31.0</gbif:minLongitude>
+   <gbif:maxLongitude>32.0</gbif:maxLongitude>
+   <gbif:count>5</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=25411&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="25412">
+   <gbif:minLatitude>-20.0</gbif:minLatitude>
+   <gbif:maxLatitude>-19.0</gbif:maxLatitude>
+   <gbif:minLongitude>32.0</gbif:minLongitude>
+   <gbif:maxLongitude>33.0</gbif:maxLongitude>
+   <gbif:count>1</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=25412&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="25766">
+   <gbif:minLatitude>-19.0</gbif:minLatitude>
+   <gbif:maxLatitude>-18.0</gbif:maxLatitude>
+   <gbif:minLongitude>26.0</gbif:minLongitude>
+   <gbif:maxLongitude>27.0</gbif:maxLongitude>
+   <gbif:count>11</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=25766&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="25769">
+   <gbif:minLatitude>-19.0</gbif:minLatitude>
+   <gbif:maxLatitude>-18.0</gbif:maxLatitude>
+   <gbif:minLongitude>29.0</gbif:minLongitude>
+   <gbif:maxLongitude>30.0</gbif:maxLongitude>
+   <gbif:count>2</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=25769&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="26119">
+   <gbif:minLatitude>-18.0</gbif:minLatitude>
+   <gbif:maxLatitude>-17.0</gbif:maxLatitude>
+   <gbif:minLongitude>19.0</gbif:minLongitude>
+   <gbif:maxLongitude>20.0</gbif:maxLongitude>
+   <gbif:count>1</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=26119&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="26124">
+   <gbif:minLatitude>-18.0</gbif:minLatitude>
+   <gbif:maxLatitude>-17.0</gbif:maxLatitude>
+   <gbif:minLongitude>24.0</gbif:minLongitude>
+   <gbif:maxLongitude>25.0</gbif:maxLongitude>
+   <gbif:count>1</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=26124&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="29366">
+   <gbif:minLatitude>-9.0</gbif:minLatitude>
+   <gbif:maxLatitude>-8.0</gbif:maxLatitude>
+   <gbif:minLongitude>26.0</gbif:minLongitude>
+   <gbif:maxLongitude>27.0</gbif:maxLongitude>
+   <gbif:count>4</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=29366&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="30435">
+   <gbif:minLatitude>-6.0</gbif:minLatitude>
+   <gbif:maxLatitude>-5.0</gbif:maxLatitude>
+   <gbif:minLongitude>15.0</gbif:minLongitude>
+   <gbif:maxLongitude>16.0</gbif:maxLongitude>
+   <gbif:count>1</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=30435&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="31155">
+   <gbif:minLatitude>-4.0</gbif:minLatitude>
+   <gbif:maxLatitude>-3.0</gbif:maxLatitude>
+   <gbif:minLongitude>15.0</gbif:minLongitude>
+   <gbif:maxLongitude>16.0</gbif:maxLongitude>
+   <gbif:count>3</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=31155&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="31869">
+   <gbif:minLatitude>-2.0</gbif:minLatitude>
+   <gbif:maxLatitude>-1.0</gbif:maxLatitude>
+   <gbif:minLongitude>9.0</gbif:minLongitude>
+   <gbif:maxLongitude>10.0</gbif:maxLongitude>
+   <gbif:count>2</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=31869&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+  <gbif:densityRecord cellid="37618">
+   <gbif:minLatitude>14.0</gbif:minLatitude>
+   <gbif:maxLatitude>15.0</gbif:maxLatitude>
+   <gbif:minLongitude>-2.0</gbif:minLongitude>
+   <gbif:maxLongitude>-1.0</gbif:maxLongitude>
+   <gbif:count>1</gbif:count>
+   <gbif:portalUrl>http://data.gbif.org/ws/rest/occurrence/list?format=brief&amp;cellid=37618&amp;taxonconceptkey=2473220</gbif:portalUrl>
+  </gbif:densityRecord>
+ </gbif:densityRecords>
+</gbif:gbifResponse>
+{"type":"MultiPolygon","coordinates":[[	[	[27.0,-30.0],	[26.0,-30.0],	[26.0,-29.0],	[27.0,-29.0],	[27.0,-30.0]	]],[	[	[25.0,-29.0],	[24.0,-29.0],	[24.0,-28.0],	[25.0,-28.0],	[25.0,-29.0]	]],[	[	[26.0,-28.0],	[25.0,-28.0],	[25.0,-27.0],	[26.0,-27.0],	[26.0,-28.0]	]],[	[	[27.0,-28.0],	[26.0,-28.0],	[26.0,-27.0],	[27.0,-27.0],	[27.0,-28.0]	]],[	[	[23.0,-26.0],	[22.0,-26.0],	[22.0,-25.0],	[23.0,-25.0],	[23.0,-26.0]	]],[	[	[22.0,-25.0],	[21.0,-25.0],	[21.0,-24.0],	[22.0,-24.0],	[22.0,-25.0]	]],[	[	[28.0,-25.0],	[27.0,-25.0],	[27.0,-24.0],	[28.0,-24.0],	[28.0,-25.0]	]],[	[	[29.0,-25.0],	[28.0,-25.0],	[28.0,-24.0],	[29.0,-24.0],	[29.0,-25.0]	]],[	[	[32.0,-25.0],	[31.0,-25.0],	[31.0,-24.0],	[32.0,-24.0],	[32.0,-25.0]	]],[	[	[17.0,-22.0],	[16.0,-22.0],	[16.0,-21.0],	[17.0,-21.0],	[17.0,-22.0]	]],[	[	[32.0,-22.0],	[31.0,-22.0],	[31.0,-21.0],	[32.0,-21.0],	[32.0,-22.0]	]],[	[	[18.0,-21.0],	[17.0,-21.0],	[17.0,-20.0],	[18.0,-20.0],	[18.0,-21.0]	]],[	[	[32.0,-20.0],	[31.0,-20.0],	[31.0,-19.0],	[32.0,-19.0],	[32.0,-20.0]	]],[	[	[33.0,-20.0],	[32.0,-20.0],	[32.0,-19.0],	[33.0,-19.0],	[33.0,-20.0]	]],[	[	[27.0,-19.0],	[26.0,-19.0],	[26.0,-18.0],	[27.0,-18.0],	[27.0,-19.0]	]],[	[	[30.0,-19.0],	[29.0,-19.0],	[29.0,-18.0],	[30.0,-18.0],	[30.0,-19.0]	]],[	[	[20.0,-18.0],	[19.0,-18.0],	[19.0,-17.0],	[20.0,-17.0],	[20.0,-18.0]	]],[	[	[25.0,-18.0],	[24.0,-18.0],	[24.0,-17.0],	[25.0,-17.0],	[25.0,-18.0]	]],[	[	[27.0,-9.0],	[26.0,-9.0],	[26.0,-8.0],	[27.0,-8.0],	[27.0,-9.0]	]],[	[	[16.0,-6.0],	[15.0,-6.0],	[15.0,-5.0],	[16.0,-5.0],	[16.0,-6.0]	]],[	[	[16.0,-4.0],	[15.0,-4.0],	[15.0,-3.0],	[16.0,-3.0],	[16.0,-4.0]	]],[	[	[10.0,-2.0],	[9.0,-2.0],	[9.0,-1.0],	[10.0,-1.0],	[10.0,-2.0]	]],[	[	[-1.0,14.0],	[-2.0,14.0],	[-2.0,15.0],	[-1.0,15.0],	[-1.0,14.0]	]]]}

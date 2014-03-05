@@ -1,0 +1,369 @@
+Macaca	arctoides 
+Macaca	pelops Hodgson 1840
+Macaca	assamensis
+Macaca	assamensis 
+Macaca	cyclopis Swinhoe 1863
+Macaca	atriceps Kloss 1919
+Macaca	condorensis Kloss 1926
+Macaca	fuscus Miller 1903
+Macaca	aureus É. Geoffroy 1831
+Macaca	karimondjawae Sody 1949
+Macaca	lasiae Lyon 1916
+Macaca	philippensis I. Geoffroy 1843
+Macaca	tua Kellogg 1944
+Macaca	umbrosus Miller 1902
+Macaca	fascicularis Raffles 1821
+Macaca	fascicularis Raffles 1821
+Macaca	yakui Kuroda 1941
+Macaca	fuscata Blyth 1875
+Macaca	fuscata Blyth 1875
+Macaca	hecki Matschie 1901
+Macaca	leonina Blyth 1863
+Macaca	maura Schinz 1825
+Macaca	mulatta Zimmermann 1780
+Macaca	munzala Madhusudan & Mishra 2005
+Macaca	nemestrina Linnaeus 1766
+Macaca	nigra Desmarest 1822
+Macaca	nigrescens Temminck 1849
+Macaca	ochreata Ogilby 1841
+Macaca	ochreata Ogilby 1841
+Macaca	brunnescens Matschie 1901
+Macaca	pagensis Miller 1903
+Macaca	radiata 
+Macaca	diluta Pocock 1931
+Macaca	radiata 
+Macaca	siberu Fuentes & Olson 1995
+Macaca	silenus Linnaeus 1758
+Macaca	aurifrons Pocock 1931
+Macaca	opisthomelas Osman Hill 1942
+Macaca	sinica Linnaeus 1771
+Macaca	sinica Linnaeus 1771
+Macaca	sylvanus Linnaeus 1758
+Macaca	huangshanensis Jiang & Wang 1996
+Macaca	guiahouensis Wang & Jiang 1996
+Macaca	esau Matschie 1912
+Macaca	thibetana Milne-Edwards 1870
+Macaca	thibetana Milne-Edwards 1870
+Macaca	tonkeana Meyer 1899
+Cercopithecus	moloneyi Sclater 1893
+Cercopithecus	phylax Schwarz 1927
+Cercopithecus	zammaranoi de Beaux 1924
+Cercopithecus	albogularis Sykes 1831
+Cercopithecus	monoides I. Geoffroy 1841
+Cercopithecus	francescae Thomas 1902
+Cercopithecus	albogularis
+Cercopithecus	albotorquatus Pousargues 1896
+Cercopithecus	labiatus I. Geoffroy 1842
+Cercopithecus	kolbi Neumann 1902
+Cercopithecus	erythrarchus Peters 1852
+Cercopithecus	kibonotensis Lönnberg 1908
+Cercopithecus	schwarzi Roberts 1931
+Cercopithecus	atrinasus Machado 1965
+Cercopithecus	schmidti Matschie 1892
+Cercopithecus	katangae Lönnberg 1919
+Cercopithecus	whitesidei Thomas 1909
+Cercopithecus	ascanius Audebert 1799
+Cercopithecus	ascanius Audebert 1799
+Cercopithecus	campbelli Waterhouse 1838
+Cercopithecus	campbelli Waterhouse 1838
+Cercopithecus	lowei Thomas 1923
+Cercopithecus	ngottoensis Colyn 1999
+Cercopithecus	cephodes Pocock 1907
+Cercopithecus	cephus Linnaeus 1758
+Cercopithecus	cephus Linnaeus 1758
+Cercopithecus	denti Thomas 1907
+Cercopithecus	diana Linnaeus 1758
+Cercopithecus	roloway Schreber 1774
+Cercopithecus	diana Linnaeus 1758
+Cercopithecus	doggetti Pocock 1907
+Cercopithecus	dryas Schwartz 1932
+Cercopithecus	pococki Grubb Lernould & Oates 1999
+Cercopithecus	erythrogaster Gray 1866
+Cercopithecus	erythrogaster Gray 1866
+Cercopithecus	camerunensis Hayman 1940
+Cercopithecus	erythrotis Waterhouse 1838
+Cercopithecus	erythrotis Waterhouse 1838
+Cercopithecus	hamlyni Pocock 1907
+Cercopithecus	hamlyni Pocock 1907
+Cercopithecus	kahuziensis Colyn & Verheyen 1988
+Cercopithecus	kandti Matschie 1905
+Cercopithecus	lhoesti P. Sclater 1899
+Cercopithecus	lowei Thomas 1923
+Cercopithecus	elgonis Lönnberg 1919
+Cercopithecus	albogularis Sykes 1831
+Cercopithecus	boutourlinii Giglioli 1887
+Cercopithecus	doggetti Pocock 1907
+Cercopithecus	labiatus I. Geoffroy 1842
+Cercopithecus	schoutedeni Schwarz 1928
+Cercopithecus	zammaronoi De Beaux 1924
+Cercopithecus	albotorquatus de Pousargues 1896
+Cercopithecus	erythrarchus Peters 1852
+Cercopithecus	heymansi Colyn & Verheyen 1987
+Cercopithecus	francescae Thomas 1902
+Cercopithecus	kolbi Neumann 1902
+Cercopithecus	monoides
+Cercopithecus	opisthostictus Sclater 1894
+Cercopithecus	stuhlmanni Matschie 1893
+Cercopithecus	moloneyi Sclater 1893
+Cercopithecus	kandti Matschie 1905
+Cercopithecus	mitis Wolf 1822
+Cercopithecus	mitis Wolf 1822
+Cercopithecus	mona Schreber 1774
+Cercopithecus	neglectus Schlegel 1876
+Cercopithecus	martini Waterhouse 1838
+Cercopithecus	nictitans Linnaeus 1766
+Cercopithecus	nictitans Linnaeus 1766
+Cercopithecus	buettikoferi Jentink 1886
+Cercopithecus	petaurista Schreber 1774
+Cercopithecus	petaurista Schreber 1774
+Cercopithecus	wolfi Meyer 1891
+Cercopithecus	pogonias Bennett 1833
+Cercopithecus	elegans Dubois & Matschie 1912
+Cercopithecus	pogonias Bennett 1833
+Cercopithecus	nigripes
+Cercopithecus	schwarzianus Schouteden 1946
+Cercopithecus	grayi Fraser 1850
+Cercopithecus	denti Thomas 1907
+Cercopithecus	insularis Thomas 1910
+Cercopithecus	preussi Matschie 1898
+Cercopithecus	preussi Matschie 1898
+Cercopithecus	roloway Schreber 1774
+Cercopithecus	sclateri Pocock 1904
+Cercopithecus	solatus M. J. S. Harrison 1988
+Cercopithecus	elegans Dubois & Matschie 1912
+Cercopithecus	wolfi A. Meyer 1891
+Cercopithecus	wolfi A. Meyer 1891
+Simias	concolor Miller 1903
+Simias	concolor Miller 1903
+Simias	siberu Chasen & Kloss 1928
+Rungwecebus	kipunji Ehardt Butynski Jones & Davenport 2005
+Cercocebus	agilis Milne-Edwards 1886
+Cercocebus	lunulatus Temminick 1853
+Cercocebus	atys Audebert 1797
+Cercocebus	atys
+Cercocebus	chrysogaster Lydekker 1900
+Cercocebus	galeritus Peters 1879
+Cercocebus	sanjei Mittermeier 1986
+Cercocebus	torquatus Kerr 1792
+Theropithecus	gelada Rüppell 1835
+Theropithecus	gelada Rüppell 1835
+Theropithecus	obscurus Heuglin 1863
+Theropithecus	oswaldi
+Dolichopithecus	ruscinensis
+Colobus	palliatus Peters 1868
+Colobus	ruwenzorii Thomas 1901
+Colobus	cottoni Lydekker 1905
+Colobus	prigoginei Verheyen 1959
+Colobus	cordieri Rahm 1959
+Colobus	palliates Peters 1868
+Colobus	angolensis P. Sclater 1860
+Colobus	angolensis P. Sclater 1860
+Colobus	percivali Heller 1913
+Colobus	caudatus Thomas 1885
+Colobus	matschiei Neumann 1899
+Colobus	dodingae Matschie 1913
+Colobus	kikuyuensis Lönnberg 1912
+Colobus	occidentalis Rochebrune 1887
+Colobus	gallarum Neumann 1902
+Colobus	guereza Rüppell 1835
+Colobus	guereza Rüppell 1835
+Colobus	polykomos Zimmermann 1780
+Colobus	anthracinus Leconte 1857
+Colobus	satanas
+Colobus	satanas Waterhouse 1838
+Colobus	vellerosus I. Geoffroy 1834
+Presbytis	cruciger Thomas 1892
+Presbytis	chrysomelas
+Presbytis	chrysomelas Müller 1838
+Presbytis	fredericae Sody 1930
+Presbytis	comata Desmarest 1822
+Presbytis	comata Desmarest 1822
+Presbytis	robinsoni Thomas 1910
+Presbytis	percura Lyon 1908
+Presbytis	femoralis Martin 1838
+Presbytis	femoralis Martin 1838
+Presbytis	frontata Müller 1838
+Presbytis	canicrus Miller 1934
+Presbytis	everetti Thomas 1892
+Presbytis	sabana Thomas 1893
+Presbytis	hosei Thomas 1889
+Presbytis	hosei Thomas 1889
+Presbytis	bicolor Aimi & Bakar 1992
+Presbytis	mitrata Eschscholtz 1821
+Presbytis	sumatranus Müller & Schlegel 1841
+Presbytis	melalophos Raffles 1821
+Presbytis	melalophos Raffles 1821
+Presbytis	natunae Thomas & Hartert 1894
+Presbytis	siberu Chasen & Kloss 1927
+Presbytis	potenziani Bonaparte 1856
+Presbytis	potenziani Bonaparte 1856
+Presbytis	chrysea Davis 1962
+Presbytis	ignita Dollman 1909
+Presbytis	carimatae Miller 1906
+Presbytis	rubida Lyon 1911
+Presbytis	rubicunda Müller 1838
+Presbytis	rubicunda Müller 1838
+Presbytis	rhionis Miller 1903
+Presbytis	paenulata Chasen 1940
+Presbytis	cana Miller 1906
+Presbytis	siamensis Müller & Schlegel 1841
+Presbytis	siamensis
+Presbytis	thomasi Collett 1893
+Procolobus	badius Kerr 1792
+Procolobus	badius Kerr 1792
+Procolobus	temminckii Kuhl 1820
+Procolobus	waldroni Hayman 1936
+Procolobus	gordonorum Matschie 1900
+Procolobus	kirkii Gray 1868
+Procolobus	pennantii Waterhouse 1838
+Procolobus	bouvieri Rochebrune 1887
+Procolobus	epieni Grubb & Powell 1999
+Procolobus	pennantii Waterhouse 1838
+Procolobus	preussi Matschie 1900
+Procolobus	rufomitratus Peters 1879
+Procolobus	tholloni Milne-Edwards 1886
+Procolobus	oustaleti Trouessart 1906
+Procolobus	rufomitratus Peters 1879
+Procolobus	tephrosceles Elliot 1907
+Procolobus	verus Van Beneden 1838
+Pygathrix	avunculus Dollman 1912
+Pygathrix	bieti Milne-Edwards 1897
+Pygathrix	brelichi Thomas 1903
+Pygathrix	cinerea Nadler 1997
+Pygathrix	nemaeus Linnaeus 1771
+Pygathrix	nigripes Milne-Edwards 1871
+Pygathrix	roxellana Milne-Edwards 1870
+Allenopithecus	nigroviridis Pocock 1907
+Semnopithecus	ajax Pocock 1928
+Semnopithecus	dussumieri I. Geoffroy 1843
+Semnopithecus	entellus Dufresne 1797
+Semnopithecus	hector Pocock 1928
+Semnopithecus	hypoleucos Blyth 1841
+Semnopithecus	thersites Blyth 1847
+Semnopithecus	priam Blyth 1844
+Semnopithecus	priam Blyth 1844
+Semnopithecus	schistaceus Hodgson 1840
+Victoriapithecus	macinnesi
+Prohylobates	tandyi
+Chlorocebus	aethiops Linnaeus 1758
+Chlorocebus	cynosuros Scopoli 1786
+Chlorocebus	djamdjamensis Neumann 1902
+Chlorocebus	lhoesti
+Chlorocebus	patas
+Chlorocebus	pygerythrus F. Cuvier 1821
+Chlorocebus	nesiotes Schwarz 1926
+Chlorocebus	nifoviridis I. Geoffroy 1843
+Chlorocebus	hilgerti Neumann 1902
+Chlorocebus	excubutor Schwarz 1926
+Chlorocebus	pygerythrus F. Cuvier 1821
+Chlorocebus	sabaeus Linnaeus 1766
+Chlorocebus	solatus
+Chlorocebus	tantalus Ogilby 1841
+Chlorocebus	marrensis Thomas & Hinton 1923
+Chlorocebus	budgetti Pocock 1907
+Chlorocebus	tantalus
+Rhinopithecus	avunculus Dollman 1912
+Rhinopithecus	bieti Milne-Edwards 1897
+Rhinopithecus	brelichi Thomas 1903
+Rhinopithecus	qinlingensis Y. Wang Jiang & Li 1998
+Rhinopithecus	hubeiensis Y. Wang Jiang & Li 1998
+Rhinopithecus	roxellana Milne-Edwards 1870
+Rhinopithecus	roxellana
+Trachypithecus	mauritius Griffith 1821
+Trachypithecus	auratus 
+Trachypithecus	auratus 
+Trachypithecus	barbei Blyth 1847
+Trachypithecus	vigilans Miller 1913
+Trachypithecus	cristatus Raffles 1821
+Trachypithecus	cristatus Raffles 1821
+Trachypithecus	delacouri Osgood 1932
+Trachypithecus	ebenus Brandon-Jones 1995
+Trachypithecus	francoisi Pousargues 1898
+Trachypithecus	bhutanensis Wangchuk Inouye & Hare 2003
+Trachypithecus	geei Khajuria 1956
+Trachypithecus	geei Khajuria 1956
+Trachypithecus	caudalis Dao 1977
+Trachypithecus	germaini Milne-Edwards 1876
+Trachypithecus	germaini Milne-Edwards 1876
+Trachypithecus	hatinhensis Dao 1970
+Trachypithecus	johnii J. Fischer 1829
+Trachypithecus	laotum Thomas 1911
+Trachypithecus	carbo Thomas & Wroughton 1909
+Trachypithecus	flavicauda Elliot 1910
+Trachypithecus	styx Kloss 1911
+Trachypithecus	seimundi Chasen 1940
+Trachypithecus	sanctorum Elliot 1910
+Trachypithecus	obscurus Reid 1837
+Trachypithecus	halonifer Cantor 1845
+Trachypithecus	obscurus Reid 1837
+Trachypithecus	crepuscula Elliot 1909
+Trachypithecus	shanicus Wroughton 1917
+Trachypithecus	phayrei Blyth 1847
+Trachypithecus	phayrei Blyth 1847
+Trachypithecus	durga Wroughton 1916
+Trachypithecus	brahma Wroughton 1916
+Trachypithecus	tenebricus Wroughton 1915
+Trachypithecus	pileatus Blyth 1843
+Trachypithecus	pileatus Blyth 1843
+Trachypithecus	leucocephalus Tan 1955
+Trachypithecus	poliocephalus Pousargues 1898
+Trachypithecus	poliocephalus
+Trachypithecus	shortridgei Wroughton 1915
+Trachypithecus	monticola Kelaart 1850
+Trachypithecus	nestor Bennett 1833
+Trachypithecus	philbricki Phillips 1927
+Trachypithecus	vetulus Erxleben 1777
+Trachypithecus	vetulus Erxleben 1777
+Erythrocebus	patas Schreber 1775
+Miopithecus	ogouensis Kingdon 1997
+Miopithecus	talapoin Schreber 1774
+Mandrillus	poensis Zukowsky 1922
+Mandrillus	leucophaeus F. Cuvier 1807
+Mandrillus	leucophaeus F. Cuvier 1807
+Mandrillus	sphinx Linnaeus 1758
+Mesopithecus	monspessulanus
+Mesopithecus	pentelicus
+Nasalis	concolor Miller 1903
+Nasalis	larvatus Wurmb 1787
+Nasalis	orientalis Chasen 1940
+Nasalis	larvatus Wurmb 1787
+Lophocebus	osmani Groves 1978
+Lophocebus	johnstoni Lydekker 1900
+Lophocebus	albigena Gray 1850
+Lophocebus	albigena Gray 1850
+Lophocebus	opdenboschi Schouteden 1944
+Lophocebus	aterrimus Oudemans 1890
+Lophocebus	aterrimus Oudemans 1890
+Lophocebus	kipunji Jones et al. 2005
+Lophocebus	opdenboschi Scouteden 1944
+Piliocolobus	temminckii Kuhl 1820
+Piliocolobus	waldronae Hayman 1936
+Piliocolobus	badius
+Piliocolobus	badius Kerr 1792
+Piliocolobus	parmentierorum Colyn & Verheyen 1987
+Piliocolobus	oustaleti Trouessart 1906
+Piliocolobus	semlikiensis Colyn 1991
+Piliocolobus	ellioti Dollman 1909
+Piliocolobus	foai de Pousargues 1899
+Piliocolobus	foai de Pousargues 1899
+Piliocolobus	gordonorum Matschie 1900
+Piliocolobus	kirkii Gray 1868
+Piliocolobus	epieni Grubb & Powell 1999
+Piliocolobus	bouvieri Rochebrune 1887
+Piliocolobus	pennantii
+Piliocolobus	pennantii Waterhouse 1838
+Piliocolobus	preussi Matschie 1900
+Piliocolobus	rufomitratus Peters 1879
+Piliocolobus	tephrosceles Elliot 1907
+Piliocolobus	tholloni Milne-Edwards 1886
+Papio	anubis Lesson 1827
+Papio	cynocephalus Linnaeus 1766
+Papio	ibeanus Thomas 1893
+Papio	cynocephalus
+Papio	kindae Lönnberg 1919
+Papio	hamadryas Linnaeus 1758
+Papio	papio Desmarest 1820
+Papio	ruacana Shortridge 1942
+Papio	griseipes Pocock 1911
+Papio	ursinus Kerr 1792
+Papio	ursinus

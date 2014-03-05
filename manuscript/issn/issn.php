@@ -20,13 +20,13 @@ foreach ($obj->rows as $row)
 //rsort($total);
 //print_r($total);
 
-$limit = 1000;
+// filter rarer journals
+$cutoff = 500;
 
 $table_rows = array();
-
 foreach ($total as $issn => $count)
 {
-	if ($count > $limit)
+	if ($total[$issn] > $cutoff)
 	{
 		for ($decade = 1750; $decade < 2020; $decade += 10)
 		{
@@ -42,7 +42,7 @@ foreach ($total as $issn => $count)
 foreach ($obj->rows as $row)
 {
 	$issn = $row->key[0];
-	if ($total[$issn] > $limit)
+	if ($total[$issn] > $cutoff)
 	{
 		$decade = $row->key[1];
 		$table_rows[$decade][$issn] = $row->value;

@@ -1,0 +1,1042 @@
+<?xml version='1.0'?>
+<!DOCTYPE art SYSTEM 'http://www.biomedcentral.com/xml/article.dtd'>
+<art>
+	<ui>1742-9994-4-4</ui>
+	<ji>1742-9994</ji>
+	<fm>
+		<dochead>Short report</dochead>
+		<bibl>
+			<title>
+				<p>Molecular species identification boosts bat diversity</p>
+			</title>
+			<aug>
+				<au id="A1" ca="yes">
+					<snm>Mayer</snm>
+					<fnm>Frieder</fnm>
+					<insr iid="I1"/>
+					<email>fmayer@biologie.uni-erlangen.de</email>
+				</au>
+				<au id="A2">
+					<snm>Dietz</snm>
+					<fnm>Christian</fnm>
+					<insr iid="I2"/>
+					<email>Christian.Dietz@uni-tuebingen.de</email>
+				</au>
+				<au id="A3">
+					<snm>Kiefer</snm>
+					<fnm>Andreas</fnm>
+					<insr iid="I3"/>
+					<email>akiefer@uni-mainz.de</email>
+				</au>
+			</aug>
+			<insg>
+				<ins id="I1">
+					<p>University of Erlangen; Department of Zoology; Staudtstrasse 5; D-91058 Erlangen; Germany</p>
+				</ins>
+				<ins id="I2">
+					<p>University of T&#252;bingen; Department of Animal Physiology; Auf der Morgenstelle 28; D-72076 T&#252;bingen; Germany</p>
+				</ins>
+				<ins id="I3">
+					<p>University of Mainz; Department of Zoology; Becherweg 13; D-55099 Mainz; Germany</p>
+				</ins>
+			</insg>
+			<source>Frontiers in Zoology</source>
+			<issn>1742-9994</issn>
+			<pubdate>2007</pubdate>
+			<volume>4</volume>
+			<issue>1</issue>
+			<fpage>4</fpage>
+			<url>http://www.frontiersinzoology.com/content/4/1/4</url>
+			<xrefbib>
+				<pubidlist><pubid idtype="pmpid">17295921</pubid><pubid idtype="doi">10.1186/1742-9994-4-4</pubid>
+				</pubidlist></xrefbib>
+		</bibl>
+		<history>
+			<rec>
+				<date>
+					<day>20</day>
+					<month>9</month>
+					<year>2006</year>
+				</date>
+			</rec>
+			<acc>
+				<date>
+					<day>12</day>
+					<month>2</month>
+					<year>2007</year>
+				</date>
+			</acc>
+			<pub>
+				<date>
+					<day>12</day>
+					<month>2</month>
+					<year>2007</year>
+				</date>
+			</pub>
+		</history>
+		<cpyrt>
+			<year>2007</year>
+			<collab>Mayer et al; licensee BioMed Central Ltd.</collab>
+			<note>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<url>http://creativecommons.org/licenses/by/2.0</url>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</note>
+		</cpyrt>
+		<abs>
+			<sec>
+				<st>
+					<p>Abstract</p>
+				</st>
+				<p>The lack of obvious morphological differences between species impedes the identification of species in many groups of organisms. Meanwhile, DNA-based approaches are increasingly used to survey biological diversity. In this study we show that sequencing the mitochondrial protein-coding gene NADH dehydrogenase, subunit 1 (<it>nd1</it>) from 534 bats of the Western Palaearctic region corroborates the promise of DNA barcodes in two major respects. First, species described with classical taxonomic tools can be genetically identified with only a few exceptions. Second, substantial sequence divergence suggests an unexpected high number of undiscovered species.</p>
+			</sec>
+		</abs>
+	</fm>
+	<meta>
+		<classifications>
+			<classification type="bmc" subtype="user_supplied_xml" id="endnote"/>
+		</classifications>
+	</meta>
+	<bdy>
+		<sec>
+			<st>
+				<p>Findings</p>
+			</st>
+			<p>A total of at least 1.5 million species of organisms are described, but an estimated number of 10 to 100 million species may live on our planet <abbrgrp><abbr bid="B1">1</abbr><abbr bid="B2">2</abbr></abbrgrp>. This huge gap gave rise to search for new technologies to describe the biological diversity. Meanwhile, genetic screening approaches involving a single or a small number of genes &#8211; often referred to as DNA barcoding &#8211; were started in diverse taxonomic groups for two major aims: (i) to establish a standardized technique to identify species, and (ii) to detect new species in an efficient manner to bring us closer to the true number of species <abbrgrp><abbr bid="B3">3</abbr><abbr bid="B4">4</abbr><abbr bid="B5">5</abbr><abbr bid="B6">6</abbr></abbrgrp>. So far, DNA barcodes were primarily used for genetic species identification of taxonomically poorly studied taxa and geographic regions like the tropics <abbrgrp><abbr bid="B7">7</abbr><abbr bid="B8">8</abbr><abbr bid="B9">9</abbr><abbr bid="B10">10</abbr><abbr bid="B11">11</abbr></abbrgrp>. Here we tested the applicability of DNA sequencing for species delineation and species identification in one of the best-known taxonomic groups in an intensively sampled geographic region.</p>
+			<p>A recently compiled list of all mammal species of the world specifies a total of 44 vespertilionid bats species for the Western Palaearctic region <abbrgrp><abbr bid="B12">12</abbr></abbrgrp>. One additional species was recently described (<it>Pipistrellus hanaki </it><abbrgrp><abbr bid="B13">13</abbr></abbrgrp>) and another was given species rank (<it>Plecotus christii </it><abbrgrp><abbr bid="B14">14</abbr></abbrgrp>). In this study we sequenced 900 base pairs of the mitochondrial <it>nd1 </it>gene <abbrgrp><abbr bid="B15">15</abbr></abbrgrp> of 534 bats from 41 of the 46 described species [see Additional file <supplr sid="S1">1</supplr>]. This revealed species-specific DNA sequences that differed at least by 4% (uncorrected p distance) from sequences from other species in 816 of 820 pairwise species comparisons. Intraspecific variation was much lower than interspecific variation, which allowed a reliable genetic identification of most species (figure <figr fid="F1">1</figr>). Only four pairs of species showed genetic distances below 2.5% and species did not split in two monophyletic groups in all four pairs of species. Individuals of different species within these four species pairs occasionally shared the same sequence type. This lack of substantial sequence divergence between two species can have different reasons. Recent speciation or introgression of mitochondrial haplotypes are likely explanations for similar mitochondrial DNA sequences within the three species pairs <it>Eptesicus serotinus/E. nilssonii </it><abbrgrp><abbr bid="B15">15</abbr></abbrgrp>, <it>Myotis myotis/M. oxygnathus </it><abbrgrp><abbr bid="B16">16</abbr><abbr bid="B17">17</abbr></abbrgrp> and possibly also for <it>Pipistrellus kuhlii</it>/<it>P. deserti</it>. In contrast, the observed genetic similarity of only 0.3% sequence divergence and the similarity in morphology and echolocation calls between <it>Hypsugo ariel </it>and <it>H. bodenheimeri </it>is due to the fact that both taxa are likely to represent one single species as morphological differences are restricted to an additional cusp at the second upper incisor in <it>H. bodenheimeri </it><abbrgrp><abbr bid="B18">18</abbr></abbrgrp>. Therefore, we treated both taxa as a single species. In total, <it>nd1 </it>sequences of 40 investigated species allowed the unambiguous genetic identification of 34 species, which equals to 85%.</p>
+			<suppl id="S1">
+				<title>
+					<p>Additional file 1</p>
+				</title>
+				<text>
+					<p>Investigated species. A list of species, sample size and geographic origin of analysed bats from the Western Palaearctic realm.</p>
+				</text>
+				<file name="1742-9994-4-4-S1.rtf">
+					<p>Click here for file</p>
+				</file>
+			</suppl>
+			<fig id="F1">
+				<title>
+					<p>Figure 1</p>
+				</title>
+				<caption>
+					<p>Phylogeny of western Palaearctic vespertilionid bats</p>
+				</caption>
+				<text>
+					<p><b>Phylogeny of western Palaearctic vespertilionid bats</b>. Neighbor-joining (NJ) tree based on Kimura 2-parameter distances between mitochondrial <it>nd1 </it>sequences from 216 vespertilionid bats of the Western Palaearctic region. Thick branches lead to the different species while thin branches indicate intraspecific distances. Species names are encircled for species that were recently discovered with the help of DNA sequencing. Names of taxa for which a status as separate species is first proposed herein are highlighted by a black rectangle. <it>Tadarida teniotis </it>of the family Molossidae was used as an outgroup. Bootstrap support values of at least 70 are given above branches (5000 bootstrap replicates).</p>
+				</text>
+				<graphic file="1742-9994-4-4-1"/>
+			</fig>
+			<p>Substantial <it>nd1 </it>sequence divergence allowed also the distinction of several morphologically characterized taxa whose species status was questioned until recently <abbrgrp><abbr bid="B12">12</abbr><abbr bid="B19">19</abbr></abbrgrp>. Sequences of <it>Barbastella leucomelas </it>from the type locality on the Sinai Peninsula differed on average by 13.3% from sequences obtained from European <it>B. barbastellus</it>. In addition, morphologically characterized subspecies within four species (<it>Eptesicus bottae</it>, <it>E. serotinus</it>, <it>Plecotus auritus </it>and <it>P. kolombatovici </it>[see Additional file <supplr sid="S2">2</supplr>]) showed mean genetic distances between 5.8 and 15.2%. These examples illustrate that morphologically similar taxa can be genetically well differentiated and that the combination of morphological and mitochondrial DNA sequence datasets is a powerful approach to resolve taxonomic uncertainties. The congruence between slight morphological differences and substantial sequence divergence of at least 5% indicates distinct species. Nevertheless, only the sympatric occurrence of both taxa can finally proof the existence of true biological species <abbrgrp><abbr bid="B20">20</abbr></abbrgrp>.</p>
+			<suppl id="S2">
+				<title>
+					<p>Additional file 2</p>
+				</title>
+				<text>
+					<p>Taxonomic comments. Taxonomic details are provided for newly proposed species and divergent mitochondrial lineages.</p>
+				</text>
+				<file name="1742-9994-4-4-S2.rtf">
+					<p>Click here for file</p>
+				</file>
+			</suppl>
+			<p>Highly divergent mitochondrial lineages were found in four species. Most astounding were two bats in central Europe (southern Austria and northern Italy) that had been identified as <it>Myotis nattereri </it>according to external morphology. They differ in their sequences from other central European <it>M. nattereri </it>by on average 9.7%. Among 108 individuals of <it>Myotis mystacinus </it>from all over Europe we found two individuals in Bulgaria that carried another mtDNA haplotype that differed on average by 10.2% from typical <it>M. mystacinus</it>. Bats originally assigned to <it>Hypsugo savii </it>split even into three highly divergent lineages [see Additional file <supplr sid="S2">2</supplr>]. Finally, in <it>Pipistrellus kuhlii </it>a western (Europe, Morocco and Libya) and eastern (Israel, Syria and Iran) lineage can be distinguished, which differ on average by 5.2%.</p>
+			<p>Highly divergent mitochondrial lineages provide strong evidence for cryptic species diversity in western Palaearctic bats. Sequence differences of at least 5% clearly fall into the range of interspecific and even intergeneric differences in bats and other mammals <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>. They are concordant with genetic distances between recently discovered cryptic species pairs in bats <abbrgrp><abbr bid="B15">15</abbr><abbr bid="B22">22</abbr><abbr bid="B23">23</abbr><abbr bid="B24">24</abbr><abbr bid="B25">25</abbr></abbrgrp>. A comparison of inter-specific genetic variation in the mitochondrial cytochrome <it>b </it>gene (<it>cob</it>) between sister taxa in four mammalian orders including bats led to the conclusion that sequence divergences of &gt;5% are a powerful first indicator for unrecognized cryptic species <abbrgrp><abbr bid="B21">21</abbr></abbrgrp>. The two mitochondrial protein coding genes <it>nd1 </it>and <it>cob </it>are known to evolve at a similar rate <abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. We thus applied a somehow arbitrary species delineation threshold of 5% <it>nd1 </it>sequence divergence, which suggests nine new bat species in the Western Palaearctic. This value drops to still six yet new species, if a more conservative threshold of 9% is applied. Both thresholds indicate at least three new species for Europe, one of them even occurring in central Europe. The validity of these newly proposed bat species will now be tested by analysing other characters like morphological, behavioural or ecological traits. However, the mitochondrial sequences constitute a reliable sorting criterion to search for species-specific phenotypic traits.</p>
+			<p>Although sequencing of the mitochondrial <it>nd1 </it>gene revealed evidence for substantial cryptic bat diversity in Europe, it is likely that further species exist that are morphologically and genetically difficult to recognize. First, mitochondrial lineages with less than 5% DNA sequence divergence as found within the species <it>Plecotus macrobullaris</it>, <it>Pipistrellus pipistrellus </it>and <it>Otonycteris hemprichii </it>might also represent distinct species [see Additional file <supplr sid="S2">2</supplr>]. Second, it is well known that DNA barcodes fail to distinguish recently diverged species <abbrgrp><abbr bid="B5">5</abbr></abbrgrp>. A possible example are specimens of <it>Myotis mystacinus bulgaricus </it>from southeastern Europe (<it>Myotis aurascens sensu </it>Benda and Tsytsulina <abbrgrp><abbr bid="B26">26</abbr></abbrgrp>) that differ from the nominate central European <it>M. mystacinus </it>in the chromosomal locations of nucleolus organizer regions <abbrgrp><abbr bid="B27">27</abbr></abbrgrp> and in some morphological characters <abbrgrp><abbr bid="B26">26</abbr></abbrgrp>. However, they show similar <it>nd1 </it>sequences that do not split into two separate lineages. Therefore, sequencing parts of the mitochondrial genome will always provide only the lower limit of true species diversity.</p>
+			<p>Prior to the emergence of DNA sequencing in taxonomy 37 morphological defined vespertilionid bat species were acknowledged for the Western Palaearctic realm. Now a total of 51 species can be distinguished according to mitochondrial <it>nd1 </it>sequences (figure <figr fid="F2">2</figr>). However, neither the morphological nor the genetic approach alone detected all species. It is the combination of both that results in a preliminary total of 54 species in the Western Palaearctic (figure <figr fid="F2">2</figr>). This clearly shows the need for an integrative taxonomy approach in which phenotypic and genetic data are combined <abbrgrp><abbr bid="B28">28</abbr></abbrgrp>. Only external morphological characters will enable rapid species identification in the field, which is an essential requirement for behavioural, ecological and evolutionary studies or conservation programs (e.g. European Bat Agreement, EU Habitats Directive).</p>
+			<fig id="F2">
+				<title>
+					<p>Figure 2</p>
+				</title>
+				<caption>
+					<p>Cryptic species diversity in western Palaearctic vespertilionid bats</p>
+				</caption>
+				<text>
+					<p><b>Cryptic species diversity in western Palaearctic vespertilionid bats</b>. Number of vespertilionid bat species in the Western Palaearctic according to a morphological, a mtDNA sequencing or an integrative approach. Patterns distinguish genetically not investigated species (grey), morphologically differentiated species with distinct DNA sequences (black), species without a distinct DNA sequences (hatched) and morphologically cryptic species (white).</p>
+				</text>
+				<graphic file="1742-9994-4-4-2"/>
+			</fig>
+			<p>The raise in species number from 37 to 54 corresponds to an increase by almost 50%. New species were discovered in all major genera. Since Western Palaearctic bat species are among the best-studied taxonomic groups in terms of number of studied individuals, geographic coverage and applied techniques, we anticipate an enormous rise in bat species diversity in less studied areas like for example the tropics.</p>
+		</sec>
+		<sec>
+			<st>
+				<p>Methods</p>
+			</st>
+			<sec>
+				<st>
+					<p>Sampling</p>
+				</st>
+				<p>Morphological measurements and a wing tissue sample with a diameter of 5 mm were taken from each individual before it was released. Tissue samples were immediately stored in 80% ethanol and kept at room temperature. The number of specimens and geographic coverage varied among taxa and ranged from one to 112 individuals [see Additional file <supplr sid="S1">1</supplr>]. To avoid a bias due to unequal sampling intensity, we kept only five sequences per major mitochondrial lineage. Sequences from different localities were given priority and sequences from one locality were chosen at random. This resulted in a total of 217 sequences that were included in genetic distance calculations.</p>
+			</sec>
+			<sec>
+				<st>
+					<p>Genetic analysis</p>
+				</st>
+				<p>We sequenced 900 bp of the mitochondrial gene <it>nd1 </it>(NADH dehydrogenase subunit 1) because a large data set was already available and the <it>nd1 </it>gene in vespertilionid bats evolves at a similar evolutionary rate as the mitochondrial protein coding gene <it>cytb </it><abbrgrp><abbr bid="B16">16</abbr></abbrgrp>. Unfortunately, no data from bats were available for the mitochondrial gene for cytochrome oxidase, subunit 1 (<it>cox1</it>), which is commonly used in DNA barcoding. The protocols of DNA isolation, amplification and sequencing were previously published <abbrgrp><abbr bid="B15">15</abbr></abbrgrp>. Sequence alignments were unequivocal. We found neither insertions, deletions nor stop codons that would have been expected for nuclear pseudogenes. Sequence differences of all divergent lineages were confirmed by sequencing 550 base pairs of a second mitochondrial gene, the gene for 16S rRNA, which was proposed as a standard DNA barcoding marker for vertebrates <abbrgrp><abbr bid="B29">29</abbr></abbrgrp> [see Additional file <supplr sid="S3">3</supplr>]. Genetic distances (uncorrected p and Kimura 2-parameter with a gamma distribution shape parameter of 0.5) were calculated and illustrated in a neighbor-joining tree by using the computer program PAUP* 4.0b10 <abbrgrp><abbr bid="B30">30</abbr></abbrgrp>. In the text we always refer to uncorrected p distances. All DNA sequences are available from GenBank: Accession numbers of previous studies [GenBank:<ext-link ext-link-type="gen" ext-link-id="AF065106">AF065106</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401362">AF401362</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401363">AF401363</ext-link>&#8211;<ext-link ext-link-type="gen" ext-link-id="AF401366">AF401366</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401369">AF401369</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401372">AF401372</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401373">AF401373</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401375">AF401375</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401376">AF401376</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401378">AF401378</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401382">AF401382</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401390">AF401390</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401393">AF401393</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401395">AF401395</ext-link>&#8211;<ext-link ext-link-type="gen" ext-link-id="AF401398">AF401398</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401400">AF401400</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401407">AF401407</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401409">AF401409</ext-link>&#8211;<ext-link ext-link-type="gen" ext-link-id="AF401411">AF401411</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401414">AF401414</ext-link>&#8211;<ext-link ext-link-type="gen" ext-link-id="AF401419">AF401419</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401421">AF401421</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401427">AF401427</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401431">AF401431</ext-link>&#8211;<ext-link ext-link-type="gen" ext-link-id="AF401436">AF401436</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401439">AF401439</ext-link>&#8211;<ext-link ext-link-type="gen" ext-link-id="AF401442">AF401442</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401444">AF401444</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401446">AF401446</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401448">AF401448</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401449">AF401449</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401451">AF401451</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401453">AF401453</ext-link>&#8211;<ext-link ext-link-type="gen" ext-link-id="AF401457">AF401457</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401461">AF401461</ext-link>&#8211;<ext-link ext-link-type="gen" ext-link-id="AF401466">AF401466</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF401468">AF401468</ext-link>&#8211;<ext-link ext-link-type="gen" ext-link-id="AF401477">AF401477</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF516269">AF516269</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF516270">AF516270</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF516272">AF516272</ext-link>&#8211;<ext-link ext-link-type="gen" ext-link-id="AF516275">AF516275</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AF516277">AF516277</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AY027834">AY027834</ext-link>&#8211;<ext-link ext-link-type="gen" ext-link-id="AY027837">AY027837</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AY027840">AY027840</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AY027846">AY027846</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AY027848">AY027848</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AY027851">AY027851</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AY027853">AY027853</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AY027856">AY027856</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AY027858">AY027858</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AY027859">AY027859</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AY033950">AY033950</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AY033955">AY033955</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AY033984">AY033984</ext-link>&#8211;<ext-link ext-link-type="gen" ext-link-id="AY033987">AY033987</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AY699856">AY699856</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AY699858">AY699858</ext-link>, GenBank:<ext-link ext-link-type="gen" ext-link-id="AY699860">AY699860</ext-link>] and of this study [GenBank:<ext-link ext-link-type="gen" ext-link-id="DQ914967">DQ914967</ext-link>&#8211;<ext-link ext-link-type="gen" ext-link-id="DQ915087">DQ915087</ext-link>].</p>
+				<suppl id="S3">
+					<title>
+						<p>Additional file 3</p>
+					</title>
+					<text>
+						<p>DNA sequence divergence. Mean pair-wise sequence divergences (uncorrected p distances) between Western Palaearctic vespertilionid bat species measured by sequencing the two mitochondrial genes <it>nd1 </it>and 16S rDNA. Sequence divergences between newly proposed cryptic species pairs are indicated. The two lowest genetic distances originate from the mean values of the species comparisons <it>Eptesicus serotinus/E. nilssonii </it>and <it>Myotis myotis/M. oxygnathus</it>.</p>
+					</text>
+					<file name="1742-9994-4-4-S3.pdf">
+						<p>Click here for file</p>
+					</file>
+				</suppl>
+			</sec>
+		</sec>
+		<sec>
+			<st>
+				<p>Competing interests</p>
+			</st>
+			<p>The author(s) declare that they have no competing interests.</p>
+		</sec>
+	</bdy>
+	<bm>
+		<ack>
+			<sec>
+				<st>
+					<p>Acknowledgements</p>
+				</st>
+				<p>We are especially grateful to the numerous people who provided tissue samples. Andrea Ross assisted in DNA sequencing. Otto von Helversen, Martina Nagy, Stefan Schuster, Bj&#246;rn Siemers, Michael Veith and two anonymous referees participated in early discussions or made important comments on the manuscript.</p>
+			</sec>
+		</ack>
+		<refgrp>
+			<bibl id="B1">
+				<title>
+					<p>The encyclopedia of life</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Wilson</snm>
+						<fnm>EO</fnm>
+					</au>
+				</aug>
+				<source>Trends Ecol Evol</source>
+				<pubdate>2003</pubdate>
+				<volume>18</volume>
+				<fpage>77</fpage>
+				<lpage>80</lpage>
+				<xrefbib>
+					<pubid idtype="doi">10.1016/S0169-5347(02)00040-X</pubid>
+				</xrefbib>
+			</bibl>
+			<bibl id="B2">
+				<title>
+					<p>Global Biodiversity Assessment</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Heywood</snm>
+						<fnm>VH</fnm>
+					</au>
+					<au>
+						<snm>Watson</snm>
+						<fnm>RT</fnm>
+					</au>
+				</aug>
+				<publisher>Cambridge, U.K. , Cambridge University Press</publisher>
+				<pubdate>1995</pubdate>
+			</bibl>
+			<bibl id="B3">
+				<title>
+					<p>The promise of a DNA taxonomy</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Blaxter</snm>
+						<fnm>ML</fnm>
+					</au>
+				</aug>
+				<source>Philos Trans R Soc Lond B Biol Sci</source>
+				<pubdate>2004</pubdate>
+				<volume>359</volume>
+				<fpage>669</fpage>
+				<lpage>679</lpage>
+				<xrefbib>
+					<pubidlist>
+						<pubid idtype="doi">10.1098/rstb.2003.1447</pubid>
+						<pubid idtype="pmpid" link="fulltext">15253352</pubid>
+					</pubidlist>
+				</xrefbib>
+			</bibl>
+			<bibl id="B4">
+				<title>
+					<p>A plea for DNA taxonomy</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Tautz</snm>
+						<fnm>D</fnm>
+					</au>
+					<au>
+						<snm>Arctander</snm>
+						<fnm>P</fnm>
+					</au>
+					<au>
+						<snm>Minelli</snm>
+						<fnm>A</fnm>
+					</au>
+					<au>
+						<snm>Thomas</snm>
+						<fnm>RH</fnm>
+					</au>
+					<au>
+						<snm>Vogler</snm>
+						<fnm>AP</fnm>
+					</au>
+				</aug>
+				<source>Trends Ecol Evol</source>
+				<pubdate>2003</pubdate>
+				<volume>18</volume>
+				<fpage>70</fpage>
+				<lpage>74</lpage>
+				<xrefbib>
+					<pubid idtype="doi">10.1016/S0169-5347(02)00041-1</pubid>
+				</xrefbib>
+			</bibl>
+			<bibl id="B5">
+				<title>
+					<p>DNA barcoding: promise and pitfalls</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Moritz</snm>
+						<fnm>C</fnm>
+					</au>
+					<au>
+						<snm>Cicero</snm>
+						<fnm>C</fnm>
+					</au>
+				</aug>
+				<source>PLoS Biol</source>
+				<pubdate>2004</pubdate>
+				<volume>2</volume>
+				<issue>10</issue>
+				<fpage>e354</fpage>
+				<xrefbib>
+					<pubidlist>
+						<pubid idtype="pmcid">519004</pubid>
+						<pubid idtype="pmpid" link="fulltext">15486587</pubid>
+						<pubid idtype="doi">10.1371/journal.pbio.0020354</pubid>
+					</pubidlist>
+				</xrefbib>
+			</bibl>
+			<bibl id="B6">
+				<title>
+					<p>The promise of DNA barcoding for taxonomy</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Hebert</snm>
+						<fnm>PD</fnm>
+					</au>
+					<au>
+						<snm>Gregory</snm>
+						<fnm>TR</fnm>
+					</au>
+				</aug>
+				<source>Syst Biol</source>
+				<pubdate>2005</pubdate>
+				<volume>54</volume>
+				<issue>5</issue>
+				<fpage>852</fpage>
+				<lpage>859</lpage>
+				<xrefbib>
+					<pubidlist>
+						<pubid idtype="doi">10.1080/10635150500354886</pubid>
+						<pubid idtype="pmpid" link="fulltext">16243770</pubid>
+					</pubidlist>
+				</xrefbib>
+			</bibl>
+			<bibl id="B7">
+				<title>
+					<p>DNA-based species delineation in tropical beetles using mitochondrial and nuclear markers</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Monaghan</snm>
+						<fnm>MT</fnm>
+					</au>
+					<au>
+						<snm>Balke</snm>
+						<fnm>M</fnm>
+					</au>
+					<au>
+						<snm>Gregory</snm>
+						<fnm>TR</fnm>
+					</au>
+					<au>
+						<snm>Vogler</snm>
+						<fnm>AP</fnm>
+					</au>
+				</aug>
+				<source>Philos Trans R Soc Lond B Biol Sci</source>
+				<pubdate>2005</pubdate>
+				<volume>360</volume>
+				<issue>1462</issue>
+				<fpage>1925</fpage>
+				<lpage>1933</lpage>
+				<xrefbib>
+					<pubidlist>
+						<pubid idtype="doi">10.1098/rstb.2005.1724</pubid>
+						<pubid idtype="pmpid" link="fulltext">16214750</pubid>
+					</pubidlist>
+				</xrefbib>
+			</bibl>
+			<bibl id="B8">
+				<title>
+					<p>Ten species in one: DNA barcoding reveals cryptic species in the neotropical skipper butterfly Astraptes fulgerator</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Hebert</snm>
+						<fnm>PD</fnm>
+					</au>
+					<au>
+						<snm>Penton</snm>
+						<fnm>EH</fnm>
+					</au>
+					<au>
+						<snm>Burns</snm>
+						<fnm>JM</fnm>
+					</au>
+					<au>
+						<snm>Janzen</snm>
+						<fnm>DH</fnm>
+					</au>
+					<au>
+						<snm>Hallwachs</snm>
+						<fnm>W</fnm>
+					</au>
+				</aug>
+				<source>Proc Natl Acad Sci U S A</source>
+				<pubdate>2004</pubdate>
+				<volume>101</volume>
+				<issue>41</issue>
+				<fpage>14812</fpage>
+				<lpage>14817</lpage>
+				<xrefbib>
+					<pubidlist>
+						<pubid idtype="pmcid">522015</pubid>
+						<pubid idtype="pmpid" link="fulltext">15465915</pubid>
+						<pubid idtype="doi">10.1073/pnas.0406166101</pubid>
+					</pubidlist>
+				</xrefbib>
+			</bibl>
+			<bibl id="B9">
+				<title>
+					<p>DNA barcoding for effective biodiversity assessment of a hyperdiverse arthropod group: the ants of Madagascar</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Smith</snm>
+						<fnm>MA</fnm>
+					</au>
+					<au>
+						<snm>Fisher</snm>
+						<fnm>BL</fnm>
+					</au>
+					<au>
+						<snm>Hebert</snm>
+						<fnm>PD</fnm>
+					</au>
+				</aug>
+				<source>Philos Trans R Soc Lond B Biol Sci</source>
+				<pubdate>2005</pubdate>
+				<volume>360</volume>
+				<issue>1462</issue>
+				<fpage>1825</fpage>
+				<lpage>1834</lpage>
+				<xrefbib>
+					<pubidlist>
+						<pubid idtype="doi">10.1098/rstb.2005.1714</pubid>
+						<pubid idtype="pmpid" link="fulltext">16214741</pubid>
+					</pubidlist>
+				</xrefbib>
+			</bibl>
+			<bibl id="B10">
+				<title>
+					<p>DNA barcodes reveal cryptic host-specificity within the presumed polyphagous members of a genus of parasitoid flies (Diptera: Tachinidae)</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Smith</snm>
+						<fnm>MA</fnm>
+					</au>
+					<au>
+						<snm>Woodley</snm>
+						<fnm>NE</fnm>
+					</au>
+					<au>
+						<snm>Janzen</snm>
+						<fnm>DH</fnm>
+					</au>
+					<au>
+						<snm>Hallwachs</snm>
+						<fnm>W</fnm>
+					</au>
+					<au>
+						<snm>Hebert</snm>
+						<fnm>PD</fnm>
+					</au>
+				</aug>
+				<source>Proc Natl Acad Sci U S A</source>
+				<pubdate>2006</pubdate>
+				<volume>103</volume>
+				<issue>10</issue>
+				<fpage>3657</fpage>
+				<lpage>3662</lpage>
+				<xrefbib>
+					<pubidlist>
+						<pubid idtype="pmcid">1383497</pubid>
+						<pubid idtype="pmpid" link="fulltext">16505365</pubid>
+						<pubid idtype="doi">10.1073/pnas.0511318103</pubid>
+					</pubidlist>
+				</xrefbib>
+			</bibl>
+			<bibl id="B11">
+				<title>
+					<p>DNA taxonomy of a neglected animal phylum: an unexpected diversity of tardigrades</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Blaxter</snm>
+						<fnm>M</fnm>
+					</au>
+					<au>
+						<snm>Elsworth</snm>
+						<fnm>B</fnm>
+					</au>
+					<au>
+						<snm>Daub</snm>
+						<fnm>J</fnm>
+					</au>
+				</aug>
+				<source>Proc Roy Soc London, Biol Sci</source>
+				<pubdate>2004</pubdate>
+				<volume>271 Suppl 4</volume>
+				<fpage>S189</fpage>
+				<lpage>92</lpage>
+			</bibl>
+			<bibl id="B12">
+				<title>
+					<p>Order Chiroptera</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Simmons</snm>
+						<fnm>NB</fnm>
+					</au>
+				</aug>
+				<source>Mammal species of the World: a taxonomic and geographic reference</source>
+				<publisher>Baltimore, MD , Johns Hopkins University Press</publisher>
+				<editor>Wilson DE, Reeder DM</editor>
+				<pubdate>2005</pubdate>
+				<fpage>312</fpage>
+				<lpage>529</lpage>
+			</bibl>
+			<bibl id="B13">
+				<title>
+					<p>Systematic status of African populations of Pipistrellus pipistrellus complex (Chiroptera: Vespertilionidae), with a description of a new species from Cyrenaica, Libya</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Benda</snm>
+						<fnm>P</fnm>
+					</au>
+					<au>
+						<snm>Hulva</snm>
+						<fnm>P</fnm>
+					</au>
+					<au>
+						<snm>Gaisler</snm>
+						<fnm>J</fnm>
+					</au>
+				</aug>
+				<source>Acta Chiropterologica</source>
+				<pubdate>2004</pubdate>
+				<volume>6</volume>
+				<issue>2</issue>
+				<fpage>193</fpage>
+				<lpage>217</lpage>
+			</bibl>
+			<bibl id="B14">
+				<title>
+					<p>Systematic status of African populations of long-eared bats, genus Plecotus (Mammalia: Chrioptera)</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Benda</snm>
+						<fnm>P</fnm>
+					</au>
+					<au>
+						<snm>Kiefer</snm>
+						<fnm>A</fnm>
+					</au>
+					<au>
+						<snm>Hanak</snm>
+						<fnm>V</fnm>
+					</au>
+					<au>
+						<snm>Veith</snm>
+						<fnm>M</fnm>
+					</au>
+				</aug>
+				<source>Folia Zoologica</source>
+				<pubdate>2004</pubdate>
+				<volume>53</volume>
+				<fpage>1</fpage>
+				<lpage>47</lpage>
+			</bibl>
+			<bibl id="B15">
+				<title>
+					<p>Cryptic diversity in European bats</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Mayer</snm>
+						<fnm>F</fnm>
+					</au>
+					<au>
+						<snm>von Helversen</snm>
+						<fnm>O</fnm>
+					</au>
+				</aug>
+				<source>Proc Roy Soc London, Biol Sci</source>
+				<pubdate>2001</pubdate>
+				<volume>268</volume>
+				<issue>1478</issue>
+				<fpage>1825</fpage>
+				<lpage>1832</lpage>
+				<xrefbib>
+					<pubid idtype="doi">10.1098/rspb.2001.1744</pubid>
+				</xrefbib>
+			</bibl>
+			<bibl id="B16">
+				<title>
+					<p>Molecular systematics of bats of the genus Myotis (Vespertilionidae) suggests deterministic ecomorphological convergences</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Ruedi</snm>
+						<fnm>M</fnm>
+					</au>
+					<au>
+						<snm>Mayer</snm>
+						<fnm>F</fnm>
+					</au>
+				</aug>
+				<source>Mol Phylogenet Evol</source>
+				<pubdate>2001</pubdate>
+				<volume>21</volume>
+				<issue>3</issue>
+				<fpage>436</fpage>
+				<lpage>448</lpage>
+				<xrefbib>
+					<pubidlist>
+						<pubid idtype="doi">10.1006/mpev.2001.1017</pubid>
+						<pubid idtype="pmpid" link="fulltext">11741385</pubid>
+					</pubidlist>
+				</xrefbib>
+			</bibl>
+			<bibl id="B17">
+				<title>
+					<p>Recurrent replacement of mtDNA and cryptic hybridization between two sibling bat species Myotis myotis and Myotis blythii</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Berthier</snm>
+						<fnm>P</fnm>
+					</au>
+					<au>
+						<snm>Excoffier</snm>
+						<fnm>L</fnm>
+					</au>
+					<au>
+						<snm>Ruedi</snm>
+						<fnm>M</fnm>
+					</au>
+				</aug>
+				<source>Proc Roy Soc London, Biol Sci</source>
+				<pubdate>2006</pubdate>
+				<volume>273</volume>
+				<issue>1605</issue>
+				<fpage>3101</fpage>
+				<lpage>3109</lpage>
+				<xrefbib>
+					<pubid idtype="doi">10.1098/rspb.2006.3680</pubid>
+				</xrefbib>
+			</bibl>
+			<bibl id="B18">
+				<title>
+					<p>A new species of pipistrelle bat (Chiroptera Pipistrellus) from South Israel</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Harrison</snm>
+						<fnm>DL</fnm>
+					</au>
+				</aug>
+				<source>Durban Mus Novit</source>
+				<pubdate>1960</pubdate>
+				<volume>5</volume>
+				<issue>19</issue>
+				<fpage>261</fpage>
+				<lpage>267</lpage>
+			</bibl>
+			<bibl id="B19">
+				<title>
+					<p>Bats of the Palaearctic region: A taxonomic and biogeographic review</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Hor&#225;cek</snm>
+						<fnm>I</fnm>
+					</au>
+					<au>
+						<snm>Hanak</snm>
+						<fnm>V</fnm>
+					</au>
+					<au>
+						<snm>Gaisler</snm>
+						<fnm>J</fnm>
+					</au>
+				</aug>
+				<source>Proceedings of the VIIIth European bat research symposium</source>
+				<publisher>Krakow, Poland , Institute of Systematics and Evolution of Animals</publisher>
+				<editor>Woloszyn BW</editor>
+				<pubdate>2000</pubdate>
+				<volume>Vol. I Approaches to biogeography and ecology of bats</volume>
+				<fpage>11</fpage>
+				<lpage>157</lpage>
+			</bibl>
+			<bibl id="B20">
+				<title>
+					<p>Animal species and evolution</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Mayr</snm>
+						<fnm>E</fnm>
+					</au>
+				</aug>
+				<publisher>Cambridge, Mass. , Harvard University Press</publisher>
+				<pubdate>1963</pubdate>
+			</bibl>
+			<bibl id="B21">
+				<title>
+					<p>Speciation in mammals and the genetic species concept</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Baker</snm>
+						<fnm>RJ</fnm>
+					</au>
+					<au>
+						<snm>Bradley</snm>
+						<fnm>RD</fnm>
+					</au>
+				</aug>
+				<source>Journal of Mammalogy</source>
+				<pubdate>2006</pubdate>
+				<volume>87</volume>
+				<fpage>643</fpage>
+				<lpage>662</lpage>
+				<xrefbib>
+					<pubid idtype="doi">10.1644/06-MAMM-F-038R2.1</pubid>
+				</xrefbib>
+			</bibl>
+			<bibl id="B22">
+				<title>
+					<p>DNA answers the call of pipistrelle bat species</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Barratt</snm>
+						<fnm>EM</fnm>
+					</au>
+					<au>
+						<snm>Deaville</snm>
+						<fnm>R</fnm>
+					</au>
+					<au>
+						<snm>Burland</snm>
+						<fnm>TM</fnm>
+					</au>
+					<au>
+						<snm>Bruford</snm>
+						<fnm>MW</fnm>
+					</au>
+					<au>
+						<snm>Jones</snm>
+						<fnm>G</fnm>
+					</au>
+					<au>
+						<snm>Racey</snm>
+						<fnm>PA</fnm>
+					</au>
+					<au>
+						<snm>Wayne</snm>
+						<fnm>RK</fnm>
+					</au>
+				</aug>
+				<source>Nature</source>
+				<pubdate>1997</pubdate>
+				<volume>387</volume>
+				<fpage>138</fpage>
+				<lpage>139</lpage>
+				<xrefbib>
+					<pubidlist>
+						<pubid idtype="doi">10.1038/387138b0</pubid>
+						<pubid idtype="pmpid" link="fulltext">9144281</pubid>
+					</pubidlist>
+				</xrefbib>
+			</bibl>
+			<bibl id="B23">
+				<title>
+					<p>Is the Gibraltar strait a barrier to gene flow for the bat Myotis myotis (Chiroptera: Vespertilionidae)?</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Castella</snm>
+						<fnm>V</fnm>
+					</au>
+					<au>
+						<snm>Ruedi</snm>
+						<fnm>M</fnm>
+					</au>
+					<au>
+						<snm>Excoffier</snm>
+						<fnm>L</fnm>
+					</au>
+					<au>
+						<snm>Ibanez</snm>
+						<fnm>C</fnm>
+					</au>
+					<au>
+						<snm>Arlettaz</snm>
+						<fnm>R</fnm>
+					</au>
+					<au>
+						<snm>Hausser</snm>
+						<fnm>J</fnm>
+					</au>
+				</aug>
+				<source>Mol Ecol</source>
+				<pubdate>2000</pubdate>
+				<volume>9</volume>
+				<issue>11</issue>
+				<fpage>1761</fpage>
+				<lpage>1772</lpage>
+				<xrefbib>
+					<pubidlist>
+						<pubid idtype="doi">10.1046/j.1365-294x.2000.01069.x</pubid>
+						<pubid idtype="pmpid" link="fulltext">11091312</pubid>
+					</pubidlist>
+				</xrefbib>
+			</bibl>
+			<bibl id="B24">
+				<title>
+					<p>Cryptic mammalian species: a new species of whiskered Bat (Myotis alcathoe n. sp.) in Europe</p>
+				</title>
+				<aug>
+					<au>
+						<snm>von Helversen</snm>
+						<fnm>O</fnm>
+					</au>
+					<au>
+						<snm>Heller</snm>
+						<fnm>KG</fnm>
+					</au>
+					<au>
+						<snm>Mayer</snm>
+						<fnm>F</fnm>
+					</au>
+					<au>
+						<snm>Nemeth</snm>
+						<fnm>A</fnm>
+					</au>
+					<au>
+						<snm>Volleth</snm>
+						<fnm>M</fnm>
+					</au>
+					<au>
+						<snm>Gombk&#246;t&#246;</snm>
+						<fnm>P</fnm>
+					</au>
+				</aug>
+				<source>Naturwissenschaften</source>
+				<pubdate>2001</pubdate>
+				<volume>88</volume>
+				<issue>5</issue>
+				<fpage>217</fpage>
+				<lpage>223</lpage>
+				<xrefbib>
+					<pubidlist>
+						<pubid idtype="doi">10.1007/s001140100225</pubid>
+						<pubid idtype="pmpid" link="fulltext">11482435</pubid>
+					</pubidlist>
+				</xrefbib>
+			</bibl>
+			<bibl id="B25">
+				<title>
+					<p>Conflicting molecular phylogenies of European long-eared bats (Plecotus) can be explained by cryptic diversity</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Kiefer</snm>
+						<fnm>A</fnm>
+					</au>
+					<au>
+						<snm>Mayer</snm>
+						<fnm>F</fnm>
+					</au>
+					<au>
+						<snm>Kosuch</snm>
+						<fnm>J</fnm>
+					</au>
+					<au>
+						<snm>von Helversen</snm>
+						<fnm>O</fnm>
+					</au>
+					<au>
+						<snm>Veith</snm>
+						<fnm>M</fnm>
+					</au>
+				</aug>
+				<source>Mol Phylogenet Evol</source>
+				<pubdate>2002</pubdate>
+				<volume>25</volume>
+				<issue>3</issue>
+				<fpage>557</fpage>
+				<lpage>566</lpage>
+				<xrefbib>
+					<pubidlist>
+						<pubid idtype="doi">10.1016/S1055-7903(02)00299-3</pubid>
+						<pubid idtype="pmpid" link="fulltext">12450759</pubid>
+					</pubidlist>
+				</xrefbib>
+			</bibl>
+			<bibl id="B26">
+				<title>
+					<p>Taxonomic revision of Myotis mystacinus group (Mammalia: Chiroptera) in the western Palearctic</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Benda</snm>
+						<fnm>P</fnm>
+					</au>
+					<au>
+						<snm>Tsytsulina</snm>
+						<fnm>KA</fnm>
+					</au>
+				</aug>
+				<source>Acta Soc Zool Bohem</source>
+				<pubdate>2000</pubdate>
+				<volume>64</volume>
+				<fpage>331</fpage>
+				<lpage>398</lpage>
+			</bibl>
+			<bibl id="B27">
+				<title>
+					<p>Differences in the location of nucleolus organizer regions in European vespertilionid bats</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Volleth</snm>
+						<fnm>M</fnm>
+					</au>
+				</aug>
+				<source>Cytogenetics and Cell Genetics</source>
+				<pubdate>1987</pubdate>
+				<volume>44</volume>
+				<fpage>186</fpage>
+				<lpage>197</lpage>
+			</bibl>
+			<bibl id="B28">
+				<title>
+					<p>The perils of DNA barcoding and the need for integrative taxonomy</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Will</snm>
+						<fnm>KW</fnm>
+					</au>
+					<au>
+						<snm>Mishler</snm>
+						<fnm>BD</fnm>
+					</au>
+					<au>
+						<snm>Wheeler</snm>
+						<fnm>QD</fnm>
+					</au>
+				</aug>
+				<source>Syst Biol</source>
+				<pubdate>2005</pubdate>
+				<volume>54</volume>
+				<issue>5</issue>
+				<fpage>844</fpage>
+				<lpage>851</lpage>
+				<xrefbib>
+					<pubidlist>
+						<pubid idtype="doi">10.1080/10635150500354878</pubid>
+						<pubid idtype="pmpid" link="fulltext">16243769</pubid>
+					</pubidlist>
+				</xrefbib>
+			</bibl>
+			<bibl id="B29">
+				<title>
+					<p>Comparative performance of the 16S rRNA gene in DNA barcoding of amphibians</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Vences</snm>
+						<fnm>M</fnm>
+					</au>
+					<au>
+						<snm>Thomas</snm>
+						<fnm>M</fnm>
+					</au>
+					<au>
+						<snm>van der Meijden</snm>
+						<fnm>A</fnm>
+					</au>
+					<au>
+						<snm>Chiari</snm>
+						<fnm>Y</fnm>
+					</au>
+					<au>
+						<snm>Vieites</snm>
+						<fnm>DR</fnm>
+					</au>
+				</aug>
+				<source>Front Zool</source>
+				<pubdate>2005</pubdate>
+				<volume>2</volume>
+				<issue>1</issue>
+				<fpage>5</fpage>
+				<xrefbib>
+					<pubidlist>
+						<pubid idtype="pmcid">555853</pubid>
+						<pubid idtype="pmpid" link="fulltext">15771783</pubid>
+						<pubid idtype="doi">10.1186/1742-9994-2-5</pubid>
+					</pubidlist>
+				</xrefbib>
+			</bibl>
+			<bibl id="B30">
+				<title>
+					<p>PAUP*: Phylogenetic analysis using parsimony (*and other methods)</p>
+				</title>
+				<aug>
+					<au>
+						<snm>Swofford</snm>
+						<fnm>DL</fnm>
+					</au>
+				</aug>
+				<publisher>Sunderland, MA , Sinauer</publisher>
+				<edition>4th</edition>
+				<pubdate>2002</pubdate>
+				<xrefbib>
+					<pubid idtype="pmpid" link="fulltext">12504223</pubid>
+				</xrefbib>
+			</bibl>
+		</refgrp>
+	</bm>
+</art>
