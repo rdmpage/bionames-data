@@ -3,25 +3,51 @@ config.inc.php
 
 adodb5/
 
+bhl_coverage/junk
+
 cleaning/ion-clustering/tmp
 cleaning/ion-ris/junk
 cleaning/ion-ris/*.ris
+cleaning/ion-ris/*.txt
 
 darwincore/junk
 darwincore/doi/junk
+
+darwincore-couchdb
+
+europeana/uk-rbge
+
+gbif-backbone-2013-07-02
+
+hostparser/junk
+hostparser/*.sql
+
+ipni/archives
+ipni/junk
+ipni/theplantlist
+ipni/*.ris
+ipni/*.sql
 
 journals/images
 journals/issn
 
 # manuscript
 
+
 phylota
 
 pdf/
 
+
 pdf-join/junk
 
+pdf-name-extraction/junk
+pdf-name-extraction/pdf
+
+publications/citeproc
 publications/junk
+publications/*.ris
+publications/*.txt
 
 taxonconcept/gbif_mapping.txt
 
@@ -29,6 +55,13 @@ taxonconcept/gbif/
 taxonconcept/junk/
 taxonconcept/local/
 taxonconcept/tmp/
+
+tesseract/
+
+
+ZoologicalRecord/
+
+zootaxa/junk
 
 cookie.txt
 

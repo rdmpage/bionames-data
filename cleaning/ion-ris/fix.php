@@ -766,6 +766,8 @@ $journal = 'Allan Hancock Pacific Expedition';
 
 $journal = 'Psyche (Cambridge)';
 
+$journal =' Schriften zur Malakozoologie aus dem Haus der Natur-Cismar';
+
 $sql = 'SELECT * from names WHERE publication LIKE "%' . $journal . '%" AND publicationParsed="N"';
 
 //$sql .= ' AND year=2012';
@@ -791,8 +793,18 @@ $sql = 'SELECT * from names WHERE publication LIKE "%' . $journal . '%" AND publ
 
 //$sql = 'SELECT * from names WHERE publication like "A new Fruit Bat from N. Loochoo. Lansania Tokyo, 1 1929: pp. 125-128%"';
 
-
-$sql = 'SELECT * FROM names WHERE sici="a3670217aae89ec21015112dde1f453a"';
+/*
+$sql = 'SELECT * FROM names WHERE sici in (
+"cc79475805beed0ba321072251c6986d",
+"dfe76668fb4c4a1c0b43515060f8cf3e",
+"fdda2f3f223aedd6bf6360e30c19bf16",
+"2c6493247cd8d54d05da83af78519050",
+"c06a0341d40251789827d51c15b4302f",
+"5ac3180abd384dead3badba6ef7dbfea",
+"ca6b45c0ae284f664f941c5a10d5df88",
+"3b2c28c1fe8417d2dd50b336647aa8ec"
+)';
+*/
 
 //$sql = 'SELECT * from names WHERE year=1920 AND publication IS NOT NULL AND publicationParsed="N"';
 
@@ -835,21 +847,67 @@ $sql = 'SELECT * FROM names WHERE sici="a3670217aae89ec21015112dde1f453a"';
 //$sql = 'select * from names where id=3691743';
 //$sql = 'select * from names where id=558168';
 
-//$sql = 'select * from names where taxonAuthor like "Sars 1885" AND publicationParsed="N" and publication IS NOT NULL';
+//$sql = 'select * from names where taxonAuthor like "Becker 1907" AND publicationParsed="N" and publication IS NOT NULL';
 
 //$sql = 'select * from names where genusPart="Hydractinia" AND publicationParsed="N" and publication IS NOT NULL';
 
-//$sql = 'select * from names where sici in ("87bd82bdbd7f28207ede62399ee4fadf","0b6aba912e841207b322622b4b0c33a7","a2f0323fefb10a9409d9b7c70b0748e8","747fd7094b2033aed3d327f8d2f6714c","778c751ca5a12025f2604952113b56a7","31ad2c6e7e1d37867e97dab65549b065","292a33a7fe3cba4cf5b2cce882ca656e","87bd82bdbd7f28207ede62399ee4fadf")';
+//$sql = 'select * from names where sici in ("311f22565f89567b2e47329471662a6b")';
 
 //echo $sql . "\n";
 
 //$sql = 'select * from names where id = 3950391;' ;
 //$sql = 'select * from names where year=1927 AND publicationParsed="N" and publication IS NOT NULL';
 
+//$sql = "select * from names4495670_4499910 where publication is not null and publicationParsed='N'";
+
+//$sql = "select * from names where `group`='Nematomorpha' and  publication is not null and publicationParsed='N'";
+
+$sql = 'select * from names where publication is not null and publicationParsed ="N" and year=1921';
+
+$sql = 'select * from names1921';
+
+$sql = 'select * from names where publication is not null and publicationParsed ="N" and  publication like "% Lambillionea%"';
+
+$sql = 'SELECT * from names where sici in ("aa92d7c9dac9d905ddd1248503a2975a")';
+
+
+$sql = 'select * from names where taxonAuthor like "Kazenas %" AND publicationParsed="N" and publication IS NOT NULL';
+
+$sql = 'select * from names where `group` = "Microspora" AND publicationParsed="N" and publication IS NOT NULL';
+
+$sql = 'select * from names where publicationParsed="N" and publication IS NOT NULL LIMIT 1000';
+
+
+
+$sql = 'SELECT * from names where sici in ("b1610a06fa190860d14b9a954c5e058d","576fcfa50d800fe7a31bb0260cd8fbb0","2599f5a7727603f5c3102c7fb4f4ada9")';
+$sql = 'SELECT * from names WHERE publication LIKE "%Byulleten\' Moskovskogo Obshchestva Ispytatelei Prirody Otdel Biologicheskii%" AND publicationParsed="N"';
+
+
+$sql = 'select * from names where publication is not null and publicationParsed ="N" and year=1983';
+
+$sql = 'select * from names where journal="Class Anthozoa.] Luppov, N.P.; Alekseeva, L.V.; Bogdanova, T.N.; Korotkov, V.A.; Dzhalilov, M.R.; Lobacheva, S.V.; Kuzmicheva, E.I.; Akopyan, V.T.; Smirnova, S.B.[The Valanginian of Mangyshlak.], Nauka"';
+
+$sql = 'select * from names where publication is not null and publicationParsed ="N" and year < 1870';
+
+$sql = 'select * from names where publication is not null and publicationParsed ="N" and year between 1870 and 1900';
+
+$sql = 'select * from names where publication is not null and publicationParsed ="N" and year between 1900 and 1905';
+
+$sql = 'select * from names where taxonAuthor like "Bonet %" and publication is not null and publicationParsed ="N"';
+
+$sql = 'select * from names where `group`="Derbidae" and publication is not null and publicationParsed ="N"';
+
+
+//$sql = 'select * from names where id = 4244438;' ;
+
 
 
 $result = $db->Execute($sql);
 if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+
+
+$debug_journals = true;
+$debug_journals = false;
 
 while (!$result->EOF) 
 {	
@@ -869,11 +927,181 @@ while (!$result->EOF)
 		$obj->publication = $m['start'] . $m['title_end'] . '. ' . $journal . $m['end'];
 	}
 	
-
-	echo "-- " . $obj->publication . "\n";
+	$obj->publication = str_replace('., Vega-Expeditionens', '. Vega-Expeditionens', $obj->publication);
 	
+
+	if ($debug_journals)
+	{	
+		echo "-- " . $obj->publication . "\n";
+	}
+		
 	
 	$matched = false;
+	
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>\[.*\])\s+(.*)(?<journal>\[.*\]),(.*)(?<year>[0-9]{4})(.*)Chapter pagination: (?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+	
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*). (?<journal>Biodiversity, biogeography and nature conservation in Wallacea and New Guinea). Volume\s+(?<volume>[I]).,(.*)\s+(?<year>[0-9]{4}):(.*)Chapter pagination: (?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+	
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*). (?<journal>Masamushi. Entomological papers dedicated to Dr. Kimio Masumoto on the occasion of his retirement., Japanese Society of Scarabaeoidology, Tokyo),\s+(?<year>[0-9]{4}):(.*)Chapter pagination: (?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+	
+	
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)"\s+(?<journal>Report.*),\s+(?<volume>\d+)\s+(?<year>[0-9]{4}):\s+pp.\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+	
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\.(?<journal>.*),\s+(?<volume>\d+)(\((?<issue>.*)\))?,\s+\w+[\']?-\w+[\']?\s+(?<year>[0-9]{4}):\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}
+	
+	
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>A Sketch.*)\.\s+(?<journal>Bull. Denison Univ.*)\s+(?<volume>[ivxcl]+),\s+pp.\s+(?<spage>\d+)-(?<epage>\d+)[.|,]/u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}
+	
+	
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.,\s+(?<journal>Vega-Expeditionens.*),\s+(?<volume>[ivxcl]+),\s+pp.\s+(?<spage>\d+)-(?<epage>\d+)[.|,]/u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}
+	
+	
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.\s+(?<journal>Parazitologiya.*),\s+(?<volume>\d+)\((?<issue>\d+)\),\s+\w+(-\w+)\'\s+(?<year>[0-9]{4}):\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}
+	
+	
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.\s+(?<journal>.*),\s+(?<volume>\d+)(\((?<issue>.*)\))?,\s+\w+\'(-\w+\')?\s+(?<year>[0-9]{4}):\s+(?<spage>\d+)-(?<epage>\d+)[\.|,]/u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}
+	
+	
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*\.\]?)\s+(?<journal>.*),\s+(?<volume>\d+)\((?<issue>\d+)\)(\(Tome\s+\d+\))?,\s+\w+\s+(?<year>[0-9]{4}):\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}
+	
+	
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*).\s+(?<journal>(British Antarctic \("\s*Terra Nova"\).*Zoology)),?\s+(?<volume>\d+)(\s+(?<issue>[ixv]+)|\(No.\s+\d+\))\s+(?<year>[0-9]{4}):?\s+pp.\s+(?<spage>\d+)-(?<epage>\d+)(\.|\s+)/u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}
+
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*).\s+(?<journal>(Australasian.*))\s+(?<volume>\d+)\s+(?<year>[0-9]{4})\s+Pt.\s+(?<issue>\d+)\s+pp.\s+(?<spage>\d+)-(?<epage>\d+)(\.|\s+)/u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}
+	
+
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\s+(?<journal>Mem.*)\s+(?<volume>\d+)\s+(?<year>[0-9]{4})\s+pp\.?\s+(?<spage>\d+)-(?<epage>\d+)[\.|\s]/u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+	
+	
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*\.")\s+(?<journal>.*),\s+(?<volume>\d+)\s+(?<year>[0-9]{4}):\s+\([ivxlc]+ \+ (?<spage>\d+)-(?<epage>\d+)\)/u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+
+	if (!$matched)
+	{
+		if (preg_match('/\[title unknown\]\s+(?<journal>.*),\s+(?<volume>\d+)\((?<issue>.*)\)\s+(?<year>[0-9]{4}):\s+\((?<spage>\d+)-(?<epage>\d+)\)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
 	
 	if (!$matched)
 	{
@@ -2258,7 +2486,83 @@ while (!$result->EOF)
 			$matched = true;
 			echo "-- " . __LINE__ . "\n";
 		}
+	}
+	
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\.\s+(?<journal>.*)\s+(?<volume>\d+)\(\(\d+\)\)\s+(?<year>[0-9]{4}):\s+pp.\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
 	}		
+	
+
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>\[.*\.\])\s+(?<journal>.*)\s+(?<volume>[ixlc]+)\s+(?<year>[0-9]{4}):\s+Unpaginated\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+
+	// journal not separated from title by "." (spage-epage)
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\s+(?<journal>(Boletin|Bulletin|Entomologische Blaetter|Journal |Mem |Notulae |Proc |Proceedings|Revista|Revue |Transactions|Zoologische).*),(\s+(?<volume>\d+))?\s+(?<year>[0-9]{4}):\s+\((?<spage>\d+)-(?<epage>\d+)\)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}
+	
+	// journal not separated from title by "." (pp.)
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\s+(?<journal>(Boletin|Bulletin|Entomologische Blaetter|Journal |Mem |Notulae |Proc |Proceedings|Revista|Revue |Transactions|Zoologische).*),(\s+(?<volume>\d+))?\s+(?<year>[0-9]{4}):\s+pp\.?\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>Thousand.*),\s+(.*),?\s+(?<volume>\d+)\s+(?<year>[0-9]{4}):?\s+pp.\s+(?<spage>\d+)-(?<epage>\d+)(\.|\s+)/u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\s+(?<journal>Tijdschrift.*),(\s+(?<volume>\d+))?\s+(?<year>[0-9]{4}):\s+pp\.?\s+(?<spage>[ixvlc]+)-(?<epage>[ixvlc]+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\s+(?<journal>.*),(\s+(?<volume>\d+))?\s+(?<year>[0-9]{4}):\s+pp\.?\s+(?<spage>[ixvlc]+)-(?<epage>[ixvlc]+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+
+
+	
 	
 
 	// if all else fails just grab title, journal, year, and pagination
@@ -2271,6 +2575,62 @@ while (!$result->EOF)
 			echo "-- " . __LINE__ . "\n";
 		}
 	}		
+	
+	// Catch "obvious" failures and undo
+	if ($matched)
+	{
+		if ($matched) 
+		{
+			if (preg_match('/^[\]|"|\(]/', $m['journal']))
+			{
+				$matched = false;
+			}
+		}
+		if ($matched) 
+		{
+			if (preg_match('/^\d+/', $m['journal']))
+			{
+				$matched = false;
+			}
+		}
+		if ($matched) 
+		{
+			if (preg_match('/^[iI][-\.]/', $m['journal']))
+			{
+				$matched = false;
+			}
+		}
+		if ($matched) 
+		{
+			if (preg_match('/^Part[\s|e]/', $m['journal']))
+			{
+				$matched = false;
+			}
+		}
+		if ($matched) 
+		{
+			if (preg_match('/^Pt\./', $m['journal']))
+			{
+				$matched = false;
+			}
+		}
+		if ($matched) 
+		{
+			if (preg_match('/^spec\./', $m['journal']))
+			{
+				$matched = false;
+			}
+		}
+		if ($matched) 
+		{
+			if (preg_match('/^Teil./', $m['journal']))
+			{
+				$matched = false;
+			}
+		}
+	}
+	
+	
 	
 	
 	if ($matched)
@@ -2313,7 +2673,9 @@ while (!$result->EOF)
 				$obj->journal = preg_replace('/,$/', '', $obj->journal);
 			}
 			
-		
+			$obj->journal = preg_replace('/, pt\.$/', '', $obj->journal);
+			
+				
 					
 			if (preg_match('/^(?<number>[xvcil]+)\.\s+(?<journal>.*)$/Uu', $obj->journal, $mm))
 			{
@@ -2378,6 +2740,398 @@ while (!$result->EOF)
 			{
 				$obj->journal = preg_replace('/\s+Bd$/', '', $obj->journal);
 			}
+			
+			
+			// split titles
+			if ($obj->journal == 'Nat.')
+			{
+				if (preg_match('/^(?<title>.*)\. Museo Nao. Cienc/', $obj->title, $mm))
+				{
+					$obj->title = $mm['title'];
+					$obj->journal = 'Museo Nao. Cienc. ' . $obj->journal;
+				}
+			}
+			
+			// nat., Madrid Tomo extraord.
+			if ($obj->journal == 'nat., Madrid Tomo extraord.')
+			{
+				if (preg_match('/^(?<title>.*)\. (?<journal>Mem R. Soc. esp. Hist)/', $obj->title, $mm))
+				{
+					$obj->title = $mm['title'];
+					$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+				}
+			}
+			
+			// Zanon Ann Mus Civ st nat Genova
+			if ($obj->journal == 'Zanon Ann Mus Civ st nat Genova')
+			{
+				$obj->title .= '. Zanon';
+				$obj->journal = 'Ann Mus Civ st nat Genova';
+			}
+			
+			// Z Tokyo
+			if ($obj->journal == 'Z Tokyo')
+			{
+				if (preg_match('/^(?<title>.*), (?<journal>Dobuts)/', $obj->title, $mm))
+				{
+					$obj->title = $mm['title'];
+					$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+				}
+			}
+			
+			// The Chilopoda Occ Paprs Mus Zool Univ Michigan Ann Arbor
+			if ($obj->journal == 'The Chilopoda Occ Paprs Mus Zool Univ Michigan Ann Arbor')
+			{
+				if (preg_match('/^(?<title>.*) (?<journal>Occ .*)/', $obj->journal, $mm))
+				{
+					$obj->title .= '. ' . $mm['title'];
+					$obj->journal = $mm['journal'];
+				}
+			}
+			
+			// No 1 Amer Mus Novit New York
+			if ($obj->journal == 'No 1 Amer Mus Novit New York')
+			{
+				if (preg_match('/^(?<title>.*) (?<journal>Amer .*)/', $obj->journal, $mm))
+				{
+					$obj->title .= '. ' . $mm['title'];
+					$obj->journal = $mm['journal'];
+				}
+			}
+			
+			// n. et spec n. Proceedings of the Royal Physical Society of Edinburgh
+			if ($obj->journal == 'n. et spec n. Proceedings of the Royal Physical Society of Edinburgh')
+			{
+				if (preg_match('/^(?<title>.*) (?<journal>Proceedings .*)/', $obj->journal, $mm))
+				{
+					$obj->title .= '. ' . $mm['title'];
+					$obj->journal = $mm['journal'];
+				}
+			}
+			
+			// varr.] 
+			
+			if (preg_match('/^(?<title>.*varr.\])\s+(?<journal>.*)/', $obj->journal, $mm))
+			{
+				$obj->title .= '. ' . $mm['title'];
+				$obj->journal = $mm['journal'];
+			}
+			
+			// notice.] Nachr Ges Gotting 1886
+			if (preg_match('/^(?<title>.*notice.\])\s+(?<journal>.*)/', $obj->journal, $mm))
+			{
+				$obj->title .= '. ' . $mm['title'];
+				$obj->journal = $mm['journal'];
+			}
+			
+			// I Abh Ver Brem
+			if (preg_match('/^(?<title>I)\s+(?<journal>.*)/', $obj->journal, $mm))
+			{
+				$obj->title .= '. ' . $mm['title'];
+				$obj->journal = $mm['journal'];
+			}
+			
+			// lre partie Ann Soc ent France Paris
+			if ($obj->journal == 'lre partie Ann Soc ent France Paris')
+			{
+				if (preg_match('/^(?<title>.*) (?<journal>Ann Soc .*)/', $obj->journal, $mm))
+				{
+					$obj->title .= '. ' . $mm['title'];
+					$obj->journal = $mm['journal'];
+				}
+			}
+			// C. F. Baker. Bollettino dei Musei di Zoologia e di Anatomia Comparata Torino
+			if ($obj->journal == 'C. F. Baker. Bollettino dei Musei di Zoologia e di Anatomia Comparata Torino')
+			{
+				if (preg_match('/^(?<title>.*) (?<journal>Bollettino .*)/', $obj->journal, $mm))
+				{
+					$obj->title .= '. ' . $mm['title'];
+					$obj->journal = $mm['journal'];
+				}
+			}
+			// Coelenterati. Memorie Descrittive della Carta Geologica d'Italia Roma
+			if ($obj->journal == 'Coelenterati. Memorie Descrittive della Carta Geologica d\'Italia Roma')
+			{
+				if (preg_match('/^(?<title>.*) (?<journal>Memorie .*)/', $obj->journal, $mm))
+				{
+					$obj->title .= '. ' . $mm['title'];
+					$obj->journal = $mm['journal'];
+				}
+			}
+			
+			// Eine Pliocan fauna von Seran (Molukken,) Centralbl
+			// sp., which the author discovered in the crab. Nihon Biseibutsugakkwai Zasshi
+			if (preg_match('/^(?<title>(.*))\s+(?<journal>Centralbl)$/', $obj->journal, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . ' ' . $obj->journal;
+			}
+			
+			
+			// Extra bits on title
+			if (preg_match('/^(?<title>(.*))\s+(?<journal>(Conch|Conch. Cab. pt|Proces-Verbaux Soc Malac|C|Abh. Ber. zool. anthropol. Mus|Rep. U. S|Bull. U.S. Fish Comm|MT. z. Stat|Bull. Soc|Boll. Zool|Bull|Nat|Zool. Chal|Arch Z|Bull. Ent))$/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			
+			
+			// sp., which the author discovered in the crab. Nihon Biseibutsugakkwai Zasshi
+			if (preg_match('/^(?<title>sp\.(.*))\.\s+(?<journal>.*)/', $obj->journal, $mm))
+			{
+				$obj->title .= '. ' . $mm['title'];
+				$obj->journal = $mm['journal'];
+			}
+			
+			// xxx
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Am. Journ. of Sc)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Mem. Soc. Phys)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Naturhist. Tidsskr)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Vidensk. Selsk. Forh)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Jenaische Zeitschr)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Wiener entom)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Wien. ent)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Kongliga Svenska Vetensk.-Akad)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			
+			if (preg_match('/^(?<title>.*)\s+(?<journal>OEfvers. Kongl. Vetensk-Akad)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			if (preg_match('/^(?<title>.*)\s+(?<journal>OEfvers af K. Vet-Akad)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			if (preg_match('/^(?<title>.*)\s+(?<journal>OEfvers. af k. Vet.-Akad)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			
+			
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Vidensk. Selsk. Skr)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Schriften der naturforschenden Gesellschaft in Danzig)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			
+			
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Madras Quart. Journ. Med)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			
+			
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Zoologischer Theil. Fische. 3. Abtheilung)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Verhandl. der k.-k. zool.-bot)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			
+			
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Trans. Connecticut Acad)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+	
+			if (preg_match('/^(?<title>.*)\s+(?<journal>OEfvers. af K. Vet. Akad)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Herausgegeben von der k.-k. zool.-bot)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+	
+	
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Zeitschrift fur wissensch)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			
+			
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Ann. Sci$)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+
+			if (preg_match('/^(?<title>.*)\s+(?<journal>OEfvers. af k. Vct.-Akad)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			
+			
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Mem. Soc. de Phys. et d\'Hist.)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			
+			
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Mem. Acad. Imp. Sci. St)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Trans)$/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Arch)$/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			
+			
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Vidensk. Selsk)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			
+			
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Proc. Roy. Soc)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+
+			if (preg_match('/^(?<title>.*)\s+(?<journal>Mem. de l\'Acad. Roy)/', $obj->title, $mm))
+			{
+				$obj->title = $mm['title'];
+				$obj->journal = $mm['journal'] . '. ' . $obj->journal;
+			}
+			
+			
+	
+			// (Sex Coleoptera nova palaearctica.) Casopis Praze (Prague)
+			if (preg_match('/^(?<title>\(.*\)\.?)\s+(?<journal>.*)/', $obj->journal, $mm))
+			{
+				$obj->title .= '. ' . $mm['title'];
+				$obj->journal = $mm['journal'];
+			}
+						
+	
+			
+			//----------
+			// Kungliga Svenska
+			
+			if (preg_match('/(?<journalstart>Kungliga Svenska|K Svenska|Bollettino|Annali|Boll Mus|Zoologische|Boletin|Biological Results|Ann Mus|Mitteil Vogelw)/', $obj->journal, $mmm))
+			{
+				//print_r($mmm);
+				
+				//echo '/^(?<title>.*) (?<journal>' . addcslashes($mmm['journalstart'], "'") . '.*)/' . "\n";
+			
+				
+				if (preg_match('/^(?<title>.*) (?<journal>' . addcslashes($mmm['journalstart'], "'") . '.*)/', $obj->journal, $mm))
+				{
+					//print_r($mm);
+					$obj->title .= '. ' . $mm['title'];
+					$obj->journal = $mm['journal'];
+				}
+			}
+			
+			// - 
+			if (preg_match('/^- /', $obj->journal, $mm))
+			{
+				$obj->journal = str_replace("- ", "", $obj->journal);
+			}
+			// )
+			if (preg_match('/^\)\s+/', $obj->journal, $mm))
+			{
+				$obj->title .= ')';
+				$obj->journal = preg_replace('/^\)\s+/', '', $obj->journal);
+			}
+
+			if (preg_match('/^"\s+/', $obj->journal, $mm))
+			{
+				$obj->title .= '"';
+				$obj->journal = preg_replace('/^"\s+/', '', $obj->journal);
+			}
+			
+
+			if (preg_match('/,\s+tome$/', $obj->journal, $mm))
+			{
+				$obj->journal = preg_replace('/,\s+tome$/', '', $obj->journal);
+			}
+			
+			if (preg_match('/,\s+vol.$/', $obj->journal, $mm))
+			{
+				$obj->journal = preg_replace('/,\s+vol.$/', '', $obj->journal);
+			}
+			
+			if (preg_match('/,\s+Bd.$/', $obj->journal, $mm))
+			{
+				$obj->journal = preg_replace('/,\s+Bd.$/', '', $obj->journal);
+			}
+			
+			if (preg_match('/\s+[S|s]er\.?\s+(?<series>\d+)$/', $obj->journal, $mm))
+			{
+				$obj->journal = preg_replace('/\s+[S|s]er\.?\s+(?<series>\d+)$/', '', $obj->journal);
+				$obj->series = $mm['series'];
+			}
+			
+		
+			
 			
 			if (0)
 			{
@@ -2507,6 +3261,7 @@ while (!$result->EOF)
 		
 		// SQL
 		$sql = "UPDATE names SET";
+//		$sql = "UPDATE names1921 SET";
 //		$sql = "UPDATE siboga SET";
 		$count = 0;		
 		foreach ($obj as $k => $v)
@@ -2534,7 +3289,17 @@ while (!$result->EOF)
 		}
 		$sql .= " WHERE id=" . $obj->id . ';';
 		
-		echo $sql . "\n";
+		if ($debug_journals)
+		{		
+			// for debugging journal info
+			echo $obj->journal . "\n";
+		}
+		else
+		{
+			echo $sql . "\n";
+		}
+		
+		
 		
 	}
 	

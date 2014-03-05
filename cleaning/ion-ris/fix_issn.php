@@ -36,7 +36,21 @@ function get_issn($journal)
 $id = 4964979;
 $id = 5015135;
 
+
+
 $sql = 'select distinct journal from names where id > 4964979 and publication is not null';
+
+//$sql = "select * from names4495670_4499910 where publication is not null";
+
+$sql = 'select distinct journal from names where DATE_SUB(CURDATE(),INTERVAL 1 DAY) <= updated';
+
+$sql = 'select distinct journal from names_1922';
+
+$sql = 'select distinct journal from names where DATE_SUB(CURDATE(),INTERVAL 1 DAY) <= updated and year=1903';
+
+$sql = 'select distinct journal from names where journal is not null and year=2011';
+$sql = 'select distinct journal from names where journal is not null and year=1983';
+
 
 $result = $db->Execute($sql);
 if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
@@ -48,7 +62,8 @@ while (!$result->EOF)
 	$issn = get_issn($journal);
 	if ($issn != '')
 	{
-		$sql = 'UPDATE names SET issn="' . $issn . '" WHERE  journal=' . $db->qstr($journal) . ' AND id > ' . $id . ';';
+//		$sql = 'UPDATE names SET issn="' . $issn . '" WHERE  journal=' . $db->qstr($journal) . ' AND DATE_SUB(CURDATE(),INTERVAL 1 DAY) <= updated;';
+		$sql = 'UPDATE names SET issn="' . $issn . '" WHERE  journal=' . $db->qstr($journal) . ' AND year=1983;';
 		
 		echo $sql . "\n";
 	}

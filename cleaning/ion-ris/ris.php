@@ -736,13 +736,19 @@ $sql = 'SELECT * from names WHERE issn = "0370-2774"';
 
 $sql = 'SELECT * from names WHERE issn = "0037-9271"';
 
-$sql = 'SELECT * from names WHERE issn = "0033-2615"';
+$sql = 'SELECT * from names WHERE issn = "0952-7583"';
+
+$sql = "select * from names4495670_4499910 where publication is not null";
+
+$sql = 'SELECT * from names WHERE issn = "0939-7140"';
+
+
 
 
 //$sql = 'SELECT * FROM names WHERE id > 4964979 AND publication IS NOT NULL';
 
 
-//$sql = 'SELECT * from names WHERE journal = "Italian Journal of Zoology (Modena)"';
+$sql = 'SELECT * from names WHERE journal = "Bull. ent. Res."';
 
 
 //$sql = 'SELECT * from names WHERE taxonAuthor like "Fain %"';
@@ -772,7 +778,7 @@ $sql = 'SELECT * from names WHERE issn = "0033-2615"';
 //$sql .= " AND (pdf is null)";
 
 //$sql .= " AND (biostor is null)";
-$sql .= " AND (doi is null)";
+ $sql .= " AND (doi is null)";
 
 //$sql .= " AND (url is null)";
 //$sql .= " AND (cinii is null)";
@@ -813,6 +819,27 @@ $sql .= " AND (doi is null)";
 //$sql = 'SELECT * from names where id>=4530079 and publicationParsed="Y"';
 
 //$sql = 'SELECT * from names where updated > "2012-02-14" and publicationParsed="Y"';
+
+$sql="select * from names where issn='0035-418X' and volume in (75,76,78);";
+
+$sql = "select * from names where journal='Studies Neotrop Fauna' and doi is null and spage is not null";
+
+//$sql = "select * from names where journal is not null and doi is null and year=2011";
+
+//$sql="select * from names where issn='0082-6340' and volume in (1,2,3,4);";
+//$sql="select * from names where issn='1252-607X' and year > 2004";
+
+$sql="select * from names where issn='0090-3558' and doi is null";
+
+$sql="select * from names where journal='Entomologisches Nachrichtenblatt' and pdf is null and spage is not null";
+
+$sql="select * from names where issn='0035-418X' and biostor is null and year=2011";
+
+$sql="select * from names where journal='Proceedings of the Entomological Society of Ontario'";
+
+$sql="select * from names where issn='0035-418X' and biostor is null";
+
+
 
 //echo $sql . "\n"; exit();
 

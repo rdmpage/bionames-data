@@ -33,6 +33,7 @@ function get_group($id)
 {
 	$group = null;
 	
+	/*
 	$db = NewADOConnection('mysql');
 	$db->Connect("localhost", 
 	'root' , '' , 'ion');
@@ -42,6 +43,8 @@ function get_group($id)
 
 	$sql = 'SELECT * FROM names INNER JOIN names_ion_groups ON names.`group` = names_ion_groups.name WHERE names.id = ' . $id . ' LIMIT 1';
 
+	echo $sql;
+	
 	$result = $db->Execute($sql);
 	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
 	
@@ -49,6 +52,7 @@ function get_group($id)
 	{
 		$group = json_decode($result->fields['json']);		
 	}
+	*/
 
 	return $group;
 }
@@ -69,6 +73,8 @@ function get_cluster($cluster_id)
 	$cluster = null;
 	
 	$sql = 'SELECT * FROM names WHERE cluster_id= ' . $cluster_id;
+	
+	echo $sql;
 	
 	$result = $db->Execute($sql);
 	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
@@ -106,8 +112,6 @@ function get_cluster($cluster_id)
 							
 						case 'rank':
 							$name->rankString = $result->fields[$k];
-							
-							
 							break;						
 							
 						case 'sici':
@@ -237,6 +241,8 @@ function add_cluster($cluster_id)
 	global $couch;
 	
 	$cluster = get_cluster($cluster_id);
+	
+	print_r($cluster);
 		
 	if (1)
 	{
@@ -261,7 +267,9 @@ function add_cluster_from_id($id)
 	// Ensure fields are (only) indexed by column name
 	$ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
 	
-	$sql = 'SELECT cluster_id FROM names WHERE id= ' . $id . ' LIMIT 1';
+	$sql = 'SELECT cluster_id FROM names WHERE id=' . $id . ' LIMIT 1';
+	
+	echo "$sql\n";
 	
 	$result = $db->Execute($sql);
 	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);

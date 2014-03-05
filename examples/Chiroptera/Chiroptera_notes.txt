@@ -183,7 +183,7 @@ Molossops greenhalli mexicanus
 Molossops (Cynomops) greenhalli 
 
 
-Neomplatymops mattogrossensis = Molossops mattogrossensis
+Neoplatymops mattogrossensis = Molossops mattogrossensis
 Cabreramops aequatorianus = Molossops aequatorianus
 
 Pipistrellus petersi = Falsistrellus petersi 

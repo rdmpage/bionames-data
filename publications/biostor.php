@@ -27,6 +27,15 @@ function biostor_enhance (&$reference, $biostor_id)
 		// title
 		$reference->title = $obj->title;
 		
+		// pagination
+		if (isset($reference->journal) && !isset($reference->journal->pages))
+		{
+			if (isset($obj->pages))
+			{
+				$reference->journal->pages = str_replace('-', '--', $obj->pages);
+			}
+		}
+		
 		// authors
 		if (isset($obj->authors) && !isset($reference->author))
 		{

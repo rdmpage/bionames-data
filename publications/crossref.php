@@ -96,6 +96,15 @@ function get_doi_metadata($doi, &$json)
 			$reference->journal->issue = $citeproc->issue;
 		}
 		$reference->journal->pages = $citeproc->page;
+		
+		if (preg_match('/--/', $reference->journal->pages))
+		{
+		}
+		else
+		{
+			$reference->journal->pages = str_replace('-', '--', $reference->journal->pages);
+		}
+		
 	}
 
 	if ($citeproc->issued->{'date-parts'})
@@ -167,6 +176,167 @@ function get_doi_metadata($doi, &$json)
 	return $reference;
 }
 
+//--------------------------------------------------------------------------------------------------
+function get_doi_metadata_unixref($doi, &$reference)
+{
+	global $config;
+	
+	$url = 'http://www.crossref.org/openurl?pid=r.page@bio.gla.ac.uk&rft_id=info:doi/' . $doi . '&noredirect=true&format=unixref';
+	
+	$xml = get($url);
+	
+	//echo $xml;
+	
+			
+	if (preg_match('/<doi_record/', $xml))
+	{	
+		$have_issn = false;
+	
+	
+		$dom= new DOMDocument;
+		$dom->loadXML($xml);
+		$xpath = new DOMXPath($dom);
+		
+		/*
+		<journal_article publication_type="full_text">
+          <titles>
+            <title>MOLECULAR SYSTEMATICS AND HISTORICAL BIOGEOGRAPHY OF THE ROCK-THRUSHES (MUSCICAPIDAE: MONTICOLA)</title>
+          </titles>
+		*/
+		$xpath_query = '//journal_article[@publication_type="full_text"]/titles/title';
+		$nodeCollection = $xpath->query ($xpath_query);
+		foreach($nodeCollection as $node)
+		{
+			$reference->title = $node->firstChild->nodeValue;
+		}
+
+		// journal
+		$xpath_query = '//journal/journal_metadata/full_title';
+		$nodeCollection = $xpath->query ($xpath_query);
+		foreach($nodeCollection as $node)
+		{
+			if (!isset($reference->journal))
+			{
+				$reference->journal = new stdclass;
+			}
+			$reference->journal->name = $node->firstChild->nodeValue;
+		}
+
+		$xpath_query = '//journal/journal_issue/journal_volume/volume';
+		$nodeCollection = $xpath->query ($xpath_query);
+		foreach($nodeCollection as $node)
+		{
+			$reference->journal->volume = $node->firstChild->nodeValue;
+		}
+		$xpath_query = '//journal/journal_issue/issue';
+		$nodeCollection = $xpath->query ($xpath_query);
+		foreach($nodeCollection as $node)
+		{
+			$reference->journal->issue = $node->firstChild->nodeValue;
+		}
+		$xpath_query = '//journal_article/pages/first_page';
+		$nodeCollection = $xpath->query ($xpath_query);
+		foreach($nodeCollection as $node)
+		{
+			$reference->journal->pages = $node->firstChild->nodeValue;
+		}
+
+
+		$xpath_query = '//journal_article/publication_date[@media_type="print"]/year';
+		$nodeCollection = $xpath->query ($xpath_query);
+		foreach($nodeCollection as $node)
+		{
+			$reference->year = $node->firstChild->nodeValue;
+		}
+
+		
+		// authors
+		if (!isset($reference->author))
+		{
+			$xpath_query = '//journal_article/contributors/person_name[@contributor_role="author"]';
+			$nodeCollection = $xpath->query ($xpath_query);
+			foreach($nodeCollection as $node)
+			{
+				$author = new stdclass;
+				$nc = $xpath->query ('given_name', $node);
+				foreach($nc as $n)
+				{
+					$author->firstname = $n->firstChild->nodeValue;
+				}
+				$nc = $xpath->query ('surname', $node);
+				foreach($nc as $n)
+				{
+					$author->lastname = $n->firstChild->nodeValue;
+				}
+				$author->name = $author->firstname . ' ' . $author->lastname;
+			
+				$reference->author[] = $author;
+			}
+		
+		}
+		
+		
+		// DOI
+		if (!isset($reference->identifier))
+		{
+			$identifier = new stdclass;
+			$identifier->type = 'doi';
+			$identifier->id = $doi;
+			$reference->identifier[] = $identifier;
+		}
+		
+		// ISSN		
+		$xpath_query = '//journal/journal_metadata/issn[@media_type="print"]';
+		$nodeCollection = $xpath->query ($xpath_query);
+		
+		foreach($nodeCollection as $node)
+		{
+			if (isset($reference->journal))
+			{
+				$identifier = new stdclass;
+				$identifier->type = 'issn';
+				$identifier->id = $node->firstChild->nodeValue;
+				
+				if (strlen($identifier->id) == 8)
+				{
+					$identifier->id = substr($identifier->id, 0, 4) . '-' . substr($identifier->id, 4);
+				}				
+				$reference->journal->identifier[] = $identifier;
+				
+				$have_issn = true;
+			}
+		}
+
+		if (!$have_issn)
+		{
+			$xpath_query = '//journal/journal_metadata/issn[@media_type="electronic"]';
+			$nodeCollection = $xpath->query ($xpath_query);
+			
+			foreach($nodeCollection as $node)
+			{
+				if (isset($reference->journal))
+				{
+					$identifier = new stdclass;
+					$identifier->type = 'issn';
+					$identifier->id = $node->firstChild->nodeValue;
+					
+					if (strlen($identifier->id) == 8)
+					{
+						$identifier->id = substr($identifier->id, 0, 4) . '-' . substr($identifier->id, 4);
+					}				
+					$reference->journal->identifier[] = $identifier;
+					
+					$have_issn = true;
+				}
+			}
+		}	
+	
+	
+	
+	}
+}
+
+//--------------------------------------------------------------------------------------------------
 // Use search API
 function crossref_search(&$reference)
 {

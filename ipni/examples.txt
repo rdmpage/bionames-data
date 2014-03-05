@@ -1,0 +1,7 @@
+IPNI examples
+
+Habenaria hawkesiana [637369-1] http://biostor.org/reference/133536
+ |
+ +-----Platanthera hawkesiana [651765-1] http://biodiversitylibrary.org/page/15444370
+ |
+ +-----Pecteilis hawkesiana [60427190-2] http://dx.doi.org/10.1111/j.1756-1051.2002.tb01910.x

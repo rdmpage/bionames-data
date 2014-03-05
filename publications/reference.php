@@ -123,7 +123,9 @@ function reference_to_citeprocjs($reference, $id = 'ITEM-1')
 		$citeproc_obj['type'] = 'article-journal';
 	}
 	
-	$citeproc_obj['issued']['date-parts'][] = array($reference->year);
+	$citeproc_obj['issued'] = new stdclass;
+	$citeproc_obj['issued']->{'date-parts'} = array();
+	$citeproc_obj['issued']->{'date-parts'}[] = array($reference->year);
 	
 	if (isset($reference->author))
 	{
@@ -131,9 +133,9 @@ function reference_to_citeprocjs($reference, $id = 'ITEM-1')
 		foreach ($reference->author as $author)
 		{
 			$a = new stdclass;
-			if (isset($author->forename))
+			if (isset($author->firstname))
 			{
-				$a->given = $author->forename;
+				$a->given = $author->firstname;
 				$a->family = $author->lastname;
 			}
 			else
@@ -213,7 +215,7 @@ function reference_to_openurl($reference)
 	
 	//print_r($reference);
 	
-	if (isset($reference->journal))
+	if (isset($reference->journal) || $reference->type == 'article')
 	{
 		$openurl .= '&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal';
 		$openurl .= '&amp;genre=article';
@@ -264,7 +266,15 @@ function reference_to_openurl($reference)
 	}
 	else
 	{
-		// not a journal...
+		if ($reference->type == 'book')
+		{
+			$openurl .= '&amp;rft.btitle=' . urlencode($reference->title);
+		}
+		else
+		{
+			$openurl .= '&amp;rft.title=' . urlencode($reference->title);		
+		}
+		
 		$openurl .= '&amp;rft.pages=' . $reference->journal->pages;
 		
 	}
@@ -415,6 +425,10 @@ function reference_to_ris($reference)
 			{
 				case 'doi':
 					$ris .=  "DO  - " . $identifier->id . "\n";
+					break;
+
+				case 'handle':
+					$ris .=  "UR  - http://hdl.handle.net/" . $identifier->id . "\n";
 					break;
 					
 				default:

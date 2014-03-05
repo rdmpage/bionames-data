@@ -167,6 +167,7 @@ function get($url, $userAgent = '', $content_type = '')
 	$curl_result = curl_exec ($ch); 
 	
 	//echo $curl_result;
+	//exit();
 	
 	if (curl_errno ($ch) != 0 )
 	{

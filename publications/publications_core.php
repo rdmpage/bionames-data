@@ -19,6 +19,26 @@ $db->Connect("localhost",
 // Ensure fields are (only) indexed by column name
 $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
 
+//--------------------------------------------------------------------------------------------------
+function get_sha1_from_sici($sici)
+{
+	global $db;
+	
+	$sha1 = '';
+	
+	$sql = "select sha1 from sha1 INNER JOIN names USING(pdf) where sici=" . $db->qstr($sici) . ' LIMIT 1';
+	
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+	
+	if ($result->NumRows() == 1)
+	{
+		$sha1 = $result->fields['sha1'];
+	}
+	
+	return $sha1;
+}
+
 
 //--------------------------------------------------------------------------------------------------
 function get_sha1(&$reference, $pdf)
@@ -68,6 +88,10 @@ function get_pdf_thumbnail(&$reference, $pdf)
 	if ($obj->http_code == 200)
 	{		
 		$url = 'http://direct.bionames.org/bionames-archive/documentcloud/pages/' . $obj->sha1 . '/1-small';
+		//$url = 'http://direct.bionames.org/bionames-archive/pdf/a7/81/4a/a7814a96735ca5025ccde73ffb5f25757bba09b3/images/thumbnails/page-0.png';
+		
+		//echo $url;
+		//exit();
 		$image = get($url);
 		
 		if ($image != '')
@@ -294,11 +318,11 @@ function get_reference($sql, &$docs, $augment = true)
 							
 							if ($identifier->type == 'isbn')
 							{
-								get_isbn_thumbnail(&$reference, $identifier->id);
+								get_isbn_thumbnail($reference, $identifier->id);
 							}
 							if ($identifier->type == 'oclc')
 							{
-								get_oclc_thumbnail(&$reference, $identifier->id);
+								get_oclc_thumbnail($reference, $identifier->id);
 							}
 						}
 						break;
@@ -400,7 +424,7 @@ function get_reference($sql, &$docs, $augment = true)
 						$link->anchor = 'PDF';
 						$reference->link[] = $link;
 						
-						get_sha1(&$reference, $link->url);
+						get_sha1($reference, $link->url);
 						break;
 						
 					default:
@@ -456,14 +480,14 @@ function get_reference($sql, &$docs, $augment = true)
 				{
 					echo "ISBN...\n";
 						
-					get_isbn_thumbnail(&$reference, $identifier->id);
+					get_isbn_thumbnail($reference, $identifier->id);
 				}
 			
 				if ($identifier->type == 'oclc')
 				{
 					echo "OCLC...\n";
 						
-					get_oclc_thumbnail(&$reference, $identifier->id);
+					get_oclc_thumbnail($reference, $identifier->id);
 				}
 			
 			
@@ -483,7 +507,7 @@ function get_reference($sql, &$docs, $augment = true)
 						break;
 					}
 	
-					get_doi_thumbnail(&$reference, $identifier->id);
+					get_doi_thumbnail($reference, $identifier->id);
 					
 					// enhance metadata
 					$json = '';
@@ -743,13 +767,52 @@ function get_reference($sql, &$docs, $augment = true)
 		echo "Mendeley...\n";
 		if (1)
 		{
+			$local_uuid = '';
+			
+			if ($result->fields['local_uuid'] != null)
+			{
+				$local_uuid = $result->fields['local_uuid'];
+			}
+			
+			if ($local_uuid == '')
+			{
+				$pdf = '';
+				 if (isset($reference->link))
+				 {
+				 	foreach ($reference->link as $link)
+				 	{
+				 		if ($link->anchor = 'PDF')
+				 		{
+				 			$pdf = $link->url;
+				 		}
+				 	}
+				 }
+				 
+				 //echo $pdf ; exit();
+				 
+				 if ($pdf != '')
+				 {
+				 	$id = mendeley_get_local_from_url($pdf);
+				 	
+				 	
+				 	
+				 	if ($id != 0)
+				 	{
+				 		$local_uuid = mendeley_get_local_uuid_from_id($id);
+				 		
+				 		//echo $local_uuid ; exit();
+				 	}
+				 }
+			}
+			
+		
 			//----------------------------------------------------------------------------------------------
 			// meta from ion MySQL/Mendeley
-			if ($result->fields['local_uuid'] != null)
+			if ($local_uuid != '')
 			{
 				$mendeley = new stdclass;
 				$mendeley->time = date(DATE_ISO8601, time());			
-				$mendeley->local_uuid = $result->fields['local_uuid'];
+				$mendeley->local_uuid = $local_uuid;
 				
 				// could get local Mendeley details, such as authorship, abstract, tags...
 				

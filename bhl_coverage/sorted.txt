@@ -1,0 +1,1420 @@
+issn	title	articles	links	coverage
+1175-5326	Zootaxa	8581	8189	95
+0374-5481	The Annals and magazine of natural history	4463	3502	78
+1000-0739	880-01 Dong wu fen lei xue bao. Acta zootaxonomica Sinica	3403	2450	72
+0006-324X	Proceedings of the Biological Society of Washington	3384	3263	96
+0022-3360	Journal of paleontology	3373	3121	93
+0037-928X	Bulletin de la Société entomologique de France	3012	244	8
+0013-8797	Proceedings of the Entomological Society of Washington	2972	2805	94
+0044-5134	Zoologicheskiĭ zhurnal	2812	16	1
+0044-5231	Zoologischer Anzeiger	2761	594	22
+0022-3395	The Journal of parasitology	2353	2222	94
+0008-347X	The Canadian entomologist	2260	2059	91
+0003-0082	American Museum novitates	1942	1814	93
+0035-418X	Revue suisse de zoologie	1851	1581	85
+0022-2933	Journal of natural history	1848	1823	99
+0367-1445	Entomologicheskoe obozrenie	1803	3	0
+0096-3801	Proceedings of the United States National Museum	1722	1365	79
+0013-872X	Entomological news	1691	1619	96
+0370-2774	Proceedings of the Zoological Society of London	1580	1008	64
+1000-7482	880-01 Kun chong fen lei xue bao = Entomotaxonomia	1518	1127	74
+0037-9271	Annales de la Société entomologique de France	1497	757	51
+0031-031X	880-01 Paleontologicheskiĭ zhurnal	1472	31	2
+0013-8746	Annals of the Entomological Society of America	1441	1383	96
+0035-1814	Revue de zoologie et de botanique africaines	1400	47	3
+0031-0603	The Pan-Pacific entomologist	1389	56	4
+0323-6145	Berliner entomologische Zeitschrift / herausgegeben von dem Entomologischen Vereine in Berlin	1342	710	53
+1148-8425	Bulletin du Muséum National d'Histoire Naturelle réunion mensuelle des naturalistes du Muséum	1303	506	39
+0013-8908	The Entomologist's monthly magazine	1268	6	0
+0044-586X	Acarologia	1226	87	7
+0045-8511	Copeia	1191	1095	92
+0031-0239	Palaeontology	1185	1154	97
+0001-6616	880-03 Gu sheng wu xue bao = Acta palaeontologica Sinica	1127	0	0
+0165-5752	Systematic parasitology	1082	1028	95
+0454-6296	880-01 Kun chong xue bao = Acta entomologica Sinica / Zhongguo kun chong xue hui bian ji	1054	902	86
+0024-0672	Zoologische mededeelingen / uitgegeven vanwege 's Rijksmuseum van Natuurlijke Historie te Leiden	1039	997	96
+0370-047X	Proceedings of the Linnean Society of New South Wales	1038	742	71
+0030-5316	Oriental insects	1035	916	89
+0028-7199	Journal of the New York Entomological Society	1013	860	85
+0521-4726	Annales historico-naturales Musei Nationalis Hungarici = Természettudományi Múzeum évkönyve	1007	886	88
+0070-7279	Reichenbachia / Staatliches Museum für Tierkunde in Dresden	951	2	0
+0022-8567	Journal of the Kansas Entomological Society	945	906	96
+0373-3491	Bollettino della Società entomologica italiana	940	14	1
+0037-2102	Senckenbergiana biologica	939	11	1
+0002-8320	Transactions of the American Entomological Society	923	796	86
+0374-9797	Nouvelle revue d'entomologie	923	1	0
+0774-2819	Lambillionea	918	0	0
+0034-7108	Revista Brasileira de biologia	916	6	1
+0007-1595	Bulletin of the British Ornithologists' Club	911	459	50
+0013-8843	Entomologische Zeitschrift	881	4	0
+0253-116X	Linzer biologische Beiträge / Oberösterreiches Landesmuseum	876	503	57
+0272-4634	Journal of vertebrate paleontology	869	864	99
+1217-8837	Acta zoologica Academiae Scientiarum Hungaricae	868	134	15
+0011-216X	Crustaceana	865	865	100
+0085-5626	Revista brasileira de entomologia	863	260	30
+0365-4389	Annali del Museo civico di storia naturale "Giacomo Doria."	855	503	59
+0097-3157	Proceedings of the Academy of Natural Sciences of Philadelphia	848	500	59
+0010-065X	The Coleopterists' bulletin	831	804	97
+1313-2989	ZooKeys	827	827	100
+0024-4082	Zoological journal of the Linnean Society	823	821	100
+0008-4301	Canadian journal of zoology	817	803	98
+0028-1344	The Nautilus	814	501	62
+0040-7496	Tijdschrift voor entomologie	804	580	72
+0375-0434	Proceedings of the Royal Entomological Society of London. Series B, Taxonomy	796	783	98
+0033-2615	Psyche	796	709	89
+0164-7954	International journal of acarology	787	786	100
+0003-0090	Bulletin of the American Museum of Natural History	776	488	63
+0037-962X	Bulletin de la Société zoologique de France	765	228	30
+0181-0863	Revue française d'entomologie	765	6	1
+1562-0891	Wiener Entomologische Zeitung	752	573	76
+1000-3118	880-01 Gu ji zhui dong wu xue bao	743	4	1
+0003-0023	Transactions of the American Microscopical Society	731	728	100
+0075-6547	Koleopterologische Rundschau / herausgegeben von der Zoologisch-Botanischen Gesellschaft gemeinsam mit der Forstlichen Bundesversuchsanstalt	706	339	48
+0286-9810	880-01 The entomological review of Japan = Konchūgaku hyōron	704	98	14
+0867-1710	Genus	690	2	0
+0042-3580	Venus : Japanese journal of malacology = Kairuigaku zasshi	687	531	77
+0067-1975	Records of the Australian Museum	679	629	93
+0006-6982	The Journal of the Bombay Natural History Society	677	81	12
+0320-9180	Zoosystematica rossica	676	6	1
+0084-5604	Vestnik zoologii / Akademii︠a︡ nauk Ukrainskoĭ SSR, Institut zoologii	672	37	6
+0387-5733	Elytra	666	108	16
+0043-0439	Journal of the Washington Academy of Sciences	664	603	91
+0003-4541	Annales zoologici / Polska Akademia Nauk, Instytut Zoologiczny	661	336	51
+0016-6995	Geobios	659	475	72
+0004-2110	Arkiv för zoologi / utgivet af K. Svenska vetenskaps-akademien	658	59	9
+0035-8894	Transactions of the Royal Entomological Society of London	655	495	76
+0915-5805	Japanese journal of entomology	645	620	96
+0013-8878	The Entomologist	645	14	2
+0031-1820	Parasitology	641	614	96
+0007-4853	Bulletin of entomological research	633	611	97
+0375-099X	Records of the Indian Museum a journal of Indian zoology ed. by the Director, Zoological Survey of India	630	213	34
+1326-6756	Australian journal of entomology	629	629	100
+0018-8158	Hydrobiologia	627	627	100
+0013-8770	880-02 Konchū = Kontyū	625	616	99
+0217-2445	The Raffles bulletin of zoology	622	571	92
+0372-1426	Transactions of the Royal Society of South Australia, Incorporated	622	450	72
+0079-8835	Memoirs of the Queensland Museum	620	373	60
+0003-4150	Annales de parasitologie humaine et comparée	612	355	58
+0018-0130	Proceedings of the Helminthological Society of Washington	604	588	97
+0015-4040	The Florida entomologist	602	601	100
+0077-7749	Neues Jahrbuch für Geologie und Paläontologie. Abhandlungen	602	146	24
+1066-5234		601	572	95
+0031-0220	Paläontologische Zeitschrift	601	58	10
+0567-7920	Acta palaeontologica Polonica	599	578	96
+0032-3780	Polskie pismo entomologiczne. Bulletin entomologique de Pologne	590	28	5
+0027-4100	Bulletin of the Museum of Comparative Zoology at Harvard College	581	444	76
+0042-3211	The Veliger	578	274	47
+0181-0626	Bulletin du Muséum national d'histoire naturelle. Section A, Zoologie, biologie et écologie animales	574	564	98
+0068-547X	Proceedings of the California Academy of Sciences	573	261	46
+0035-6387	Rivista di parassitologia	566	2	0
+0003-5092	Annotationes zoologicae Japonenses / auspiciis Societatis Zoologicae Tokyonensis seriatim editae = Nihon dōbutsugaku ihō	562	545	97
+0036-7575	Mitteilungen der Schweizerischen entomologischen Gesellschaft = Bulletin de la Société entomologique suisse	562	3	1
+0251-074X	Revue de zoologie africaine	560	18	3
+0373-9465	Folia entomologica Hungarica = Rovartani közlemények	555	6	1
+0206-0477	880-01 Trudy Zoologicheskogo instituta = Travaux de l'Institut zoologique de l'Académie des sciences de l'URSS / Akademii︠a︡ nauk Soi︠u︡za Sovetskikh Sot︠s︡ialisticheskikh Respublik	554	2	0
+1445-5226	Invertebrate systematics	550	550	100
+0026-2803	Micropaleontology	548	409	75
+0307-6970	Systematic entomology	537	526	98
+0020-1804	Insecta matsumurana	536	514	96
+0278-0372	Journal of crustacean biology : a quarterly of the Crustacean Society for the publication of research on any aspect of the biology of crustacea	531	531	100
+0165-0424	Aquatic insects	525	525	100
+1051-8932		523	3	1
+0013-8711	Entomologica scandinavica	522	513	98
+0341-8391	Spixiana	515	465	90
+0013-8789	Journal of the Entomological Society of Southern Africa	515	392	76
+0018-0831	Herpetologica	514	472	92
+0323-7087	Zoologische Jahrbücher. Abteilung für Systematik, Geographie und Biologie der Tiere	513	176	34
+0007-4977	Bulletin of marine science	510	397	78
+0250-4413	Entomofauna	500	387	77
+0300-3256	Zoologica scripta	498	493	99
+0936-9902	Ichthyological exploration of freshwaters	498	5	1
+0031-1847	Parazitologii︠a︡	498	0	0
+0030-8714	Pacific insects	496	424	85
+0132-8069	Russian entomological journal = Russkiĭ ėntomologicheskiĭ zhurnal	489	8	2
+0028-2596	Nematologica	487	478	98
+0065-1583	Acta protozoologica	486	0	0
+0101-8175	Revista brasileira de zoologia	485	404	83
+0074-0276	Memórias do Instituto Oswaldo Cruz	479	407	85
+0015-5683	Folia parasitologica	478	310	65
+0253-2484	Entomologica Basiliensia / Naturhistorisches Museum Basel, Entomologische Abteilung	477	3	1
+0031-7683	The Philippine journal of science	474	23	5
+0037-2110	Senckenbergiana lethaea	472	98	21
+0097-4463	Annals of the Carnegie Museum	466	119	26
+0303-2515	Annals of the South African Museum = Annale van die Suid-Afrikaanse Museum	463	421	91
+0493-3168	Tinea	461	95	21
+0025-3154	Journal of the Marine Biological Association of the United Kingdom	456	456	100
+0024-0974	Chō to ga. Tyo to ga	454	451	99
+1341-1160	880-01 Japanese journal of systematic entomology = Nihon Konchū Bunrui Gakkai kaihō	454	1	0
+0019-5227	Indian journal of helminthology / [Helminthological Society of India]	453	0	0
+0950-7655	Novitates zoologicae	450	351	78
+0385-2423	Bulletin of the National Science Museum. Series A, Zoology	447	438	98
+0312-3162	Records of the Western Australian Museum	443	410	93
+0373-8493	Mitteilungen aus dem Zoologischen Museum in Berlin	440	246	56
+0013-9440	EOS	438	0	0
+0429-288X	Fragmenta entomologica	435	381	88
+0001-4036	Comptes rendus hebdomadaires des séances de l'Académie des sciences	431	81	19
+0304-0798	Annals of the Natal Museum	430	419	97
+1280-9551	Zoosystema	428	337	79
+0022-2585	Journal of medical entomology	426	426	100
+0373-5680	Revista de la Sociedad Entomológica Argentina	420	29	7
+1869-0963	Archiv für Molluskenkunde	418	62	15
+0374-1036	Acta Entomologica Musei Nationalis Pragae	417	30	7
+0375-0442	Palaeontographica. Abt. A, Paläozoologie--Stratigraphie	411	1	0
+0081-0282	Smithsonian contributions to zoology	401	382	95
+0002-7014	Ameghiniana	398	1	0
+0084-5647	Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien	395	26	7
+0021-7719	Journal de conchyliologie	394	3	1
+0083-6133	Annalen des Naturhistorischen Museums in Wien	393	320	81
+0049-1128	Bulletin & [i.e. et] annales de la Société royale d'entomologie de Belgique	391	31	8
+0013-8835	Entomologische Blätter für Biologie und Systematik der Käfer	381	1	0
+0038-3872	Bulletin / Southern California Academy of Sciences	380	364	96
+0375-5223	Zeitschrift der Arbeitsgemeinschaft Österreichischer Entomologen	375	357	95
+0749-6737	Insecta mundi	372	307	83
+0044-3255	Zeitschrift für Parasitenkunde	370	356	96
+0161-8202	The Journal of arachnology	369	359	97
+0311-5518	Alcheringa	365	365	100
+0022-149X	Journal of helminthology	364	343	94
+0041-1752	Annals of the Transvaal Museum	361	286	79
+0370-4327	Redia	350	41	12
+0022-1511	Journal of herpetology	349	349	100
+0774-5915	Annales de la Société Entomologique de Belgique	347	89	26
+0012-9402	Eclogae geologicae Helvetiae	344	34	10
+0005-6219	Basteria	343	0	0
+0022-2372	Journal of mammalogy	340	314	92
+0035-9211	Proceedings of the Royal Society of Victoria	340	81	24
+0076-8413	Occasional papers of the Museum of Zoology, University of Michigan	336	250	74
+0368-2935	The Journal of the Linnean Society. Zoology	335	243	73
+0073-4721	Iheringia. Série zoologia	333	282	85
+0013-8827	Entomologische berichten	332	18	5
+0003-9365	Archiv für Protistenkunde	331	203	61
+0065-1729	Acta zoologica Lilloana	330	4	1
+1265-3357	Coléoptères	330	0	0
+0006-7172	Bonner zoologische Beiträge : Herausgeber: Zoologisches Forschungsinstitut und Museum Alexander Koenig, Bonn	329	328	100
+0007-9723	Cahiers de biologie marine	329	5	2
+0003-0031	The American midland naturalist	328	317	97
+0548-1686	Neotropica	326	0	0
+0005-805X	Beiträge zur Entomologie / Deutches Entomologisches Institut	325	1	0
+0375-0825	Revista de entomologia	324	1	0
+0065-1710	Acta zoologica Cracoviensia / Polska Akademia Nauk, Instytut Zoologiczny, Oddział w Krakowie	317	4	1
+0002-9599	The American journal of science	316	180	57
+0301-4223	New Zealand journal of zoology	315	307	97
+0001-5202	Acta arachnologica	310	310	100
+0037-2870	Publications of the Seto Marine Biological Laboratory	310	306	99
+0524-6431	Bulletin of the British Museum (Natural History). Entomology	308	306	99
+0945-3954	Studia dipterologica : Zeitschrift für Taxonomie, Systematik, Ökologie und Faunistik der Zweiflügler (Diptera)	308	3	1
+0340-4943	Mitteilungen der Münchner Entomologischen Gesellschaft	307	233	76
+0341-0145	Stuttgarter Beiträge zur Naturkunde. Serie A, Biologie	303	195	64
+1590-8399	Bollettino del Museo civico di storia naturale di Verona. Botanica, zoologia	303	7	2
+0004-959X	Australian journal of zoology	302	302	100
+0375-0183	Odonatologica	302	2	1
+0073-134X	Proceedings of the Hawaiian Entomological Society	300	246	82
+0008-4077	Canadian journal of earth sciences	298	294	99
+0037-9026	Comptes rendus des séances de la Société de biologie et de ses filiales	297	75	25
+0035-1598	Revue de micropaléontologie	296	87	29
+0030-9923	Pakistan journal of zoology	296	31	10
+0078-8597	Memoir / The Paleontological Society	296	2	1
+0366-1326	Bulletin mensuel de la Société linnéenne de Lyon	295	1	0
+0007-1498	Bulletin of the British Museum (Natural History). Zoology	294	289	98
+0021-8375	Journal für Ornithologie	293	132	45
+0082-6340	Treubia	290	6	2
+0255-0105	Annalen des Naturhistorischen Museums in Wien. Serie B, Für Botanik und Zoologie	288	261	91
+0071-0806	Entomologische mitteilungen	286	259	91
+0254-5853	880-01 Dong wu xue yan jiu = Zoological research / "Dong wu xue yan jiu" bian ji wei yuan hui bian ji	282	280	99
+0030-8870	Pacific science	282	251	89
+0300-5267	SHILAP : revista de lepidopterología	279	1	0
+0024-0966	Journal of the Lepidopterists' Society	276	232	84
+0019-1019	The Ibis	276	84	30
+0289-0003	Zoological science	275	256	93
+0025-1194	Proceedings of the Malacological Society of London	274	98	36
+0932-4739	European journal of protistology	271	154	57
+0001-7302	880-01 Dong wu xue bao = Acta zoologica Sinica / Zhongguo dong wu xue hui bian ji	271	8	3
+0067-4745	Beaufortia	271	4	1
+0013-886X	Entomologisk tidskrift / Entomologiska föreningen i Stockholm	269	4	1
+0195-6671	Cretaceous research	264	260	98
+0031-1049	Papéis avulsos de zoologia	264	128	48
+0136-006X	Arthropoda selecta	264	5	2
+1000-1786	880-01 Dong wu xue ji kan = Sinozoologia / Zhongguo ke xue yuan dong wu yan jiu suo bian ji	263	0	0
+0376-2750	Records of the South Australian Museum / Public Library, Museum, and Art Gallery of South Australia	262	259	99
+0862-660X	Časopis České společnosti entomologické = Acta Societatis Entomologicae Bohemiae	261	1	0
+0424-7086	880-01 Eisei dōbutsu = Japanese journal of sanitary zoology	260	257	99
+1388-5545	Nematology : international journal of fundamental and applied nematological research	260	253	97
+0017-3614	The Great Basin naturalist	255	236	93
+0368-8720	Anales del Instituto de Biología, Universidad Nacional Autónoma de México. Serie Zoología	254	84	33
+1025-4870	Entomologisches Nachrichtenblatt / Hrsg.: Arbeitsgemeinschaft Österreichischer Entomologen	253	6	2
+0758-4113	Bulletin de la Société d'histoire naturelle de Toulouse	252	0	0
+0044-5118	880-03 Dōbutsugaku zasshi	251	110	44
+0361-6525	Sociobiology	251	2	1
+1070-9428		246	243	99
+0013-8886	L'Entomologiste	246	0	0
+0071-1268	Esakia : occasional papers of the Hikosan Biological Laboratory in Entomology	239	189	79
+1961-9049	Bulletin de la Société de pathologie exotique	239	5	2
+0096-0446		239	4	2
+1230-2821	Acta parasitologica / Witold Stefański Institute of Parasitology	238	142	60
+0016-7568	Geological magazine	237	100	42
+0368-0177	Bulletin de l'Institut Royal des Sciences Naturelles de Belgique = Bulletin van het Koninklijk Belgisch Instituut voor Natuurwetenschappen	237	14	6
+0165-0521	Studies on neotropical fauna and environment	236	224	95
+0556-655X	Revista española de micropaleontología	234	1	0
+1134-6094	Boletín de la SEA	232	41	18
+0524-4994	Bulletin / British Arachnological Society	232	10	4
+0341-4116	Courier Forschungsinstitut Senckenberg : CFS / herausgegeben von der Senckenbergischen Naturforschenden Gesellschaft Frankurt a.M	232	0	0
+0021-5090	880-01 Gyoruigaku zasshi	231	231	100
+0034-7744	Revista de biología tropical	231	167	72
+0342-7536	Nota lepidopterologica	231	101	44
+1210-4108	Folia Heyrovskyana	231	5	2
+0035-6883	Rivista italiana di paleontologia e stratigrafia	231	1	0
+0037-3680	880-01 Transactions of the Shikoku Entomological Society = Shikoku Konchū Gakkai kaihō / [henshūsha Ehime Daigaku Nōgakubu Konchūgaku Kenkyūshitsu]	230	0	0
+1383-4517	Contributions to zoology = Bijdragen tot de dierkunde	229	50	22
+0030-0950	The Ohio journal of science	227	227	100
+1342-1670	Species diversity : an international journal for taxonomy, systematics, speciation, biogeography, and life history research of animals / Japanese Society of Systematic Zoology	227	214	94
+1343-8786	Entomological science	225	220	98
+1223-2254	Travaux du Muséum national d'histoire naturelle "Grigore Antipa."	224	197	88
+0024-1652	Zoologische verhandelingen / uitgegeven door het Rijksmuseum van Natuurlijke Historie te Leiden (Ministerie van Cultuur, Recreatie en Maatschappelijk Werk)	224	182	81
+0022-0019	Journal of conchology	224	1	0
+0006-9698	Breviora	223	222	100
+0459-8113	Contributions in science / Los Angeles County Museum	222	207	93
+0237-5419	Opuscula Zoologica Instituti Zoosystematici et Oecologici Universitatis Budapestinensis	221	213	96
+0015-0754	Fieldiana. Zoology	221	161	73
+0001-3765	Anais da Academia Brasileira de Ciências	220	17	8
+0785-8760	Entomologica Fennica	220	8	4
+0013-8916	The Entomologist's record and journal of variation	220	0	0
+0036-4827	Sarsia	219	219	100
+1021-5506	Zoological studies	219	179	82
+0004-8038	The Auk	218	37	17
+0018-9634	Bulletin de l'Institut fondamental d'Afrique noire. Série A, Sciences naturelles	217	0	0
+0366-3450	Bulletin de la Société des Sciences Naturelles du Maroc / Empire Chérifien	217	0	0
+0814-1827	Memoirs of the Museum of Victoria	214	206	96
+1059-1559		213	145	68
+0392-758X	Bollettino / Museo regionale di scienze naturali	213	1	0
+0029-4594	Notulae entomologicae	213	0	0
+1362-1971	Systematic and applied acarology	210	16	8
+0287-0223	880-01 Dōbutsu Bunrui Gakkai shi	209	209	100
+0300-9386	Bulletin du Muséum national d'histoire naturelle. Zoologie	209	205	98
+0399-0974	Cybium	209	54	26
+1018-192X	KOREAN JOURNAL OF SYSTEMATIC ZOOLOGY	209	3	1
+0072-9612	Mitteilungen aus dem Hamburgischen Zoologischen Museum und Institut	209	0	0
+0027-7452	Nachrichtenblatt der Bayerischen Entomologen	208	198	95
+0952-8369	Journal of zoology : proceedings of the Zoological Society of London	208	197	95
+0256-971X	Uttar Pradesh journal of zoology	207	1	0
+0399-1075	Revue franc̜aise d'aquariologie, herpétologie	206	13	6
+1399-560X	Insect systematics & evolution	204	200	98
+0037-9409	Bulletin de la Société géologique de France	204	17	8
+1005-295X	880-01 Entomologia Sinica = Zhongguo kun chong ke xue	203	202	100
+1243-4442	Mémoires du Muséum national d'histoire naturelle	202	16	8
+0022-8850	The University of Kansas science bulletin	201	198	99
+0771-0488	Revue zoologique africaine	201	125	62
+0262-821X	Journal of micropalaeontology : the journal of the British Micropalaeontological Society	200	199	100
+0073-6600	Proceedings of the Indian National Science Academy. Part B, Biological sciences	200	121	61
+0393-4683	Bollettino dei musei di zoologia ed anatomia comparata della R. Università di Torino	197	32	16
+0716-078X	Revista chilena de historia natural / Sociedad de Biología de Chile	196	189	96
+0096-8749	Smithsonian miscellaneous collections	196	11	6
+0433-8731	Sitzungs-berichte der Gesellschaft naturforschender Freunde zu Berlin	195	14	7
+0034-740X	Revista chilena de entomología : publicación de la Faculdad de Filosofía y Educación, Universidad de Chile, y de la Sociedad Chilena de Entomología	194	152	78
+0071-0792	Entomologické problémy : sborník Slovenskej entomologickej spoločnosti pri Slovenskej akadémii vied	194	6	3
+0811-3653	The Beagle : occasional papers of the Northern Territory Museum of Arts and Sciences	193	184	95
+0365-6136	Archiv für Naturgeschichte	192	21	11
+0945-9871	Aqua : journal of ichthyology and aquatic biology	192	1	1
+0013-8894	Entomologist's gazette	192	0	0
+0003-9136	Archiv für Hydrobiologie	191	0	0
+0303-6758	Journal of the Royal Society of New Zealand	189	182	96
+1026-051X	880-01 Far Eastern entomologist = Dalʹnevostochnyĭ ėntomolog	189	164	87
+0022-300X	Journal of nematology	187	187	100
+1341-8998	Ichthyological research	187	187	100
+0028-0836	Nature	187	175	94
+1252-607X	Parasite : journal de la Société française de parasitologie	186	154	83
+0394-6975	Tropical zoology / Centro di studio per la faunistica ed ecologia tropicali del CNR	184	165	90
+0260-1230	The Journal of molluscan studies	183	155	85
+0370-1263	Phytophylactica. Plantbeskermingswetenskappe en mikrobiologie. Plant protection sciences and microbiologie	182	0	0
+1021-1020	Dipterological research	181	1	1
+0375-2909	Steenstrupia	180	5	3
+0096-1191	Journal of foraminiferal research	179	58	32
+1005-9628	ACTA ARACHNOLOGICA SINICA	178	0	0
+0065-1478	Acta parasitologica Polonica	177	0	0
+1082-6467		174	173	99
+0003-4088	Annales de limnologie = International journal of limnology	173	173	100
+1679-6225	Neotropical ichthyology : official journal of the Sociedade Brasileira de Ictiologia	173	173	100
+0362-9236	Bulletin - United States National Museum	173	75	43
+0749-8934	Proceedings of the New England Zoölogical Club	172	9	5
+0031-0204	Transactions and proceedings of the Palaeontological Society of Japan. Nihon Koseibutsu Gakkai hōkoku kiji	172	1	1
+0183-9187	Revue de nématologie	171	169	99
+0753-3969	Annales de paléontologie	169	36	21
+1210-5759	European journal of entomology	166	159	96
+1375-7474	Novapex : trimestriel de la Société Belge de Malacologie = Novapex : quarterly of the Belgian Malacological Society	165	42	25
+0375-0221		165	3	2
+0341-0153	Stuttgarter Beiträge zur Naturkunde. Serie B. Geologie und Paläontologie	165	1	1
+0391-7746	Animalia / Instituto di biologia animale, Università di Catania	165	0	0
+0008-6452	Caribbean journal of science	164	158	96
+0303-6960	Indian journal of nematology : official publication of the Nematological Society of India	163	1	1
+0255-9587	Bulletin of the Zoological Survey of India	162	0	0
+0007-1471	Bulletin of the British Museum (Natural History). Geology	161	141	88
+1684-4866	Evraziatskiĭ ėntomologicheskiĭ zhurnal = Euroasian entomological journal	159	5	3
+0080-5947	Transactions of the San Diego Society of Natural History	155	134	86
+1000-7083	Sichuan dong wu = Sichuan dongwu = Sichuan journal of zoology / Sichuan sheng ye sheng dong wu bao hu xie hui, Sse-chuan sheng dong wu xue hui, Sichuan sheng ji sheng chong bing fang zhi yan jiu suo ; Jiang Dequan zhu bian	155	8	5
+1280-9659	Geodiversitas	154	49	32
+1211-376X	Acta Societatis Zoologicae Bohemicae	154	4	3
+0212-3010	Iberus : revista de la Sociedad Española de Malacología	153	69	45
+0003-0147	The American naturalist	153	4	3
+0367-5041	Graellsia / editada por el Instituto Español de Entomología del Consejo Superior de Investigaciones Científicas	152	92	61
+0132-8077	Acarina : Russkiǐ akarologicheskiǐ zhurnal + Russian journal of acarology	151	5	3
+0068-6417	University of California publications in entomology	150	7	5
+1368-8774	International journal of nematology	150	2	1
+0065-6755	Amazoniana	150	1	1
+0389-1445	Edaphologia / the Japanese Society of Soil Zoology	149	29	19
+1342-8144	Paleontological research	148	138	93
+0003-4983	Annals of tropical medicine and parasitology	148	7	5
+0001-4087	Bulletin de l'Acádemie Polonaise des sciences. Série des sciences biologiques	148	0	0
+1681-5556	African invertebrates : a journal of biodiversity research	147	140	95
+0006-3088	Biológia	147	51	35
+1021-3589	African entomology : journal of the Entomological Society of Southern Africa	146	111	76
+0374-6429	Bulletin. Biologie	146	5	3
+0366-3515	Bulletin de la Société philomathique de Paris	143	14	10
+0391-9749	Nematologia mediterranea	142	129	91
+0081-3745	Spolia zeylanica	142	27	19
+0044-3778	Zeitschrift für wissenschaftliche Zoologie	142	2	1
+0078-9747	Mémoires du Muséum national d'histoire naturelle. Série A, Zoologie	142	1	1
+1371-7057		142	0	0
+0034-9623	Revista ibérica de parasitología	141	116	82
+0023-3374	Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen. Series C: Biological and medical sciences	141	24	17
+0067-2238	The Australian zoologist	140	134	96
+1435-1951	Deutsche entomologische Zeitschrift / herausgegeben von dem Entomologischen Verein in Berlin in Verbindung mit anderen gelehrten Gesellschaften und Privaten	140	102	73
+0044-5967	Acta amazonica	140	20	14
+1306-3022	Munis entomology & zoology	140	4	3
+0080-4703	Papers and proceedings of the Royal Society of Tasmania	139	104	75
+0021-5171	Kiseichūgaku zasshi = Japanese journal of parasitology	139	1	1
+0370-2952	Quarterly journal of microscopical science	137	13	9
+0029-4608	Notulae naturae of the Academy of Natural Sciences of Philadelphia	137	4	3
+0138-6476	Poeyana / Instituto de Zoología, Academia de Ciencias de Cuba	137	0	0
+0075-1243	Israel journal of entomology	135	3	2
+0240-8759	Vie et milieu / Laboratoire Arago, Université P. et M. Curie	135	0	0
+0026-9786	Monitore zoologico italiano	134	4	3
+0232-5535	Entomologische Nachrichten und Berichte	134	0	0
+0210-8984	Boletin de la Asociación Española de Entomologia	133	5	4
+0373-6709	Physis	132	1	1
+0006-3185	The biological bulletin	131	127	97
+0373-8981	Entomologische Abhandlungen	131	5	4
+0031-8884	Phycologia	130	31	24
+0505-205X	Bollettino del Museo civico di storia naturale di Venezia	130	0	0
+0136-0027	Ruthenica : Rossiĭskiĭ malakologicheskiĭ zhurnal = Russian malacological journal	129	1	1
+1320-6133	The Australian entomologist	128	0	0
+0013-8851	Entomologiske meddelelser	127	2	2
+0029-814X	880-01 Hai yang yu hu zhao = Oceanologia et limnologia Sinica / Zhongguo hai yang hu zhao xue hui bian ji	127	0	0
+0392-7296	Giornale italiano di entomologia	127	0	0
+0067-8716	Bulletin of the Bio-geographical Society of Japan = Nihon Seibutsuchiri Gakkai Kaiho	126	0	0
+1001-4276	880-01 Wuyi ke xue = Wuyi science journal	126	0	0
+0083-5986	Memoirs of the National Museum of Victoria, Melbourne	125	123	98
+1164-5571	Fundamental and applied nematology	125	123	98
+0043-0927	The Wasmann journal of biology	125	49	39
+1434-4610	Protist	124	121	98
+0165-9464	Bulletin Zoölogisch Museum, Universiteit van Amsterdam	124	0	0
+0028-8306	New Zealand journal of geology and geophysics	123	116	94
+1525-2647	Comparative parasitology	123	106	86
+1026-3632		123	3	2
+0776-7943	Journal of African zoology = Revue de zoologie africaine	123	2	2
+0012-723X	Durban Museum novitates	123	0	0
+0034-6667	Review of palaeobotany and palynology	122	121	99
+1945-9440	Transactions of the Linnean Society of London. Zoology	121	70	58
+1127-6177	Bollettino del Laboratorio di zoologia generale e agraria della R. scuola superiore d'agricoltura in Portici	121	8	7
+1814-3326	Kavkazskij ėntomologičeskij bjulleten = Caucasian entomological bulletin / izd. osuščestvljaetsja pri podderžke Zoologičeskogo Museja MGU, Moskva	121	0	0
+0022-3646	Journal of phycology	120	117	98
+0035-922X	Journal of the Royal Society of Western Australia	120	3	3
+0005-9439	Bernice P. Bishop Museum bulletin	119	0	0
+1048-8138	Tropical lepidoptera	119	0	0
+0310-9089	Australian journal of zoology. Supplementary series	118	115	97
+0370-3878	Records of the Canterbury Museum	118	2	2
+0028-0119	Bulletin of the National Science Museum	118	0	0
+0369-9846	Proceedings of the Imperial Academy = Teikoku Gakushiin kiji	117	117	100
+0893-1348	Bishop Museum occasional papers	115	4	3
+0239-751X	Bulletin of the Polish Academy of Sciences. Biology	115	0	0
+0025-1461	Mammalia	114	102	89
+1866-7384	Entomo-Satsphingia : entomologische beiträge	114	0	0
+0386-233X	Dōkutsugaku zasshi = Journal of the Speleological Society of Japan	113	12	11
+0011-3891	Current science	113	11	10
+0068-6506	University of California publications in zoology	113	5	4
+0038-4909	The Southwestern naturalist	112	112	100
+0365-4508	Archivos do Museu Nacional do Rio de Janeiro	112	8	7
+0869-6918	Russian journal of nematology	112	1	1
+0764-4450	Comptes rendus de l'Académie des sciences. Série II, Mécanique, physique, chimie, sciences de l'univers, sciences de la terre	111	88	79
+0036-3375	Salamandra	111	38	34
+0082-4755	Kokuritsu-kagaku-hakubutsukan-senpō	111	3	3
+0373-0972	Palaeontographia Italica	111	2	2
+0076-2997	Malacologia	110	108	98
+0080-312X	Boletim do Museu Nacional. Nova série, Zoologia	110	3	3
+0035-1822	Revue d'écologie et de biologie du sol	110	0	0
+0024-1164	Lethaia	109	101	93
+1049-233X	Journal of the Helminthological Society of Washington	109	3	3
+0722-4060	Polar biology	108	95	88
+1251-8050	Comptes rendus de l'Académie des sciences. Earth & planetary sciences. Série II, Sciences de la terre et des planètes =	108	67	62
+0440-6605	Helminthologia	108	23	21
+0080-469X	Proceedings of the Royal Society of Queensland	108	2	2
+0073-9901	Memórias do Instituto de Butantan	108	1	1
+0044-5193	Zoologische Jahrbücher. Abteilung für Systematik, Ökologie und Geographie der Tiere	108	0	0
+0369-6111	Le Naturaliste malgache / Parc Zoologique et Botanique	108	0	0
+0028-8330	New Zealand journal of marine and freshwater research	107	107	100
+0368-2188	Journal of the Faculty of Science, Hokkaido University. Series VI, Zoology	107	101	94
+0027-1403	Bi︠u︡lletenʹ Moskovskogo obshchestva ispytateleĭ prirody. Otdel biologicheskiĭ	107	0	0
+0253-3340	Geobios new reports	107	0	0
+0003-049X	Proceedings of the American Philosophical Society held at Philadelphia for promoting useful knowledge	106	38	36
+1026-2296		106	5	5
+0214-8358	Scientia marina	105	42	40
+0184-0266	Mémoires de biospéologie	105	0	0
+0366-3469	Bulletin de la Société Neuchâteloise des Sciences Naturelles	104	103	99
+0037-850X	Boletín de la Sociedad de Biología de Concepción	103	97	94
+0385-0900	Mizunami-shi Kaseki Hakubutsukan kenkyū hōkoku. Bulletin of the Mizunami Fossil Museum	103	1	1
+0037-8747	Memorie della Società entomologica italiana	103	0	0
+1435-1935	Mitteilungen aus dem Museum für Naturkunde in Berlin. Zoologische Reihe	102	101	99
+1477-2019	Journal of systematic palaeontology	102	101	99
+1002-0926	Contributions from Shanghai Institute of Entomology	102	1	1
+1608-8700	Denisia	102	0	0
+0037-8844	Atti della Società italiana di scienze naturali e del Museo civico di storia naturale in Milano	101	2	2
+0895-0237	Publication. Field Museum of Natural History. Zoological series /	100	27	27
+0367-8288	The Indian journal of entomology	100	0	0
+0375-0205	Opuscula entomologica	100	0	0
+0078-5326	Ophelia	99	99	100
+0066-7870	Arquivos de zoologia	99	62	63
+0373-5893	Proceedings of the Zoological Society	99	7	7
+0569-4450	Contributions of the American Entomological Institute	99	7	7
+1524-4156	Bulletin / New Mexico Museum of Natural History and Science	99	1	1
+1125-0003	The Italian journal of zoology	98	96	98
+0022-8443	Transactions of the Kansas Academy of Science	98	92	94
+0013-8738	Entomological revue	98	0	0
+0191-6122	Palynology	97	19	20
+0939-7140	Zoology in the Middle East	97	1	1
+0379-1785	Annalen. Koninklijk Museum voor Midden-Afrika, Tervuren, België = Annales. Série in-8o, Sciences zoologiques / Musée royal de l'Afrique centrale, Tervuren, Belgique. Reeks in-8o, Zoologische wetenschappen /	97	0	0
+1631-0683	Comptes rendus. Palévol	96	96	100
+0031-0247	Palaeovertebrata	96	1	1
+1042-0940		95	89	94
+0065-8162	Memoirs of the American Entomological Institute	95	4	4
+0378-6870	Geologisch-paläontologische Mitteilungen Innsbruck	95	4	4
+0041-4018	Tulane studies in geology and paleontology	95	1	1
+1015-8235	Miscellaneous papers / Centre for Entomological Studies Ankara	95	1	1
+0392-6672	International journal of speleology	94	94	100
+1439-6092	Organisms, diversity, & evolution	94	84	89
+0173-5373	Amphibia-reptilia : publication of the Societas Europaea Herpetologica	93	89	96
+1519-566X	Neotropical entomology	93	86	92
+1323-5818	Molluscan research	93	20	22
+0035-919X	Transactions of the Royal Society of South Africa	92	78	85
+0394-0063		92	1	1
+0080-2425	Revista peruana de entomología	91	87	96
+1000-3207	880-01 Shui sheng sheng wu xue bao = Acta hydrobiologica Sinica / Zhongguo ke xue yuan shui sheng sheng wu yan jiu suo bian ji	91	3	3
+0020-9309	Internationale Revue der gesamten Hydrobiologie	90	82	91
+0365-7000	Abhandlungen der Senckenbergischen Naturforschenden Gesellschaft	90	27	30
+0181-0642	Bulletin du Muséum national d'histoire naturelle. Section C, Sciences de la terre, paléontologie, géologie, minéralogie	90	0	0
+0013-8959	Entomophaga	89	89	100
+0036-8075	Science	89	69	78
+0385-244X	Bulletin of the National Science Museum. Series C: Geology & paleontology	89	2	2
+0387-9089	880-01 Toyama-shi Kagaku Bunka Sentā kenkyū hōkoku	89	1	1
+1609-2465	Journal of the National Taiwan Museum	89	1	1
+0022-2011	Journal of invertebrate pathology	88	87	99
+0078-8562	Palaeontologia Polonica / Polska Akademia Nauk, Institute of Paleobiology	88	76	86
+0091-3669	Mosquito systematics	88	3	3
+0001-5326	Acta biológica venezuelica	88	2	2
+0066-7781	Arnoldia, Rhodesia / National Museums of Southern Rhodesia	88	0	0
+1855-5810	Illiesia : international journal of stonefly research	87	70	80
+0773-5251	Apex / Société belge de malacologie	87	16	18
+0971-6378	Zoos' print : journal of the Zoo Outreach Organisation	86	2	2
+0025-3146	Journal of the Marine Biological Association of India	86	0	0
+1226-8615	Journal of Asia-Pacific entomology	85	84	99
+0003-4215	Annales de spéléologie	85	0	0
+0263-5933	Transactions of the Royal Society of Edinburgh. Earth sciences	84	28	33
+0067-6160	Occasional papers of the Bernice Pauahi Bishop Museum of Polynesian Ethnology and Natural History	84	7	8
+0366-2403	Bollettino di zoologia agraria e di bachicoltura	83	1	1
+1019-2808	Mitteilungen / Internationaler Entomologischer Verein e.V	83	0	0
+0078-7515	Pacific insects monograph	82	43	52
+0021-2210	Israel journal of zoology	82	12	15
+1214-1119	Bulletin of geosciences	82	11	13
+0077-2070	Mitteilungen der Bayer. Staatssammlung für Paläontologie und Histor. Geologie	82	1	1
+1570-7024	Crustaceana	81	26	32
+1868-0356	Abhandlungen der Senckenberg Gesellschaft für Naturforschung	81	1	1
+0085-2988	Journal of the Malacological Society of Australia	81	0	0
+0023-3366	Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen. Series B, Palaeontology, geology, physics, and chemistry	80	0	0
+0962-8452	Proceedings. The Royal Society. Biological sciences /	79	79	100
+1055-7903		79	79	100
+0270-2452	Occasional papers of the Boston Society of Natural History	79	51	65
+0158-4197	The Emu : official organ of the Australasian Ornithologists' Union	79	32	41
+0015-542X	Földtani közlöny	79	0	0
+0016-7622	Journal of the Geological Society of India	78	3	4
+0254-1858	South African journal of zoology. Suid-Afrikaanse tydskrif vir dierkunde	77	77	100
+0091-7958	Occasional papers of the Museum of Natural History, the University of Kansas	77	73	95
+0044-0604	Proceedings of the Yorkshire Geological Society	77	5	6
+0013-6220	Journal of the Elisha Mitchell Scientific Society	77	2	3
+0003-9705	Archives des sciences / éditées par la Société de physique et d'histoire naturelle de Genève	77	0	0
+1134-1785	Avicennia : revista de ecología, oceanología y biodiversidad tropical	77	0	0
+0037-8518	Memoria - Sociedad de Ciencias Naturales La Salle	76	76	100
+1287-0234	Solenodon : revista cubana de taxonomía zoológica	76	76	100
+0027-8424	Proceedings of the National Academy of Sciences of the United States of America	76	61	80
+0065-1737	Acta zoológica mexicana	76	15	20
+0026-279X	Micronesica	76	4	5
+0067-0464	Records of the Auckland Institute and Museum	76	0	0
+0373-4137	Bollettino di zoologia	75	75	100
+1477-2000	Systematics and biodiversity	75	75	100
+0031-0182	Palaeogeography, palaeoclimatology, palaeoecology	75	74	99
+0033-5037	Quaestiones entomologicae	75	1	1
+0368-2889	Japanese journal of zoology. Nihon dōbutsugaku shūhō	75	1	1
+1388-7890	International journal of odonatology : official organ of the Worldwide Dragonfly Association	74	74	100
+0081-0266	Smithsonian contributions to paleobiology	74	29	39
+0013-8819	Entomologische Arbeiten aus dem Museum G. Frey tutzing bei München	74	0	0
+0079-4295	Postilla / Yale Peabody Museum of Natural History	73	70	96
+0258-462X	880-01 Zhonghua kun chong = Chinese journal of entomology	73	23	32
+0313-122X	Records of the Western Australian Museum. Supplement	73	1	1
+0025-1291	The Malayan nature journal	73	0	0
+0163-5395	Myriapodologica	73	0	0
+0936-2959	Schriften zur Malakozoologie aus dem Haus der Natur--Cismar	73	0	0
+1005-1694	Entomological journal of East China	73	0	0
+1680-1024		73	0	0
+0022-1112	Journal of fish biology	72	72	100
+0918-1067	880-01 Nihon Dani Gakkai shi = Journal of the Acarological Society of Japan	72	47	65
+0368-3915	Journal of the Quekett Microscopical Club	72	2	3
+0177-5103	Diseases of aquatic organisms	71	70	99
+0095-8530	Journal of entomology and zoology	71	27	38
+1300-0179	Türk zooloji dergisi = Turkish journal of zoology	71	6	8
+1001-7488	880-01 Lin ye ke xue = Scientia silvae / Zhongguo lin xue hui bian ji	71	1	1
+0428-0709	Faune de Madagascar	71	0	0
+1005-0507	880-01 Ji Sheng Chong Yu Yi Xue Kun Chong Xue Bao	71	0	0
+1870-3453	Revista mexicana de biodiversidad	70	62	89
+1318-1998	Acta entomologica Slovenica	70	16	23
+0750-747X	Mémoires de la Société zoologique de France	70	5	7
+0870-0001		70	2	3
+0031-0301	Paleontological journal	70	0	0
+0255-7576	Pakistan journal of nematology : an official publication of Pakistan Society of Nematologists	70	0	0
+0038-2353	South African journal of science	69	39	57
+0001-7299	Acta zoologica Fennica	69	3	4
+0069-8989	Transactions of the Connecticut Academy of Arts and Sciences	69	3	4
+0037-8437	Anales de la Sociedad Científica Argentina	69	2	3
+0250-6378	880-01 Bei lei xue bao = Bulletin of malacology, Republic of China	69	0	0
+0568-658X	Trudy Instituta geologii i geofiziki	69	0	0
+1011-2014	Han'guk Kŏmi Yŏn'guso yŏn'gu pogosŏ = Korean arachnology	69	0	0
+0077-9962	The New Zealand entomologist	68	68	100
+0764-4469	Comptes rendus de l'Académie des sciences. Série III, Sciences de la vie	68	60	88
+0030-4158	Opuscula zoologica	68	39	57
+0084-5620	Transactions of the Zoological Society of London	68	21	31
+0077-2232	Boletim do Museu Paraense Emílio Goeldi. Zoologia	68	5	7
+0015-3850	Quarterly journal of the Florida Academy of Sciences	67	67	100
+1407-8619		67	7	10
+0028-0798	Le Naturaliste canadien	67	0	0
+0028-1042	Die Naturwissenschaften	66	60	91
+0735-6250	International journal of entomology	66	3	5
+0016-8238	Journal of the Georgia Entomological Society	66	1	2
+0077-2356	Mushi	66	1	2
+0041-994X	The Journal of agriculture of the University of Puerto Rico	66	0	0
+0375-7587	Scripta geologica	66	0	0
+1984-4670	Zoologia : an international journal for zoology	65	48	74
+0368-3974	Journal of the Royal Microscopical Society	65	33	51
+0010-5422	The condor	65	17	26
+0030-2465	The Onderstepoort journal of veterinary research / Union of South Africa, Department of Agriculture	65	6	9
+0371-4810	Sitzungsberichte / Akademie der Wissenschaften in Wien, Mathematisch-naturwissenschaftliche Klasse. Abt. 1, Biologie, Mineralogie, Erdkunde	65	6	9
+0023-6152	Journal of the Faculty of Agriculture, Kyushu University	65	4	6
+0398-4346	Revue arachnologique	65	2	3
+1374-8297	Bulletin de la Société royale belge d'entomologie = Bulletin van de Koninklijke Belgische Vereniging voor Entomologie	65	2	3
+0036-5343	Sborník Národního musea v Praze. Acta Musei Nationalis Pragae. B, Hist. naturalis. B, Přírodovědný =	65	1	2
+0970-0714	Records of the Zoological Survey of India. Occasional paper. Miscellaneous publication	65	0	0
+1920-3047	Memoirs of the Entomological Society of Canada	64	64	100
+1579-0681	Heteropterus : revista de entomología	64	1	2
+0067-8546	Bijdragen tot de dierkunde	64	0	0
+1226-5071	Korean journal of biological sciences	63	58	92
+1345-0662	Biogeography	63	20	32
+1745-1000	Marine biology research	62	62	100
+0253-5890	Journal of the Egyptian Society of Parasitology	62	50	81
+0366-5232	Caldasia	62	17	27
+0035-9181	Transactions of the Royal Society of New Zealand. Zoology	62	3	5
+0369-8211	Proceedings of the National Academy of Sciences, India. Section B	62	2	3
+0963-6420	Afro-Asian journal of nematology	62	0	0
+0367-0449	Estudios geológicos	61	40	66
+0008-3550	The Canadian field-naturalist	61	1	2
+0753-4973	Alytes	61	1	2
+1448-5532	Calodema	61	1	2
+1010-5220	Opuscula zoologica fluminensia	61	0	0
+0066-4634	Antarctic research series	60	60	100
+0016-531X	Gayana. Zoología	60	55	92
+0040-313X	Journal of the Tennessee Academy of Science	60	0	0
+0027-5514	Mycologia	59	59	100
+0172-9179	Facies	59	56	95
+0416-704X		59	3	5
+0023-1339	Kieler Meeresforschungen	59	0	0
+0301-2123	Acta biológica paranaense	59	0	0
+0111-5383	Fauna of New Zealand	58	57	98
+0287-3478	Kōkakurui no kenkyū = Researches on crustacea / Nihon Kokakurui Gakkai	58	57	98
+0068-5461	Occasional papers of the California Academy of Sciences	58	54	93
+0370-3908	Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales : publicación del Ministerio de Educación Nacional	58	52	90
+1860-1324	Deutsche entomologische Zeitschrift	58	41	71
+0042-5184	The Victorian naturalist	58	31	53
+0041-3259	Tropical fish hobbyist	58	0	0
+0077-8923	Annals of the New York Academy of Sciences	57	25	44
+0760-0216	Entomologica gallica	57	0	0
+0020-7519	International journal for parasitology	56	56	100
+1947-5136	Entomologica americana	56	3	5
+0325-2264	Revista del Museo de La Plata. Sección oficial	56	1	2
+0930-1526	Beiträge zur Araneologie	56	0	0
+0303-688X	Parasitologia Hungarica	55	55	100
+1323-1650	Marine & freshwater research	55	55	100
+1864-5755	Vertebrate zoology	55	35	64
+0240-8783	Revue d'hydrobiologie tropicale	55	3	5
+0303-9846	Revista do Museu Paulista	55	2	4
+0369-8467	Papéis avulsos do Departamento de Zoologia / Secretaria da Agricultura, Indústria e Comércio	55	0	0
+0375-0299	Palaeontographica. Abt. B, Paläophytologie	55	0	0
+0952-7451	A Stereo-atlas of ostracod shells	55	0	0
+0047-2417	Journal of entomology. Series B: Taxonomy	54	54	100
+0777-6276	Belgian journal of zoology	54	24	44
+0096-2651	Fieldiana: geology	54	3	6
+0070-7260	Malakologische Abhandlungen	54	0	0
+0418-1867	Dusenia : publicatio periodica de scientia naturali	54	0	0
+0015-296X	Journal of the Fisheries Research Board of Canada	53	53	100
+0891-2963	Historical biology	53	53	100
+2156-4574	African journal of herpetology : journal of the Herpetological Association of Africa	53	53	100
+0365-6934	Actes de la Société linnéenne de Bordeaux	53	4	8
+0024-4066	Biological journal of the Linnean Society	52	52	100
+0075-5036	University of Kansas publications, Museum of Natural History	52	22	42
+1335-0552	Geologica Carpathica	52	4	8
+0555-7631	Research bulletin of the Panjab University	52	0	0
+0142-7873	Journal of plankton research	51	51	100
+0354-4664	Archives of biological sciences Srpsko Biološko Društvo	51	37	73
+0123-3068		51	36	71
+1833-2331	CSIRO Marine and Atmospheric Research paper	51	12	24
+0012-0065	Mitteilungen der Deutschen Entomologischen Gesellschaft e.V	51	5	10
+0377-8398	Marine micropaleontology	50	50	100
+1881-9052	Bulletin of the National Museum of Nature and Science. Series A, Zoology	50	48	96
+1871-174X	Palaeoworld	50	31	62
+0016-7630	880-01 Chishitsugaku zasshi	50	2	4
+0326-9310	Anales del Museo Nacional de Historia Natural de Buenos Aires	50	2	4
+0173-1076	Insekten, Spinnennetze und Netzspinnen / von Wolfgang Nentwig	50	0	0
+2194-900X		50	0	0
+1781-1104	Journal of afrotropical zoology	49	1	2
+1836-5698		48	48	100
+0149-175X	Occasional papers / The Museum, Texas Tech University	48	19	40
+0003-9667	Archives de zoologie expérimentale et générale	48	6	13
+1435-6406	Archiv für Hydrobiologie. Supplement volume	48	0	0
+0254-4059	Chinese journal of oceanology and limnology = Zhongguo hai yang hu zhao xue bao / edited by the Chinese Society of Oceanology and Limnology	47	47	100
+1514-5158	Revista del Museo Argentino de Ciencias Naturales	47	21	45
+1067-8611		47	7	15
+0003-3162	Angewandte Parasitologie	47	2	4
+0044-3468	Zeitschrift für Säugetierkunde / im Auftrage der Deutschen Gesellschaft für Säugetierkunde e.V	47	1	2
+0255-0091	Annalen des Naturhistorischen Museums in Wien. Serie A, Für Mineralogie und Petrographie, Geologie und Paläontologie, Anthropologie und Prähistorie	47	0	0
+0003-6862	Applied entomology and zoology	46	46	100
+0022-3921	The Journal of protozoology	46	46	100
+0147-1724	The Southwestern entomologist	46	46	100
+1932-6203	PloS one	46	46	100
+0373-4129	Proceedings of the Royal Zoological Society of New South Wales	46	26	57
+0007-5167	The Bulletin of zoological nomenclature	46	23	50
+0374-9142	Memoirs of the Indian Museum	46	16	35
+0150-9330	Annales des sciences naturelles. Zoologie et paléontologie	46	4	9
+0097-0298	Bulletin of the Biological Society of Washington	46	1	2
+0311-1881	Australian entomological magazine	46	0	0
+0047-2484	Journal of human evolution	45	44	98
+0080-889X	Senckenbergiana maritima	45	18	40
+0366-3272	Boletín de la Real Sociedad Española de Historia Natural. órgano del Instituto de Ciencias Naturales José de Acosta. Sección biológica	45	4	9
+0022-0493	Journal of economic entomology	45	0	0
+0177-0950	Münchner geowissenschaftliche Abhandlungen. Reihe A, Geologie und Paläontologie	45	0	0
+1121-1423	Rivista piemontese di storia naturale	45	0	0
+0090-9246	Tulane studies in zoology	44	44	100
+0954-1020	Antarctic science / Blackwell Scientific Publications	44	44	100
+1438-387X	Helgoland marine research	44	44	100
+0072-1050	Geological journal	44	35	80
+0029-5035	Nova Hedwigia	44	9	20
+1121-7545	Monografie	44	0	0
+0733-1347	Herpetological monograph	43	43	100
+0305-8719	Collision tectonics / edited by M.P. Coward & Alison C. Ries	43	42	98
+1383-5769	Parasitology international	43	42	98
+1000-3215	Liang qi pa xing dong wu xue bao = Acta herpetologica sinica / Zhongguo ke xue yuan Chengdu sheng wu yan jiu suo bian ji	43	11	26
+0304-3711	Brenesia	43	1	2
+1077-8306		42	42	100
+1001-6538	Chinese science bulletin = Kexue tongbao	42	32	76
+0070-6698	Discovery reports	42	20	48
+0003-4339	Annales des sciences naturelles. Zoologie et biologie animale	42	8	19
+0508-4865	The Western Australian naturalist	42	0	0
+0520-1969	Biološki vestnik	42	0	0
+0025-3162	Marine biology	41	41	100
+0968-0470	Bulletin of the Natural History Museum. Zoology series	41	41	100
+1895-3131	Acta zoologica Cracoviensia. Ser. B, Invertebrata	41	41	100
+1022-0828	Journal of South Asian natural history / Wildlife Heritage Trust of Sri Lanka	41	38	93
+0366-2047		41	2	5
+0107-055X	Nordic journal of botany	40	39	98
+0974-7893	Journal of Threatened Taxa	40	29	73
+0562-4452	Stuttgarter Beiträge zur Naturkunde	40	27	68
+0003-455X	Annales zoologici Fennici	40	24	60
+0716-2545	Boletín del Museo Nacional de Chile / República de Chile, Ministerio de Instrucción Pública	40	11	28
+0080-4568	Transactions of the Royal Society of Edinburgh	40	3	8
+1342-9574	National Science Museum monographs	40	1	3
+1340-2692	Natural history research. Special issue	40	0	0
+0140-7775	Journal of fish diseases	39	39	100
+0372-9389	Zeitschrift für Morphologie und Ökologie der Tiere	39	38	97
+1322-0829	Phycological research	38	36	95
+1680-7650	Taiwan kunchong Taiwan-Kunchong-Xuehui, Zhonghua-Minguo	38	19	50
+0023-5377	Swenska wetenskaps academiens handlingar	38	7	18
+1330-0520	Natura croatica : periodicum Musei Historiae Naturalis Croatici = časopis Hrvatskoga prirodoslovnog muzeja	38	1	3
+1851-8249		38	1	3
+0392-0062	Bollettino del Museo civico di storia naturale di Verona	38	0	0
+0571-5628	Bulletin ... of the Association for Mexican Cave Studies	37	37	100
+0748-3007	Cladistics : the international journal of the Willi Hennig Society	37	32	86
+0252-192X	Stapfia Publ. d. Botanischen Arbeitsgemeinschaft am Oberösterreichischen Landesmuseum Linz	37	17	46
+0440-2510	Tongmul Hakhoe chi	37	0	0
+0005-8130	Beiträge zur neotropischen Fauna	36	25	69
+0075-2088	Special publication	36	8	22
+0095-9758	Journal of agricultural research	36	1	3
+0015-9301	Fragmenta faunistica	36	0	0
+0750-7321	Biologia Gallo-Hellenica	36	0	0
+0015-5713	Folia primatologica	35	35	100
+1631-0691	Comptes rendus. Biologies	35	35	100
+1676-0603	Biota neotropica	35	22	63
+0736-0460	Indo-Pacific fishes	35	1	3
+1867-1616	Marine biodiversity : a journal of the Senckenberg Research Institute / Senckenberg Forschungsinstitut und Naturmuseum	34	34	100
+1508-1109	Acta chiropterologica / Museum and Institute of Zoology, Polish Academy of Sciences	34	32	94
+0368-1254	Jahrbücher des Nassauischen Vereins für Naturkunde	34	31	91
+1562-7020	African zoology	34	27	79
+1887-7419	Alavesia	34	16	47
+0740-2783	American malacological bulletin	34	10	29
+0973-9955	Biosystematica : an international journal on animal taxonomy, diversity, ecology & zoogeography / Prof. T.C. Narendran Trust for Animal Taxonomy	34	2	6
+1225-0171	Spring meeting : Abstracts	34	1	3
+0044-2291	Zeitschrift für angewandte Zoologie	34	0	0
+0570-1619		34	0	0
+0029-7224	Cahiers O.R.S.T.O.M. Série entomologie médicale et parasitologie	33	33	100
+0387-964X	Kitakyūshū Shiritsu Shizenshi Hakubutsukan kenkyū hōkoku = Bulletin of the Kitakyushu Museum of Natural History	33	33	100
+0090-0656	Fishery bulletin / U.S. Dept. of Commerce, National Oceanic and Atmospheric Administration, National Marine Fisheries Service	33	24	73
+0077-6122	Verhandlungen der Naturforschenden Gesellschaft in Basel	33	6	18
+0037-9255	Bulletin de la Société des sciences naturelles et physiques du Maroc	33	5	15
+0384-8159	Life sciences contributions / Royal Ontario Museum	33	5	15
+0044-5088	Zoologica	33	3	9
+0035-9173	Journal and proceedings of the Royal Society of New South Wales	33	1	3
+0388-6182	Science reports of the Institute of Geoscience, University of Tsukuba. Section B, Geological sciences	33	1	3
+0006-3118	Biologia gabonica	33	0	0
+0734-9874	Entomography	33	0	0
+0970-9037	Journal of ecobiology	33	0	0
+0378-1909	Environmental biology of fishes	32	32	100
+1392-1657	Acta zoologica Lituanica / Institute of Ecology	32	16	50
+0145-9058	Bulletin of Carnegie Museum of Natural History	32	14	44
+1660-9972	Contributions to natural history	32	6	19
+0373-6660	Acta Soc. pro Fauna et Flora Fennica	32	4	13
+0043-5163	Wiadomości parazytologiczne	32	1	3
+0370-8608	Senckenbergiana	32	0	0
+0377-8142	Revue roumaine de biologie. Série de biologie animale	32	0	0
+0075-6458	Koedoe	31	31	100
+0818-6839	Journal of the Entomological Society of Queensland	31	31	100
+0952-7583	British journal of entomology and natural history	31	21	68
+0013-8762	Bulletin of entomology	31	0	0
+0304-2146	Nippon Nettai Igakkai zasshi	30	30	100
+0452-9987	Contributions from the Biological Laboratory, Kyoto University	30	30	100
+1435-1943	Mitteilungen aus dem Museum für Naturkunde in Berlin. Geowissenschaftliche Reihe	30	30	100
+1178-9905	Zoosymposia	30	24	80
+0971-7196	Journal of parasitic diseases : official organ of the Indian Society for Parasitology	30	3	10
+1768-1448	Subterranean biology / International Society of Subterranean Biology	30	2	7
+1013-4425	Herpetozoa : Berichte der Österreichischen Gesellschaft für Herpetologie	29	29	100
+0044-3808	Zeitschrift für zoologische Systematik und Evolutionsforschung	29	27	93
+0967-0262	European journal of phycology	29	27	93
+0567-655X	Comptes rendus hebdomadaires des séances de l'Académie des sciences. D, Sciences naturelles	29	24	83
+0340-4781	Osnabrücker naturwissenschaftliche Mitteilungen	29	23	79
+0268-0130	The Herpetological journal	29	18	62
+0253-505X	Acta oceanologica Sinica = Hai yang xue bao / Chinese Society of Oceanography	29	2	7
+0036-9276	Scottish journal of geology	29	1	3
+0032-6275	Prace Muzeum Ziemi	29	0	0
+0223-5137	Neuroptera international	29	0	0
+1000-8527	880-01 Xian dai di zhi = Geoscience	29	0	0
+1513-9700	The natural history journal of Chulalongkorn University	28	28	100
+1923-4287		28	28	100
+0301-8059	Anais	28	7	25
+0332-575X	Norwegian journal of entomology	28	6	21
+0749-8004	Journal of entomological science	28	1	4
+1519-6984	Brazilian journal of biology = Revista brasileira de biologia	27	27	100
+1808-9798	South American journal of herpetology	27	27	100
+1094-0782		27	24	89
+0065-8170	Memoirs of the American Entomological Society	27	23	85
+1738_2297		27	19	70
+0205-3640	Historia naturalis bulgarica	27	15	56
+0373-9627	Zitteliana	27	4	15
+0021-4280	Proceedings of the Japan Academy	27	3	11
+0096-5294	American journal of hygiene	27	3	11
+0365-6527	Annales de la Société belge de médecine tropicale	27	3	11
+1864-6417	Soil organisms	27	2	7
+0044-5150	Zoologische Beiträge	27	0	0
+0590-6342	Cimbebasia. Ser. A	27	0	0
+1051-3825	Asiatic herpetological research	26	26	100
+1464-343X	Journal of African earth sciences	26	26	100
+0077-2135	Veröffentlichungen der Zoologischen Staatssammlung München	26	25	96
+1676-6180	Lundiana : international journal of biodiversity	26	22	85
+0717-652X	Gayana	26	21	81
+1812-9250	Zoologija bespozvonočnych	26	16	62
+1684-4130	Smithiana. Bulletin	26	15	58
+1302-0250	Journal of the Entomological Research Society	26	10	38
+2118-9773	European journal of taxonomy EJT Muséum National d'Histoire Naturelle	26	8	31
+0310-0049	Australian mammalogy	26	6	23
+0016-7746	Geologie en mijnbouw : tijdschrift van het Nederlandsch Geologisch-Mijnbouwkundig Genootschap	26	5	19
+0812-7387	Records of the Australian Museum. Supplement	26	5	19
+0371-9952	Tijdschrift der Nederlandsche Dierkundige Vereeniging	26	4	15
+0080-9462	Natural history bulletin	26	1	4
+0270-2444	Proceedings of the Boston Society of Natural History	26	1	4
+0376-1819	Mémoires - Office de la recherche scientifique et technique outre-mer, France	26	1	4
+1000-2421	Hua zhong nong ye da xue xue bao = Journal Huazhong (Central China) Agricultural University	26	1	4
+0858-1088	Research bulletin / Phuket Marine Biological Center	25	25	100
+0962-8436	Philosophical transactions of the Royal Society of London. Series B, Biological sciences	25	25	100
+1367-9120	Journal of Asian earth sciences	25	25	100
+1976-8354	Animal cells and systems	25	25	100
+0369-8084	Österreichische zoologische Zeitschrift	25	23	92
+0158-0760	General and applied entomology; the journal of the Entomological Society of Australia (N.S.W.)	25	5	20
+1863-7221	Arthropod systematics & phylogeny	25	5	20
+1189-9905	Amphipacifica : journal of systematic biology	25	2	8
+0030-6525	The Ostrich	25	1	4
+1941-7659	Tropical lepidoptera research	25	1	4
+0380-9633	Megadrilogica	25	0	0
+0385-5643	880-01 Nettai igaku = Tropical medicine	24	24	100
+1064-7554	Journal of mammalian evolution	24	24	100
+1345-5834	Current herpetology	24	24	100
+1616-5047	Mammalian biology = Zeitschrift für Säugetierkunde	24	24	100
+0238-1249	Acta phytopathologica et entomologica Hungarica	24	20	83
+0076-8405	Miscellaneous publications / University of Michigan, Museum of Zoology	24	14	58
+0082-9811	Technical bulletin / United States Department of Agriculture	24	1	4
+0007-4187	Bulletin biologique de la France et de la Belgique	24	0	0
+0049-1136	Annales de la Société royale zoologique de Belgique	24	0	0
+0085-5278	Records of the Queen Victoria Museum	24	0	0
+0539-2438	Investigaciones zoológicas chilenas	24	0	0
+0716-0178	Anales del Museo de Historia Natural de Valparaiso	24	0	0
+0971-5916	The Indian journal of medical research	24	0	0
+0017-9957	Helgoländer wissenschaftliche Meeresuntersuchungen. Marine investigations. Recherches maritimes	23	23	100
+0947-5745	Journal of zoological systematics and evolutionary research = Zeitschrift für zoologische Systematik und Evolutionsforschung	23	23	100
+0968-0454	Bulletin of the Natural History Museum. Entomology series	23	22	96
+0002-9483	American journal of physical anthropology	23	19	83
+0073-8115	Insects of Micronesia / Bernice P. Bishop Museum	23	3	13
+0072-9027	Gulf research reports	23	0	0
+0078-9682	Annales de l'Institut océanographique	23	0	0
+0082-3074	Bulletin of the Texas Memorial Museum	23	0	0
+0120-0488	Revista colombiana de entomología / publicación oficial de la Sociedad Colombiana de Entomología	23	0	0
+0479-8007	Xue bao = Acta Agriculturae Universitatis Pekinensis / Beijing nong ye da xue	23	0	0
+0388-2357	880-02 Nihon Senchū Kenkyūkai shi = Japanese journal of nematology	22	22	100
+0887-3593	Journal of the North American Benthological Society	22	22	100
+0932-0113	Parasitology research	22	22	100
+1519-1397	Phyllomedusa : journal of neotropical herpetology	22	22	100
+1536-2442	Journal of insect science JIS	22	22	100
+1017-1827	Pakistan entomologist	22	18	82
+0138-0338	Polish polar research / Polish Academy of Sciences = Polskie badania polarne / Polska Akademia Nauk	22	6	27
+1133-8466	Research and reviews in parasitology : revista ibérica de parasitología : official organ of Asociación de Parasitólogos Españoles	22	3	14
+1875-2535	International Journal of Myriapodology	22	3	14
+1094-8074	Palaeontologia electronica	22	0	0
+1130-4251	Zoologica baetica	22	0	0
+0376-0375	Contributions in science [of] Natural History Museum, Los Angeles County / Natural History Museum. Los Angeles County	21	20	95
+0895-9811	Journal of South American earth sciences	21	20	95
+1466-5026	International journal of systematic and evolutionary microbiology	21	20	95
+0065-9746	Transactions of the American Philosophical Society	21	9	43
+0006-8055	Botanica marina	21	7	33
+0006-3304	Biologisches Zentralblatt	21	1	5
+0384-823X	Transactions of the Canadian Institute	21	1	5
+0096-2694		21	0	0
+0252-1962	Revista de investigaciones marinas	21	0	0
+1013-7041	Entomologische Berichte Luzern : Mitteilungen der Entomologischen Gesellschaft Luzern	21	0	0
+1565-1916	Triton : journal of the Israel Malacological Society	21	0	0
+1026-5023		20	15	75
+2190-7307	Bonn zoological bulletin / publ. by Zoologisches Forschungsinstitut und Museum Alexander Koenig	20	6	30
+0365-9402	Boletín chileno de parasitología	20	3	15
+1000-1050	Shou lei xue bao = Acta theriologica Sinica	20	3	15
+1059-8707		20	3	15
+0893-3146	Bishop Museum bulletin in entomology	20	2	10
+0019-2252	Transactions of the Illinois State Academy of Science	20	0	0
+0036-8156	Science & culture	20	0	0
+0110-943X	National Museum of New Zealand records	20	0	0
+0374-8995	Memorie del Museo Civico di Storia Naturale di Verona	20	0	0
+1257-5496	Biologie et évolution des insectes : principalement hemipteroidea / Ecole pratique des hautes études, [Laboratoire] Biologie et évolution des insectes	20	0	0
+1664-2376	Swiss journal of palaeontology	19	14	74
+0067-1967	Memoir / Australian Museum, Sydney	19	13	68
+0073-4918	Bulletin / Illinois Natural History Survey	19	11	58
+0031-4056	Pedobiologia	19	5	26
+0916-0752	South Pacific study = Minami Taiheiyō kenkyū	19	4	21
+0213-6686	Monografías de herpetología	19	1	5
+0085-3887	Nemouria : occasional papers of the Delaware Museum of Natural History	19	0	0
+0570-1880	Annals of the Cape provincial museums. Natural history	19	0	0
+0028-2960	Netherlands journal of zoology	18	18	100
+0068-1024	Brigham Young University science bulletin. Biological series	18	18	100
+0104-6497	Nauplius : revista da Sociedade Brasileira de Carcinologia	18	18	100
+0304-4017	Veterinary parasitology	18	18	100
+1090-6924	Journal of cave and karst studies : the National Speleological Society bulletin	18	18	100
+0362-2525	Journal of morphology	18	15	83
+0084-0505	Transactions of the Wisconsin Academy of Sciences, Arts, and Letters	18	2	11
+0363-1095	Proceedings of the Washington Academy of Sciences	18	2	11
+0073-2230		18	1	6
+1672-4291	880-01 Shan Xi Ke Ji Da Xue Xue Bao (Zi Ran Ke Xue Ban )	18	1	6
+0376-446X	Bulletin du Muséum national d'histoire naturelle. Sciences de la terre	18	0	0
+0164-0291	International journal of primatology	17	17	100
+0885-4645	Memoirs of the Carnegie Museum	17	17	100
+1744-9561	Biology letters	17	16	94
+0035-9203	Transactions of the Royal Society of Tropical Medicine and Hygiene	17	11	65
+1025-6164	Myrmecologische Nachrichten / Österreichische Gesellschaft für Ameisenkunde	17	2	12
+0068-5143	Cahiers du Pacifique : publication de la Foundation Singer-Polignac	17	1	6
+0438-0479	880-01 Xiamen da xue xue bao. Journal of Xiamen University. Natural science. Zi ran ke xue ban =	17	1	6
+0029-6864	Norwegian journal of zoology	17	0	0
+0073-6767	Proceedings of the Indiana Academy of Science	17	0	0
+1803-1544	Studies and reports of District Museum Prague-East. [Studie a zprávy Oblastního muzea Praha-Východ. Taxonomická řada]. Taxonomical series =	17	0	0
+0301-9268	Precambrian research	16	16	100
+1461-0183	Systematic and applied acarology. Special publications	16	16	100
+0001-7280	Acta zoologica et pathologica Antverpiensia	16	15	94
+0173-9565	Marine ecology	16	15	94
+0967-0645	Deep-sea research. Part II, Topical studies in oceanography	16	15	94
+1023-3121	African plant protection	16	15	94
+0037-5942	Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin	16	11	69
+1348-2653	Kitakyūshū Shiritsu Shizenshi Reikishi Hakubutsukan kenkyū hōkoku. Bulletin of the Kitakyushu Museum of Natural History and Human History. Series A., Natural history. A-rui, Shizenshi =	16	8	50
+0167-6563	Crustaceana. Supplement	16	3	19
+1173-4337	Tuhinga : records of the Museum of New Zealand Te Papa Tongarewa	16	3	19
+1000-0615	880-01 Shui chan xue bao	16	1	6
+1971-1557	Memoirs on biodiversity	16	1	6
+0250-3263	880-03 Tung wu hsüeh tsa chih. Dongwuxue zazhi	16	0	0
+0269-3445	Monograph of the Palaeontographical Society	16	0	0
+0365-0898	Atas	16	0	0
+0559-9822	Sieboldia	16	0	0
+0020-1812	Insectes sociaux / Union internationale pour l'étude des insectes sociaux = Social insects / International Union for the Study of Social Insects	15	15	100
+0022-1899	The journal of infectious diseases : official publication of the Infectious Diseases Society of America	15	15	100
+0367-2697	Fragmenta mineralogica et palaeontologica	15	15	100
+1434-2944	International review of hydrobiology	15	14	93
+1672-9609	Insect science	15	14	93
+1002-0071	Progress in natural science : communication of state key laboratories of China	15	12	80
+0863-0844	Rudolstädter naturhistorische Schriften	15	11	73
+0139-7893	Folia zoologica	15	10	67
+1084-0745		15	2	13
+0373-7586	Abhandlungen und Berichte des Naturkundemuseums Görlitz	15	0	0
+1019-8415	Pakistan journal of marine sciences	15	0	0
+0011-7471	Deep-sea research and oceanographic abstracts	14	14	100
+0032-8332	Primates	14	14	100
+1038-4871		14	14	100
+1063-5157		14	14	100
+1342-937X	Gondwana research : international geoscience journal	14	14	100
+0018-344X	Journal of the Faculty of Agriculture, Hokkaido University	14	13	93
+1682-3559	Russian journal of theriology = Russkiĭ teriologicheskiĭ zhurnal	14	13	93
+0075-5028	Miscellaneous publication / University of Kansas, Museum of Natural History	14	11	79
+8756-971X	Journal of the American Mosquito Control Association	14	4	29
+0790-1763	Irish journal of earth sciences	14	3	21
+0078-2564	Novos taxa entomológicos	14	1	7
+0326-1778	Historia natural	14	1	7
+0971-2208	Journal of parasitology and applied animal biology	14	0	0
+0021-4914	880-01 Nihon Ōyō Dōbutsu Konchū Gakkai shi / Nihon Ōyō Dōbutsu Konchū Gakkai	13	13	100
+0023-4001	Kisaengch'unghak chapchi = The Korean journal of parasitology	13	13	100
+0039-7989	Systematic zoology	13	13	100
+0044-5096	Zoologica africana	13	13	100
+0334-2123	Phytoparasitica : Israel journal of plant protection sciences	13	13	100
+1661-8726	Swiss journal of geosciences	13	13	100
+0732-4952	Bulletin of the Essex Institute	13	4	31
+0923-9308	Deinsea : jaarbericht van het Natuurmuseum Rotterdam = Annual of the Natural History Museum Rotterdam	13	3	23
+0934-8956		13	2	15
+0069-8970	Memoirs of the Connecticut Academy of Arts & Sciences	13	1	8
+0137-1592	Acta ichthyologica et piscatoria	13	1	8
+0203-4646	Ėkologii︠a︡ mori︠a︡ / Akademii︠a︡ nauk Ukrainskoĭ SSR, Institut biologii i︠u︡zhnykh moreĭ im. A.O. Kovalevskogo	13	1	8
+0388-788X	880-01 Gyobyō kenkyū	13	1	8
+1506-7629	Folia malacologica Association of Polish Malacologists	13	1	8
+1945-9432	Transactions of the Linnean Society	13	1	8
+1174-9202	Records of the Auckland Museum / [Auckland War Memorial Museum]	13	0	0
+0009-3262	Chesapeake science	12	12	100
+0085-0683	Memoirs of the Hourglass cruises	12	12	100
+0160-239X	Great Basin naturalist memoirs	12	12	100
+0326-551X	Cuadernos de herpetología	12	12	100
+1134-7783	Sessió Conjunta d'Entomologia / Institució Catalana d'Història Natural, Societat Catalana de Lepidopterologia	12	12	100
+1325-2992	Australian biodiversity record	12	12	100
+1420-2298	Mémoires de la Société des sciences naturelles de Neuchâtel	12	11	92
+1736-4728	Estonian journal of earth sciences	12	9	75
+2033-494X	Bulletin de l'Institut royal des sciences naturelles de Belgique. Entomologie & biologie	12	4	33
+0069-2379	Ceylon journal of science. Biological sciences	12	1	8
+0076-7174	Anales del Instituto de Biología / Universidad Nacional Autónoma	12	1	8
+0107-5896	Ophelia. Supplementum	12	0	0
+0373-5176	Bollettino dell'Istituto di entomologia della R. Università degli studi di Bologna	12	0	0
+0529-6579	880-01 Zhongshan da xue xue bao. Acta scientiarum naturalium Universitatis Sunyatseni. Zi ran ke xue ban =	12	0	0
+1027-8869	Monographs on Coleoptera	12	0	0
+0001-6152	Acta medicinae Okayama	11	11	100
+0269-283X	Medical and veterinary entomology	11	11	100
+0453-0853	Memoirs of the Faculty of Agriculture, Kagoshima University	11	11	100
+0899-7659	Journal of aquatic animal health	11	11	100
+0919-6765	880-02 Nihon Senchū Gakkai shi = Japanese journal of nematology	11	11	100
+1026-8774		11	11	100
+2039-0394	Biodiversity journal	11	11	100
+0113-7492	New Zealand natural sciences	11	10	91
+0706-652X	Canadian journal of fisheries and aquatic sciences	11	10	91
+1006-9313	Science in China. Chinese Academy of Sciences. Series D, Earth sciences /	11	10	91
+0073-4748	Illinois biological monographs	11	9	82
+1570-7555	Animal biology	11	9	82
+1527-0904	Western North American naturalist / Brigham Young University	11	6	55
+0583-7731	Boletín de la Sociedad Venezolana de Espeleología	11	2	18
+0002-1911	Agronomia lusitana	11	0	0
+0076-3519	Mammalian species	10	10	100
+0082-3449		10	10	100
+0275-2565	American journal of primatology	10	10	100
+0743-9547	Journal of Southeast Asian earth sciences	10	10	100
+0002-9122	American journal of botany	10	9	90
+0022-474X	Journal of stored products research	10	9	90
+1690-7930	Herpetotropicos	10	8	80
+0103-6076	Goeldiana zoologia	10	4	40
+0106-2808	Entomonograph	10	3	30
+0169-0237		10	3	30
+1867-1594	Palaeobiodiversity and palaeoenvironments	10	3	30
+0724-6331	Palaeo Ichthyologica	10	2	20
+0021-2164	Israel journal of earth sciences	10	1	10
+0078-0421	Newsletters on stratigraphy	10	1	10
+0284-7280	Bihang till Kongl. Svenska vetenskaps-akademiens handlingar	10	1	10
+1346-4272	880-01 Chishitsu chōsa kenkyū hōkoku = Bulletin of the Geological Survey of Japan	10	1	10
+1881-9109	National Museum of Nature and Science monographs	10	1	10
+0302-7562	Indian journal of zoology	10	0	0
+0379-0207	Denkschriften der Kaiserlichen Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Classe	10	0	0
+0023-0081	Transactions of the Kentucky Academy of Science	9	9	100
+0094-6214	Public health reports	9	9	100
+0924-7963	Journal of marine systems : journal of the European Association of Marine Sciences and Techniques	9	9	100
+1439-8621	Limnology / The Japanese Society of Limnology	9	9	100
+0352-5740	Bulletin. Académie serbe des sciences et des arts. Sciences naturelles / Classe des sciences mathématiques et naturelles	9	8	89
+0014-3820	Evolution : international journal of organic evolution	9	6	67
+1071-8443	Chelonian conservation and biology : journal of the IUCN/SSC Tortoise and Freshwater Turtle Specialist Group and international bulletin of chelonian research	9	6	67
+2156-0382	The transactions of the South African Philosophical Society	9	5	56
+1019-5858	Acta zoologica Taiwanica	9	4	44
+0093-4666	Mycotaxon	9	2	22
+0034-7736	Revista de biologia	9	1	11
+0287-6779	Galaxea : publication of the Sesoko Marine Science Center, the University of the Ryukyus	9	1	11
+0077-961X	Bulletin / New Zealand Department of Scientific and Industrial Research	9	0	0
+0096-7777	Occasional papers of the Allan Hancock Foundation	9	0	0
+0110-618X	NZOI records / New Zealand Oceanographic Institute	9	0	0
+0723-9912	Nachrichten des Entomologischen Vereins Apollo	9	0	0
+1342-4092	Bulletin of Gunma Museum of Natural History	9	0	0
+0008-039X	Cahiers O.R.S.T.O.M. Serie océanographie	8	8	100
+0012-8317	Journal of the East Africa Natural History Society and National Museum	8	8	100
+0014-4754	Experientia	8	8	100
+0083-6060	Zoology publications from Victoria University of Wellington	8	8	100
+0800-0395	Polar research	8	8	100
+1040-6182		8	8	100
+1755-6910	Earth and environmental science transactions of the Royal Society of Edinburgh	8	8	100
+1881-9079	Bulletin of the National Museum of Nature and Science. Series C. Geology & paleontology	8	8	100
+2095-0357	Asian herpetological research	8	8	100
+2234-6953	Animal systematics, evolution and diversity	8	8	100
+0008-4026	Canadian journal of botany Journal canadien de botanique	8	7	88
+1726-2038	Collection and research	8	7	88
+0152-674X	Faune tropicale	8	4	50
+0082-5107	Life sciences occasional papers / ROM, Royal Ontario Museum	8	3	38
+0076-0935	Science bulletin	8	2	25
+0094-8373	Paleobiology	8	2	25
+0177-9214	Acta biologica Benrodis	8	2	25
+0076-3721	Memoirs and proceedings - Manchester Literary and Philosophical Society	8	1	13
+0080-2247	Revista de ciências veterinárias. Série A	8	1	13
+0165-1609	Nova Guinea : contributions to the anthropology, botany, geology and zoology of the Papuan region. Zoology	8	1	13
+0079-032X	Bulletin / Peabody Museum of Natural History	8	0	0
+0172-7761	Herpetofauna : Zeitschrift für Amphibien- und Reptilienkunde	8	0	0
+0210-5985	Doñana : acta vertebrata	8	0	0
+0373-465X	Verhandelingen der Koninklijke Nederlandsche Akademie van Wetenschappen te Amsterdam, Afdeeling Natuurkunde. Tweede sectie	8	0	0
+0379-0703	Journal of Oman studies. Special report	8	0	0
+0029-344X	Northwest science : official publication of the Northwest Scientific Association	7	7	100
+0285-3191	880-01 Hachū ryōseiruigaku zasshi. Japanese journal of herpetology	7	7	100
+0305-1978	Biochemical systematics and ecology	7	7	100
+0370-0097	Proceedings of the Indian Academy of Sciences. Section B	7	7	100
+0372-0888	Transactions and proceedings of the Royal Society of South Australia (Incorporated)	7	7	100
+0824-0469	Marine mammal science	7	7	100
+1129-5767	Journal of limnology	7	7	100
+1348-8945	Tropical medicine and health	7	7	100
+1471-2148	BMC evolutionary biology	7	7	100
+1756-3305	Parasites & vectors	7	7	100
+0885-4629	Memoirs presented to the California Academy of Sciences	7	6	86
+0911-9450	880-01 Nōgyō Kankyō Gijutsu Kenkyūjo hōkoku	7	6	86
+2038-324X	Journal of entomological and acarological research	7	6	86
+0034-8910	Revista de saúde pública	7	5	71
+0318-1278	Occasional papers of the Royal Ontario Museum of Zoology	7	4	57
+0918-7960	880-01 Anthropological science : journal of the Anthropological Society of Nippon = Jinruigaku zasshi	7	4	57
+1555-7332	Rocky Mountain geology	7	4	57
+0857-7099		7	1	14
+1002-0705	Journal of China University of Geosciences	7	1	14
+1343-3954	880-01 Kyōto Furitsu Daigaku gakujutsu hōkoku. The scientific reports of Kyoto Prefectural University. Human environment and agriculture. Ningen kankyōgaku, nōgaku =	7	1	14
+0013-8940	Entomology memoir	7	0	0
+0104-6950	Comunicações do Museu de Ciências e Tecnologia da PUCRS. Série Zoologia	7	0	0
+0368-4113	Journal of science of the Hiroshima University. Series B, Division 1, Zoology	7	0	0
+0884-8203	Indiana University studies	7	0	0
+1760-2610	Le Coléoptériste : bulletin de liaison de l'Association des coléoptéristes de la région parisienne	7	0	0
+0018-3466	Memoirs of the Faculty of Fisheries, Hokkaido University	6	6	100
+0022-2844	Journal of molecular evolution	6	6	100
+0096-7750	Monograph / Academy of Natural Sciences of Philadelphia	6	6	100
+0121-733X	Boletin del Museo de Entomología de la Universidad del Valle	6	6	100
+0378-2697	Plant systematics and evolution = Entwicklungsgeschichte und Systematik der Pflanzen	6	6	100
+0473-9868	Journal of the Ohio Herpetological Society	6	6	100
+0960-9822	Current biology : CB	6	6	100
+1343-4152	Mammal study	6	6	100
+0083-7571		6	5	83
+0196-0768	Smithsonian contributions to the marine sciences	6	4	67
+0546-0670	880-01 Honyū dōbutsugaku zasshi = The Journal of the Mammalogical Society of Japan	6	4	67
+1126-0882	Atti del Museo Civico di Storia Naturale della Maremma	6	4	67
+1138-4913	Reptilia : the European herp magazine	6	4	67
+0080-8318	Bulletin of the Scripps Institution of Oceanography, La Jolla, California	6	3	50
+0024-7774	Lynx	6	2	33
+1672-3600	JOURNAL- SHANGQIU TEACHERS COLLEGE	6	2	33
+0081-8720	Studies in tropical oceanography	6	1	17
+0083-7903	New Zealand Oceanographic Institute memoir	6	1	17
+0740-8196	Oriental insects monographs	6	1	17
+0065-1028	Acta arctica	6	0	0
+0081-3753	Spolia zoologica Musei hauniensis	6	0	0
+0454-7810	Memoirs of the Faculty of Science, Kyoto University: Series of geology and mineralogy	6	0	0
+0578-1604	Palaeontologia Sinica. Series C	6	0	0
+0006-3606	Biotropica	5	5	100
+0013-8703	Entomologia experimentalis et applicata	5	5	100
+0014-4894	Experimental parasitology	5	5	100
+0065-9452	Anthropological papers of the American Museum of Natural History	5	5	100
+0080-5920	Memoirs of the San Diego Society of Natural History	5	5	100
+0883-1351	Palaios	5	5	100
+0898-6207	Primate conservation : the newsletter and journal of the IUCN/SSC Primate Specialist Group	5	5	100
+0960-3115	Biodiversity and conservation	5	5	100
+1130-6203	Mediterranea : series de estudios biológicos	5	5	100
+1380-8427	Netherlands journal of aquatic ecology : journal of the Netherlands Society of Aquatic Ecology	5	5	100
+1528-7092	Southeastern naturalist	5	5	100
+1560-8530	International journal of agriculture and biology (ijab)	5	5	100
+1679-9283	Acta scientiarum. Biological sciences	5	5	100
+0178-2762	Biology and fertility of soils	5	4	80
+0103-9121	Boletim do Museu de Biologia Mello Leitão	5	2	40
+0021-9533	Journal of cell science	5	1	20
+0068-7995	Publications in biological oceanography / National Museum of Natural Sciences = Publications en océanographie biologique / Musée national des sciences naturelles	5	1	20
+0327-9383	Mastozoología neotropical	5	1	20
+0993-4332	EPHE biologie et evolution des insectes	5	1	20
+0020-2495	Archives de l'Institut Pasteur de Madagascar	5	0	0
+0026-2838	Microscopy : the journal of the Quekett Microscopical Club	5	0	0
+0079-8045	Bulletin of the Department of Zoology of the Punjab University	5	0	0
+0324-0770	Acta zoologica Bulgarica	5	0	0
+0430-8697	Folia scientifica Africae centralis	5	0	0
+0733-2076	Journal of aquariculture & aquatic sciences	5	0	0
+0747-8194	Technical bulletin	5	0	0
+0920-2250	Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen. Series B, Palaeontology, geology, physics, chemistry, anthropology	5	0	0
+1000-7423	880-01 Zhongguo ji sheng chong xue yu ji sheng chong bing za zhi = Chinese journal of parasitology & parasitic diseases	5	0	0
+0012-9658	Ecology	4	4	100
+0044-8486	Aquaculture	4	4	100
+0122-9761	Boletín de investigaciones marinas y costeras / INVEMAR	4	4	100
+0257-7615	South African journal of marine science / Republic of South Africa, Department of Environment Affairs, Sea Fisheries Research Institute = Suid-Afrikaanse tydskrif vir seewetenskap / Republiek van Suid-Afrika, Departement van Omgewingsake, Navorsingsinstituut vir Seevisserye	4	4	100
+0393-9375	Human evolution	4	4	100
+0892-1016	The Journal of raptor research	4	4	100
+0931-2021	Zentralblatt für Veterinärmedizin = Journal of veterinary medicine. Reihe B, Infectious diseases, immunology, food hygiene, veterinary public health	4	4	100
+0967-0637	Deep-sea research. Part I, Oceanographic research papers	4	4	100
+1103-5897	GFF	4	4	100
+1736-602X	Estonian journal of ecology	4	4	100
+1742-7584	International journal of tropical insect science	4	4	100
+1812-5670	Journal of entomology	4	4	100
+1880-8247	Plankton & benthos research	4	4	100
+0343-3528	Primate report	4	3	75
+0737-4038	Molecular biology and evolution	4	3	75
+1684-0925	880-01 Bioformosa = Sheng wu xue bao	4	3	75
+0511-7542	Occasional papers of the Western Foundation of Vertebrate Zoology	4	2	50
+0940-3256	Ornithologischer Anzeiger / herausgegeben von der Ornithologischen Gesellschaft in Bayern e.V	4	2	50
+1037-3047	Monograph series / Australian Institute of Marine Science	4	2	50
+1826-0373	Economia & diritto agroalimentare	4	2	50
+0376-4230		4	1	25
+0818-9641	Immunology and cell biology	4	1	25
+1120-0952	Bollettino del Laboratorio di Entomologia del R. Istituto Superiore Agrario di Bologna	4	1	25
+0022-2402	Journal of marine research	4	0	0
+0044-5177	Zoologische Jahrbücher. Abteilung für Anatomie und Ontogenie der Tiere	4	0	0
+0072-1018	Geologica et palaeontologica	4	0	0
+0254-5578	Aracnología	4	0	0
+0914-5575		4	0	0
+0016-6707	Genetica	3	3	100
+0018-067X	Heredity	3	3	100
+0022-1910	Journal of insect physiology	3	3	100
+0027-4070	Bulletin du Muséum national d'histoire naturelle	3	3	100
+0078-320X	Investigational report / South African Association for Marine Biological Research, Oceanographic Research Institute	3	3	100
+0097-3904	Publication. Field Columbian Museum. Zoological series /	3	3	100
+0168-8162	Experimental & applied acarology	3	3	100
+0177-7424	Spixiana. Supplement	3	3	100
+0210-5004	Mediterránea serie de estudios biológicos	3	3	100
+0340-6725	Zoomorphologie	3	3	100
+0370-2588	Proces-verbaux de la Société linnéenne de Bordeaux	3	3	100
+0580-3896	Myotis	3	3	100
+0714-0983	Publications in natural sciences = Publications de sciences naturelles / National Museums of Canada, National Museum of Natural Sciences	3	3	100
+0722-4028	Coral reefs : journal of the International Society for Reef Studies	3	3	100
+0873-4704	Arquipélago. boletim da Universidade dos Açores = Arquipélago. Life and marine sciences : bulletin of the University of the Azores. Ciências biológicas e marinhas	3	3	100
+1012-2494	Revista de ecología latinoamericana	3	3	100
+1132-0869	Memorias de la Real Sociedad Española de Historia Natural	3	3	100
+1413-4703		3	3	100
+1464-7931	Biological reviews of the Cambridge Philosophical Society	3	3	100
+1540-7063	Integrative and comparative biology	3	3	100
+1566-0621	Conservation genetics	3	3	100
+1568-9883	Harmful algae	3	3	100
+1617-416X	Mycological progress	3	3	100
+1817-3381	Journal of fisheries international	3	3	100
+1883-4493		3	3	100
+1895-3123	Acta zoologica Cracoviensia. Ser. A, Vertebrata	3	3	100
+0041-3860	Tuatara : journal of the Biological Society, Victoria University College, Wellington, N.Z	3	2	67
+0078-1304	North American fauna	3	2	67
+0095-1137	Journal of clinical microbiology	3	2	67
+0102-0935	Arquivo brasileiro de medicina veterinária e zootecnia	3	2	67
+0126-7906		3	2	67
+0474-0394	Okinawa-Seibutsu-Gakkai-shi	3	2	67
+1023-2796	880-01 Journal of Marine Science and Technology	3	2	67
+1520-541X	Evolution & development	3	2	67
+0341-4043		3	1	33
+0368-4717	Jahreshefte des Vereins für vaterländische Naturkunde in Württemberg	3	1	33
+1043-8203		3	1	33
+1164-5563	European journal of soil biology	3	1	33
+1882-6946	880-01 Kyōto Furitsu Daigaku gakujutsu hōkoku. The scientific reports of Kyoto Prefectural University. Seimei kankyōgaku = Life and environmental sciences	3	1	33
+0024-5461	Lloydia	3	0	0
+0030-5715		3	0	0
+0065-5503	Verhandelingen der Koninklijke Nederlandse Akademie van Wetenschappen, Afd. Natuurkunde. Eerste reeks	3	0	0
+0065-6364	Allan Hancock monographs in marine biology	3	0	0
+0366-2357	Boletín - Sociedad Venezolana de Ciencias Naturales	3	0	0
+0506-8916	Vie et milieu. Série A: Biologie marine	3	0	0
+0767-2071	Annales de la Société d'histoire naturelle du Boulonnais. Série B	3	0	0
+0005-2086	Avian diseases	2	2	100
+0016-7835	Geologische Rundschau	2	2	100
+0022-0981	Journal of experimental marine biology and ecology	2	2	100
+0022-1007	The Journal of experimental medicine	2	2	100
+0028-2944	Netherlands journal of plant pathology	2	2	100
+0038-0717	Soil biology & biochemistry	2	2	100
+0046-5070	Freshwater biology	2	2	100
+0077-7579	Netherlands journal of sea research	2	2	100
+0096-2961	Bulletin of the United States National Museum / Department of the Interior, U.S. National Museum	2	2	100
+0097-4374	Proceedings of the Arkansas Academy of Science	2	2	100
+0099-4936	Carnegie Institution of Washington publication	2	2	100
+0150-9349	Annales des sciences naturelles. Zoologie	2	2	100
+0185-3880	Ciencias marinas	2	2	100
+0258-2619	The Hong Kong naturalist	2	2	100
+0277-3791	Quaternary science reviews	2	2	100
+0305-0270	Journal of biogeography	2	2	100
+0323-5408	Archiv für Phytopathologie und Pflanzenschutz	2	2	100
+0430-3776	Fieldiana. Chicago Natural History Museum. Zoology memoirs /	2	2	100
+0892-8908	NOAA technical report NMFS	2	2	100
+0953-7562	Mycological research	2	2	100
+0960-3166	Reviews in fish biology and fisheries	2	2	100
+1010-061X	Journal of evolutionary biology	2	2	100
+1018-4171	Arachnologische Mitteilungen	2	2	100
+1030-1887		2	2	100
+1092-6194		2	2	100
+1110-8703		2	2	100
+1467-8039	Arthropod structure & development	2	2	100
+1519-7530		2	2	100
+1559-4491	The Wilson journal of ornithology	2	2	100
+1738-5261	Ocean science journal : OSJ	2	2	100
+1755-098X	Molecular ecology resources	2	2	100
+1818-5487	Aquatic invasions the European journal of applied research on biological invasions in aquatic ecosystems	2	2	100
+1859-1434	Vietnamese journal of primatology = Cḥuyen đề linh trương học Việt Nam	2	2	100
+1874-2629	The open geology journal	2	2	100
+1880-4330	880-01 Tōkyō Gakugei Daigaku kiyō. Shizen kagakukei	2	2	100
+1945-9467	Transactions of the Linnean Society of London	2	2	100
+2158-5520		2	2	100
+0009-5915	Chromosoma	2	1	50
+0065-535X	Anzeiger - Österreichische Akademie der Wissenschaften, Mathematisch-naturwissenschaftliche Klasse	2	1	50
+0069-6579	Commentationes biologicae / Societas Scientiarum Fennica	2	1	50
+0093-6812	Bulletin of the University of Nebraska State Museum	2	1	50
+0096-4069	Transactions of the Maryland Academy of Sciences	2	1	50
+0176-5027	Berichte zur Polarforschung = Reports on polar research	2	1	50
+0278-3355	Bulletin	2	1	50
+0311-9548	Memoirs of the National Museum, Melbourne	2	1	50
+0367-4673	Göteborgs Kungl. Vetenskaps- och vitterhets-samhälles handlingar. Serien B, Matematiska och naturvetenskapliga skrifter	2	1	50
+0374-6038	Bulletin & annales de la Société royale belge d'entomologie	2	1	50
+0389-6609	Publications of the Seto Marine Biological Laboratory. Special publication series	2	1	50
+1023-4748	Anzeiger der Kaiserlichen Akademie der Wissenschaften in Wien. Mathematisch-naturwissenschaftliche Classe	2	1	50
+1408-3671	Acta biologica Slovenica : ABS	2	1	50
+0018-084X	Herpetological review	2	0	0
+0098-4825		2	0	0
+0103-2526	Arquivos do Instituto de Biologia Vegetal	2	0	0
+0177-1671		2	0	0
+0728-4683	Australian journal of herpetology	2	0	0
+1210-6100	Klapalekiana	2	0	0
+1316-2284	Boletín de entomología venezolana	2	0	0
+0002-8487	Transactions of the American Fisheries Society	1	1	100
+0002-9637	The American journal of tropical medicine and hygiene	1	1	100
+0003-4746	Annals of applied biology	1	1	100
+0005-7959	Behaviour	1	1	100
+0006-3568	BioScience	1	1	100
+0010-406X	Comparative biochemistry and physiology	1	1	100
+0014-4827	Experimental cell research	1	1	100
+0016-7878	Proceedings of the Geologists' Association	1	1	100
+0017-7424		1	1	100
+0021-8782	Journal of anatomy	1	1	100
+0022-0949	The journal of experimental biology	1	1	100
+0022-409X	Journal of range management	1	1	100
+0022-5320	Journal of ultrastructure research	1	1	100
+0024-4074	Botanical journal of the Linnean Society	1	1	100
+0029-7240	Cahiers O.R.S.T.O.M. Série hydrobiologie	1	1	100
+0029-8519		1	1	100
+0037-9603	Bulletin de la Société vaudoise des sciences naturelles	1	1	100
+0042-9686	Bulletin of the World Health Organization. Bulletin de l'Organisation mondiale de la santé	1	1	100
+0044-2240		1	1	100
+0068-2306		1	1	100
+0069-570X	Journal of the College of Dairy Agriculture = Rakunō Gakuen Daigaku kiyō	1	1	100
+0071-6154	Bulletin of the Florida State Museum. Biological sciences	1	1	100
+0079-6611	Progress in oceanography	1	1	100
+0082-6782	Tulane studies in zoology and botany	1	1	100
+0094-680X	NOAA technical report NMFS CIRC	1	1	100
+0097-3300		1	1	100
+0105-3574	Entomologica Scandinavica. Supplementum	1	1	100
+0201-758X	Visnyk Lʹvivsʹkoho universytetu. Serii︠a︡ biolohichna	1	1	100
+0262-690X	Report of the British Association for the Advancement of Science	1	1	100
+0272-463		1	1	100
+0305-1838	Mammal review	1	1	100
+0332-6683	Forhandlinger i Videnskabs-selskabet i Christiania	1	1	100
+0366-5348	Contributions to Canadian biology and fisheries	1	1	100
+0366-6611	880-02 Chikyū kagaku	1	1	100
+0368-8283		1	1	100
+0370-0461	Proceedings of the Linnean Society of London	1	1	100
+0370-1662	Proceedings of the Royal Society of London	1	1	100
+0370-291X		1	1	100
+0370-4556	Revue scientifique	1	1	100
+0371-6023	Travaux et documents de l'O.R.S.T.O.M	1	1	100
+0373-3874	Videnskabelige meddelelser fra Dansk naturhistorisk forening	1	1	100
+0386-0744	Memoirs of National Institute of Polar Research. Special issue	1	1	100
+0386-5541	Memoirs of National Institute of Polar Research. Series E, Biology and medical science	1	1	100
+0557-417X	Transactions of the Royal Society of New Zealand. Biological sciences	1	1	100
+0580-5791	Meguro Kiseichukan kenkyu hokoku	1	1	100
+0583-8401	Compte rendu des séances de la Société de physique et d'histoire naturelle de Genève	1	1	100
+0717-3326	Revista de biología marina y oceanografía	1	1	100
+0718-560X		1	1	100
+0718-8730	Revista ibero-latinoamericana de parasitologia	1	1	100
+0730-8000	Journal of shellfish research	1	1	100
+0772-3997		1	1	100
+0790-8113	The transactions of the Royal Irish Academy	1	1	100
+0890-6564		1	1	100
+0893-312X	Bishop Museum bulletin in zoology	1	1	100
+0898-1051	Zoölogical bulletin	1	1	100
+0908-8857	Journal of avian biology	1	1	100
+0913-6800	Sugadaira Kōgen Jikken Sentā kenkyū hōkoku	1	1	100
+0918-9440	Journal of plant research	1	1	100
+0932-4771	Taxonomy & ecology	1	1	100
+0933-9337		1	1	100
+0958-3157	Biocontrol science and technology	1	1	100
+0962-1083	Molecular ecology	1	1	100
+0967-3849		1	1	100
+1001-6600	880-01 Guangxi shi fan da xue xue bao. Journal of Guangxi Normal University. Natural science edition. Zi ran ke xue ban =	1	1	100
+1018-3337	Marine ornithology	1	1	100
+1049-9644		1	1	100
+1062-3590		1	1	100
+1064-1262		1	1	100
+1080-6040		1	1	100
+1098-7096		1	1	100
+1286-4994	Collection faune et flore tropicales	1	1	100
+1340-9050	Interdisciplinary information sciences	1	1	100
+1407-8953	Acta Biologica Universitatis Daugavpiliensis	1	1	100
+1437-3254	International journal of earth sciences : Geologische Rundschau	1	1	100
+1567-1348	Infection, genetics, and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases	1	1	100
+1573-5869		1	1	100
+1608-4195	Contributions from the Zoological Institute, St. Petersburg	1	1	100
+1608-5914	African journal of aquatic science	1	1	100
+1612-4758	Journal of pest science	1	1	100
+1613-2327	Frankfurter Beiträge zur Naturkunde = Frankfurt contributions to natural history	1	1	100
+1674-5507	880-01 Current zoology Dong wu xue bao	1	1	100
+1741-7007	BMC biology	1	1	100
+1742-9994	Frontiers in zoology	1	1	100
+1755-2672		1	1	100
+1756-0500	BMC research notes	1	1	100
+1791-6763	Mediterranean marine science Hellenic Centre for Marine Research	1	1	100
+1802-6842	Journal of the National Museum (Prague). Natural history series	1	1	100
+1874-4214	The open parasitology journal	1	1	100
+1874-7787	Marine genomics	1	1	100
+1874-9828	Terrestrial arthropod reviews	1	1	100
+1933-0545		1	1	100
+1935-3952	Palaeontologia electronica	1	1	100
+1959-1982		1	1	100
+1981-8114	Boletim do Museu Paraense Emílio Goeldi. Ciências naturais	1	1	100
+2072-7151	Austrian journal of earth sciences an international journal of the Austrian Geological Society	1	1	100
+2075-5457		1	1	100
+2090-5238		1	1	100
+2161-7570	Open journal of geology	1	1	100
+2161-9549		1	1	100
+2180-4249	Tropical Life Sciences Research	1	1	100
+2193-7192	Journal of ornithology / DO-G	1	1	100
+2233-7687	Korean journal of systematic zoology	1	1	100
+2304-7534		1	1	100
+0014-6668		1	0	0
+0015-5454	A folha medica	1	0	0
+0016-755X	Geologica Bavarica	1	0	0
+0041-8285	Revista de la Facultad de Agronomía	1	0	0
+0067-6179		1	0	0
+0068-7650	Paper - Geological Survey of Canada	1	0	0
+0147-9369	Georgia journal of science : official publication of the Georgia Academy of Science	1	0	0
+0196-5581	Biological oceanography	1	0	0
+0243-0258		1	0	0
+0303-7762	Anais do Instituto de Higiene e Medicina Tropical	1	0	0
+0326-4017		1	0	0
+0335-8178		1	0	0
+0370-7415		1	0	0
+0374-9444	Monitore zoologico italiano. Supplemento	1	0	0
+0379-6051	Journal - SWA Scientific Society	1	0	0
+0437-2514	Hemera zoa	1	0	0
+0440-8756	880-04 Hiroshima Daigaku Sui-chikusan Gakubu kiyō. Journal of the Faculty of Fisheries and Animal Husbandry, Hiroshima University	1	0	0
+0524-4331	Veröffentlichungen des Instituts für Meeresforschung in Bremerhaven. Supplement	1	0	0
+0577-3180	Publicaciones del Centro Pirenaico de Biología Experimental	1	0	0
+0770-7622		1	0	0
+0885-5943	Occasional papers of the Florida state collection of arthropods	1	0	0
+1011-7881	Syntarsus	1	0	0
+1072-608X		1	0	0
+1148-8565	Bulletin de la Société d'Etude des Sciences Naturelles de Vaucluse	1	0	0
+1421-3311	Abhandlungen der Schweizerischen paläontologischen Gesellschaft = Mémoires de la Société Paléontologique Suisse	1	0	0

@@ -155,11 +155,155 @@ $ids=array(52071);
 // Notes on the Rodent Genus Heterocephalus
 $ids=array(108329);
 
+// West Indian Tertiary decapod crustaceans
+$ids=array(129483);
+
+// New genera and species
+$ids=array(129488);
+
+// Über einige Formen der Gattung Colohus
+$ids=array(129491);
+
+// Description de Mammifères nouveaux d'Afrique et de Madagascar
+$ids=array(129491);
+
+$ids=array(129494,102399);
+
+// Trematodes of Canadian vertebrates
+//$ids=array(102806);
+
+// 5. Säugethiere
+// Mehrere neue Spalax-Arten
+$ids=array(129496, 129497);
+
+// Vertebrates from Madagascar (4) Mammalia
+$ids=array(129498);
+
+// XXXVII.—On African bats and shrews
+$ids=array(66064);
+
+// fix 
+$ids=array(129491,129491,129494,102399,129496, 129497,129488,129483,108329,52071,129465,97864);
+
+// XLIX.—Three new species of Nyctinomus
+$ids=array(87154);
+
+
+$ids=array(129516);
+
+$ids=array(4842, 74869);
+
+$ids=array(129523);
+
+$ids=array(127721);
+
+$ids=array(87377);
+
+$ids=array(82857);
+
+$ids=array(4330,125890,125902);
+
+$ids=array(87535,59343,1291,126599,127693,126600,79749,66157);
+
+
+$ids=array(127679,58767,239,60008,113271);
+
+$ids=array(129532,129533);
+
+$ids=array(127656);
+
+$ids=array(129545);
+
+$ids=array(129970);
+
+$ids=array(129983);
+
+$ids=array(121698);
+
+$ids=array(129999);
+
+$ids=array(130000);
+
+$ids=array(1908,100192,4943,1686);
+
+$ids=array(129502,127783,87256,86824,87016,87462,129501,86824,87487,131696,131697,86317);
+
+$ids=array(131729);
+
+$ids=array(131746);
+
+// to do
+$ids=array(118307, 131907);
+
+$ids=array(132042, 132044,476);
+
+$ids=array(80825,80788,100659,127576);
+
+$ids = array(132055,132056,132057);
+
+$ids = array(79907);
+
+$ids=array(132203,132204);
+
+$ids=array(132207);
+
+$ids=array(65226,132748,132749,79568);
+
+$ids=array(52001,132764,56151,132765);
+
+$ids=array(105183,105184,105181);
+
+$ids=array(132790);
+
+$ids=array(133107);
+
+$ids=array(11263);
+
+$ids=array(104780,133184,11264,133185,133186,133187,133188,133189,133190,133191,133193);
+
+$ids=array(133194,104917,133195);
+
+$ids=array(2018,49787);
+
+$ids=array(80477,80595,80524,80597);
+
+$ids=array(117838);
+$ids=array(133698);
+
+$ids=array(133703);
+
+$ids=array(102350);
+
+$ids=array(71363);
+
+$ids=array(49090);
+
+$ids=array(133715);
+
+$ids=array(133737);
+
+$ids=array(134554);
+
+$ids=array(134559,134560,134561);
+
+$ids=array(102369);
+
+$ids=array(109875);
+
+$ids=array(134850);
+
+$ids=array(113963,69328,52124,14548);
+
+$ids=array(112605);
+
+
 // to do...
 foreach ($ids as $id)
 {
 	
 	$json = get('http://biostor.org/reference/' . $id . '.bibjson');
+	
+	echo $json;
 	
 	if ($json != '')
 	{
@@ -191,7 +335,7 @@ foreach ($ids as $id)
 				$reference->provenance['biostor'] = $biostor;
 				
 				
-				$reference->citation = reference_to_citation_string($reference);
+				$reference->citation_string = reference_to_citation_string($reference);
 				
 				// thumbnail
 				$url = 'http://biostor.org/reference/' . $id . '.json';
@@ -205,11 +349,12 @@ foreach ($ids as $id)
 				
 				biostor_enhance($reference, $id);
 				
-				//print_r($reference);
+				print_r($reference);
 				
-				have_reference_already($reference);
-				
-				$couch->add_update_or_delete_document($reference,  $reference->_id);
+				//if (!have_reference_already($reference))
+				{				
+					$couch->add_update_or_delete_document($reference,  $reference->_id);
+				}
 			}
 		}		
 	}

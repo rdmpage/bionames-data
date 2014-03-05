@@ -19,18 +19,36 @@ $resp_obj = json_decode($resp);
 //print_r($resp_obj);
 
 // Compact views
-foreach ($resp_obj->rows as $row)
+if (1)
 {
-	$view = str_replace('_design/', '', $row->id);
+	foreach ($resp_obj->rows as $row)
+	{
+		$view = str_replace('_design/', '', $row->id);
+		
+		echo $view . "\n";
 	
-	echo $view . "\n";
-
-	//$view = 'bhl';
-	//$view = 'ion';
-
-	$resp = $couch->send("POST", "/" . $config['couchdb_options']['database'] . "/_compact/" . $view);
-	var_dump($resp);
+		//$view = 'bhl';
+		//$view = 'ion';
+		
+		switch ($view)
+		{
+			// now ready
+			/*
+			case 'oclc':
+			case 'cleaning':
+				$resp = $couch->send("POST", "/" . $config['couchdb_options']['database'] . "/_compact/" . $view);
+				var_dump($resp);
+				break;
+			*/
+				
+			default:
+				$resp = $couch->send("POST", "/" . $config['couchdb_options']['database'] . "/_compact/" . $view);
+				var_dump($resp);
+				break;
+		}
+	}
 }
+
 
 // compact database
 $resp = $couch->send("POST", "/" . $config['couchdb_options']['database'] . "/_compact");

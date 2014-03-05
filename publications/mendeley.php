@@ -129,6 +129,11 @@ function get_one_reference($id)
 							}
 							
 						case 'publication':
+							if (!isset($reference->journal))
+							{
+								$reference->journal = new stdclass;
+							}
+						
 							$reference->journal->name = $v;
 							break;
 							
@@ -432,7 +437,6 @@ function get_from_local_uuid($uuid)
 	
 	$id = 0;
 	
-	$reference = new stdclass;
 	
 	foreach ($dbh->query('SELECT * from Documents WHERE uuid="{' . $uuid . '}"') as $row)
 	{
@@ -441,5 +445,65 @@ function get_from_local_uuid($uuid)
 	
 	return $id;
 }
+
+//--------------------------------------------------------------------------------------------------
+// get local mendeley document from URL
+function mendeley_get_local_from_url($url)
+{
+	global $dbh;
+	
+	$id = 0;
+	
+	$reference = new stdclass;
+	
+	foreach ($dbh->query('SELECT * from DocumentUrls WHERE url="' . addcslashes($url, "'") . '"') as $row)
+	{
+		$id = $row['documentId'];
+	}
+	
+	return $id;
+
+}
+
+//--------------------------------------------------------------------------------------------------
+// get uuid from id
+function mendeley_get_local_uuid_from_id($id)
+{
+	global $dbh;
+	
+	$uuid = '';
+	
+	foreach ($dbh->query('SELECT * from Documents WHERE id=' . $id) as $row)
+	{
+		$uuid = $row['uuid'];
+		$uuid = str_replace('{', '', $uuid);
+		$uuid = str_replace('}', '', $uuid);
+	}
+	
+	return $uuid;
+
+}
+/*
+
+//--------------------------------------------------------------------------------------------------
+// get uuid from id
+function mendeley_get_canonical_uuid_from_id($id)
+{
+	global $dbh;
+	
+	$uuid = '';
+	
+	foreach ($dbh->query('SELECT * from Documents WHERE id=' . $id) as $row)
+	{
+		$uuid = $row['uuid'];
+		$uuid = str_replace('{', '', $uuid);
+		$uuid = str_replace('}', '', $uuid);
+	}
+	
+	return $uuid;
+
+}
+
+*/
 
 ?>
