@@ -53,6 +53,37 @@ function get_group($id)
 		$group = json_decode($result->fields['json']);		
 	}
 	*/
+	
+	$db = NewADOConnection('mysql');
+	$db->Connect("localhost", 
+	'root' , '' , 'ion');
+	
+	// Ensure fields are (only) indexed by column name
+	$ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
+
+	$sql = 'SELECT * FROM names WHERE id = ' . $id;
+	
+	$sql = 'SELECT * FROM `names` WHERE id = ' . $id . ' ORDER BY `originalString` LIMIT 0,2000;';
+	
+	echo $sql . "\n";
+
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+	
+	if ($result->NumRows() == 1)
+	{
+		$filename = dirname(__FILE__) . '/groups/' . $result->fields['group'] . '.json';
+		if (file_exists($filename))
+		{
+			$json = file_get_contents($filename);
+			$group = json_decode($result->fields['json']);	
+		}
+	}
+	
+	print_r($group);
+	
+	
+	
 
 	return $group;
 }
@@ -72,7 +103,7 @@ function get_cluster($cluster_id)
 	
 	$cluster = null;
 	
-	$sql = 'SELECT * FROM names WHERE cluster_id= ' . $cluster_id;
+	$sql = 'SELECT * FROM `names` WHERE cluster_id= "' . $cluster_id . '"';
 	
 	echo $sql;
 	
@@ -98,7 +129,7 @@ function get_cluster($cluster_id)
 			$name = new stdclass;
 			$name->nomenclaturalCode = 'ICZN';
 			
-			$keys = array('id', 'nameComplete', 'taxonAuthor', 'uninomial', 'genusPart', 'infragenericEpithet', 'specificEpithet', 'infraspecificEpithet', 'rank', 'publication', 'year', 'sici');
+			$keys = array('id', 'nameComplete', 'taxonAuthor', 'uninomial', 'genusPart', 'infragenericEpithet', 'specificEpithet', 'infraspecificEpithet', 'rank', 'publication', 'year', 'sici', 'microreference');
 			
 			foreach ($keys as $k)
 			{
@@ -160,6 +191,11 @@ function get_cluster($cluster_id)
 				$cluster->publication[] = $name->publication;
 			}
 			
+			if (isset($name->microreference))
+			{
+				$cluster->microreference[] = $name->microreference;
+			}
+			
 			// Name
 			if (!isset($cluster->nameComplete))
 			{
@@ -182,12 +218,27 @@ function get_cluster($cluster_id)
 			}
 			
 			// Group
+			if ($result->fields['group'] != null)
+			{
+				$filename = dirname(__FILE__) . '/groups/' . $result->fields['group'] . '.json';
+				if (file_exists($filename))
+				{
+					$json = file_get_contents($filename);
+					$group = json_decode($json);
+					echo $json;
+					$name->group = $group;
+					$cluster->group = $group;	
+				}
+			}
+			
+			/*
 			$group = get_group(str_replace('urn:lsid:organismnames.com:name:','', $name->id));
 			if ($group)
 			{
 				$name->group = $group;
 				$cluster->group = $group;	
 			}
+			*/
 			
 			
 			$cluster->names[] = $name;
@@ -242,14 +293,31 @@ function add_cluster($cluster_id)
 	
 	$cluster = get_cluster($cluster_id);
 	
-	print_r($cluster);
+	//print_r($cluster);
 		
-	if (1)
+	if (0)
 	{
 		if ($cluster)
 		{
-			print_r($cluster);
 			
+			
+			if (isset($cluster->microreference))
+			{
+				print_r($cluster);			
+				echo "CouchDB...\n";
+				$couch->add_update_or_delete_document($cluster,  $cluster->_id);
+			}
+			else
+			{
+				echo "Skip $cluster_id\n";
+			}
+		}
+	}
+	else
+	{
+		if ($cluster)
+		{
+			print_r($cluster);			
 			echo "CouchDB...\n";
 			$couch->add_update_or_delete_document($cluster,  $cluster->_id);
 		}
@@ -267,7 +335,7 @@ function add_cluster_from_id($id)
 	// Ensure fields are (only) indexed by column name
 	$ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
 	
-	$sql = 'SELECT cluster_id FROM names WHERE id=' . $id . ' LIMIT 1';
+	$sql = 'SELECT cluster_id FROM `names` WHERE id="' . $id . '"  LIMIT 1;';
 	
 	echo "$sql\n";
 	
