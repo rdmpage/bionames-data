@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<!-- saved from url=(0057)http://www.cedricve.me/2013/04/12/how-to-train-tesseract/ -->
+<html lang="en"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script async="" src="./Cédric Verstraeten_files/saved_resource"></script><script async="" src="./Cédric Verstraeten_files/cedricve_me.json"></script>
+
+	<!-- Basic Page Needs
+	================================================== -->
+	<meta charset="utf-8">
+	<title>Cédric Verstraeten</title>
+	<meta name="description" content="Cedricve is an Engineer IT student and  Web/Software Developer.">
+	<meta name="keywords" content="cedricve,cedric verstraeten,software design,webdesign,web,website design,design,webdevelopment, wordpress, joomla, drupal, cms, seo,website,Gent,Belgie,Vlaanderen"> 
+	<meta name="author" content="Cédric Verstraeten">
+
+	<!-- Mobile Specific Metas
+	================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<!-- JS
+	================================================== -->
+	<script type="text/javascript" async="" src="./Cédric Verstraeten_files/ga.js"></script><script type="text/javascript" src="./Cédric Verstraeten_files/twitter.js"></script>
+ <script src="./Cédric Verstraeten_files/jquery.min.js"></script>
+  	<script>window.jQuery || document.write('<script src="js/jquery-1.7.1.min.js"><\/script>')</script>
+	<script type="text/javascript" src="./Cédric Verstraeten_files/general.js"></script>
+	<script type="text/javascript" src="./Cédric Verstraeten_files/bootstrap.min.js"></script>
+	<script type="text/javascript" src="./Cédric Verstraeten_files/jquery.mousewheel-3.0.4.pack.js"></script>
+	<script type="text/javascript" src="./Cédric Verstraeten_files/jquery.fancybox-1.3.4.pack.js"></script>
+	<link rel="stylesheet" type="text/css" href="./Cédric Verstraeten_files/prettify.css">
+	<script type="text/javascript">
+	   var _gaq = _gaq || [];
+	   _gaq.push(['_setAccount', 'UA-21803329-2']);
+	   _gaq.push(['_trackPageview']);
+	 
+	   (function() {
+	     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	   })();
+	 </script>
+	 <script type="text/javascript">
+		$(document).ready(function() {
+				$.getJSON('http://api.twitter.com/1/statuses/user_timeline/cedricve_me.json?count=2&callback=?', 							
+						function(tweets){
+        						$(".twitter").html(tz_format_twitter(tweets));
+    			});  
+		});
+	</script>
+
+	<!-- CSS
+	================================================== -->
+	<link rel="stylesheet" href="http://www.cedricve.me/wp-content/themes/cedricvev2/stylesheets/base.css">
+	<link rel="stylesheet" href="http://www.cedricve.me/wp-content/themes/cedricvev2/stylesheets/skeleton.css">
+	<link rel="stylesheet" href="http://www.cedricve.me/wp-content/themes/cedricvev2/stylesheets/layout.css">
+	<link rel="stylesheet" href="http://www.cedricve.me/wp-content/themes/cedricvev2/stylesheets/prettify.css">
+	<link rel="stylesheet" href="http://www.cedricve.me/wp-content/themes/cedricvev2/fancybox/jquery.fancybox-1.3.4.css">
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="http://www.cedricve.me/2013/04/12/how-to-train-tesseract/images/favicon.ico">
+	<link rel="apple-touch-icon" href="http://www.cedricve.me/2013/04/12/how-to-train-tesseract/images/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="http://www.cedricve.me/2013/04/12/how-to-train-tesseract/images/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="http://www.cedricve.me/2013/04/12/how-to-train-tesseract/images/apple-touch-icon-114x114.png">
+
+<script type="text/javascript" async="" src="./Cédric Verstraeten_files/embed.js"></script><style>[touch-action="none"]{ -ms-touch-action: none; touch-action: none; }[touch-action="pan-x"]{ -ms-touch-action: pan-x; touch-action: pan-x; }[touch-action="pan-y"]{ -ms-touch-action: pan-y; touch-action: pan-y; }[touch-action="scroll"],[touch-action="pan-x pan-y"],[touch-action="pan-y pan-x"]{ -ms-touch-action: pan-x pan-y; touch-action: pan-x pan-y; }</style><script>window["_GOOG_TRANS_EXT_VER"] = "1";</script><script>window["_GOOG_TRANS_EXT_VER"] = "1";</script><script src="./Cédric Verstraeten_files/alfie.js" async="" charset="UTF-8"></script></head>
+<body style="" crossrider_data_store_temp="{}">
+
+	<!-- Primary Page Layout
+	================================================== -->
+  <div class="navbar navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+      <div class="nav-collapse">
+        <ul class="nav">
+				<li><a href="http://www.cedricve.me/about" class="active">Home</a></li>
+				<li><a href="http://www.cedricve.me/biography">Biography</a></li>
+				<li><a href="http://www.cedricve.me/master-thesis">Thesis</a></li>
+				<li><a href="http://www.cedricve.me/plugins">Plugins</a></li>
+				<li><a href="http://www.cedricve.me/category/blog">Blog</a></li>
+				<li><a href="http://www.cedricve.me/contact">Contact</a></li>
+        </ul>
+      </div><!-- /.nav-collapse -->
+    </div><!-- /.container -->
+  </div><!-- /.navbar-inner -->
+</div><!-- /.navbar -->
+	<div class="container">
+		<div id="header" class="sixteen columns">
+			<a href="http://www.cedricve.me/"><h1 class="remove-bottom" style="margin-top: 40px">cedricve.me</h1></a>
+			<div id="full_nav_bar">
+			<ul id="menu">
+				<li><a href="http://www.cedricve.me/about" class="active">Home</a></li>
+				<li><a href="http://www.cedricve.me/biography">Biography</a></li>
+				<li><a href="http://www.cedricve.me/master-thesis">Thesis</a></li>
+				<li><a href="http://www.cedricve.me/plugins">Plugins</a></li>
+				<li><a href="http://www.cedricve.me/category/blog">Blog</a></li>
+				<li><a href="http://www.cedricve.me/contact">Contact</a></li>
+			</ul>
+			<hr>
+			</div>
+		</div>
+
+<div class="two-thirds column size-two-thirds">
+<div class="post">
+<div class="post_header">
+<a href="http://www.cedricve.me/category/blog/" title="View all posts in Blog" rel="category tag">Blog</a>, <a href="http://www.cedricve.me/category/tutorials/image-processing/" title="View all posts in Images" rel="category tag">Images</a>, <a href="http://www.cedricve.me/category/tutorials/" title="View all posts in Tutorials" rel="category tag">Tutorials</a><img width="200" height="198" src="./Cédric Verstraeten_files/Untitled-1.png" class="attachment-post-thumbnail wp-post-image" alt="Cedricveblog"><h3><a href="./Cédric Verstraeten_files/Cédric Verstraeten.html" rel="bookmark" title="Permanent Link to How to train Tesseract 3.01">How to train Tesseract 3.01</a></h3>
+<span class="caption">Posted on April 12th, 2013 by <a href="http://www.cedricve.me/author/www-cedricve-me/" title="Posts by Cédric Verstraeten" rel="author">Cédric Verstraeten</a></span>
+</div>
+
+<div class="the_content">
+<p>Optical Character Recognition (OCR) is a very popular tool nowadays. It makes machines able to automatically identify text in digital images. A lot of research has been done, resulting in a lot of different techniques and publications. Currently many OCR tools that are available on the market are expensive and not open source, but few of them are free and open source. </p>
+<p>One of the most popular OCR tools is Tesseract, because it’s free and very accurate. Tesseract is an Open Source OCR engine, which means thats it’s not a complete tool but just an engine. This makes programmers likes us, able to port it to your specific application. Tesseract was originally developed at HP, as a PhD research. The main purpose was to create a new feature for their scanners (OCR function), but the feature never has been released. Later on, HP stopped working on Tesseract and released the project as Open Source. Currently Tesseract is maintained by Google and the initial developer, Ray Smith, has been moved to Google either. The release to Open Source, caused some changes to the engine too. Some functions that Tesseract used, like neural networks, weren’t Open Source so they replaced that part (It’s a little bit strange because the code is still available, but isn’t used anymore. Google?).</p>
+<h2>Training</h2>
+<p>Another advantage is that Tesseract can be trained, but unfortunately the procedure isn’t well documented. That’s why I will try to explain it more clearly so other people will be able to train tesseract too.</p>
+<p>The basic idea of how the engine works can be found on the figure below.</p>
+<div style="text-align:center;">
+<img style="text-align:center;" src="./Cédric Verstraeten_files/Schermafbeelding-2013-04-12-om-17.45.29.png" alt="tesseract sheme" width="300" height="380" class="alignnone size-full wp-image-2924">
+</div>
+<p><br><br>
+In the first three steps, the component analysis and text/word splitting has been done. Afterwards the words are splitted in characters and each character/components is passed to a 2-way recognize pass. In the first pass the results of the recognized characters/words are passed to an adaptive classifier, which uses the data as training data. After that the text will be recognized a second time but now using the adaptive classifier. </p>
+<p>The reason why it’s recognized a second time is because the first pass gives us information about the context of the text. It could be that at then end of the first pass, words are recognized which could be helpful for words in the beginning of the text. That’s identically how we (most of us) humans try to learn something. The first time we will read the whole book/text to know what’s exactly in the text afterwards we will read a second, third of fourth time and we try to understand everything.</p>
+<h2>Let’s train something</h2>
+<p>Recently a publication has been published, by <a href="http://www.eutypon.gr/eutypon/pdf/e2012-29/e29-a01.pdf" target="_blank">Nick White</a>, who tried to train tesseract for the ancient greek language. In his publication he mention the difficulty to find good documentation about the procedure. He tries to explain the procedure more in detail but unfortunately doesn’t tell the commands which he used (the publication has been added to the Tesseract repository).</p>
+<p>When Tesseract has been installed on a Linux system, several commands are available:</p>
+<ul style="list-style:circle;margin-left:25px;margin-bottom:25px;">
+<li>tesseract</li>
+<li>unicharset_extractor</li>
+<li>mftraining</li>
+<li>cntraining</li>
+<li>combine_tessdata</li>
+</ul>
+<p>The first command, tesseract, is to recognize images but also can be used to train and to create boxes. When we try to recognize something the result will been stored in a txt file. Below I demonstrated, tried to recognize a number(this is for my master thesis, where I used Tesseract).</p>
+<div style="text-align:center;">
+<img src="./Cédric Verstraeten_files/5-300x234.jpg" alt="5" width="300" height="234" class="alignnone size-medium wp-image-2931"><p></p>
+<p><img src="./Cédric Verstraeten_files/Schermafbeelding-2013-04-12-om-18.11.361.png" alt="Schermafbeelding 2013-04-12 om 18.11.36" width="600" height="220" class="alignnone size-full wp-image-2940"></p>
+<p><img src="./Cédric Verstraeten_files/Schermafbeelding-2013-04-12-om-18.13.17.png" alt="Schermafbeelding 2013-04-12 om 18.13.17" width="406" height="237" class="alignnone size-full wp-image-2941">
+</p></div>
+<p>Although the recognition is almost perfect, it does recognize characters which we humans won’t think are relevant. Wrong recognition can be caused by overtraining, or undertraining(don’t think that this word exists). With undertraining I mean that an font-family is used which is very different from the originally/standard fonts. With the installation of Tesseract standard training data is delivered for the language english(on the Tesseract website there is training data available for other languages). If you would use the standard trainingdata to recognize characters which aren’t very common with the standard font-families, a low accuracy can occur. That’s why in some situations it could be helpful to create your own training data to increase the accuracy.</p>
+<p>In the following steps I will explain you how to train Tesseract for your own font:</p>
+<ul style="list-style:circle;margin-left:25px;margin-bottom:25px;">
+<li>Create boxes</li>
+<li>Edit boxes manually</li>
+<li>Extract unicharset</li>
+<li>Shape clustering</li>
+<li>Combine files</li>
+</ul>
+<p>The commands used are (I will discuss them in detail)</p>
+<pre lang="php" class="prettyprint prettyprinted" style=""><span class="pln">tesseract eng</span><span class="pun">.</span><span class="pln">matrx60x40</span><span class="pun">.</span><span class="pln">exp0</span><span class="pun">.</span><span class="pln">jpg eng</span><span class="pun">.</span><span class="pln">matrx60x40</span><span class="pun">.</span><span class="pln">exp0 batch</span><span class="pun">.</span><span class="pln">nochop makebox
+tesseract eng</span><span class="pun">.</span><span class="pln">matrx60x40</span><span class="pun">.</span><span class="pln">exp0</span><span class="pun">.</span><span class="pln">jpg eng</span><span class="pun">.</span><span class="pln">matrx60x40</span><span class="pun">.</span><span class="pln">exp0</span><span class="pun">.</span><span class="pln">box  nobatch box</span><span class="pun">.</span><span class="pln">train
+unicharset_extractor eng</span><span class="pun">.</span><span class="pln">matrx60x40</span><span class="pun">.</span><span class="pln">exp0</span><span class="pun">.</span><span class="pln">box
+echo </span><span class="str">"matrx60x40 1 0 0 0 0"</span><span class="pln"> </span><span class="pun">&gt;</span><span class="pln"> font_properties
+mftraining </span><span class="pun">-</span><span class="pln">F font_properties </span><span class="pun">-</span><span class="pln">U unicharset </span><span class="pun">-</span><span class="pln">O eng</span><span class="pun">.</span><span class="pln">unicharset eng</span><span class="pun">.</span><span class="pln">matrx60x40</span><span class="pun">.</span><span class="pln">exp0</span><span class="pun">.</span><span class="pln">box</span><span class="pun">.</span><span class="pln">tr
+cntraining eng</span><span class="pun">.</span><span class="pln">matrx60x40</span><span class="pun">.</span><span class="pln">exp0</span><span class="pun">.</span><span class="pln">box</span><span class="pun">.</span><span class="pln">tr
+</span><span class="com">// rename all files created by mftraing en cntraining, add the prefix eng.</span><span class="pln">
+combine_tessdata eng</span><span class="pun">.</span></pre>
+<h2>Make Box</h2>
+<p>In the first step, the image we are using to train our specific font, is recognized by Tesseract and boxes are created. Each box results in a component which represents a single character. The box has an x- and y-coordinate, a width and height and the character which has been recognized in the region. </p>
+<p>In this step we have to manually edit possible mistakes that has been detected by Tesseract. Maybe all characters where wrong because the font you are using isn’t very common. To make this job a lot easier, several tools are available. These tools are called “Tesseract box editors”, the tool I used is jTessBoxEditor. jTessBoxEditor is written and Java and thus platform independent, it has options to merge and split which could be handy. After you corrected the mistakes, we can creating the training file. The file I used is called eng.matrx60x40.exp0.jpg and a box “eng.matrx60x40.exp0.box” will be created.</p>
+<pre lang="php" class="prettyprint prettyprinted" style=""><span class="pln">tesseract eng</span><span class="pun">.</span><span class="pln">matrx60x40</span><span class="pun">.</span><span class="pln">exp0</span><span class="pun">.</span><span class="pln">jpg eng</span><span class="pun">.</span><span class="pln">matrx60x40</span><span class="pun">.</span><span class="pln">exp0 batch</span><span class="pun">.</span><span class="pln">nochop makebox</span></pre>
+<h2>Training file</h2>
+<p>In this procedure we will tell Tesseract the correct results. We tell Tesseract the mistakes he made so he won’t make the same mistakes in a next recognition. </p>
+<pre lang="php" class="prettyprint prettyprinted" style=""><span class="pln">tesseract eng</span><span class="pun">.</span><span class="pln">matrx60x40</span><span class="pun">.</span><span class="pln">exp0</span><span class="pun">.</span><span class="pln">jpg eng</span><span class="pun">.</span><span class="pln">matrx60x40</span><span class="pun">.</span><span class="pln">exp0</span><span class="pun">.</span><span class="pln">box nobatch box</span><span class="pun">.</span><span class="pln">train</span></pre>
+<h2>Unicharset</h2>
+<p>This step tries to extract the charset from the box file.</p>
+<pre lang="php" class="prettyprint prettyprinted" style=""><span class="pln">unicharset_extractor eng</span><span class="pun">.</span><span class="pln">matrx60x40</span><span class="pun">.</span><span class="pln">exp0</span><span class="pun">.</span><span class="pln">box</span></pre>
+<h2>Font properties</h2>
+<p>Create a new file with the properties of the font you are trying to train.<br>
+Syntax: fontname italic bold fixed serif fraktur</p>
+<pre lang="php" class="prettyprint prettyprinted" style=""><span class="pln">echo </span><span class="str">"matrx60x40 1 0 0 0 0"</span><span class="pln"> </span><span class="pun">&gt;</span><span class="pln"> font_properties</span></pre>
+<h2>Clustering</h2>
+<p>The character features are clustered.</p>
+<pre lang="php" class="prettyprint prettyprinted" style=""><span class="pln">mftraining </span><span class="pun">-</span><span class="pln">F font_properties </span><span class="pun">-</span><span class="pln">U unicharset </span><span class="pun">-</span><span class="pln">O eng</span><span class="pun">.</span><span class="pln">unicharset eng</span><span class="pun">.</span><span class="pln">matrx60x40</span><span class="pun">.</span><span class="pln">exp0</span><span class="pun">.</span><span class="pln">box</span><span class="pun">.</span><span class="pln">tr
+cntraining eng</span><span class="pun">.</span><span class="pln">matrx60x40</span><span class="pun">.</span><span class="pln">exp0</span><span class="pun">.</span><span class="pln">box</span><span class="pun">.</span><span class="pln">tr</span></pre>
+<h2>Renaming</h2>
+<p>We rename all the files generated by mftraining &amp; cntraining. We add the prefix “eng.” to all the files.</p>
+<p><img src="./Cédric Verstraeten_files/Schermafbeelding-2013-04-12-om-18.52.38.png" alt="Schermafbeelding 2013-04-12 om 18.52.38" width="600" height="400" class="alignnone size-full wp-image-2956"></p>
+<h2>Combining</h2>
+<p>In the last step we combine all the files and the trainingdata will be created.</p>
+<pre lang="php" class="prettyprint prettyprinted" style=""><span class="pln">combine_tessdata eng</span><span class="pun">.</span></pre>
+<h2>Move trainingdata</h2>
+<p>Move the trainingdata to the tessdata folder, on mac osx “/usr/local/share/tessdata”.</p>
+
+</div>
+<div class="entry-utility">
+	</div>	
+<br>
+
+<div id="disqus_thread"><iframe id="dsq1" data-disqus-uid="1" allowtransparency="true" frameborder="0" role="complementary" width="100%" src="./Cédric Verstraeten_files/saved_resource.html" style="width: 100% !important; border: none !important; overflow: hidden !important; height: 5122px !important;" scrolling="no" horizontalscrolling="no" verticalscrolling="no"></iframe></div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var disqus_url = 'http://www.cedricve.me/2013/04/12/how-to-train-tesseract/';
+    var disqus_identifier = '2923 http://www.cedricve.me/?p=2923';
+    var disqus_container_id = 'disqus_thread';
+    var disqus_domain = 'disqus.com';
+    var disqus_shortname = 'cedricve';
+    var disqus_title = "How to train Tesseract 3.01";
+        var disqus_config = function () {
+        var config = this; // Access to the config object
+        config.language = '';
+
+        /*
+           All currently supported events:
+            * preData — fires just before we request for initial data
+            * preInit - fires after we get initial data but before we load any dependencies
+            * onInit  - fires when all dependencies are resolved but before dtpl template is rendered
+            * afterRender - fires when template is rendered but before we show it
+            * onReady - everything is done
+         */
+
+        config.callbacks.preData.push(function() {
+            // clear out the container (its filled for SEO/legacy purposes)
+            document.getElementById(disqus_container_id).innerHTML = '';
+        });
+                config.callbacks.onReady.push(function() {
+            // sync comments in the background so we don't block the page
+            var script = document.createElement('script');
+            script.async = true;
+            script.src = '?cf_action=sync_comments&post_id=2923';
+
+            var firstScript = document.getElementsByTagName( "script" )[0];
+            firstScript.parentNode.insertBefore(script, firstScript);
+        });
+                    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+    var DsqLocal = {
+        'trackbacks': [
+        ],
+        'trackback_url': "http:\/\/www.cedricve.me\/2013\/04\/12\/how-to-train-tesseract\/trackback\/"    };
+/* ]]> */
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/embed.js?pname=wordpress&pver=2.74';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+/* ]]> */
+</script>
+ </div> 
+ </div>
+ 
+<div class="one-third column">
+ 	<h3>Search</h3>
+<p>Hey you :) let me help you find something. A helping hand can save you quite some time.</p>
+<form method="get" id="searchform" action="http://www.cedricve.me/">
+<div><input type="text" size="10" value="" name="s" id="s"></div>
+</form>	<h3>About the author..</h3>
+			<p><a href="http://www.cedricve.me/biography"><img class="left" src="./Cédric Verstraeten_files/head.png"></a>Cédric Verstraeten is an Industrial Engineer, C++ Programmer, Algorithm enthusiast, Image Processinglover and the owner of this blog. Worked as a thesis student for the steel company ArcelorMittal, research about labelrecognition.</p>
+	<hr>
+	 <h3>Categories</h3>
+ <ul id="categories">
+<li><a href="http://www.cedricve.me/category/algorithm">Algorithm</a></li><li><a href="http://www.cedricve.me/category/apple">Apple</a></li><li><a href="http://www.cedricve.me/category/blog">Blog</a></li><li><a href="http://www.cedricve.me/category/cplusplus">C++</a></li><li><a href="http://www.cedricve.me/category/fixes">Fixes</a></li><li><a href="http://www.cedricve.me/category/general">General</a></li><li><a href="http://www.cedricve.me/category/image-processing">Images</a></li><li><a href="http://www.cedricve.me/category/java">Java</a></li><li><a href="http://www.cedricve.me/category/javascript">Javascript</a></li><li><a href="http://www.cedricve.me/category/linux">Linux</a></li><li><a href="http://www.cedricve.me/category/mac-osx">Mac OSX</a></li><li><a href="http://www.cedricve.me/category/mathematics">Mathematics</a></li><li><a href="http://www.cedricve.me/category/perl">Perl</a></li><li><a href="http://www.cedricve.me/category/personal-thoughts">Personal thoughts</a></li><li><a href="http://www.cedricve.me/category/php">PHP</a></li><li><a href="http://www.cedricve.me/category/physics">Physics</a></li><li><a href="http://www.cedricve.me/category/security">Security</a></li><li><a href="http://www.cedricve.me/category/sessions">Sessions</a></li><li><a href="http://www.cedricve.me/category/snippets">Snippets</a></li><li><a href="http://www.cedricve.me/category/tutorials">Tutorials</a></li><li><a href="http://www.cedricve.me/category/wordpress">WordPress</a></li></ul></div>
+
+<script type="text/javascript">
+	// Hover opacity on images in post
+	$(".post :not(.post_header) img").hover(
+		function () {
+		    	$(this).css("opacity","1");
+		},
+ 		function () {
+		    	$(this).css("opacity","0.3");
+		}
+	);
+
+	$(document).ready(function() {
+		// Prettify code
+     	//$('pre').addClass('prettyprint linenums');
+		$('pre').addClass('prettyprint');
+		$("a.vergroot").fancybox();   
+	});
+</script>
+
+	</div><!-- container -->
+	<footer id="footer">
+
+            <!-- 960 grid -->
+            <div class="container">
+
+                <!-- over ons -->
+                <div class="eight columns">
+                    <h5>About the author</h5>
+                    <p>Cédric Verstraeten is a Master Industrial Engineering Informatics Student, Bachelor Applied Computer Science, Java, C++ and PHP Programmer, Algorithm geek, Image Processinglover and the owner of this blog. Currently working as a thesis student for the steel company ArcelorMittal, research about label recognition.</p>
+                    
+                </div>
+                <!-- // over ons -->
+
+                <!-- links -->
+                <div class="four columns">
+                    <h5>Navigation</h5>
+                    <ul class="links-list">
+                        <li><a href="http://www.cedricve.me/about" class="active">Home</a></li>
+						<li><a href="http://www.cedricve.me/biography">Biography</a></li>
+						<li><a href="http://www.cedricve.me/master-thesis">Thesis</a></li>
+						<li><a href="http://www.cedricve.me/plugins">Plugins</a></li>
+						<li><a href="http://www.cedricve.me/category/blog">Blog</a></li>
+						<li><a href="http://www.cedricve.me/contact">Contact</a></li>
+                    </ul>
+                </div>
+                <!-- // links -->
+                
+                <!-- twitter -->
+                <div class="four columns">
+                    <h5>Latest tweet</h5>
+   					                  	<ul class="twitter"></ul>                    <div class="clearfix"></div>
+                </div>
+                <!-- // twitter -->
+
+            </div>
+           
+
+        </footer>
+        <footer id="footer-bottom">
+
+            <!-- 960 grid -->
+            <div class="container">
+
+                <div class="ten columns">
+                    <div id="copyright">© Copyright 2011 Cédric Verstraeten - All Rights Reserved.</div>
+                </div>
+
+            </div>
+            <!-- // 960 grid -->
+
+        </footer>
+
+<!-- End Document
+================================================== -->
+
+
+	<div style="display:none">
+	</div>
+<link rel="stylesheet" id="jetpack_likes-css" href="./Cédric Verstraeten_files/style.css" type="text/css" media="all">
+<script type="text/javascript" src="./Cédric Verstraeten_files/jquery.js"></script>
+<script type="text/javascript" src="./Cédric Verstraeten_files/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="./Cédric Verstraeten_files/postmessage.js"></script>
+<script type="text/javascript" src="./Cédric Verstraeten_files/jquery.inview.js"></script>
+<script type="text/javascript" src="./Cédric Verstraeten_files/jquery.jetpack-resize.js"></script><div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
