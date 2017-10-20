@@ -16,7 +16,7 @@ $db->Connect("localhost",
 // Ensure fields are (only) indexed by column name
 $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
 
-
+$db->EXECUTE("set names 'utf8'"); 
 
 $journal = 'Edinburgh J. Bot.';
 $journal = 'Kew Bull.';
@@ -27,14 +27,62 @@ $journal ='J. Arnold Arbor.';
 $journal ='Novon';
 $journal = 'J. Wash. Acad. Sci.';
 
+$journal = 'Arnaldoa';
+
+//$journal ='Novon';
+
+$journal = 'Rhodora';
+
 $sql = 'SELECT * FROM ipni.names WHERE Publication=' . $db->qstr($journal) . ' AND biostor IS NULL';
 
-// $sql .= ' LIMIT 100';
+//$sql .= ' AND Collation LIKE "101%"';
+
+//$sql .= ' LIMIT 100';
 
 //$sql .= ' AND Publication_year_full ="1965"';
 
 //$sql = 'SELECT * FROM names WHERE Id="1020601-1"';
-//$sql = 'SELECT * FROM names WHERE Id="250324-2"';
+//$sql = 'SELECT * FROM names WHERE Id="17572540-1"';
+
+//$sql = 'SELECT * FROM names WHERE Genus="Jaltomata"';
+
+$sql = 'SELECT * FROM names WHERE Publication="Sendtnera"';
+$sql = 'SELECT * FROM names WHERE Publication="Moscosoa"';
+$sql = 'SELECT * FROM names WHERE Publication="Moscosoa" and biostor is null';
+
+$sql = 'SELECT * FROM names WHERE Genus="Lessingianthus" and Publication="Proc. Biol. Soc. Washington"';
+
+
+$sql = 'SELECT * FROM names WHERE Publication="Gard. Bull. Singapore" and Collation <>"" and biostor is null';
+
+$sql = 'SELECT * FROM names WHERE Publication="Phytologia" and Collation <>"" and biostor is null';
+$sql = 'SELECT * FROM names WHERE Publication="Contr. Univ. Michigan Herb." and Collation <>"" and biostor is null';
+$sql = 'SELECT * FROM names WHERE Publication="Phytoneuron" and Collation <>"" and biostor is null';
+
+$sql = 'SELECT * FROM names WHERE issn="0016-5301" and Collation <>"" and biostor is null';
+
+$sql = 'SELECT * FROM names WHERE Publication="Proc. Biol. Soc. Washington" and Collation <>"" and biostor is null';
+
+// Gard. Bull. Singapore 
+$sql = 'SELECT * FROM names WHERE Publication="Gard. Bull. Singapore" and Collation <>"" and biostor is null';
+
+$sql = 'SELECT * FROM names WHERE Publication="Gard. Bull. Singapore" and Collation <>"" and biostor is null and Publication_year_full like "201%"';
+
+//$sql = 'SELECT * FROM names WHERE issn="1815-8242" and Collation <>"" and biostor is null';
+
+// Muelleria 
+$sql = 'SELECT * FROM names WHERE issn="0077-1813" and Collation <>"" and biostor is null and Publication_year_full like "200%"';
+
+$sql = 'SELECT * FROM names WHERE issn="0077-1813" and Collation LIKE "12%" and biostor is null';
+
+
+
+
+//$sql = 'SELECT * FROM names WHERE Id="17343590-1"';
+//$sql = 'SELECT * FROM names WHERE Id="901452-1"';
+
+$use_year = true;
+$use_year = false;
 
 $result = $db->Execute($sql);
 if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
@@ -64,10 +112,85 @@ while (!$result->EOF)
 	
 	$reference->year = $result->fields['Publication_year_full'];
 	
+	//$reference->year = preg_replace('/\s+\[.*\]$/', '', $reference->year);
+	
+	if (preg_match('/[0-9]{4}\s+\[(?<year>[0-9]{4})\s+publ/', $reference->year, $m))
+	{
+		$reference->year = $m['year'];
+	}
+	
 	echo "-- " .  $result->fields['Id'] . " " . $result->fields['Publication'] . " " . $result->fields['Collation'] . " " . $result->fields['Publication_year_full'] . "\n";
 
 	
 	$matched = false;
+	
+	if (!$matched)
+	{
+		if (preg_match('/^(?<volume>\d+)\.\s+(?<pages>\d+)\./', $result->fields['Collation'], $m))
+		{
+			$matched = true;
+			
+			//print_r($m);
+			
+			$reference->journal->volume = $m['volume'];
+			$reference->journal->pages = $m['pages'];
+			
+			//print_r($reference);
+		}
+	}
+	
+	
+	// Phytoneuron
+	if (!$matched)
+	{
+		if (preg_match('/^(?<volume>[0-9]{4}-\d+):\s+(?<pages>\d+)/', $result->fields['Collation'], $m))
+		{
+			$matched = true;
+			
+			//print_r($m);
+			
+			$reference->journal->volume = $m['volume'];
+			$reference->journal->pages = $m['pages'];
+			
+			//print_r($reference);
+		}
+	}
+	
+	
+	// No. 7, 43 (1942)
+	if (!$matched)
+	{
+		if (preg_match('/No.\s+(?<volume>\d+)(,|\.|,.)\s+(?<pages>\d+)/', $result->fields['Collation'], $m))
+		{
+			$matched = true;
+			
+			//print_r($m);
+			
+			$reference->journal->volume = $m['volume'];
+			$reference->journal->pages = $m['pages'];
+			
+			//print_r($reference);
+		}
+	}
+	
+	// No. 4 (Stud. Trop. Am. Pl. I.) 26
+	if (!$matched)
+	{
+		if (preg_match('/No.\s+(?<volume>\d+)\s+\(S.*\)\s+(?<pages>\d+)/', $result->fields['Collation'], $m))
+		{
+			$matched = true;
+			
+			//print_r($m);
+			
+			$reference->journal->volume = $m['volume'];
+			$reference->journal->pages = $m['pages'];
+			
+			//print_r($reference);
+		}
+	}
+	
+	
+	
 	if (!$matched)
 	{
 		if (preg_match('/(?<volume>\d+)\((?<issue>.*)\):\s+(?<pages>\d+)/', $result->fields['Collation'], $m))
@@ -152,14 +275,18 @@ while (!$result->EOF)
 		// lookup in BioStor
 		$found = false;
 		
-		$url = 'http://biostor.org/micro.php?';
+		$url = 'http://direct.biostor.org/micro.php?';
 		
 		$url .= 'journal=' . urlencode($reference->journal->name);
 		$url .= '&volume=' . $reference->journal->volume;
 		$url .= '&page=' . $reference->journal->pages;
-		$url .= '&year=' . $reference->year;
 		
-		//echo $url . "\n";
+		if ($use_year)
+		{
+			$url .= '&year=' . $reference->year;
+		}
+		
+		echo "-- $url\n";
 		
 		$json = get($url);
 		

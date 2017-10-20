@@ -150,265 +150,430 @@ $sql = 'select * from names where Publication="Bot. Mag. (Tokyo)"';
 //$sql = 'select * from names where Publication="Kew Bull." and `Publication_year_full`=2006';
 
 
+$sql = 'select * from names where issn="1674-4918" and doi is null and Collation NOT LIKE "46%";';
+//$sql = 'select * from names where issn="0003-3847" and Publication_year_full in(2008,2009) and doi is null;';
+
+$sql = 'select * from names where Publication="Rhodora" and Publication_year_full LIKE "2007%" and doi is null;';
+
+$sql = 'select * from names where Publication="Acta Bot. Hung." and Publication_year_full LIKE "20%" and doi is null;';
 
 
-$result = $db->Execute($sql);
-if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+$sql = 'select * from names where issn="0035-919X"';
 
-while (!$result->EOF) 
-{	
-	$reference = new stdclass;
-	
-	$reference->id = $result->fields['Id'];
-	
-	$reference->journal = new stdclass;
-	$reference->journal->name = $result->fields['Publication'];
-	
-	// Clean
-	if ($reference->journal->name == 'Kew Bull.')
-	{
-		$reference->journal->name = 'Kew Bulletin';
-	}
-	if ($reference->journal->name == 'Pl. Ecol. Evol.')
-	{
-		$reference->journal->name = 'Plant Ecology and Evolution';
-	}
-	if ($reference->journal->name == 'Pl. Syst. Evol.')
-	{
-		$reference->journal->name = 'Plant Systematics and Evolution';
-	}
-	if ($reference->journal->name == 'Bot. J. Linn. Soc.')
-	{
-		$reference->journal->name = 'Botanical Journal of the Linnean Society';
-	}
-	if ($reference->journal->name == 'Bull. Torrey Bot. Club')
-	{
-		$reference->journal->name = 'Bulletin of the Torrey Botanical Club';
-	}
-	if ($reference->journal->name == 'Repert. Spec. Nov. Regni Veg.')
-	{
-		$reference->journal->name = 'Repertorium novarum specierum regni vegetabilis';
-	}
+$sql = 'select * from names where issn="1055-3177" and doi is NULL and Publication_year_full > 2012';
+$sql = 'select * from names where Publication = "Willdenowia" and doi is NULL and Publication_year_full > 2012';
 
 
-	// jstage
-	if ($reference->journal->name == 'Bot. Mag. (Tokyo)')
-	{
-		$reference->journal->name = 'Shokubutsugaku Zasshi';
-	}
+
+$journals = array(
+'Acta Bot. Gallica Bot. Lett.',
+'Acta Bot. Hung.',
+'Acta Soc. Bot. Poloniae',
+'Amer. Fern J.',
+'Ann. Bot. (Oxford)',
+'Ann. Bot. Fenn.',
+'Austral. Syst. Bot.',
+'Blumea',
+'Bot. J. Linn. Soc.',
+'Bot. Sci.',
+'Brittonia',
+'Bull. Bot. Res., Harbin',
+'Candollea',
+'Curtis\'s Bot. Mag.',
+'Edinburgh J. Bot.',
+'Eur. J. Taxon.',
+'Feddes Repert.',
+'Guihaia',
+'Harvard Pap. Bot.',
+'J. Biogeogr.',
+'J. Torrey Bot. Soc.',
+'J. Trop. Subtrop. Bot.',
+'Kew Bull.',
+'Korean J. Pl. Taxon.',
+'Madroño',
+'Molec. Phylogen. Evol.',
+'New J. Bot.',
+'Nordic J. Bot.',
+'Novon',
+'Pacific Sci.',
+'PhytoKeys',
+'Phytotaxa',
+'Pl. Biosystems',
+'Pl. Diversity Resources',
+'Pl. Ecol. Evol.',
+'Pl. Syst. Evol.',
+'PLoS ONE',
+'Rhodora',
+'S. African J. Bot.',
+'Syst. Biodivers.',
+'Syst. Bot.',
+'Taiwania',
+'Taxon',
+'Turczaninowia',
+'Turkish J. Bot.',
+'Webbia',
+'Willdenowia'
+);
+
+//$journals=array('Kew Bull.');
+/*
+$journals=array('Pl. Biosystems');
+$journals=array('Adansonia');
+$journals=array('Nordic J. Bot.');
+$journals=array('Phytotaxa');
+$journals=array('Grana');
+$journals=array('Taxon','Telopea','Turkish J. Bot.');
+
+$journals=array('Molec. Phylogen. Evol.');
+$journals=array('Ann. Missouri Bot. Gard.');
+
+$journals=array('Aquatic Bot.');
+
+$journals=array('Bol. Bot. Univ. São Paulo');
+$journals=array('Wentia');
+*/
+
+$journals=array('Molec. Phylogen. Evol.');
+$journals=array('Canad. J. Bot.');
+
+$journals = array('Organisms Diversity Evol.');
+
+$journals=array('Feddes Repert.');
+
+$journals=array('Bothalia');
+
+$journals=array('Cact. Succ. J. (Los Angeles)');
+
+
+foreach ($journals as $journal)
+{
+
+	$sql = 'select * from names where Publication = "' . $journal .'" and doi is NULL';// and Publication_year_full > 2014';
+	//$sql = 'select * from names where issn="0302-2439" and doi is NULL';// and Publication_year_full > 2014';
+
+	//$sql = 'select * from names where Publication = "' . $journal .'" and doi is NULL and Publication_year_full = 2015';
+
+	$sql = 'select * from names where Publication = "' . $journal .'" and doi is NULL and Publication_year_full > 2014';
 
 	
-	if ($result->fields['issn'] != '')
-	{
-		$identifier = new stdclass;
-		$identifier->type = 'issn';
-		$identifier->id = $result->fields['issn'];
-		$reference->journal->identifier[] = $identifier;
-	}
-	
-	$reference->year = $result->fields['Publication_year_full'];
-	
-	echo "-- " .  $result->fields['Id'] . " " . $result->fields['Publication'] . " " . $result->fields['Collation'] . " " . $result->fields['Publication_year_full'] . "\n";
+	//echo $sql . "\n";
 
+	//$sql = 'SELECT * FROM names WHERE Id="77135386-1"';
 	
-	$matched = false;
-	if (!$matched)
-	{
-		if (preg_match('/(?<volume>\d+)\((?<issue>.*)\):\s+(?<pages>\d+)/', $result->fields['Collation'], $m))
+	//$sql = 'select * from `2014` where Publication = "' . $journal .'" and doi is NULL';
+	//$sql = 'SELECT * FROM `2014` WHERE issn IS NOT NULL and doi IS NULL';
+
+	//$sql = 'SELECT * FROM `2016` WHERE issn IS NOT NULL and doi IS NULL';
+
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+
+	while (!$result->EOF) 
+	{	
+	
+	
+		$reference = new stdclass;
+	
+		$reference->id = $result->fields['Id'];
+	
+		$reference->journal = new stdclass;
+		$reference->journal->name = $result->fields['Publication'];
+	
+		// Clean
+		if ($reference->journal->name == 'Kew Bull.')
 		{
-			$matched = true;
-			
-			//print_r($m);
-			
-			$reference->journal->volume = $m['volume'];
-			$reference->journal->issue = $m['issue'];
-			$reference->journal->pages = $m['pages'];
-			
-			//print_r($reference);
+			$reference->journal->name = 'Kew Bulletin';
 		}
-	}
+		if ($reference->journal->name == 'Pl. Ecol. Evol.')
+		{
+			$reference->journal->name = 'Plant Ecology and Evolution';
+		}
+		if ($reference->journal->name == 'Pl. Syst. Evol.')
+		{
+			$reference->journal->name = 'Plant Systematics and Evolution';
+		}
+		if ($reference->journal->name == 'Bot. J. Linn. Soc.')
+		{
+			$reference->journal->name = 'Botanical Journal of the Linnean Society';
+		}
+		if ($reference->journal->name == 'Bull. Torrey Bot. Club')
+		{
+			$reference->journal->name = 'Bulletin of the Torrey Botanical Club';
+		}
+		if ($reference->journal->name == 'Repert. Spec. Nov. Regni Veg.')
+		{
+			$reference->journal->name = 'Repertorium novarum specierum regni vegetabilis';
+		}
+		if ($reference->journal->name == 'Acta Bot. Hung.')
+		{
+			$reference->journal->name = 'Acta Botanica Hungarica';
+		}
+	
+	
 
-	if (!$matched)
-	{
-		if (preg_match('/(?<volume>\d+):\s+(?<pages>\d+)[,]?/', $result->fields['Collation'], $m))
+
+		// jstage
+		if ($reference->journal->name == 'Bot. Mag. (Tokyo)')
 		{
-			$matched = true;
-			
-			//print_r($m);
-			
-			$reference->journal->volume = $m['volume'];
-			$reference->journal->pages = $m['pages'];
-			
-			//print_r($reference);
+			$reference->journal->name = 'Shokubutsugaku Zasshi';
 		}
-	}
+
 	
-	if (!$matched)
-	{
-		if (preg_match('/(?<volume>\d+)\s+(?<pages>\d+)$/', $result->fields['Collation'], $m))
+		if ($result->fields['issn'] != '')
 		{
-			$matched = true;
-			
-			//print_r($m);
-			
-			$reference->journal->volume = $m['volume'];
-			$reference->journal->pages = $m['pages'];
-			
-			//print_r($reference);
+			$identifier = new stdclass;
+			$identifier->type = 'issn';
+			$identifier->id = $result->fields['issn'];
+			$reference->journal->identifier[] = $identifier;
 		}
-	}
 	
-	// 1920, vi, 205.
-	if (!$matched)
-	{
-		if (preg_match('/^(?<year>[0-9]{4}),\s+(?<volume>[ivxlc]+)[,|.]\s+(?<pages>\d+)\.?$/i', $result->fields['Collation'], $m))
-		{
-			$matched = true;
-			
-			//print_r($m);
-			
-			
-			
-			$reference->journal->volume = arabic($m['volume']);
-			$reference->journal->pages = $m['pages'];
-			
-			//print_r($reference);
-		}
-	}
+		$reference->year = $result->fields['Publication_year_full'];
 	
-	if (!$matched)
-	{
-		if (preg_match('/^(?<volume>[ivxlc]+)\.?\s+\((?<year>[0-9]{4})\)\s+(?<pages>\d+)\.?$/i', $result->fields['Collation'], $m))
-		{
-			$matched = true;
-			
-			//print_r($m);
-			
-			
-			
-			$reference->journal->volume = arabic($m['volume']);
-			$reference->journal->pages = $m['pages'];
-			
-			//print_r($reference);
-		}
-	}
+		echo "-- " .  $result->fields['Id'] . " " . $result->fields['Publication'] . " " . $result->fields['Collation'] . " " . $result->fields['Publication_year_full'] . "\n";
+
 	
-	if (!$matched)
-	{
-		if (preg_match('/(?<volume>[ivxlc]+)\.?\s+(?<pages>\d+)/i', $result->fields['Collation'], $m))
-		{
-			$matched = true;
-			
-			//print_r($m);
-			
-			
-			
-			$reference->journal->volume = arabic($m['volume']);
-			$reference->journal->pages = $m['pages'];
-			
-			//print_r($reference);
-		}
-	}
-	
-	
-	
-	//$missing = array(94,95,65,96,97,99,100,63,64,66,67);
-	
-	
-	
-	
-	if ($matched) // && !in_array($reference->journal->volume, $missing))
-	{
-	
-		//print_r($reference);
-	
-		$steps = -50;
-		$found = false;
-		while (!$found and $steps < 0 && $reference->journal->pages > 0)
-		{
+		$matched = false;
 		
-			//$found = find_doi($reference);
-			$found = find_jstage($reference);
-			
-			if (!$found)
+		// PLoS
+		if (!$matched)
+		{
+			// PLoS ONE 8(12): e82692
+			if (preg_match('/(?<volume>\d+)\((?<issue>.*)\):\s+(?<pages>e\d+)/', $result->fields['Collation'], $m))
 			{
-				$reference->journal->pages--;
-				$steps++;
+				$matched = true;
+			
+				//print_r($m);
+				$reference->journal->volume = $m['volume'];
+				$reference->journal->issue = $m['issue'];
+				$reference->journal->pages = $m['pages'];
+			
+				//print_r($reference);
+			}
+		}
+			
+		
+		// Kew
+		if (!$matched)
+		{
+			if (preg_match('/(?<volume>\d+)\((?<issue>.*)\)(\-\d+)?:\s+(?<pages>\d+)/', $result->fields['Collation'], $m))
+			{
+				$matched = true;
+			
+				//print_r($m);
+			
+				$reference->journal->volume = $m['volume'];
+				$reference->journal->issue = $m['issue'];
+				$reference->journal->pages = $m['pages'];
+			
+				//print_r($reference);
+			}
+		}
+		
+		
+		
+		if (!$matched)
+		{
+			if (preg_match('/(?<volume>\d+)\((?<issue>.*)\):\s+(?<pages>\d+)/', $result->fields['Collation'], $m))
+			{
+				$matched = true;
+			
+				//print_r($m);
+			
+				$reference->journal->volume = $m['volume'];
+				$reference->journal->issue = $m['issue'];
+				$reference->journal->pages = $m['pages'];
+			
+				//print_r($reference);
+			}
+		}
+
+		if (!$matched)
+		{
+			if (preg_match('/(?<volume>\d+):\s+(?<pages>\d+)[,]?/', $result->fields['Collation'], $m))
+			{
+				$matched = true;
+			
+				//print_r($m);
+			
+				$reference->journal->volume = $m['volume'];
+				$reference->journal->pages = $m['pages'];
+			
+				//print_r($reference);
+			}
+		}
+	
+		if (!$matched)
+		{
+			if (preg_match('/(?<volume>\d+)\s+(?<pages>\d+)$/', $result->fields['Collation'], $m))
+			{
+				$matched = true;
+			
+				//print_r($m);
+			
+				$reference->journal->volume = $m['volume'];
+				$reference->journal->pages = $m['pages'];
+			
+				//print_r($reference);
+			}
+		}
+	
+		// 1920, vi, 205.
+		if (!$matched)
+		{
+			if (preg_match('/^(?<year>[0-9]{4}),\s+(?<volume>[ivxlc]+)[,|.]\s+(?<pages>\d+)\.?$/i', $result->fields['Collation'], $m))
+			{
+				$matched = true;
+			
+				//print_r($m);
+			
+			
+			
+				$reference->journal->volume = arabic($m['volume']);
+				$reference->journal->pages = $m['pages'];
+			
+				//print_r($reference);
+			}
+		}
+	
+		if (!$matched)
+		{
+			if (preg_match('/^(?<volume>[ivxlc]+)\.?\s+\((?<year>[0-9]{4})\)\s+(?<pages>\d+)\.?$/i', $result->fields['Collation'], $m))
+			{
+				$matched = true;
+			
+				//print_r($m);
+			
+			
+			
+				$reference->journal->volume = arabic($m['volume']);
+				$reference->journal->pages = $m['pages'];
+			
+				//print_r($reference);
+			}
+		}
+	
+		if (!$matched)
+		{
+			if (preg_match('/(?<volume>[ivxlc]+)\.?\s+(?<pages>\d+)/i', $result->fields['Collation'], $m))
+			{
+				$matched = true;
+			
+				//print_r($m);
+			
+			
+			
+				$reference->journal->volume = arabic($m['volume']);
+				$reference->journal->pages = $m['pages'];
+			
+				//print_r($reference);
+			}
+		}
+	
+	
+	
+		//$missing = array(94,95,65,96,97,99,100,63,64,66,67);
+	
+	
+	
+	
+		if ($matched) // && !in_array($reference->journal->volume, $missing))
+		{
+	
+			//print_r($reference);
+			
+			if (0)
+			{
+				$found = find_doi($reference);
+			}
+			else
+			{
+				$steps = -50;
+				$found = false;
+				while (!$found and $steps < 0 && $reference->journal->pages > 0)
+				{
+					$found = find_doi($reference);
+					//$found = find_jstage($reference);
+			
+					if (!$found)
+					{
+						$reference->journal->pages--;
+						$steps++;
 				
-				echo "-- " . $reference->journal->pages . "\n";
+						echo "-- " . $reference->journal->pages . "\n";
+					}
+				}
 			}
-		}
-		
-		if ($found)
-		{
-			// print_r($reference);
-			
-			$updates = array();
 					
-			if (isset($reference->identifier))
+			if ($found)
 			{
-				foreach ($reference->identifier as $identifier)
+				// print_r($reference);
+			
+				$updates = array();
+					
+				if (isset($reference->identifier))
 				{
-					switch ($identifier->type)
+					foreach ($reference->identifier as $identifier)
 					{
-						case 'doi':
-							$updates[] = 'doi="' . $identifier->id . '"';
-							break;
+						switch ($identifier->type)
+						{
+							case 'doi':
+								$updates[] = 'doi="' . $identifier->id . '"';
+								break;
 							
-						default:
-							break;
+							default:
+								break;
+						}
 					}
 				}
-			}
 			
-			if (isset($reference->journal->identifier))
-			{
-				foreach ($reference->journal->identifier as $identifier)
+				if (isset($reference->journal->identifier))
 				{
-					switch ($identifier->type)
+					foreach ($reference->journal->identifier as $identifier)
 					{
-						case 'issn':
-							$updates[] = 'issn="' . $identifier->id . '"';
-							break;
+						switch ($identifier->type)
+						{
+							case 'issn':
+								$updates[] = 'issn="' . $identifier->id . '"';
+								break;
 							
-						default:
-							break;
+							default:
+								break;
+						}
 					}
 				}
-			}
 			
-			if (isset($reference->link))
-			{
-				foreach ($reference->link as $link)
+				if (isset($reference->link))
 				{
-					switch ($link->anchor)
+					foreach ($reference->link as $link)
 					{
-						case 'LINK':
-							$updates[] = 'url="' . $link->url . '"';
-							break;
+						switch ($link->anchor)
+						{
+							case 'LINK':
+								$updates[] = 'url="' . $link->url . '"';
+								break;
 
-						case 'PDF':
-							$updates[] = 'pdf="' . $link->url . '"';
-							break;
+							case 'PDF':
+								$updates[] = 'pdf="' . $link->url . '"';
+								break;
 							
-						default:
-							break;
+							default:
+								break;
+						}
 					}
 				}
+			
+			
+				echo 'UPDATE names SET ' . join(",", $updates) . ' WHERE Id="' . $reference->id . '";' . "\n";
 			}
-			
-			
-			echo 'UPDATE names SET ' . join(",", $updates) . ' WHERE Id="' . $reference->id . '";' . "\n";
 		}
-	}
-	else
-	{
-		echo "-- not matched\n";
-		//exit();
-	}
+		else
+		{
+			echo "-- not matched\n";
+			//exit();
+		}
 	
 	
-	$result->MoveNext();
+		$result->MoveNext();
+	}
 }
-
 ?>

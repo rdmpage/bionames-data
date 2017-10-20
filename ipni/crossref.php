@@ -9,7 +9,7 @@ function augment_jstor(&$reference, $id)
 	
 	$url = 'http://www.jstor.org/stable/' . $id;
 	
-	//echo $url . "\n";
+	echo $url . "\n";
 	
 	$html = get($url);
 	
@@ -32,7 +32,7 @@ function augment_jstor(&$reference, $id)
 	}
 	*/
 	
-	if (1)
+	if (0)
 	{
 		if (preg_match('/<div id="articlePageNav" class="container">\s+Page\s+\[?\d+\]? of (?<spage>\d+)-(?<epage>\d+)/', $html, $m))
 		{
@@ -77,7 +77,7 @@ function augment_jstor(&$reference, $id)
 		}
 	}
 	
-	if (0)
+	if (1)
 	{
 		if (preg_match('/<\/cite>\s*<br\/>(?<citation>.*)<br\/>/Uu', $html, $m))
 		{
@@ -176,14 +176,26 @@ function get_doi_metadata_unixref($doi, &$reference)
 			$reference->journal->pages .= '--' . $node->firstChild->nodeValue;
 		}
 		
-
-		$xpath_query = '//journal/journal_article/titles/title';
-		$nodeCollection = $xpath->query ($xpath_query);
+		$reference->title = '';
 		
+		$xpath_query = '//journal_article[@publication_type="full_text"]/titles/title';
+		$nodeCollection = $xpath->query ($xpath_query);
 		foreach($nodeCollection as $node)
 		{
-			$reference->title = $node->firstChild->nodeValue;
+   			$children  = $node->childNodes;
+
+    		foreach ($children as $child) 
+    		{ 
+        		$reference->title  .= $node->ownerDocument->saveHTML($child);
+    		}
 		}
+			
+		$reference->title = strip_tags($reference->title);
+			
+		$reference->title = preg_replace('/\s\s+/u', ' ', $reference->title);
+		$reference->title = preg_replace('/^\s+/u', '', $reference->title);
+		$reference->title = preg_replace('/\s+$/u', '', $reference->title);
+		$reference->title = preg_replace('/\n/', '', $reference->title);
 		
 		$xpath_query = '//journal/journal_metadata/issn[@media_type="print"]';
 		$nodeCollection = $xpath->query ($xpath_query);
@@ -229,6 +241,39 @@ function get_doi_metadata_unixref($doi, &$reference)
 				}
 			}
 		}	
+		
+		$xpath_query = '//journal_article/publication_date[@media_type="print"]/year';
+		$nodeCollection = $xpath->query ($xpath_query);
+		foreach($nodeCollection as $node)
+		{
+			$reference->year = $node->firstChild->nodeValue;
+		}
+		
+		
+		if (!isset($reference->author))
+		{
+			$xpath_query = '//journal_article/contributors/person_name[@contributor_role="author"]';
+			$nodeCollection = $xpath->query ($xpath_query);
+			foreach($nodeCollection as $node)
+			{
+				$author = new stdclass;
+				$nc = $xpath->query ('given_name', $node);
+				foreach($nc as $n)
+				{
+					$author->firstname = $n->firstChild->nodeValue;
+				}
+				$nc = $xpath->query ('surname', $node);
+				foreach($nc as $n)
+				{
+					$author->lastname = $n->firstChild->nodeValue;
+				}
+				$author->name = $author->firstname . ' ' . $author->lastname;
+			
+				$reference->author[] = $author;
+			}
+		
+		}
+		
 	
 	
 	
@@ -290,6 +335,28 @@ function find_doi(&$reference)
 				augment_jstor($reference, $m['id']);
 			}
 			*/
+			
+			// fix Canadian Journal of Botany fuck up
+			if (preg_match('/10.1139\/cjb/', $identifier->id))
+			{
+				//echo "xxx\n";
+				$nc = $xpath->query ('//journal_article/doi_data/resource');
+				foreach($nc as $n)
+				{
+					$url = $n->firstChild->nodeValue;
+					$url = preg_replace('/^(.*)\?cjb_/', '', $url);
+					$url = preg_replace('/_\d+(.*)$/', '', $url);
+					
+					$reference->identifier = array();
+					$identifier = new stdclass;
+					$identifier->type = 'doi';
+					$identifier->id = '10.1139/' . $url;
+					$reference->identifier[] = $identifier;
+					
+					
+				}
+			}
+			
 		}
 		
 		

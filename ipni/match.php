@@ -270,6 +270,91 @@ function match_bioguid($reference)
 	}
 }	
 
+function match_ingenta($reference)
+{
+	global $db;
+	
+	//print_r($reference);
+	
+	if (isset($reference->journal->identifier))
+	{
+		foreach ($reference->journal->identifier as $identifier)
+		{
+			switch ($identifier->type)
+			{
+				case 'issn':
+					$issn = $identifier->id;
+					$volume = $reference->journal->volume;
+					$spage = $reference->journal->pages;					
+	
+					//$sql = 'select * from article_cache where issn="' . $issn . '" and volume=' . $volume . ' and spage <= ' . $spage . ' and spage <> 0 order by cast(spage as signed) desc limit 1';
+					
+					$sql = 'select * from ingenta where issn="' . $issn . '" and volume=' . $volume . ' and (' . $spage .  ' between spage and epage)';
+					
+					// echo $sql . "\n";
+					
+					$result = $db->Execute($sql);
+					if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+					
+					if ($result->NumRows() == 1)
+					{
+						if ($result->fields['url'] != '')
+						{
+							echo 'UPDATE names SET url="' . $result->fields['url'] . '" WHERE Id="' . $reference->id . '";' . "\n";
+						}
+					}	
+					break;
+					
+				default:
+					break;
+			}
+		}
+	}
+}	
+
+function match_dspace($reference)
+{
+	global $db;
+	
+	//print_r($reference);
+	
+	if (isset($reference->journal->identifier))
+	{
+		foreach ($reference->journal->identifier as $identifier)
+		{
+			switch ($identifier->type)
+			{
+				case 'issn':
+					$issn = $identifier->id;
+					$volume = $reference->journal->volume;
+					$spage = $reference->journal->pages;					
+	
+					//$sql = 'select * from article_cache where issn="' . $issn . '" and volume=' . $volume . ' and spage <= ' . $spage . ' and spage <> 0 order by cast(spage as signed) desc limit 1';
+					
+					$sql = 'select * from dspace where issn="' . $issn . '" and volume=' . $volume . ' and (' . $spage .  ' between spage and epage)';
+					
+					// echo $sql . "\n";
+					
+					$result = $db->Execute($sql);
+					if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+					
+					if ($result->NumRows() == 1)
+					{
+						if ($result->fields['handle'] != '')
+						{
+							echo 'UPDATE names SET handle="' . $result->fields['handle'] . '" WHERE Id="' . $reference->id . '";' . "\n";
+						}
+					}	
+					break;
+					
+				default:
+					break;
+			}
+		}
+	}
+}	
+
+
 //--------------------------------------------------------------------------------------------------
 function match_biostor($reference)
 {
@@ -339,6 +424,70 @@ function match_biostor($reference)
 }	
 
 
+//--------------------------------------------------------------------------------------------------
+function match_ris($reference)
+{
+	global $db;
+	
+	//print_r($reference);
+	
+	if (isset($reference->journal->identifier))
+	{
+		foreach ($reference->journal->identifier as $identifier)
+		{
+			switch ($identifier->type)
+			{
+				case 'issn':
+					$issn = $identifier->id;
+					$volume = $reference->journal->volume;
+					
+					$issue = null;
+					if (isset($reference->journal->issue))
+					{
+						$issue = $reference->journal->issue;
+					}
+					$spage = $reference->journal->pages;					
+	
+					//$sql = 'select * from article_cache where issn="' . $issn . '" and volume=' . $volume . ' and spage <= ' . $spage . ' and spage <> 0 order by cast(spage as signed) desc limit 1';
+					
+					if ($issue)
+					{
+						$sql = 'select * from ris where issn="' . $issn . '" and volume=' . $volume . ' and issue=' . $issue . ' and (' . $spage .  ' between spage and epage)';
+					}
+					else
+					{
+						$sql = 'select * from ris where issn="' . $issn . '" and volume=' . $volume . ' and (' . $spage .  ' between spage and epage)';
+					}
+					
+					 echo $sql . "\n";
+					
+					$result = $db->Execute($sql);
+					if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+					
+					if ($result->NumRows() == 1)
+					{
+						if ($result->fields['url'] != '')
+						{
+							echo 'UPDATE names SET url="' . $result->fields['url'] . '" WHERE Id="' . $reference->id . '";' . "\n";
+						}
+						if ($result->fields['url'] != '')
+						{
+							echo 'UPDATE names SET pdf="' . $result->fields['pdf'] . '" WHERE Id="' . $reference->id . '";' . "\n";
+						}
+						if ($result->fields['doi'] != '')
+						{
+							echo 'UPDATE names SET doi="' . $result->fields['doi'] . '" WHERE Id="' . $reference->id . '";' . "\n";
+						}
+					}	
+					break;
+					
+				default:
+					break;
+			}
+		}
+	}
+}	
+
 
 
 
@@ -384,6 +533,8 @@ $sql = 'SELECT * FROM ipni.names WHERE issn="0040-9618" AND Collation <> ""';
 $sql = 'SELECT * FROM ipni.names WHERE issn="0044-5983" AND Collation <> ""';
 $sql = 'SELECT * FROM ipni.names WHERE issn="0375-121X" AND doi IS NULL AND Collation <> ""';
 
+$sql = 'SELECT * FROM ipni.names WHERE issn="0040-0262" AND doi IS NULL AND Collation <> ""';
+
 
 //$sql = 'SELECT * FROM ipni.names WHERE genus="Coursetia"';
 
@@ -395,10 +546,30 @@ $sql = 'SELECT * FROM ipni.names WHERE issn="0375-121X" AND doi IS NULL AND Coll
 //$sql = 'select * from names where Genus="Grosvenoria"';
 
 // 0006-808X
-//$sql = 'SELECT * FROM names WHERE Id="879744-1"';
+$sql = 'SELECT * FROM names WHERE Id="760954-1"';
 
 
 //$sql = 'select * from names where issn="0040-9618" and Collation like "1906, xxxiii%"';
+
+//$sql = 'select * from names where Publication = "Taxon" and doi is NULL';
+
+
+//$sql = 'SELECT * FROM ipni.names WHERE issn="1945-9459" and doi is NULL';
+
+$sql = 'select * from names where issn="1253-8078" ';
+$sql = 'select * from names where issn="1179-3155" and doi is NULL and Publication_year_full > 2012';
+
+$sql = 'select * from names where issn="1055-3177" and doi is NULL and Publication_year_full > 2012';
+
+
+
+$sql = 'select * from names where Publication = "Willdenowia" and doi is NULL and Publication_year_full > 2012';
+
+
+$sql = 'select * from names where issn="1439-6092" and doi is NULL';
+$sql = 'select * from names where issn="0006-8241" and doi is NULL';
+
+
 
 //echo $sql . "\n";
 
@@ -445,6 +616,24 @@ while (!$result->EOF)
 
 	
 	$matched = false;
+	
+	if ($reference->journal->name == 'Bulletin of Miscellaneous Information (Royal Gardens, Kew)')
+	{
+		if (preg_match('/^(?<pages>\d+)?\s+\((?<year>[0-9]{4})\)$/i', $result->fields['Collation'], $m))
+		{
+			$matched = true;
+			
+			//print_r($m);
+			
+			
+			
+			$reference->journal->volume = $m['year'];
+			$reference->year = $m['year'];
+			$reference->journal->pages = $m['pages'];
+			
+			//print_r($reference);
+		}
+	}
 
 	// xxv. (1889) 36.
 	if (!$matched)
@@ -468,7 +657,7 @@ while (!$result->EOF)
 	
 	if (!$matched)
 	{
-		if (preg_match('/(?<volume>\d+)(\((?<issue>.*)\))?:\s+(?<pages>\d+)/', $result->fields['Collation'], $m))
+		if (preg_match('/(?<volume>\d+)(\((?<issue>.*)\))?:\s+(?<pages>\d+)\b/Uu', $result->fields['Collation'], $m))
 		{
 			$matched = true;
 			
@@ -487,7 +676,7 @@ while (!$result->EOF)
 	
 	if (!$matched)
 	{
-		if (preg_match('/(?<volume>\d+)(\((?<issue>.*)\))\s+(?<pages>\d+)/', $result->fields['Collation'], $m))
+		if (preg_match('/(?<volume>\d+)(\((?<issue>.*)\))\s+(?<pages>\d+)\b/Uu', $result->fields['Collation'], $m))
 		{
 			$matched = true;
 			
@@ -594,14 +783,25 @@ while (!$result->EOF)
 	
 	if ($matched)
 	{
-		//print_r($reference);
+		print_r($reference);
+		//exit();
 		match($reference);
+		
 		//match_jstor($reference);
 		//match_bioguid($reference);
 		//match_biostor($reference);
 		
 		
 		//match_cinii($reference);
+		
+		//match_ingenta($reference);
+		//match_dspace($reference);
+		
+		//match_ris($reference);
+	}
+	else
+	{
+		echo "-- no match\n";
 	}
 	
 	
