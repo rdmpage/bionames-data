@@ -313,7 +313,11 @@ function reference_to_openurl($reference)
 				case 'pmid':
 					$openurl .= '&amp;rft_id=info:pmid/' . urlencode($identifier->id);
 					break;
-
+					
+				case 'zoobank':
+					$openurl .= '&amp;rft_id=http://zoobank.org/' . urlencode($identifier->id);
+					break;
+					
 				default:
 					break;
 			}

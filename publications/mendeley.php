@@ -10,7 +10,7 @@ $mendeley_config = array(
 	'mendeley_database' => 'sqlite:' . '/Users/rpage/Library/Application Support/Mendeley Desktop' . '/r.page@bio.gla.ac.uk@www.mendeley.com.sqlite'
 	);
 
-$dbh = new PDO($mendeley_config['mendeley_database']);
+//$dbh = new PDO($mendeley_config['mendeley_database']);
 
 //--------------------------------------------------------------------------------------------------
 function get_thumbnail_for_pdf(&$reference, $pdf_url)

@@ -5,6 +5,7 @@
 require_once (dirname(dirname(__FILE__)) . '/adodb5/adodb.inc.php');
 require_once (dirname(dirname(__FILE__)). '/couchsimple.php');
 require_once (dirname(dirname(__FILE__)) . '/lib.php');
+require_once (dirname(dirname(__FILE__)) . '/nameparse.php');
 
 require_once (dirname(__FILE__) . '/reference.php');
 require_once (dirname(__FILE__) . '/biostor.php');
@@ -18,6 +19,330 @@ $db->Connect("localhost",
 
 // Ensure fields are (only) indexed by column name
 $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
+
+$db->EXECUTE("set names 'utf8'"); 
+
+
+
+// http://stackoverflow.com/questions/7709593/php-json-decode-utf8
+function ewchar_to_utf8($matches) {
+    $ewchar = $matches[1];
+    $binwchar = hexdec($ewchar);
+    $wchar = chr(($binwchar >> 8) & 0xFF) . chr(($binwchar) & 0xFF);
+    return iconv("unicodebig", "utf-8", $wchar);
+}
+
+function special_unicode_to_utf8($str) {
+    return preg_replace_callback("/u([[:xdigit:]]{4})/i", "ewchar_to_utf8", $str);
+}
+
+//--------------------------------------------------------------------------------------------------
+function get_authors_jstor($jstor, &$reference)
+{
+	global $db;
+		
+	
+	$sql = "select * from names_authors_jstor where jstor=" . $jstor . ' LIMIT 1';
+	
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+	
+	if ($result->NumRows() == 1)
+	{
+		$authorlist = $result->fields['authors'];
+		
+		$authorlist = mb_convert_encoding($authorlist, 'UTF-8', 'HTML-ENTITIES');
+		
+		$a = explode(";", $authorlist);
+		
+		$reference->author = array();
+		
+		foreach ($a as $authorstring)
+		{
+			//$authorstring = utf8_encode($authorstring);
+			
+			/*
+			
+			$parts = explode(",", $authorstring);
+			if (count($parts) == 2)
+			{
+				$author = new stdClass();
+				$author->firstname = $parts[1];
+				
+				$author->firstname = trim($author->firstname);
+				$author->firstname = str_replace('.', '', $author->firstname);
+				
+				$author->lastname = $parts[0];
+				$author->name = $author->firstname . ' '  . $author->lastname;
+				$reference->author[] = $author;
+			}
+			*/
+			
+			$matched = false;
+			
+			if (!$matched)
+			{
+				if (preg_match('/^(?<lastname>.*),\s+(?<firstname>.*)$/Uu', $authorstring, $m))
+				{
+					$author = new stdClass();
+					$author->firstname = $m['firstname'];
+					$author->lastname = $m['lastname'];
+					$author->name = $author->firstname . ' ' . $author->lastname;
+					$reference->author[] = $author;
+					
+					$matched = true;
+				}
+			}
+			
+			if (!$matched)
+			{
+				if (preg_match('/^(?<firstname>.*)\s+(?<lastname>\w+(-\w+)?)$/Uu', $authorstring, $m))
+				{
+					$author = new stdClass();
+					$author->firstname = $m['firstname'];
+					$author->lastname = $m['lastname'];
+					$author->name = $authorstring;
+					$reference->author[] = $author;
+					
+					$matched = true;
+				}
+			}
+			
+		}
+	}
+
+	
+	return $authors;
+}
+
+//--------------------------------------------------------------------------------------------------
+function get_authors_pdf($pdf, &$reference)
+{
+	global $db;
+		
+	
+	$sql = "select * from names_authors_pdf where pdf=" . $db->qstr($pdf) . ' LIMIT 1';
+	
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+	
+	if ($result->NumRows() == 1)
+	{
+		$authorlist = $result->fields['authors'];
+		
+		//$authorlist = mb_convert_encoding($authorlist, 'UTF-8', 'HTML-ENTITIES');
+		
+		$a = explode(";", $authorlist);
+		
+		$reference->author = array();
+		
+		foreach ($a as $authorstring)
+		{
+			//$authorstring = utf8_encode($authorstring);
+			
+			$parts = explode(",", $authorstring);
+			if (count($parts) == 2)
+			{
+				$author = new stdClass();
+				$author->firstname = $parts[1];
+				
+				$author->firstname = trim($author->firstname);
+				$author->firstname = str_replace('.', '', $author->firstname);
+				
+				$author->lastname = $parts[0];
+				$author->name = $author->firstname . ' '  . $author->lastname;
+				$reference->author[] = $author;
+			}
+			else
+			{
+				$parts = explode(" ", $authorstring);
+				$n = count($parts);
+				if ($n > 1)
+				{
+					$author = new stdClass();
+					$author->lastname = $parts[$n-1];
+					
+					array_pop($parts);
+					$author->firstname  = join(' ', $parts);
+			
+					$author->name = $author->firstname . ' '  . $author->lastname;
+					$reference->author[] = $author;
+				}
+			}
+		}
+	}
+
+	
+	return $authors;
+}
+
+
+//--------------------------------------------------------------------------------------------------
+function get_abstract_pdf($pdf, &$reference)
+{
+	global $db;
+		
+	
+	$sql = "select * from names_pdf_abstract where pdf=" . $db->qstr($pdf) . ' LIMIT 1';
+	
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+	
+	if ($result->NumRows() == 1)
+	{
+		$reference->abstract = $result->fields['abstract'];
+	}
+}
+
+
+//--------------------------------------------------------------------------------------------------
+function get_authors_from_database(&$reference)
+{
+	global $db;
+	
+	$authors = array();
+	
+	$sql = "select * from names_authors where sici=" . $db->qstr($reference->_id) . ' LIMIT 1';
+	
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+	
+	if ($result->NumRows() == 1)
+	{
+		$authorlist = $result->fields['authors'];
+		$a = explode(";", $authorlist);
+		
+		$reference->author = array();
+		
+		foreach ($a as $authorstring)
+		{
+			$authorstring = utf8_encode($authorstring);
+			/*
+			
+			$parts = parse_name($authorstring);
+			
+			$author = new stdClass();
+			
+			if (isset($parts['last']))
+			{
+				$author->lastname = utf8_encode($parts['last']);
+			}
+			if (isset($parts['suffix']))
+			{
+				$author->suffix = $parts['suffix'];
+			}
+			if (isset($parts['first']))
+			{
+				$author->firstname = utf8_encode($parts['first']);
+				
+				if (array_key_exists('middle', $parts))
+				{
+					$author->firstname .= ' ' . $parts['middle'];
+				}
+			}
+			$author->firstname = preg_replace('/\./Uu', '', $author->firstname);
+			$author->name = $author->firstname . ' ' . $author->lastname;
+			*/
+			
+			//echo $authorstring . "\n"; exit();
+			
+			$matched = false;
+			
+			if (!$matched)
+			{
+				if (preg_match('/^(?<lastname>.*),\s+(?<firstname>.*)$/Uu', $authorstring, $m))
+				{
+					$author = new stdClass();
+					$author->firstname = $m['firstname'];
+					$author->lastname = $m['lastname'];
+					$author->name = $author->firstname . ' ' . $author->lastname;
+					$reference->author[] = $author;
+					
+					$matched = true;
+				}
+			}
+			
+			if (!$matched)
+			{
+				if (preg_match('/^(?<firstname>.*)\s+(?<lastname>.*)$/Uu', $authorstring, $m))
+				{
+					$author = new stdClass();
+					$author->firstname = $m['firstname'];
+					$author->lastname = $m['lastname'];
+					$author->name = $authorstring;
+					$reference->author[] = $author;
+					
+					$matched = true;
+				}
+			}
+				
+			
+			
+		
+		}
+	}
+
+}
+
+//--------------------------------------------------------------------------------------------------
+function get_bhleurope_authors($pdf)
+{
+	global $db;
+	
+	$authors = array();
+	
+	$sql = "select * from bhleurope where pdf=" . $db->qstr($pdf) . ' LIMIT 1';
+	
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+	
+	if ($result->NumRows() == 1)
+	{
+		$authorlist = $result->fields['authors'];
+		
+		if ($authorlist != '')
+		{
+			$a = json_decode($authorlist, true);
+			if (count($a) > 0)
+			{
+				foreach ($a as $authorstring)
+				{
+					$authorstring = special_unicode_to_utf8($authorstring);
+					$parts = parse_name($authorstring);
+					
+					$author = new stdClass();
+					
+					if (isset($parts['last']))
+					{
+						$author->lastname = $parts['last'];
+					}
+					if (isset($parts['suffix']))
+					{
+						$author->suffix = $parts['suffix'];
+					}
+					if (isset($parts['first']))
+					{
+						$author->firstname = $parts['first'];
+						
+						if (array_key_exists('middle', $parts))
+						{
+							$author->firstname .= ' ' . $parts['middle'];
+						}
+					}
+					$author->firstname = preg_replace('/\./Uu', '', $author->firstname);
+					$author->name = $author->firstname . ' ' . $author->lastname;
+					
+					$authors[] = $author;
+				
+				}
+			}
+		}
+	}
+	
+	return $authors;
+}
+
+
 
 //--------------------------------------------------------------------------------------------------
 function get_sha1_from_sici($sici)
@@ -57,12 +382,29 @@ function get_sha1(&$reference, $pdf)
 		$reference->file->url = $result->fields['pdf'];
 		
 		// thumbnail
+	
 		$url = 'http://direct.bionames.org/bionames-archive/documentcloud/pages/' . $reference->file->sha1 . '/1-small';
+		$url = 'http://bionames.org/bionames-archive/documentcloud/pages/' . $reference->file->sha1 . '/1-small';
+		
+		//$url = 'http://direct.bionames.org/bionames-archive/documentcloud/pages/6bbe0757d7b4e0caec2f4c61cf861f2d8b8bb172/1-small';
+		
+		//$url = 'http://direct.bionames.org/bionames-archive/pdf/34/bc/89/34bc89cd65c9e80a4d5f9bc8b9c6c97ce2e02287/images/thumbnails/page-0.png';
+		
+		//$url = 'http://direct.bionames.org/bionames-archive/pdf/f9/f5/ac/f9f5acca891adfa7f98204ca3df4aa4dd1b0c18b/images/thumbnails/page-0.png';
+		
+		//$url = 'http://direct.bionames.org/bionames-archive/documentcloud/pages/34338b8fb70134f62522df9de7fa601d1cd38de7/1-small';
+		//$url = 'http://direct.bionames.org/bionames-archive/pdf/8e/21/2d/8e212d36134bee334b1fe834f1914faaf218174f/images/thumbnails/page-0.png';
+
 		
 		//$url = 'http://direct.bionames.org/bionames-archive/pdf/3a/2e/93/3a2e93dc51b584d0c50952fd86bb11934cbd2ded/images/thumbnails/page-0.png';
 //		$url = 'http://direct.bionames.org/bionames-archive/pdf/7a/fe/bc/7afebc75c3dc3695fa52ed48acb7e09525313b14/images/thumbnails/page-0.png';
 //		$url = 'http://direct.bionames.org/bionames-archive/pdf/e3/2f/09/e32f09354895373b2bb7f406f7b4ffaba93b726c/images/thumbnails/page-0.png';
 //		$url = 'http://direct.bionames.org/bionames-archive/pdf/98/b9/78/98b97815ac832055260477a8d3760ab55dd9c2b3/images/thumbnails/page-0.png';
+//		$url = 'http://direct.bionames.org/bionames-archive/pdf/01/f4/3f/01f43f09b9d67aae52b77aee61647af5ba9313d4/images/thumbnails/page-0.png';
+//		$url = 'http://direct.bionames.org/bionames-archive/pdf/01/f4/3f/01f43f09b9d67aae52b77aee61647af5ba9313d4/images/thumbnails/page-0.png';
+//		$url = 'http://direct.bionames.org/bionames-archive/pdf/6f/c0/5b/6fc05b2cd0e6e60b4d0f375216bd35123737afcc/images/thumbnails/page-0.png';
+
+
 		$image = get($url);
 		
 		if ($image != '')
@@ -85,11 +427,15 @@ function get_pdf_thumbnail(&$reference, $pdf)
 	
 	$obj = json_decode($json);
 	
+	//print_r($obj);
+	
 	if ($obj->http_code == 200)
 	{		
 		$url = 'http://direct.bionames.org/bionames-archive/documentcloud/pages/' . $obj->sha1 . '/1-small';
-		//$url = 'http://direct.bionames.org/bionames-archive/pdf/a7/81/4a/a7814a96735ca5025ccde73ffb5f25757bba09b3/images/thumbnails/page-0.png';
-		
+//		$url = 'http://bionames.org/bionames-archive/documentcloud/pages/a5228371107ec0685cbe82f863c01dc097f3af94/1-small';
+		//$url = 'http://direct.bionames.org/bionames-archive/pdf/34/bc/89/34bc89cd65c9e80a4d5f9bc8b9c6c97ce2e02287/images/thumbnails/page-0.png';
+
+		//$url = 'http://direct.bionames.org/bionames-archive/pdf/44/90/63/449063c9652780cd06a1b0a2f5dee76f775521a9/images/thumbnails/page-0.png';
 		//echo $url;
 		//exit();
 		$image = get($url);
@@ -99,7 +445,8 @@ function get_pdf_thumbnail(&$reference, $pdf)
 			$mime_type = 'image/png';
 			$base64 = chunk_split(base64_encode($image));
 			$reference->thumbnail = 'data:' . $mime_type . ';base64,' . $base64;		
-		}		
+		}	
+		//print_r($reference);exit();	
 	}
 }
 
@@ -166,23 +513,66 @@ function get_reference($sql, &$docs, $augment = true)
 		
 		if ($result->fields['title'] != null)
 		{
-			$reference->title = $result->fields['title'];	
+			// handle hacked titles for books
+			
+			$title = $result->fields['title'];
+			
+			$pos = strpos($title, '{"publisher"');
+			if ($pos === false)
+			{
+			}
+			else
+			{
+				$p = substr($title, $pos);
+				$title = substr($title, 0, $pos);
+				
+				$po = json_decode($p);
+				if ($po)
+				{
+					if ($result->fields['isPartOf'] == 'Y')
+					{
+						$reference->type = "chapter";
+						$reference->book = new stdclass;
+						$reference->book->publisher = $po->publisher;
+					}
+					else
+					{				
+						$reference->type = 'book';
+						$reference->publisher = $po->publisher;
+					}
+				}
+				
+				//echo $p;
+				//echo $title;
+				//exit();
+			}
+		
+		
+		
+			$reference->title = $title;	
 		}
 	
 		if ($result->fields['journal'] != null)
 		{	
-			$reference->type = 'article';
-			$reference->journal = new stdclass;
-			$reference->journal->name = $result->fields['journal'];
-			
-			if ($result->fields['volume'] != '')
+			if ($reference->type == 'chapter')
 			{
-				$reference->journal->volume = $result->fields['volume'];
+				$reference->book->title = $result->fields['journal'];
 			}
-		
-			if ($result->fields['issue'] != '')
+			else
 			{
-				$reference->journal->issue = $result->fields['issue'];
+				$reference->type = 'article';
+				$reference->journal = new stdclass;
+				$reference->journal->name = $result->fields['journal'];
+				
+				if ($result->fields['volume'] != '')
+				{
+					$reference->journal->volume = $result->fields['volume'];
+				}
+			
+				if ($result->fields['issue'] != '')
+				{
+					$reference->journal->issue = $result->fields['issue'];
+				}
 			}
 		}
 		
@@ -263,6 +653,9 @@ function get_reference($sql, &$docs, $augment = true)
 		
 		echo "Identifiers...\n";
 		
+		$doi = '';
+		$pmid = 0;
+		
 		//----------------------------------------------------------------------------------------------
 		// identifiers
 		$reference->identifier = array();
@@ -274,13 +667,27 @@ function get_reference($sql, &$docs, $augment = true)
 			{
 				switch ($k)
 				{
-					case 'doi':
 					case 'pmc':
+						$identifier = new stdclass;
+						$identifier->type = $k;
+						$identifier->id = $result->fields[$k];
+						
+						if (!preg_match('/^PMC/', $identifier->id))
+						{
+							$identifier->id = 'PMC' . $identifier->id;
+						}
+						
+						$reference->identifier[] = $identifier;
+						break;				
+				
+					case 'doi':
 					case 'handle':
 						$identifier = new stdclass;
 						$identifier->type = $k;
 						$identifier->id = $result->fields[$k];
 						$reference->identifier[] = $identifier;
+						
+						if ($k == 'doi') { $doi = $result->fields[$k]; };
 						break;
 	
 					case 'isbn':
@@ -292,7 +699,18 @@ function get_reference($sql, &$docs, $augment = true)
 						if ($result->fields['isPartOf'] == 'N')
 						{
 							$reference->identifier[] = $identifier;
-							$reference->type = 'book';
+							
+							// either a book or a monograph in a journal
+							if ($result->fields['issn'] != '')
+							{
+								// monograph
+								$reference->type = 'article';
+							}
+							else
+							{
+								// book						
+								$reference->type = 'book';
+							}
 						}
 						else
 						{
@@ -378,6 +796,8 @@ function get_reference($sql, &$docs, $augment = true)
 						$identifier->type = $k;
 						$identifier->id = $result->fields[$k];
 						$reference->identifier[] = $identifier;
+						
+						if ($k == 'pmid') { $pmid = $result->fields[$k]; }
 						break;
 						
 					case 'canonical_uuid':
@@ -436,6 +856,25 @@ function get_reference($sql, &$docs, $augment = true)
 		//print_r($reference);
 		
 		//----------------------------------------------------------------------------------------------
+		if (($pmid == 0) && ($doi != ''))
+		{
+			$pmid = doi2pmid($doi);
+			
+			if ($pmid == 0)
+			{
+				echo "DOI $doi has no PMID\n";
+			}
+			else
+			{
+				$identifier = new stdclass;
+				$identifier->type = 'pmid';
+				$identifier->id = (Integer)$pmid;
+				
+				$reference->identifier[] = $identifier;
+			}
+		}		
+		
+		//----------------------------------------------------------------------------------------------
 		// Special case of Zootaxa preview PDFs
 		if (isset($reference->link))
 		{
@@ -447,7 +886,10 @@ function get_reference($sql, &$docs, $augment = true)
 					{
 						if (!isset($reference->thumbnail))
 						{
-							get_pdf_thumbnail($reference, $link->url);					
+							get_pdf_thumbnail($reference, $link->url);	
+							
+							//echo $link->url;
+							//echo "hi\n";exit();				
 						}
 					}
 				}
@@ -459,6 +901,162 @@ function get_reference($sql, &$docs, $augment = true)
 		{
 
 			echo "Add metadata...\n";
+			
+			
+			
+			
+			// ----- augment based on PDF link 
+			if (isset($reference->link))
+			{
+				foreach ($reference->link as $link)
+				{
+					if ($link->anchor == 'PDF')
+					{
+						//print_r($reference);
+						// authors in database linked to PDF
+						if (!isset($reference->author))
+						{
+							get_authors_pdf($link->url, $reference);
+							
+							//get_abstract_pdf($link->url, $reference);
+							//exit();
+						}
+					
+					
+						// BHL-Europe at article level
+						if (preg_match('/http:\/\/www.bhl-europe.eu\/static\//', $link->url))
+						{
+							// BHL-Europe
+							
+							$reference->publisher = 'BHL-Europe';
+							
+							
+							// metadata
+							//echo "get_bhleurope_authors\n";
+							$a = get_bhleurope_authors($link->url);
+							if (count($a) > 0)
+							{
+								$reference->author = $a;
+							}
+							//echo "get_bhleurope_authors\n";
+							
+							
+							
+							
+							// OCR text
+							if (preg_match('/\/static\/(?<id>[a-z0-9]+)\//', $link->url, $m))
+							{
+								$ocr_url = 'http://www.bhl-europe.eu/static/' . $m['id'] . '/' . $m['id'] . '_full_ocr.txt';
+								$ocr = get($ocr_url);
+								
+								//echo $ocr_url . "\n"; exit();
+							
+								$reference->text = $ocr;
+							}
+
+							
+							
+							
+						}
+					}
+				}
+			}
+			
+			// ----- augment based on URL link 
+			if (isset($reference->link))
+			{
+				foreach ($reference->link as $link)
+				{
+					if ($link->anchor == 'LINK')
+					{
+						if (preg_match('/http:\/\/www.ingentaconnect.com\//', $link->url))
+						{
+							// Ingenta	
+							if (!isset($reference->author) || count($reference->author) == 0)
+							{
+								$url = $link->url . '?format=ris';
+								
+								$ris = get($url);
+								echo $ris;
+								
+								$rows = explode("\n", $ris);
+								
+								foreach ($rows as $row)
+								{
+									if (preg_match('/^N2  - /', $row))
+									{
+										$value = str_replace('N2  - ', '', $row);
+										$value = strip_tags($value);
+										$reference->abstract = $value;
+									}
+
+								
+									if (preg_match('/^AU  - /', $row))
+									{
+										$value = str_replace('AU  - ', '', $row);
+										
+										// Trim trailing periods and other junk
+										//$value = preg_replace("/\.$/", "", $value);
+										$value = preg_replace("/&nbsp;$/", "", $value);
+										$value = preg_replace("/,([^\s])/", ", $1", $value);
+										
+										// Handle case where initials aren't spaced
+										$value = preg_replace("/, ([A-Z])([A-Z])$/", ", $1 $2", $value);
+							
+										// Clean Ingenta crap						
+										$value = preg_replace("/\[[0-9]\]/", "", $value);
+										
+										// Space initials nicely
+										$value = preg_replace("/\.([A-Z])/", ". $1", $value);
+										
+										// Make nice
+										$value = mb_convert_case($value, 
+											MB_CASE_TITLE, mb_detect_encoding($value));
+										
+										// Get parts of name
+										$parts = parse_name($value);
+										
+										$author = new stdClass();
+										
+										if (isset($parts['last']))
+										{
+											$author->lastname = $parts['last'];
+										}
+										if (isset($parts['suffix']))
+										{
+											$author->suffix = $parts['suffix'];
+										}
+										if (isset($parts['first']))
+										{
+											$author->firstname = $parts['first'];
+											
+											if (array_key_exists('middle', $parts))
+											{
+												$author->firstname .= ' ' . $parts['middle'];
+											}
+										}
+										$author->firstname = preg_replace('/\./Uu', '', $author->firstname);
+										$author->name = $author->firstname . ' ' . $author->lastname;
+										
+										$reference->author[] = $author;
+										
+										
+									}
+								}
+							}
+							
+							//print_r($reference);
+								
+							//exit();
+							
+							
+							
+						}
+					}
+				}
+			}
+			
+			
 
 		
 			$keys = array('doi', 'biostor', 'cinii', 'googleBooks', 'handle', 'isbn', 'jstor', 'pmc', 'pmid', 'url', 'pdf', 'canonical_uuid');
@@ -489,6 +1087,17 @@ function get_reference($sql, &$docs, $augment = true)
 						
 					get_oclc_thumbnail($reference, $identifier->id);
 				}
+				
+				// JSTOR
+				// thumbnail?
+				if ($identifier->type == 'jstor')
+				{
+					//get_doi_thumbnail($reference, '10.2307/' . $identifier->id);
+					
+					get_jstor_thumbnail($reference, $identifier->id);
+					
+					get_authors_jstor($identifier->id, $reference);
+				}
 			
 			
 				// DOI
@@ -507,12 +1116,45 @@ function get_reference($sql, &$docs, $augment = true)
 						break;
 					}
 	
+					if (preg_match('/10.2307/', $identifier->id)) 
+					{
+						get_jstor_thumbnail($reference, str_replace('10.2307/', '', $identifier->id));
+					}
+
 					get_doi_thumbnail($reference, $identifier->id);
 					
 					// enhance metadata
 					$json = '';
-					$r = get_doi_metadata($identifier->id, $json);
 					
+					$resolve_doi = true;
+					
+					if (preg_match('/10.1080\/03749444/', $identifier->id))
+					{
+						$resolve_doi = false;
+					}
+
+					if (preg_match('/10.1080/', $identifier->id))
+					{
+						$url = 'http://www.tandfonline.com/doi/abs/' . $identifier->id;
+						get_authors_pdf($url, $reference);
+					}
+					
+					get_authors_pdf($link->url, $reference);
+					
+					if ($resolve_doi)
+					{					
+						if (0)
+						{
+							$r = get_doi_metadata($identifier->id, $json);
+						}
+						else
+						{
+							$r = new stdclass;
+							get_doi_metadata_unixref($identifier->id, $r);
+						}
+					}
+										
+					/*
 					// archive DOI JSON
 					if ($json != '')
 					{
@@ -520,16 +1162,25 @@ function get_reference($sql, &$docs, $augment = true)
 						$cache_result = $db->Execute($sql);
 						if ($cache_result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
 					}
+					*/
 					
 					//print_r($r);
 					//exit();
 					
 					if (isset($r))
 					{
-					
-					
+						if (0)
+						{
+							// abstract
+							$abstract = get_abstract_from_doi ($identifier->id);
+							if ($abstract != '')
+							{
+								$reference->abstract = $abstract;
+							}
+						}
+											
 						// authors
-						if (isset($r->author) && !isset($reference->author))
+						if (isset($r->author))// && (!isset($reference->author) && count($reference->author != 0)))
 						{
 							$reference->author = $r->author;
 						}
@@ -538,7 +1189,15 @@ function get_reference($sql, &$docs, $augment = true)
 						{
 							$reference->publisher = $r->publisher;
 						}
-	
+
+						// title
+						if (1)
+						{
+							if (isset($r->title))
+							{
+								$reference->title = $r->title;
+							}
+						}	
 					
 					}
 					
@@ -702,6 +1361,14 @@ function get_reference($sql, &$docs, $augment = true)
 						$xpath->registerNamespace('con',     'http://www.w3.org/2000/10/swap/pim/contact#');
 						$xpath->registerNamespace('cinii',   'http://ci.nii.ac.jp/ns/1.0/');
 						
+						// Title
+						$nodeCollection = $xpath->query ('//rdf:Description[@xml:lang="en"]/dc:title');
+						foreach ($nodeCollection as $node)
+						{						
+							$reference->title = $node->firstChild->nodeValue;
+						}
+						
+						
 						// Thumbnail
 						$nodeCollection = $xpath->query ('//foaf:depiction/foaf:Image/@rdf:about');
 						foreach ($nodeCollection as $node)
@@ -725,7 +1392,10 @@ function get_reference($sql, &$docs, $augment = true)
 							foreach ($nodeCollection as $node)
 							{			
 								$author = new stdclass;
-								if (preg_match('/^(?<firstname>.*)\s+(?<lastname>\w+(-\w+)?)$/Uu', $node->firstChild->nodeValue, $m))
+//								if (preg_match('/^(?<firstname>.*)\s+(?<lastname>\w+(-\w+)?)$/Uu', $node->firstChild->nodeValue, $m))
+
+								// CiNii has names with last name captilised (Japansese names have different order to Western names)
+								if (preg_match('/^(?<lastname>[A-Z]+(\-[A-Z]+)?)\s+(?<firstname>[A-Z][a-z]+(\-[A-Z][a-z]+)?)$/Uu', $node->firstChild->nodeValue, $m))
 								{
 									$author->firstname = $m['firstname'];
 									$author->lastname = $m['lastname'];
@@ -733,7 +1403,17 @@ function get_reference($sql, &$docs, $augment = true)
 								}
 								else
 								{
-									$author->name = $node->firstChild->nodeValue;
+									// for now just assume it's last first
+									if (preg_match('/^(?<lastname>\w+(\-\w+)?)\s+(?<firstname>\w+(\-\w+)?)$/Uu', $node->firstChild->nodeValue, $m))
+									{
+										$author->firstname = $m['firstname'];
+										$author->lastname = $m['lastname'];
+										$author->name = $author->firstname . ' ' . $author->lastname;
+									}
+									else
+									{
+										$author->name = $node->firstChild->nodeValue;
+									}
 								}
 								$reference->author[] = $author;
 							}
@@ -744,11 +1424,22 @@ function get_reference($sql, &$docs, $augment = true)
 				// PubMed get abstract, maybe sequence links...
 				if ($identifier->type == 'pmid')
 				{
+					pmid_metadata($reference, $identifier->id);
 				}
 				
 				
 			}
 		}
+		
+		
+		// Last minute adding stuff
+		if (!isset($reference->author))
+		{
+			get_authors_from_database($reference);
+		}
+
+		
+		
 		echo "Clean...\n";
 		
 		//----------------------------------------------------------------------------------------------
@@ -765,7 +1456,7 @@ function get_reference($sql, &$docs, $augment = true)
 		print_r($reference);
 		
 		echo "Mendeley...\n";
-		if (1)
+		if (0)
 		{
 			$local_uuid = '';
 			
@@ -781,7 +1472,7 @@ function get_reference($sql, &$docs, $augment = true)
 				 {
 				 	foreach ($reference->link as $link)
 				 	{
-				 		if ($link->anchor = 'PDF')
+				 		if ($link->anchor == 'PDF')
 				 		{
 				 			$pdf = $link->url;
 				 		}
@@ -854,10 +1545,15 @@ function get_reference($sql, &$docs, $augment = true)
 		}
 		*/
 		
-		if (0)
+		if (1)
 		{
 			echo json_format(json_encode($reference));
+			
+			//echo 'xxxx'; exit();
+			
 		}
+		
+		//exit();
 		
 		// Individual load
 		if ($docs == null)
@@ -876,7 +1572,7 @@ function get_reference($sql, &$docs, $augment = true)
 				echo "CouchDB...\n";
 				$resp = $couch->send("POST", "/" . $config['couchdb_options']['database'] . '/_bulk_docs', json_encode($docs));
 				
-				//echo json_encode($docs);
+				
 				
 				echo $resp;
 				//exit();

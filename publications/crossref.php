@@ -40,7 +40,7 @@ function get_doi_metadata($doi, &$json)
 	$reference = null;
 	
 	$url = 'http://data.crossref.org/' . $doi;
-//	$url = 'http://dx.doi.org/' . $doi;
+	$url = 'http://dx.doi.org/' . $doi;
 	$json = get($url, '', "application/citeproc+json;q=1.0");
 	
 	echo $url;
@@ -187,6 +187,8 @@ function get_doi_metadata_unixref($doi, &$reference)
 	
 	//echo $xml;
 	
+	//exit();
+	
 			
 	if (preg_match('/<doi_record/', $xml))
 	{	
@@ -205,10 +207,50 @@ function get_doi_metadata_unixref($doi, &$reference)
 		*/
 		$xpath_query = '//journal_article[@publication_type="full_text"]/titles/title';
 		$nodeCollection = $xpath->query ($xpath_query);
+		
+		$title = '';
+		
 		foreach($nodeCollection as $node)
 		{
-			$reference->title = $node->firstChild->nodeValue;
+			$children = $node->childNodes;
+			foreach ($children as $child) 
+			{
+				$title = $node->ownerDocument->saveHTML($node);
+			}
 		}
+		
+		if ($title != '')
+		{
+			$reference->title = $title;
+			$reference->title = strip_tags($title);
+			$reference->title = preg_replace('/\s\s+/u', ' ', $reference->title);
+			$reference->title = preg_replace('/^\s+/u', '', $reference->title);
+			$reference->title = preg_replace('/\s+$/u', '', $reference->title);
+			$reference->title = preg_replace('/\n/', '', $reference->title);
+		}
+		
+		if (!isset($reference->title))
+		{		
+			$xpath_query = '//journal_article/titles/title';
+			$nodeCollection = $xpath->query ($xpath_query);
+			foreach($nodeCollection as $node)
+			{
+				if (!isset($reference->title))
+				{
+					$reference->title = $node->firstChild->nodeValue;
+					$reference->title = preg_replace('/\s\s+/u', ' ', $reference->title);
+					$reference->title = preg_replace('/^\s+/u', '', $reference->title);
+					$reference->title = preg_replace('/\s+$/u', '', $reference->title);
+					$reference->title = preg_replace('/\n/', '', $reference->title);
+				}			
+			}
+		}
+		
+		if (isset($reference->title))
+		{		
+			$reference->title = strip_tags($reference->title);
+		}
+				
 
 		// journal
 		$xpath_query = '//journal/journal_metadata/full_title';
@@ -262,11 +304,13 @@ function get_doi_metadata_unixref($doi, &$reference)
 				foreach($nc as $n)
 				{
 					$author->firstname = $n->firstChild->nodeValue;
+					$author->firstname = mb_convert_case($author->firstname, MB_CASE_TITLE, 'UTF-8');
 				}
 				$nc = $xpath->query ('surname', $node);
 				foreach($nc as $n)
 				{
 					$author->lastname = $n->firstChild->nodeValue;
+					$author->lastname = mb_convert_case($author->lastname, MB_CASE_TITLE, 'UTF-8');
 				}
 				$author->name = $author->firstname . ' ' . $author->lastname;
 			

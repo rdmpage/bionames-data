@@ -57,7 +57,8 @@ function get_names_from_text($text, $detect_language = false)
 	$response = null;
 	
 	$url = 'http://gnrd.globalnames.org/name_finder.json';
-	
+	//$url = 'http://128.128.175.111/name_finder.json';
+
 	$ch = curl_init();
 	curl_setopt ($ch, CURLOPT_URL, $url); 
 	curl_setopt ($ch, CURLOPT_RETURNTRANSFER, 1); 
@@ -91,19 +92,25 @@ function get_names_from_text($text, $detect_language = false)
 	
 	$response = json_decode($json);
 	
-	// Takes a while to process, keep polling into we don't get HTTP 303
+	// Takes a while to process, keep polling until we don't get HTTP 303
+	
+	$pings = 0;
+	$max_pings = 10; // give up if GNRD is slow to respond
+	
 	if ($response->status = 303)
 	{
 	   $status = $response->status;
 	   $url = $response->token_url;
 	
-	   while ($status == 303)
+	   while (($status == 303) && ($pings < $max_pings))
 	   {
 		   $json = get($url);
 		   $response = json_decode($json);
 		   $status = $response->status;
 		   echo '.';
 		   sleep(1);
+		   
+		   $pings++;
 	   }
 	
 		//print_r($response);

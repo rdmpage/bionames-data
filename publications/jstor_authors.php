@@ -45,11 +45,11 @@ function augment_jstor(&$reference, $id)
 	
 	$url = 'http://www.jstor.org/stable/' . $id;
 	
-	//echo $url . "\n";
+	echo $url . "\n";
 	
 	$html = get($url);
 	
-	//echo "html=$html\n";
+	echo "html=$html\n";
 	
 	$html = str_replace("\n", "", $html);
 	$html = str_replace("\r", "", $html);
@@ -97,6 +97,38 @@ function augment_jstor(&$reference, $id)
 
 		
 	}
+	
+	if (preg_match('/<div\s+class="contrib">(?<author>.*)<\/div>/Uu', $html, $m))
+	{
+		$authorstring = $m['author'];
+		$authors = authors_from_string($authorstring);
+		foreach ($authors as $a)
+		{
+			$a = str_replace('.', '', $a);
+			$author = new stdclass;
+			
+			// clean off III etc.
+			
+			echo "|$a|\n";
+			$a = preg_replace('/,\s+[I]+$/i', '', $a);
+			
+			
+			if (preg_match('/^(?<firstname>.*)\s+(?<lastname>\w+(-\w+)?)$/Uu', $a, $m))
+			{
+				$author->firstname = $m['firstname'];
+				$author->lastname = $m['lastname'];
+				$author->name = $author->firstname . ' ' . $author->lastname;
+			}
+			else
+			{
+				$author->name = $a;
+			}
+			$reference->author[] = $author;
+		}
+
+		
+	}
+		
 	/*
 	if (preg_match('/<h2\s+class="h3">(?<title>.*)<\/h2>/Uu', $html, $m))
 	{
@@ -138,6 +170,7 @@ $docs = null;
 
 $count = 0;
 $skip = true;
+$skip = false;
 
 while (!feof($file_handle)) 
 {

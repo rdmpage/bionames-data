@@ -8,8 +8,16 @@ require_once (dirname(__FILE__) . '/reference.php');
 function biostor_enhance (&$reference, $biostor_id)
 {
 	// Get BioStor-specific JSON
-	$url = 'http://direct.biostor.org/reference/' . $biostor_id . '.json';
-	$json = get($url);
+	
+	if ($biostor_id == 151283)
+	{
+		$json = file_get_contents(dirname(__FILE__) . '/151283.json');
+	}
+	else
+	{	
+		$url = 'http://direct.biostor.org/reference/' . $biostor_id . '.json';
+		$json = get($url);
+	}
 
 	if ($json != '')
 	{				
@@ -86,6 +94,26 @@ function biostor_enhance (&$reference, $biostor_id)
 					}								
 					break;
 					
+				case 'zoobank':
+					$have_lsid = false;
+					foreach ($reference->identifier as $id)
+					{
+						if ($id->type == 'zoobank')
+						{
+							$have_lsid = true;
+						}
+					}
+					if (!$have_lsid)
+					{
+						$x = new stdclass;
+						$x->type = 'zoobank';
+						$x->id = $v;
+						
+						$reference->identifier[] = $x;
+					}								
+					break;
+					
+					
 				default:
 					break;
 			}
@@ -98,7 +126,7 @@ function biostor_enhance (&$reference, $biostor_id)
 		}
 		
 		// geo
-		if (isset($obj->geometry))
+		if (isset($obj->geometry) && !isset($reference->geometry))
 		{
 			$reference->geometry = $obj->geometry;
 		}
