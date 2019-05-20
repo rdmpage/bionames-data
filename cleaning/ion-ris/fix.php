@@ -46,7 +46,7 @@ function arabic($roman)
 
 
 //--------------------------------------------------------------------------------------------------
-$db = NewADOConnection('mysql');
+$db = NewADOConnection('mysqli');
 $db->Connect("localhost", 
 	$config['db_user'] , $config['db_passwd'] , $config['db_name']);
 
@@ -897,10 +897,89 @@ $sql = 'select * from names where taxonAuthor like "Bonet %" and publication is 
 
 $sql = 'select * from names where `group`="Derbidae" and publication is not null and publicationParsed ="N"';
 
+$sql="select * from names where id >= 5102576 and publication is not null and publicationParsed='N'";
 
-//$sql = 'select * from names where id = 4244438;' ;
 
 
+$sql = 'select * from names where sici="ad2696c735f2c01cf68ff67ae9c01553"' ;
+
+$sql = "select * from names where publication is not null and publicationParsed='N' and year BETWEEN 1990 AND 2000;";
+$sql = "select * from names where publication is not null and publicationParsed='N' and year BETWEEN 1900 AND 1969;";
+$sql = "select * from names where publication is not null and publicationParsed='N' and year BETWEEN 1970 AND 1989;";
+$sql = "select * from names where publication is not null and publicationParsed='N' and year BETWEEN 1960 AND 1969;";
+
+$sql = "select * from names where publication is not null and publicationParsed='N' and year =1969;";
+$sql = "select * from names where publication is not null and publicationParsed='N' and year BETWEEN 1960 AND 1968;";
+$sql = "select * from names where publication is not null and publicationParsed='N' and year BETWEEN 1950 AND 1959;";
+$sql = "select * from names where publication is not null and publicationParsed='N' and year BETWEEN 1940 AND 1949;";
+$sql = "select * from names where publication is not null and publicationParsed='N' and year BETWEEN 1930 AND 1939;";
+$sql = "select * from names where publication is not null and publicationParsed='N' and year BETWEEN 1920 AND 1929;";
+$sql = "select * from names where publication is not null and publicationParsed='N' and year BETWEEN 1910 AND 1919;";
+$sql = "select * from names where publication is not null and publicationParsed='N' and year BETWEEN 1900 AND 1910;";
+
+
+$sql = "select * from `names-5148072` where publication is not null and publicationParsed='N'";
+
+$sql = "select * from names where journal='Annalen des Naturhistorischen Museums in Wien Serie B Botanik und Zoologie, 94-95'";
+
+
+$sql = "select * from `names-5170612` where publicationParsed='N' LIMIT 100";
+
+
+$sql = "select * from names where issn='0026-9786'";
+
+$sql = "select * from `names-5206458` where publication is not null and publicationParsed='N';";
+$sql = "select * from `names-5215383` where `publication` is not null and `publicationParsed`='N'";
+
+//$sql = "select * from `names-5215383` where publication is not null and publicationParsed = 'N' limit 30;";
+
+$sql = "select * from names where publication is not null and year is null;";
+
+
+$sql = "select * from names where sici='0921107826250551ee6d37d275f7cf45'";
+
+
+$sql = "select * from `names-5224337` where `publication` is not null and `publicationParsed`='N'";
+$sql = "select * from names where journal='Bulletin of the National Museum of Nature and Science Series A Zoology, Supplement 1'";
+
+$sql = "select * from `names-5237103` where `publication` is not null and `publicationParsed`='N'";
+
+// 2016-01-16
+$sql = "select * from `names-5241772` where `publication` is not null and `publicationParsed`='N'";
+$sql = "select * from `names-5251401` where `publication` is not null and `publicationParsed`='N'";
+
+
+$sql = "select * from names where journal like 'Entomofauna, 2%'";
+
+$sql = "select * from `names-5256965` where `publication` is not null and `publicationParsed`='N'";
+
+$sql = "select * from `names-5304582` where `publication` is not null and `publicationParsed`='N'";
+
+
+$sql = "select * from `names-5333010` where `publication` is not null and `publicationParsed`='N'";
+$sql = "select * from `names-5340754` where `publication` is not null and `publicationParsed`='N'";
+
+$sql = "select * from `names` where journal LIKE 'Paleontologicheskii Zhurnal,%'";
+
+//$sql = "select * from names where sici='01121e2f30447e66577973de55378248'";
+
+$sql = "select * from `names` WHERE publication LIKE '%Journal of Vertebrate Paleontology%' AND publicationParsed='N';"; 
+
+$sql = "select * from `names` WHERE  issn='0272-4634' and doi is NULL;";
+
+
+$sql = "select * from `names` WHERE journal LIKE 'Vertebrate paleontology in the Neotropics%'";
+
+$sql = "select * from `names-5353853` where `publication` is not null and `publicationParsed`='N'";
+
+$sql = "select * from `names` WHERE journal = 'Voy. Jeannel'";
+
+$sql = "select * from names where updated >= '2018-12-25' and publicationParsed='N'";
+
+$sql = "select * from names where updated >= '2019-04-11' and publicationParsed='N'";
+
+$result = $db->Execute('SET max_heap_table_size = 1024 * 1024 * 1024');
+$result = $db->Execute('SET tmp_table_size = 1024 * 1024 * 1024');
 
 $result = $db->Execute($sql);
 if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
@@ -914,6 +993,7 @@ while (!$result->EOF)
 	$obj = new stdclass;
 	
 	$obj->id = $result->fields['id'];
+	$obj->sici = $result->fields['sici'];
 	$obj->publication = $result->fields['publication'];
 	$obj->publication = str_replace("\n", "", $obj->publication);
 	$obj->publicationParsed = 'N';	
@@ -934,13 +1014,247 @@ while (!$result->EOF)
 	{	
 		echo "-- " . $obj->publication . "\n";
 	}
+	echo "\n-- " . $obj->publication . "\n";
 		
 	
 	$matched = false;
 	
+	// Vertebrate paleontology in the Neotropics
+	if (!$matched)
+	{
+		if (preg_match('/^^(?<title>.*)\.(.*)\.\s+(?<journal>Vertebrate paleontology in the Neotropics.*)\.,\s+(?<publisher>Smithsonian Institution Press),\s+(?<publoc>.*),.*(.*)Chapter pagination:\s+(?<spage>\d+)-(?<epage>\d+)\./Uu', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}
+	
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\.(.*)\.\s+(?<journal>Voy.*):\s+\((?<spage>\d+)-(?<epage>\d+)\)/Uu', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+			
+	
+	
+	
+	// Paleontologicheskii Zhurnal, 1977(3)75-82
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\.\s+(?<publisher>[A-Za-z\'\-\(\)]+((\s+[A-Za-z\'\-\(\)\.]+)+)?),\s+(?<publoc>[A-Za-z]+(\s+&)?(\s+[A-Za-z]+)?),\s+(?<year>[0-9]{4}):(\s+([ivxl\-0123456789]+),)?\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+	
+	
+	// books
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\.\s+(?<publisher>[A-Za-z\'\-\(\)]+((\s+[A-Za-z\'\-\(\)\.]+)+)?),\s+(?<publoc>[A-Za-z]+(\s+&)?(\s+[A-Za-z]+)?),\s+(?<year>[0-9]{4}):(\s+([ivxl\-0123456789]+),)?\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\.\s+(?<publisher>[A-Za-z\'\-]+((\s+[A-Za-z]+)+)?),\s+(?<publoc>[A-Za-z]+( & New York)?),\s+(?<year>[0-9]{4}):(\s+([ivxl\-0123456789]+),)?\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+
+	// chapter
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.(?<journal>.*)\.[,]?\s+(?<publisher>[A-Za-z]+((\s+[A-Za-z]+)+)?),\s+(?<publoc>[A-Za-z]+(\s+[A-Za-z]+)?),\s+(?<year>[0-9]{4}):(\s+([ivxl\-0123456789]+),)?\s+(\d+-\d+)\.\s+Chapter pagination:\s*(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+			//exit();
+		}
+	}		
+	
+	
+	
+	//---------
+	// Notes diverses, descriptions et diagnoses. Echange Moulins 1913 1914: (97-98 105-106 113-114 121-122 129-130 137-139 145-147 153-154 161-162 169-171 177-180 185-187)
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\.\s+(?<journal>Paleontologicheskii Zhurnal),\s+(?<volume>\d+)\((?<issue>.*)\)(?<spage>\d+)-(?<epage>\d+),/u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+		
+	// Melanges Exotico-Entomologiques 1912-1913: (20 pp.)
+	if (!$matched)
+	{
+		if (preg_match('/^(?<journal>.*)\s+(?<volume>\d+-\d+):\s+\((?<pagination>.*pp\.)\)/u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}	
+	
+	
+	// [Biologia Centrali-americana Coleoptera.] Biologia Centrali-Americana Coleoptera 4(pt. 5) 1907: (137-240).
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>\[.*\])\s+(?<journal>.*)\s+(?<volume>\d+)\((?<issue>.*)\)\s+(?<year>[0-9]{4}):\s+\((?<pagination>.*)\)/u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}	
+	
+	// The fauna of British India including Ceylon and Burma. Rhynchota Vol. iv(pt. 2) 1908: (265-501)
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\s+(?<journal>.*)\s+Vol.\s+(?<volume>[ivxvl]+)\((?<issue>.*)\)\s+(?<year>[0-9]{4}):\s+\((?<pagination>.*)\)/u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}	
+		
+	//-------
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\.\s+(?<journal>.*)\s+(?<volume>\d+)(\((?<issue>\d+)\))?,\s+\w+\s+\d+\s+(?<year>[0-9]{4}):\s+(?<spage>e\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+		
+	
+	
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\.\s+(?<journal>.*),\s+(?<volume>\d+-\d+),\s+\w+\s+(?<year>[0-9]{4}):\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+	
+	// Thysanoptera from the Solomon Islands. Bull. Br. Mus. nat. Hist. (Ent.) 24 1970: 83-126.
+	if (!$matched)
+	{
+		//echo "Trying " . __LINE__ . "\n";
+		if (preg_match('/(?<title>.*)\.\s+(?<journal>Bu.*\))\s+(?<volume>\d+)\s+(?<year>[0-9]{4}):\s+(?<spage>\d+)-(?<epage>\d+)\./', $obj->publication, $m))
+		{
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+			
+			//print_r($m);
+		}
+	}	
+	
+
+	if (!$matched)
+	{
+		//echo "Trying " . __LINE__ . "\n";
+		if (preg_match('/(?<title>.*)\.\s+(?<journal>Ps.*)\s+(?<volume>\d+)\s+(?<year>[0-9]{4}):\s+(?<spage>\d+)-(?<epage>\d+)\./', $obj->publication, $m))
+		{
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+			
+			print_r($m);
+		}
+	}	
+	
+	
+	
 	if (!$matched)
 	{
 		if (preg_match('/^(?<title>\[.*\])\s+(.*)(?<journal>\[.*\]),(.*)(?<year>[0-9]{4})(.*)Chapter pagination: (?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\.\s+(?<journal>Orient\..*)\s+(?<volume>\d+)\s+(?<year>[0-9]{4}): (?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}	
+	
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\.\s+(?<journal>(Rov Med.|Revista|Records |Mitt. Schweiz).*)\s+(?<volume>\d+)(\((?<issue>.*)\))?\s+(?<year>[0-9]{4}):(\s+pp\.)?\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}	
+	
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\s+(?<journal>Entomologische Blaetter.*),\s+(?<volume>\d+),\s+\w+\s+(?<year>[0-9]{4}):\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}	
+	
+	
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>\[Lepidoptera of Ecuador.*\])(.*)(?<year>[0-9]{4}):(\s+[ixv\-]+,)?\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\.\s+(?<journal>.*)\s+No\.\s+(?<volume>\d+)\s+(?<year>[0-9]{4}):(\s+pp\.)?\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\.\s+(?<journal>.*),\s+(?<volume>\d+)\((?<issue>\d+)\),\s+\w+\s+\d+\s+(?<year>[0-9]{4}): (?<spage>e\d+),/u', $obj->publication, $m))
 		{
 			//print_r($m);
 			$matched = true;
@@ -2071,7 +2385,7 @@ while (!$result->EOF)
 	// Materiaux de la Mission G. Petit a Madagascar. Description de trois Batraciens nouveaux appartenant aux genres Mantidaetylus et Gephyromantis Bull Mus Hist nat Paris, 1(2) 1930: pp. 358-362.   [Zoological Record Volume 67]
 	if (!$matched)
 	{
-		if (preg_match('/(?<title>.*)\.?\s+(?<journal>Bull Mus Hist nat Paris),\s+(?<volume>\d+)\((?<series>\d+)\)\s+(?<year>[0-9]{4}):\s+pp.\s+(?<sage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		if (preg_match('/(?<title>.*)\.?\s+(?<journal>Bull Mus Hist nat Paris),\s+(?<volume>\d+)\((?<series>\d+)\)\s+(?<year>[0-9]{4}):\s+pp.\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
 		{
 			//print_r($m);
 			$matched = true;
@@ -2561,8 +2875,148 @@ while (!$result->EOF)
 		}
 	}		
 
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\.\s+(?<journal>(Bull|Jour|Proc).*),\s+(?<volume>\d+)(\((?<issue>\d+)\))?\s+(?<year>[0-9]{4}):(\s+pp\.)?\s+(?<spage>\d+)-(?<epage>\d+)\.?\s/u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+
+	// Gesneropithex nov. gen., ein neuer Primate aus dem Ludien von Gosgon (Solothurn). Verhandlungen der Schweizerischen Naturforschenden Gesellschaft 126 1946 [1947]: pp. 126-127.   [Zoological Record Volume 84]
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.\s+(?<journal>.*)\s+(?<volume>\d+)\s+(?<year>[0-9]{4})\s+\[[0-9]{4}\]:\s+pp\.\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}	
+	
+	// Etude d'Ensemble sur les Dents des Mammiferes Fossiles des Environs de Reims. Bulletin Soc Geol (3)(xix) 1891: pp. 263-290.  275 [Zoological Record Volume 28]
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.\s+(?<journal>.*)\s+\((?<series>\d+)\)\((?<volume>[ivxl]+)\)\s+(?<year>[0-9]{4}):\s+pp.\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+		
+	// Hudson river beds near Albany and their taxonomic equivalents. Report New York Museum liv((3)) (1901): pp. 485-596.  578 [Zoological Record Volume 41]
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.\s+(?<journal>.*)\s+\((?<series>\d+)\)\((?<volume>[ivxl]+)\)\s+(?<year>[0-9]{4}):\s+pp.\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+		
+	// Olduvai Gorge 1951-61. Volume 1. A preliminary report of the geology and fauna. (Cambridge University Press), 1965: pp. i-xiv, 1-118.  [Zoological Record Volume 102]
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.\s+\((?<publisher>.*)\),\s+(?<year>[0-9]{4}):\s+pp.\s+[ivxl]+-[ivxl]+,\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+
+	// A "stupendous discovery": the fossil skull from Olduvai which represents " the oldest well-established stone toolmaker ever found." Illustrated London News 235 1959: 217, 219.  NOV. PLEIS [Zoological Record Volume 96]
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*\.")\s+(?<journal>.*)\s+(?<volume>\d+)\s+(?<year>[0-9]{4}):\s+(?<spage>\d+),\s+(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+
+	// Apuntes sobre el Genero Typotherium. Revista del Museo de La Plata ii 1891: pp. 74 et seq.   [Zoological Record Volume 28]
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.\s+(?<journal>.*)\s+(?<volume>[ixvl]+)\s+(?<year>[0-9]{4}):\s+pp.\s+(?<pagination>.*)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
+	
+	// On the names of certain North American Vertebrates. Science (2)(ix) 1899: pp. 593 & 594.  593 [Zoological Record Volume 36]
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.\s+(?<journal>.*)\s+\((?<series>\d+)\)\((?<volume>[ivxl]+)\)\s+(?<year>[0-9]{4}):\s+pp.\s+(?<spage>\d+)\s+&\s+(?<epage>\d+)/u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}	
+	
+	// Hudson river beds near Albany and their taxonomic equivalents. Report New York Museum liv((3)) (1901): pp. 485-596.  577 [Zoological Record Volume 41]	
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.\s+(?<journal>.*)\s+(?<volume>[ivxl]+)\(\((?<issue>\d+)\)\)\s+\((?<year>[0-9]{4})\):\s+pp.\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}	
+	
+	// [Some notes on Oligocene rhinoceroses from Mongolia.] Travaux Inst Paleont Acad Sci URSS 55 1954: 190-205.   [Zoological Record Volume 92]
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>\[.*\])\s+(?<journal>.*)\s+(?<volume>\d+)\s+(?<year>[0-9]{4}):\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}	
+	
+	// [Title unknown.] American Naturalist xv 1881: 231, 232, 578, 882.  882 [Zoological Record Volume 18]
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>\[.*\])\s+(?<journal>.*)\s+(?<volume>[ixvl]+)\s+(?<year>[0-9]{4}):\s+(?<pagination>\d+(,\s+\d+)+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}	
+	
+
+	// title journal year
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.\s+(?<journal>.*)\s+(?<year>[0-9]{4}):\s+(?<spage>\d+)-(?<epage>\d+)\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
 
 	
+	if (!$matched)
+	{
+		if (preg_match('/(?<title>.*)\.\s+(?<journal>.*),\s+(?<volume>\d+)\((?<issue>\d+)\),\s+\w+\s+\d+\s+(?<year>[0-9]{4}):\s+(?<pagination>(.*)(\d+)(.*))\./u', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+		}
+	}		
 	
 
 	// if all else fails just grab title, journal, year, and pagination
@@ -3154,6 +3608,18 @@ while (!$result->EOF)
 
 		}
 		
+		// hack for books
+		if (isset($obj->publisher))
+		{
+			$obj->title .= '{"publisher":{"name":"' . $obj->publisher . '"';
+			if (isset($obj->publoc)) 
+			{
+				$obj->title .= ',"address":"' . $obj->publoc . '"';
+			}
+			$obj->title .= '}}';
+		}
+		
+		
 		if (isset($obj->volume))
 		{
 			$obj->volume = preg_replace('/^bd.\s+/i', '', $obj->volume);
@@ -3167,6 +3633,7 @@ while (!$result->EOF)
 		{
 			$obj->volume = preg_replace('/^Nr.\s+/i', '', $obj->volume);
 		}
+		
 		
 		if (isset($obj->volume))
 		{
@@ -3223,7 +3690,7 @@ while (!$result->EOF)
 		
 		if (isset($obj->pagination) && !isset($obj->spage))
 		{
-			if (preg_match('/^\((?<spage>\d+)-(?<epage>\d+)\)$/', $obj->pagination, $mm))
+			if (preg_match('/^\(?(?<spage>\d+)-(?<epage>\d+)\)?$/', $obj->pagination, $mm))
 			{
 				$obj->spage = $mm['spage'];
 				$obj->epage = $mm['epage'];		
@@ -3264,11 +3731,30 @@ while (!$result->EOF)
 //		$sql = "UPDATE names1921 SET";
 //		$sql = "UPDATE siboga SET";
 		$count = 0;		
+		
+		
+		$pos = strpos($obj->publication, 'Chapter pagination');
+		if ($pos === false)
+		{
+			$obj->isPartOf = 'N';
+		}
+		else
+		{
+			$obj->isPartOf = 'Y';
+		}
+		
+		
+		
 		foreach ($obj as $k => $v)
 		{
 			switch ($k)
 			{
 				case 'id':
+				case 'sici':
+					break;
+					
+				case 'publisher':
+				case 'publoc':
 					break;
 					
 				case 'pages':
@@ -3281,13 +3767,13 @@ while (!$result->EOF)
 						{
 							$sql .= ",";
 						}
-						$sql .= " " . $k . "='" .  addslashes($v) . "'";
+						$sql .= " " . $k . "='" .  addcslashes($v, "'") . "'";
 						$count++;
 					}
 					break;
 			}
 		}
-		$sql .= " WHERE id=" . $obj->id . ';';
+		$sql .= " WHERE sici='" . $obj->sici . "';";
 		
 		if ($debug_journals)
 		{		

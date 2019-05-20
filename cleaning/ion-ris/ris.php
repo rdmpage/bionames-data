@@ -1,10 +1,10 @@
 <?php
 
-require_once (dirname(__FILE__) . '/config.inc.php');
+require_once (dirname(dirname(dirname(__FILE__))) . '/config.inc.php');
 require_once (dirname(dirname(dirname(__FILE__))) . '/adodb5/adodb.inc.php');
 
 //--------------------------------------------------------------------------------------------------
-$db = NewADOConnection('mysql');
+$db = NewADOConnection('mysqli');
 $db->Connect("localhost", 
 	$config['db_user'] , $config['db_passwd'] , $config['db_name']);
 
@@ -839,9 +839,61 @@ $sql="select * from names where journal='Proceedings of the Entomological Societ
 
 $sql="select * from names where issn='0035-418X' and biostor is null";
 
+$sql="select * from names where journal LIKE 'Memoirs on the coleoptera%' and biostor is null";
+$sql="select * from names where oclc=13962191 and biostor is null";
+
+$sql = "select * from `names-5340754` where publicationParsed='Y' and doi IS NULL;";
+$sql = "select * from `names-5340754` where journal='Zookeys' and doi IS NULL;";
 
 
-//echo $sql . "\n"; exit();
+$sql="select * from names where issn='0365-5164' and doi is null";
+
+
+$sql="select distinct sici, title, journal, issn, volume, issue, spage, epage, year  from names where issn='0236-7130' and volume=29";
+
+
+
+$sql = "select * from `names` where journal='Bull. geol. Surv. Can.';";
+
+// $sql = "select * from `names` WHERE publication LIKE '%Journal of Vertebrate Paleontology%' AND publicationParsed='N';"; 
+$sql="select * from names where issn='0272-4634' and doi is null;";
+
+$sql = "select * from `names` where journal='Bulletin of the Geological Society of China';";
+
+$sql="select * from names where issn='0387-5733' and year < 1991";
+
+// Memorias do Instituto Butantan (Sao Paulo)
+$sql="select * from names where issn='0073-9901' and year >= 1990";
+
+$sql="select * from names where issn='0073-9901' and year >= 1960 and year < 1980 order by year, cast(volume as signed), cast(spage as signed)";
+
+$sql="select * from names where issn='0066-7870'";
+
+$sql="select * from names where journal='Caribbean Journal of Science' and doi is null and year >= 2007";
+
+$sql = "select * from `names-5353853` where `publication` is not null and doi is null";
+
+
+
+$sql="select * from names where issn='0749-8004' and doi is null";
+
+$sql="select * from names where journal='Caucasian Entomological Bulletin'";
+
+$sql="select * from names where updated >= '2018-12-25' and publicationParsed='Y'";
+
+$sql="select * from names where issn='0022-4324' and biostor is null";
+
+
+$sql="select * from names where issn='0013-8827' AND volume IN (42,43)";
+
+$sql = "select * from names where updated >= '2019-04-11' and publicationParsed='Y'";
+
+$sql="select * from names where issn='0073-2230'";
+
+
+
+
+//echo $sql . "\n";
 
 $result = $db->Execute($sql);
 if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
@@ -850,7 +902,7 @@ while (!$result->EOF)
 {	
 	$obj = new stdclass;
 
-	$obj->id = $result->fields['id'];	
+	$obj->id = $result->fields['sici'];	
 	$obj->title = $result->fields['title'];
 	$obj->secondary_title = $result->fields['journal'];
 	
@@ -871,6 +923,8 @@ while (!$result->EOF)
 	$obj->year = $result->fields['year'];
 
 	$obj->doi = $result->fields['doi'];
+	
+	//print_r($obj);
 	
 	if ($obj->spage != '') 
 	{
@@ -899,7 +953,32 @@ while (!$result->EOF)
 			$obj->secondary_title = 'Transactions of the Entomological Society London';
 		}
 		
+		if ($obj->secondary_title == 'Memoirs on the Coleoptera Lancaster Pa')
+		{
+			$obj->secondary_title = 'Memoirs on the Coleoptera';
+		}
+		if ($obj->secondary_title == 'Mem Col Lancaster Pa')
+		{
+			$obj->secondary_title = 'Memoirs on the Coleoptera';
+		}
+		if ($obj->secondary_title == 'Mem Col')
+		{
+			$obj->secondary_title = 'Memoirs on the Coleoptera';
+		}
+		if ($obj->secondary_title == 'Mem Col Lancaster')
+		{
+			$obj->secondary_title = 'Memoirs on the Coleoptera';
+		}
+
+		if ($obj->secondary_title == 'Memorias do Instituto Butantan (Sao Paulo)')
+		{
+			$obj->secondary_title = 'Memorias do Instituto Butantan';
+		}
 		
+		
+		
+
+
 			
 		
 		
@@ -912,7 +991,7 @@ while (!$result->EOF)
 		}
 		
 		$ris .= "VL  - " . $obj->volume . "\n";
-		//$ris .= "IS  - " . $obj->issue . "\n";
+		$ris .= "IS  - " . $obj->issue . "\n";
 		if (0)
 		{
 			$ris .= "SP  - e-" . $obj->spage . "\n";

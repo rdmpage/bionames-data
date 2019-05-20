@@ -978,6 +978,217 @@ $extras=array(
 'Mem. Mus. G'
 );
 
+$journal='Earth Sci.';
+$extras=array(
+'Can. J',
+'Israel J'
+);
+
+$journal='Aust.';
+$extras=array(
+'Bull. Bur. Miner. Resour. Geol. Geophys',
+'J. geol. Soc',
+'Trans. R. Soc. S',
+'J. malac. Soc',
+'J. Proc. R. Soc. West',
+'Bull. geol. Surv. West'
+
+);
+
+$journal = 'Frey Tutzing Bei Muenchen';
+$extras=array(
+'Entomologische Arbeiten aus dem Museum G'
+);
+
+$journal='Parasit.';
+$extras=array(
+'J',
+'Revta iber',
+'Proc. 2nd Int. Congr',
+'Boln. chil',
+'Angew',
+'Ann. trop. Med'
+
+
+);
+
+
+$journal='Geol';
+$extras=array(
+/*'Recent Res',
+'Mitteilungen bayer. St. Palaont. Inst',
+'Tulane Stud',
+'Stockholm Contr',
+'Mededelinge Wkgrp Tert. Kwart',
+'Z \' asopis Miner',
+'C \' asopsis Miner',
+'Casopsis Miner',
+'t asopis Miner',
+'tasopis Miner',
+'Uasopsis Miner',
+'Beihefte Z',
+'Journal Min',
+'Gsopis Miner',
+'Kwart',
+'Scottish J',
+'tasopis Miner',
+'Mitteilungen bayer. St. Palaont. hist',*/
+//'Mitteilungen bayer St. Palaont. hist',
+//'Mitteilungen Ges',
+'Mittetlungen bayer. St. Palaont hist',
+'Mitteilungen bayer. St. Palaont. hilt'
+
+
+);
+
+$journal='Geol.';
+$extras=array(
+/*'Biul. Inst',
+'Acad. Sci. Estonia, Inst',
+'Alberta Soc. Petrol',
+'Acad. Sci. Estonia, Inst',
+'Mitt. bayer. St. Palaont. Hist',
+'Chem',
+'Mitt. bayer. St. Palaont. Hist. Mitt. bayer. St. Palaont. Hist',
+'Mitt. bayer. St. Palaont. Hist',
+'Bull. Can. Petrol',
+'Acad. Sci. Estonia, Inst',
+'Brigham Young Univ. Stud',
+'Recent Res',
+'Mitteilungen bayer. St. Palaont. Inst',
+'Tulane Stud',
+'Stockholm Contr',
+'Mededelinge Wkgrp Tert. Kwart',
+'Z \' asopis Miner',
+'C \' asopsis Miner',
+'Casopsis Miner',
+'t asopis Miner',
+'tasopis Miner',
+'Uasopsis Miner',
+'Beihefte Z',
+'Journal Min',
+'Gsopis Miner',
+'Kwart',
+'Scottish J',
+'tasopis Miner',
+
+'Annls Mus r. Afr. cent 8[degrees] Sci'*/
+
+'Cas. Miner',
+'Vestn. ustred. est',
+'Vest. ustred. Ust',
+'Eesti NSV Tead. Akad. Toimetised Keem',
+'Biol'
+
+);
+
+$journal='Georg Frey';
+$extras=array(
+'Ent. Arb. Mus'
+);
+
+
+$journal='Novit.';
+$extras=array(
+'Durban Mus',
+'American Mus',
+'Am. Mus'
+);
+
+
+$journal='Ber., Amst.';
+$extras=array(
+'Ent'
+);
+
+$journal='Insects 12';
+$extras=array(
+'Pacif'
+);
+
+
+$journal='Wien 73';
+$extras=array(
+'Annln naturh. Mus'
+);
+
+
+$journal='India';
+$extras=array(
+'Bull. Ent. Soc',
+'Q. Jl geol. Min. metall. Soc',
+'J. mar. biol. Ass',
+'J. zool. Soc',
+'J. Geol. Soc',
+'Bull. Ent. ent. Soc'
+);
+
+$journal = 'Journal Geol Soc';
+$extras=array(
+'London Quart'
+);
+
+$journal = 'Journal of the Geological Society London';
+$extras=array(
+'Quart',
+'Q'
+);
+
+$journal = 'J Sci Manila 1938';
+$extras=array(
+'Philipp',
+'Phil'
+);
+
+$journal = '(B)';
+$extras=array(
+'Proc. R. ent. Soc. Lond',
+'Proc. K. ned. Akad. Wet',
+'Geologische Jb',
+'Proc. Indian natn. Sci. Acad',
+'Atti Soc. tosc. Sci. Nat., Mem',
+'Proc. Indian Acad. Sci',
+'Phil. Trans. R. Soc',
+'Proceedings Indian Acad. Sci'
+);
+
+$journal = 'Can.';
+$extras=array(
+'Bull. geol. Surv',
+'Memoirs ent. Soc'
+);
+
+$journal = 'Ent';
+$extras=array(
+'GravenhageTijdschr',
+'Gravenhage Tijdschr',
+'Canad',
+'Pan-Pacif'
+);
+
+$journal = 'leth.';
+$extras=array(
+'Senckenberg'
+);
+
+$journal = 'Smith Institute of Ichthyology';
+$extras=array(
+'Ichthyological Bulletin of the J. L. B'
+);
+
+/*
+$journal = 'Jeannel';
+$extras=array(
+'Voyage de Ch. Alluaud et R',
+'Voyage de Ch. Alluaud et R. Jeannel. Alluaud et R',
+'Voy'
+'Voyage de Ch. Alluaud et R'
+);
+*/
+
+
+
+
 foreach ($extras as $title_extra)
 {
 
@@ -987,6 +1198,8 @@ foreach ($extras as $title_extra)
 	//$sql = 'SELECT * from names WHERE journal = "' . $journal . '" AND title LIKE "%] ' . $title_extra . '"';
 	//$sql = 'SELECT * from names WHERE journal = "' . $journal . '" AND title LIKE "%, ' . $title_extra . '"';
 	$sql = 'SELECT * from names WHERE journal = "' . $journal . '" AND title LIKE "% ' . $title_extra . '"';
+
+	//$sql = 'SELECT * from names WHERE journal LIKE "%' . $journal . '%"';
 	
 	//echo $sql . "\n";
 	
@@ -996,6 +1209,7 @@ foreach ($extras as $title_extra)
 	while (!$result->EOF) 
 	{
 		$id = $result->fields['id'];
+		$sici = $result->fields['sici'];
 	
 		$title = $result->fields['title'];
 		$title = preg_replace('/' . addcslashes($title_extra, "()") . '$/Uu', '', $result->fields['title']);
@@ -1025,6 +1239,14 @@ foreach ($extras as $title_extra)
 				$fixed_journal = preg_replace ('/,?\s+No$/', '', $title_extra);
 				break;
 				
+			case 'Insects 12':
+				$fixed_journal = $title_extra . '. ' . 'Insects';
+				break;
+				
+			case 'Wien 73':
+				$fixed_journal = $title_extra . '. ' . 'Wien';
+				break;
+				
 			default:
 				$fixed_journal = $title_extra . '. ' . $journal;
 	//			$fixed_journal = $title_extra . ' ' . $journal;
@@ -1038,7 +1260,21 @@ foreach ($extras as $title_extra)
 		{
 			echo ', volume=' . $db->qstr($volume);
 		}
-		echo ' WHERE id=' . $id . ';' . "\n";
+		
+		if ($journal == 'Insects 12')
+		{
+			echo ', volume=12';
+		}
+		
+		
+		if ($journal == 'Wien 73')
+		{
+			echo ', volume=73';
+		}
+		
+		
+//		echo ' WHERE id=' . $id . ';' . "\n";
+		echo ' WHERE sici="' . $sici . '";' . "\n";
 		
 		$result->MoveNext();
 	}

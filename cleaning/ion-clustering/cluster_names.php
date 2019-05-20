@@ -212,7 +212,7 @@ function find_clusters($strings, $threshold = 0.8)
 
 
 //--------------------------------------------------------------------------------------------------
-$db = NewADOConnection('mysql');
+$db = NewADOConnection('mysqli');
 $db->Connect("localhost", 
 	$config['db_user'] , $config['db_passwd'] , $config['db_name']);
 
@@ -265,6 +265,12 @@ $filename = 'namestring.txt';
 $filename = 'test.txt';
 
 $filename = 'names4495670_4499910.txt';
+
+$filename = 'names-5340754.txt';
+
+$filename = 'names-5353853.txt';
+
+$filename = 'names-5376656.txt';
 
 
 $file_handle = fopen($filename, "r");
@@ -376,7 +382,7 @@ while (!feof($file_handle))
 			
 			foreach ($c as $id)
 			{
-				echo 'UPDATE names SET cluster_id=' . $c[0] . ' WHERE id=' . $id . ';' . "\n";
+				echo 'UPDATE `names` SET cluster_id="' . $c[0] . '" WHERE id="' . $id . '";' . "\n";
 				
 				
 			}		

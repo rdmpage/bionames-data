@@ -3,13 +3,13 @@
 // Create unique ids based on md5 hash of publication string
 // Can use these as _id field for CouchDB, for example
 
-require_once (dirname(__FILE__) . '/config.inc.php');
+require_once (dirname(dirname(dirname(__FILE__))) . '/config.inc.php');
 require_once (dirname(dirname(dirname(__FILE__))) . '/adodb5/adodb.inc.php');
 require_once (dirname(dirname(dirname(__FILE__))) . '/utils.php');
 
 
 //--------------------------------------------------------------------------------------------------
-$db = NewADOConnection('mysql');
+$db = NewADOConnection('mysqli');
 $db->Connect("localhost", 
 	$config['db_user'] , $config['db_passwd'] , $config['db_name']);
 
@@ -18,7 +18,7 @@ $ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
 
 
 $filename = 'pub_ids.txt';
-$filename = 'fix.txt';
+//$filename = 'fix.txt';
 //$filename = '4964980.txt';
 
 $file_handle = fopen($filename, "r");
@@ -30,7 +30,7 @@ while (!feof($file_handle))
 	if ($id != '')
 	{
 	
-		$sql = 'SELECT publication, taxonAuthor, doi, biostor FROM names WHERE id=' . $id . ' LIMIT 1';
+		$sql = 'SELECT publication, taxonAuthor, doi, biostor, jstor FROM names WHERE id=' . $id . ' LIMIT 1';
 		
 		$result = $db->Execute($sql);
 		if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
@@ -39,12 +39,18 @@ while (!feof($file_handle))
 		{
 			$publication = $result->fields['publication'];
 					
-			$str = publication_to_unique_string($result->fields['publication'], $result->fields['taxonAuthor'], $result->fields['doi'], $result->fields['biostor']);
+			$str = publication_to_unique_string(
+				$result->fields['publication'], 
+				$result->fields['taxonAuthor'], 
+				$result->fields['doi'], 
+				$result->fields['biostor'],
+				$result->fields['jstor']);
+				
 			$m =  md5($str);	
 			
 			echo "-- $str\n";
 			
-			echo "UPDATE names SET sici=" . $db->qstr($m) . " WHERE id=$id;" . "\n";
+			echo "UPDATE names SET sici=" . $db->qstr($m) . " WHERE id='$id';" . "\n";
 			
 		}
 	}
