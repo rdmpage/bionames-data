@@ -8,6 +8,15 @@ require_once (dirname(dirname(__FILE__)) . '/adodb5/adodb.inc.php');
 require_once (dirname(dirname(__FILE__)) . '/couchsimple.php');
 require_once (dirname(dirname(__FILE__)) . '/lib.php');
 
+
+	$db = NewADOConnection('mysqli');
+	$db->Connect("localhost", 
+	'root' , '' , 'ion');
+
+	// Ensure fields are (only) indexed by column name
+	$ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
+
+
 //--------------------------------------------------------------------------------------------------
 function clean_publication ($publication, $taxon_author = null)
 {
@@ -54,7 +63,7 @@ function get_group($id)
 	}
 	*/
 	
-	$db = NewADOConnection('mysql');
+	$db = NewADOConnection('mysqli');
 	$db->Connect("localhost", 
 	'root' , '' , 'ion');
 	
@@ -82,7 +91,7 @@ function get_group($id)
 	
 	print_r($group);
 	
-	
+	$db->close();
 	
 
 	return $group;
@@ -93,7 +102,7 @@ function get_cluster($cluster_id)
 {
 	global $couch;
 	
-	$db = NewADOConnection('mysql');
+	$db = NewADOConnection('mysqli');
 	$db->Connect("localhost", 
 	'root' , '' , 'ion');
 
@@ -129,7 +138,7 @@ function get_cluster($cluster_id)
 			$name = new stdclass;
 			$name->nomenclaturalCode = 'ICZN';
 			
-			$keys = array('id', 'nameComplete', 'taxonAuthor', 'uninomial', 'genusPart', 'infragenericEpithet', 'specificEpithet', 'infraspecificEpithet', 'rank', 'publication', 'year', 'sici', 'microreference');
+			$keys = array('id', 'nameComplete', 'taxonAuthor', 'uninomial', 'genusPart', 'infragenericEpithet', 'specificEpithet', 'infraspecificEpithet', 'rank', 'publication', 'year', 'sici', 'microreference', 'extinct');
 			
 			foreach ($keys as $k)
 			{
@@ -162,6 +171,14 @@ function get_cluster($cluster_id)
 						case 'year':
 							$name->{$k} = $result->fields[$k];
 							$cluster->year[] = $result->fields[$k];
+							break;
+							
+						case 'extinct':
+							if ($result->fields[$k] == 'Y')
+							{
+								$name->{$k} = true;
+								$cluster->extinct = true;
+							}
 							break;
 						
 						default:
@@ -283,6 +300,9 @@ function get_cluster($cluster_id)
 		
 	}
 	
+	$db->close();
+	
+	
 	return $cluster;
 }
 
@@ -328,12 +348,16 @@ function add_cluster($cluster_id)
 //--------------------------------------------------------------------------------------------------
 function add_cluster_from_id($id)
 {
-	$db = NewADOConnection('mysql');
+	global $db;
+	
+	/*
+	$db = NewADOConnection('mysqli');
 	$db->Connect("localhost", 
 	'root' , '' , 'ion');
 
 	// Ensure fields are (only) indexed by column name
 	$ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
+	*/
 	
 	$sql = 'SELECT cluster_id FROM `names` WHERE id="' . $id . '"  LIMIT 1;';
 	
@@ -347,12 +371,15 @@ function add_cluster_from_id($id)
 		add_cluster($result->fields['cluster_id']);
 	}
 	
+	//$db->close();
+	
+	
 }
 
 //--------------------------------------------------------------------------------------------------
 function add_cluster_from_name($name)
 {
-	$db = NewADOConnection('mysql');
+	$db = NewADOConnection('mysqli');
 	$db->Connect("localhost", 
 	'root' , '' , 'ion');
 	
@@ -375,6 +402,9 @@ function add_cluster_from_name($name)
 	{
 		add_cluster($cluster_id);
 	}
+	
+	$db->close();
+	
 	
 }
 

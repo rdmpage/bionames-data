@@ -10,7 +10,7 @@ require_once (dirname(dirname(__FILE__)) . '/couchsimple.php');
 
 
 $ids=array(
-4855870
+5241354
 );
 
 foreach ($ids as $id)
