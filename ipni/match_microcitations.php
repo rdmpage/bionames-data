@@ -90,7 +90,7 @@ function roman($arabic)
 }
 
 //--------------------------------------------------------------------------------------------------
-$db = NewADOConnection('mysql');
+$db = NewADOConnection('mysqli');
 $db->Connect("localhost", 
 	'root', '', 'ipni');
 
@@ -565,10 +565,130 @@ $sql = 'select * from names where issn="0006-8241" and doi is NULL';
 
 $sql = 'select * from names where issn="0737-8211" and doi is NULL';
 
+$sql = 'select * from names where issn="1000-4025" and doi is NULL';
+$sql = 'select * from names where issn="0210-9506" and url is NULL';
+$sql = 'select * from names where issn="1988-4257" and url is NULL';
+
+$sql = 'select * from names where issn="0370-6583" and jstor is NULL';
+
+$sql = 'select * from names where issn="0004-2625" and jstor is NULL';
+
+
+
+$sql = 'select * from names where issn="0038-4909" and jstor is NULL';
+
+$sql = 'select * from names where issn="2327-2929" and Collation like "16%" and doi is NULL';
+
+//$sql = 'select * from names where Id="689058-1"';
+
+
+$sql = 'select * from names where issn="0155-4131" and jstor is NULL';
+
+$sql = 'select * from names where issn="0265-086X" and doi is NULL';
+
+$sql = 'select * from names where issn="0976-5069" and doi is NULL';
+
+$sql = 'select * from names where issn="0044-5983" and doi is NULL';
+
+
+$sql = 'select * from names where Id="207975-1"';
+
+
+//$sql = 'select * from names where issn="0312-9764" and doi is NULL and Publication_year_full = 2012';
+
+$sql = 'select * from names where issn="0026-279X" and pdf is NULL';
+
+$sql = 'select * from names where issn="0044-5967" and doi is NULL and Collation like "10%"';
+
+$sql = 'select * from names where issn="0372-4611"  and Collation like "13%"'; // and pdf is null
+
+$sql = 'select * from names where issn="0366-3094"  and doi is null';
+
+$sql = 'select * from names where issn="0008-7475"  and doi is null';
+
+$sql = 'select * from names where issn="1097-993X"';
+$sql = 'select * from names where issn="0199-9818" and jstor is null';
+
+$sql = 'select * from names where issn="0096-6134" and doi is null';
+
+$sql = 'select * from names where issn="0006-808X" and doi is null and Collation LIKE "32%"';
+
+//$sql = 'select * from names where Id="466139-1"';
+
+$sql = 'select * from names where Genus = "Machilus" and issn="0006-808X"';
+
+$sql = 'select * from names where issn="0001-804X" and wikidata is null';
+
+$sql = 'select * from names where issn="0042-5672"';
+
+//$sql = 'select * from names where Id="780121-1"';
+
+$sql = 'select * from names where issn="0374-5481" and doi is null and Collation LIKE "ser. 3,%"';
+
+
+$sql = 'select * from names where issn="0037-8941" and doi is null and Collation LIKE "11%"';
+
+$sql = 'select * from names where issn="1659-3049"';
+
+$sql = 'select * from names where issn="1179-3155" and doi is null';
+$sql = 'select * from names where Publication="J. As. Soc. Straits" and jstor is null';
+$sql = 'select * from names where Publication="Contr. U.S. Natl. Herb." and jstor is null';
+
+$sql = 'select * from names where issn="0370-5412" and doi is null';
+
+
+$sql = 'select * from names where Publication="Rev. Bot. Appl. Agric. Trop." and doi is null';
+
+
+
+$sql = 'select * from names where issn="0366-2128" and doi is null';
+
+$sql = 'select * from names where issn="0252-192X"'; 
+
+$sql = 'select * from names where issn="0079-2047"';
+
+$sql = 'select * from names where issn="0022-2062" and Collation like "9%" and url is null';
+
+
+$sql = 'select * from names where issn="0003-049X" and  jstor is null';
+
+$sql = 'select * from names where issn="0366-5232" and Collation like "11%" and jstor is null';
+
+$sql = 'select * from names where issn="0370-6583" and Collation like "no. %" and jstor is null;';
+
+$sql = 'select * from names where issn="0068-547X" and pdf is null and Publication_year_full like "2%"';
+
+$sql = 'select * from names where issn="0366-5232" and Collation like "7%" and jstor is null';
+
+$sql = 'select * from names where issn="0006-8098" and jstor is null';
+
+$sql = 'select * from names where issn="0211-1322" and Collation <> "" and doi is null;';
+
+
+$sql = 'select * from names where issn="1673-5102"  and url is null;';
+
+
+$sql = 'select * from names where issn="0040-0262" and Collation <> "" and doi is null;';
+$sql = 'select * from names where issn="0040-0262" and Collation <> "" and jstor is null;';
+
+$sql = 'select * from names where issn="0003-3847" and Collation <> "" and jstor is null;';
+
+
+
+$sql = 'select * from names where Id="77080933-1"';
 
 $include_issue_in_search = false;
-//$include_issue_in_search = false;
+$include_issue_in_search = true;
+
+$include_authors_in_search = true;
 $include_authors_in_search = false;
+
+$include_year_in_search = false;
+//$include_year_in_search = true;
+
+$include_series_in_search = false;
+//$include_series_in_search = true;
+
 
 $result = $db->Execute($sql);
 if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
@@ -626,6 +746,21 @@ while (!$result->EOF)
 
 	
 	
+	if ($reference->journal->name == 'Rodriguésia')
+	{
+		if (preg_match('/^no\.\s+(?<issue>\d+):\s+(?<pages>\d+)/i', $collation, $m))
+		{
+			$matched = true;
+			
+			//print_r($m);
+			$reference->journal->issue = $m['issue'];
+			$reference->journal->pages = $m['pages'];
+			
+			//print_r($reference);
+		}
+	}
+	
+	
 	if ($reference->journal->name == 'Bulletin of Miscellaneous Information (Royal Gardens, Kew)')
 	{
 		if (preg_match('/^(?<pages>\d+)?\s+\((?<year>[0-9]{4})\)$/i', $collation, $m))
@@ -640,6 +775,66 @@ while (!$result->EOF)
 			//print_r($reference);
 		}
 	}
+	
+	if ($reference->journal->name == 'Kew Bulletin')
+	{
+		// 1953. 550 (1954)
+		if (preg_match('/^(?<year>[0-9]{4})\.\s+(?<pages>\d+)?\s+\([0-9]{4}\)$/i', $collation, $m))
+		{
+			$matched = true;
+			
+			//print_r($m);
+			$reference->year = $m['year'];
+			$reference->journal->pages = $m['pages'];
+		}
+	}	
+	
+	// No. 29. 43 (1965)
+	if (!$matched)
+	{
+		if (preg_match('/No\.\s+(?<volume>\d+)[\.|,]\s*(?<pages>\d+)\.?\s*\((?<year>[0-9]{4})\)/', $result->fields['Collation'], $m))
+		{
+			echo "-- Matched " . __LINE__ . "\n";
+			$matched = true;
+		
+		
+			//print_r($m);
+		
+			$reference->journal->volume = $m['volume'];
+			$reference->journal->pages = $m['pages'];
+			$reference->year = $m['year'];
+			
+			$reference->authors = $result->fields['Publishing_author'];
+		
+			//print_r($reference);
+			
+			//exit();
+		}
+	}	
+	
+	
+	// cxiv. (Mitt. Bot. Mus. Univ. Zurich, ccxlii.) 60
+	if (!$matched)
+	{
+		if (preg_match('/(?<volume>[cixlv]+)\.\s+\(.*\)\s+(?<pages>\d+)/', $result->fields['Collation'], $m))
+		{
+			echo "-- Matched " . __LINE__ . "\n";
+			$matched = true;
+		
+		
+			//print_r($m);
+		
+			$reference->journal->volume = arabic($m['volume']);
+			$reference->journal->pages = $m['pages'];
+			
+			$reference->authors = $result->fields['Publishing_author'];
+		
+			//print_r($reference);
+			
+			//exit();
+		}
+	}	
+	
 	
 	// v. (1894) 50; Vasey, III. N. Am. Grass. i. I. (1890)t. 50
 	if (!$matched)
@@ -694,6 +889,8 @@ while (!$result->EOF)
 	}
 	
 	
+	
+	
 	// 10, no. 20: 43
 	if (!$matched)
 	{
@@ -742,6 +939,7 @@ while (!$result->EOF)
 	}
 	
 	
+	
 	// ser. 3, 19(111): 197 1867 [Mar 1867]
 	if (!$matched)
 	{
@@ -764,6 +962,30 @@ while (!$result->EOF)
 			//exit();
 		}
 	}
+	
+	// Ser. 12, x. 44 (1957)
+	if (!$matched)
+	{
+		if (preg_match('/^Ser\.\s+(?<series>\d+),\s+(?<volume>[ixlv]+)\.\s+(?<pages>\d+)\s+\([0-9]{4}\)/', $result->fields['Collation'], $m))
+		{
+			echo "-- Matched " . __LINE__ . "\n";
+			$matched = true;
+		
+		
+			//print_r($m);
+		
+			$reference->journal->series = $m['series'];
+			$reference->journal->volume = arabic($m['volume']);
+			$reference->journal->pages = $m['pages'];
+			
+			$reference->authors = $result->fields['Publishing_author'];
+		
+			//print_r($reference);
+			
+			//exit();
+		}
+	}
+	
 	
 	// Ser. III, iv. (1859) 361
 	if (!$matched)
@@ -1713,7 +1935,7 @@ while (!$result->EOF)
 			$parameters['article_number'] = $reference->journal->article_number;
 		}
 
-		if (isset($reference->journal->series))
+		if (isset($reference->journal->series) && $include_series_in_search)
 		{
 			$parameters['series'] = $reference->journal->series;
 		}
@@ -1724,26 +1946,37 @@ while (!$result->EOF)
 			if (isset($reference->authors))
 			{
 				$parameters['authors'] = $reference->authors;
+				
+				// clean
+				$parameters['authors'] = str_replace('.', '', $parameters['authors']);
 			}
 		}
 		
 		
 		//print_r($parameters);
 		
-		/*
-		if (isset($reference->year))
+		
+		if ($include_year_in_search)
 		{
-			$parameters['year'] = $reference->year;
-		}
-		*/
+			if (isset($reference->year))
+			{
+				$parameters['year'] = $reference->year;
+				
+				// clean
+				$parameters['year'] = substr($parameters['year'], 0, 4);
+				
+			}
+		}		
 		
 		
 
 		$url = 'http://localhost/~rpage/microcitation/www/index.php?' . http_build_query($parameters);
+		
+		//echo $url ."\n";
 			
 		$json = get($url);
 		
-		//echo $url ."\n";
+		//echo $json;
 		
 		//exit();
 		//echo $json;
@@ -1763,6 +1996,14 @@ while (!$result->EOF)
 			
 			if (count($obj->results) == 1)
 			{
+				// Wikidata
+				if (isset($obj->results[0]->wikidata))
+				{
+					echo 'UPDATE names SET wikidata="' . $obj->results[0]->wikidata . '" WHERE Id="' . $reference->id . '";' . "\n";
+				}
+			
+			
+			
 				// DOI
 				if (isset($obj->results[0]->doi))
 				{
@@ -1796,7 +2037,7 @@ while (!$result->EOF)
 					
 					if (preg_match('/http:\/\/ci.nii.ac.jp\/naid\//', $obj->results[0]->url))
 					{
-						echo  'UPDATE names SET cinii="' . str_replace('http://ci.nii.ac.jp/naid/', '', $obj->results[0]->url) . '" WHERE Id="' . $reference->id . '";' . "\n";
+						//echo  'UPDATE names SET cinii="' . str_replace('http://ci.nii.ac.jp/naid/', '', $obj->results[0]->url) . '" WHERE Id="' . $reference->id . '";' . "\n";
 					}
 					
 					if ($use_url)

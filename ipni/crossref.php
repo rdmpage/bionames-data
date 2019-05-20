@@ -292,7 +292,8 @@ function find_doi(&$reference)
 	$url = 'http://www.crossref.org/openurl?pid=r.page@bio.gla.ac.uk'
 	 . '&title=' . urlencode($reference->journal->name)
 	 . '&volume=' . $reference->journal->volume
-	 . '&spage=' . $reference->journal->pages;
+	 . '&spage=' . $reference->journal->pages
+	 . '&date=' . $reference->year;
 	 
 	 
 	 if (isset($reference->journal->identifier))

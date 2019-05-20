@@ -198,6 +198,17 @@ function find_item($TitleID, $volume, $issue='', $year = '')
 			$pattern = "v.$volume:no%";
 			break;
 			
+		case 15433:
+			// fasc.1
+			$pattern = "fasc.$volume";
+			break;
+			
+			// Trudy Imperatorskago S.-Peterburgskago botanicheskago sada
+		case 14650:
+			$pattern = "v.$volume-%"; // 
+			break;
+		
+			
 		default:
 			$pattern = "$volume";
 			break;
@@ -220,7 +231,7 @@ function find_item($TitleID, $volume, $issue='', $year = '')
 
 
 //--------------------------------------------------------------------------------------------------
-$db = NewADOConnection('mysql');
+$db = NewADOConnection('mysqli');
 $db->Connect("localhost", 
 	'root', '', 'ipni');
 
@@ -344,6 +355,19 @@ $sql = 'SELECT * FROM ipni.names WHERE Publication="Bull. New York Bot. Gard." A
 $TitleID = 61808;
 $sql = 'SELECT * FROM ipni.names WHERE issn="1815-8242" AND Collation <> "" AND  bhl IS NULL';
 
+$TitleID = 15433;
+$sql = 'SELECT * FROM ipni.names WHERE Publication="Orchidaceae (Ames)" AND Collation <> "" AND  bhl IS NULL';
+
+$TitleID = 574;
+$sql = 'SELECT * FROM ipni.names WHERE Publication="Enum. Pl. Zeyl. [Thwaites]" AND Collation <> "" AND  bhl IS NULL';
+
+$TitleID = 286;
+$sql = 'SELECT * FROM ipni.names WHERE Publication="Prodr. (DC.)" AND Collation LIKE "11%" AND  bhl IS NULL';
+
+
+$TitleID = 14650;
+$sql = 'SELECT * FROM ipni.names WHERE Publication="Trudy Imp. S.-Peterburgsk. Bot. Sada" AND Collation LIKE "xii. (1892) 175." AND  bhl IS NULL';
+
 
 //$sql = 'SELECT * FROM names WHERE Id="585674-1"';
 
@@ -388,6 +412,25 @@ while (!$result->EOF)
 
 	
 	$matched = false;
+	
+	// xii. (1892) 175.
+	
+	if (!$matched)
+	{
+		if (preg_match('/(?<volume>[ixv]+)\.\s+\((?<year>[0-9]{4})\)\s+(?<pages>\d+)/', $result->fields['Collation'], $m))
+		{
+			$matched = true;
+			
+			//print_r($m);
+			
+			$reference->journal->volume = $m['volume'];
+			$reference->journal->pages 	= $m['pages'];
+			$reference->year 			= $m['year'];
+			
+			//print_r($reference);
+		}
+	}
+	
 	
 	// v. 1831 (1913).
 	
@@ -679,7 +722,18 @@ while (!$result->EOF)
 		{
 			$ItemID = 122;
 		}
+
+		if ($TitleID == 574)
+		{
+			$ItemID = 10372;
+		}
 		
+		// Prodr. (DC.)
+		// do volume by volume
+		if ($TitleID == 286)
+		{
+			$ItemID = 7160; // v. 11
+		}
 		
 		//echo "-- ItemID=$ItemID \n";
 		

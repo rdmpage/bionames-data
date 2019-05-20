@@ -93,7 +93,7 @@ function roman($arabic)
 
 
 //--------------------------------------------------------------------------------------------------
-$db = NewADOConnection('mysql');
+$db = NewADOConnection('mysqli');
 $db->Connect("localhost", 
 	'root', '', 'ipni');
 
@@ -243,7 +243,18 @@ $journals=array('Feddes Repert.');
 $journals=array('Bothalia');
 
 $journals=array('Cact. Succ. J. (Los Angeles)');
+$journals=array('Molec. Phylogen. Evol.');
+$journals=array('Ann. Bot. (Oxford)');
 
+$journals=array('Korean J. Pl. Taxon.');
+
+$journals=array('Ann. New York Acad. Sci.');
+
+$journals=array('Trans. & Proc. Bot. Soc. Edinb.');
+
+$journals=array('Rev. Int. Bot. Appl. Agric. Trop.');
+
+$journals=array('Pl. Biosystems');
 
 foreach ($journals as $journal)
 {
@@ -253,12 +264,12 @@ foreach ($journals as $journal)
 
 	//$sql = 'select * from names where Publication = "' . $journal .'" and doi is NULL and Publication_year_full = 2015';
 
-	$sql = 'select * from names where Publication = "' . $journal .'" and doi is NULL and Publication_year_full > 2014';
+	//$sql = 'select * from names where Publication = "' . $journal .'" and doi is NULL and Publication_year_full > 2014';
 
 	
 	//echo $sql . "\n";
 
-	//$sql = 'SELECT * FROM names WHERE Id="77135386-1"';
+	//$sql = 'SELECT * FROM names WHERE Id="518016-1"';
 	
 	//$sql = 'select * from `2014` where Publication = "' . $journal .'" and doi is NULL';
 	//$sql = 'SELECT * FROM `2014` WHERE issn IS NOT NULL and doi IS NULL';
@@ -369,6 +380,23 @@ foreach ($journals as $journal)
 			}
 		}
 		
+		//  xxxv. (Mimos. & Caesalpin. Colomb.) 162. (1936).
+		if (!$matched)
+		{
+			if (preg_match('/^(?<volume>[ivxlc]+)[,|.]\s+\(.*\)\s+(?<pages>\d+)\.\s+\((?<year>[0-9]{4})/i', $result->fields['Collation'], $m))
+			{
+				$matched = true;
+			
+				//print_r($m);
+			
+			
+			
+				$reference->journal->volume = arabic($m['volume']);
+				$reference->journal->pages = $m['pages'];
+			
+				//print_r($reference);
+			}
+		}
 		
 		
 		if (!$matched)
@@ -470,6 +498,15 @@ foreach ($journals as $journal)
 		}
 	
 	
+		// clean
+		if (isset($reference->year))
+		{
+			if (preg_match('/^(?<year>[0-9]{4})/', $reference->year, $m))
+			{
+				$reference->year = $m['year'];
+			}
+		}
+	
 	
 		//$missing = array(94,95,65,96,97,99,100,63,64,66,67);
 	
@@ -487,7 +524,7 @@ foreach ($journals as $journal)
 			}
 			else
 			{
-				$steps = -50;
+				$steps = -30;
 				$found = false;
 				while (!$found and $steps < 0 && $reference->journal->pages > 0)
 				{

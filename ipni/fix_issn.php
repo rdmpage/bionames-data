@@ -6,7 +6,7 @@ require_once (dirname(dirname(__FILE__)) . '/adodb5/adodb.inc.php');
 require_once (dirname(dirname(__FILE__)) . '/lib.php');
 
 //--------------------------------------------------------------------------------------------------
-$db = NewADOConnection('mysql');
+$db = NewADOConnection('mysqli');
 $db->Connect("localhost", 
 	'root', '', 'ipni');
 

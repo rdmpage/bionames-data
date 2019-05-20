@@ -9,7 +9,7 @@ require_once (dirname(dirname(__FILE__)) . '/lib.php');
 
 
 //--------------------------------------------------------------------------------------------------
-$db = NewADOConnection('mysql');
+$db = NewADOConnection('mysqli');
 $db->Connect("localhost", 
 	'root', '', 'ipni');
 
@@ -76,10 +76,27 @@ $sql = 'SELECT * FROM names WHERE issn="0077-1813" and Collation <>"" and biosto
 $sql = 'SELECT * FROM names WHERE issn="0077-1813" and Collation LIKE "12%" and biostor is null';
 
 
+$sql = 'SELECT * FROM names WHERE issn="0240-8937" and biostor is null';
+
+$sql = 'SELECT * FROM names WHERE issn="0006-6982" and biostor is null';
+
+//$sql = 'SELECT * FROM names WHERE Id = "278804-2"';
+
+//$sql = 'SELECT * FROM names WHERE Id = "281825-2"';
+
+
+$sql = 'SELECT * FROM names WHERE Publication="Phytologia" and Collation LIKE "3%" and biostor is null';
+
+
+$sql = 'SELECT * FROM names WHERE issn="0068-547X" and Collation <>"" and biostor is null';
+
+$sql = 'SELECT * FROM names WHERE Publication="Phytologia" and Collation LIKE "24%" and biostor is null';
 
 
 //$sql = 'SELECT * FROM names WHERE Id="17343590-1"';
 //$sql = 'SELECT * FROM names WHERE Id="901452-1"';
+
+$sql = 'SELECT * FROM names WHERE Id="935805-1"';
 
 $use_year = true;
 $use_year = false;
@@ -138,6 +155,40 @@ while (!$result->EOF)
 			//print_r($reference);
 		}
 	}
+	
+	// 4e ser., 8, 1986, section B, Adansonia no. 4: 420
+	// 4 ser., 10, section B, Adansonia no. 1: 51 (-52), fig
+	if (!$matched)
+	{
+		if (preg_match('/^\d+[e]?\s+ser.,?\s+(?<volume>\d+)[,|\.](.*)\d+:\s+(?<pages>\d+)/u', $result->fields['Collation'], $m))
+		{
+			$matched = true;
+			
+			//print_r($m);
+			
+			$reference->journal->volume = $m['volume'];
+			$reference->journal->pages = $m['pages'];
+			
+			//print_r($reference);
+		}
+	}	
+	
+	
+	// Sér. 4, 12(2): 206
+	if (!$matched)
+	{
+		if (preg_match('/^Sér. \d+,\s+(?<volume>\d+)\((.*)\):\s+(?<pages>\d+)/u', $result->fields['Collation'], $m))
+		{
+			$matched = true;
+			
+			//print_r($m);
+			
+			$reference->journal->volume = $m['volume'];
+			$reference->journal->pages = $m['pages'];
+			
+			//print_r($reference);
+		}
+	}	
 	
 	
 	// Phytoneuron
