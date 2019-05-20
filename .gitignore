@@ -3,12 +3,19 @@ config.inc.php
 
 adodb5/
 
+avibase/junk
+avibase/*.sql
+
 bhl_coverage/junk
 
 cleaning/ion-clustering/tmp
+cleaning/ion-clustering/*.sql
+cleaning/ion-clustering/*.txt
 cleaning/ion-ris/junk
 cleaning/ion-ris/*.ris
+cleaning/ion-ris/*.sql
 cleaning/ion-ris/*.txt
+cleaning/ion-ris/*.html
 
 darwincore/junk
 darwincore/doi/junk
@@ -21,6 +28,17 @@ gbif-backbone-2013-07-02
 
 hostparser/junk
 hostparser/*.sql
+
+ion-extinct/junk
+
+ion-harvest/html*
+ion-harvest/rdf*
+ion-harvest/*.sql
+
+ion-harvest/Net/.svn
+ion-harvest/Net/DNS/.svn
+ion-harvest/Net/DNS/RR/.svn
+
 
 ipni/archives
 ipni/junk
