@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId=""  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+    <title>The Paleobiology Database</title>
+    <creator>
+<organizationName>The Paleobiology Database</organizationName><electronicMailAddress>info@paleobiodb.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Markus</givenName>        <surName>Döring</surName>
+    </individualName>
+<organizationName>GBIF</organizationName><electronicMailAddress>mdoering@gbif.org</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+<organizationName>The Paleobiology Database</organizationName><electronicMailAddress>info@paleobiodb.org</electronicMailAddress>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+      <pubDate>
+      2018-01-16
+      </pubDate>
+    <language>en</language>
+    <abstract>
+        <para>The Paleobiology Database is a public database of paleontological data that anyone can use, maintained by an international non-governmental group of paleontologists.
+
+Fossil occurrences from scientific publications are added to the database by our contributing members. Thanks to our membership, which includes nearly 400 scientists from over 130 institutions in 24 countries, the Paleobiology Database is able to provide scientists and the public with information about the fossil record.</para>
+    </abstract>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://paleobiodb.org/</url>
+          </online>
+      </distribution>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2018-01-16T06:55:41Z</dateStamp>
+              <resourceLogoUrl>https://paleobiodb.org/build/logos/pbdb_color.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

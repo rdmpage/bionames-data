@@ -1,0 +1,6024 @@
+4	en	radiolarian
+2894	en	sponge
+2895	en	demosponge
+70146	en	demosponge
+272897	en	demosponge
+273398	en	demosponge
+3603	en	calcareous sponge
+3841	en	glass sponge
+4535	en	jellyfish
+4638	en	fire coral
+4647	en	lace coral
+4743	en	black coral
+4745	en	organ pipe coral
+4777	en	sea pen
+4786	en	sea anemone
+142831	en	sea anemone
+5113	en	horn coral
+112597	en	horn coral
+5638	en	Rugose coral
+6108	en	stony coral
+6994	en	comb jelly
+6998	en	roundworm
+7021	en	worm
+272416	en	worm
+7805	en	mollusk
+272417	en	mollusk
+7925	en	mollusk
+8023	en	chiton
+97719	en	chiton
+8047	en	glass-hair chiton
+8048	en	fuzzy chiton
+8166	en	tusk shell
+8304	en	snail
+8394	en	limpet
+112371	en	limpet
+8395	en	limpet
+108109	en	limpet
+9178	en	puncturella
+9419	en	wentletrap
+9422	en	aclis
+9634	en	triton
+9724	en	cowry
+9992	en	Jenner's Cowry
+187678	en	Jenner's Cowry
+342084	en	Jenner's Cowry
+343972	en	Jenner's Cowry
+10291	en	moon snail
+97662	en	moon snail
+106419	en	moon snail
+114026	en	moon snail
+10520	en	conch
+10637	en	turret shell
+10711	en	unicorn
+111929	en	unicorn
+10721	en	admete
+97419	en	admete
+10724	en	dovesnail
+10726	en	aforia
+10731	en	nutmeg
+10739	en	dovesnail
+115353	en	dovesnail
+135490	en	dovesnail
+10874	en	whelk
+11116	en	tulip snail
+115012	en	tulip snail
+11596	en	mustached bat
+157494	en	mustached bat
+11900	en	barrel-bubble
+12038	en	sundial
+113433	en	sundial
+113434	en	sundial
+113435	en	sundial
+113436	en	sundial
+12270	en	sea hare
+14000	en	ceratite
+14505	en	ammonite
+94110	en	ammonite
+15832	en	belemnite
+15851	en	belemnite
+15917	en	cuttlefish
+330679	en	cuttlefish
+15933	en	ram's horn shell
+15940	en	squid
+15979	en	belemnite
+16005	en	clam
+16007	en	divaricate nutclam
+106470	en	divaricate nutclam
+16198	en	miniature ark
+117741	en	miniature ark
+16201	en	ark
+95071	en	ark
+98530	en	ark
+16203	en	ark
+16335	en	datemussel
+16383	en	mussel
+16420	en	crenella
+16446	en	scallop
+92169	en	scallop
+93632	en	scallop
+114520	en	scallop
+16476	en	jingle
+16490	en	calico scallop
+159083	en	calico scallop
+17298	en	abra
+17314	en	venus
+95267	en	venus
+17315	en	aligena
+17892	en	quahog
+95527	en	quahog
+18524	en	rudist
+244354	en	rudist
+18891	en	arthropod
+18947	en	eurypterid
+19009	en	scorpion
+243101	en	scorpion
+19015	en	sea spider
+19100	en	trilobite
+22113	en	branchiopod
+22115	en	copepod
+133250	en	copepod
+22117	en	barnacle
+82263	en	barnacle
+133220	en	barnacle
+22127	en	barnacle
+22267	en	mantis shrimp
+22304	en	decapod
+22355	en	lobster
+22582	en	ghost crab
+22745	en	fiddler crab
+22766	en	mysid shrimp
+360341	en	mysid shrimp
+22782	en	hooded shrimp
+22794	en	isopod
+22808	en	pill bug
+22819	en	amphipod
+22826	en	ostracod
+24773	en	bryozoan
+98565	en	bryozoan
+272413	en	bryozoan
+26322	en	lamp shell
+98561	en	lamp shell
+272419	en	lamp shell
+30727	en	arrow worm
+31341	en	sea star
+104595	en	sea star
+31508	en	brittle star
+104733	en	brittle star
+31590	en	feather star
+31594	en	crinoid
+31659	en	crinoid
+33109	en	sand dollar
+33337	en	heart urchin
+98614	en	heart urchin
+33355	en	heart urchin
+33356	en	heart urchin
+33367	en	heart urchin
+33391	en	heart urchin
+33397	en	heart
+33426	en	heart urchin
+33435	en	heart urchin
+33446	en	heart urchin
+33460	en	heart urchin
+33466	en	heart urchin
+33475	en	heart urchin
+33518	en	acorn worm
+33521	en	pterobranch
+33534	en	graptolite
+319610	en	graptolite
+33816	en	conodont
+149950	en	conodont
+34104	en	lancelet
+149948	en	lancelet
+218961	en	lancelet
+273394	en	lancelet
+34108	en	tunicate
+34142	en	hagfish
+34144	en	jawless fish
+149952	en	jawless fish
+34249	en	armour-plated fish
+150277	en	armour-plated fish
+34422	en	cartilaginous fish
+34525	en	sevengill shark
+34526	en	sixgill shark
+34529	en	sevengill shark
+353088	en	sevengill shark
+34559	en	sleeper shark
+34563	en	saw shark
+150725	en	saw shark
+34571	en	bullhead shark
+353815	en	bullhead shark
+34572	en	bullhead shark
+34573	en	carpet shark
+34596	en	whale shark
+34598	en	mackerel shark
+353828	en	mackerel shark
+34599	en	thresher shark
+34605	en	white shark
+34613	en	mako shark
+34615	en	mackerel shark
+34620	en	sand tiger shark
+97228	en	sand tiger shark
+34633	en	crow shark
+34637	en	ground shark
+154870	en	ground shark
+34643	en	tiger shark
+34647	en	daggernose shark
+34651	en	lemon shark
+34658	en	blue shark
+34662	en	sharpnose shark
+34664	en	hammerhead shark
+34674	en	ray
+353850	en	ray
+34708	en	guitarfish
+34719	en	torpedo
+34720	en	stingray
+34738	en	manta
+34740	en	devil ray
+34745	en	cownose ray
+34760	en	chimaera
+83213	en	chimaera
+100271	en	chimaera
+150276	en	chimaera
+151504	en	chimaera
+34790	en	chimaera
+34849	en	spiny fish
+34881	en	bony fish
+218963	en	bony fish
+35128	en	sturgeon
+35129	en	beluga
+35190	en	bowfin
+35335	en	tarpon
+35343	en	eel
+35487	en	catfish
+35518	en	Pacific salmon
+35523	en	salmon
+35525	en	saber toothed salmon
+35648	en	beardfish
+35687	en	toadfish
+35691	en	anglerfish
+35714	en	cod
+35751	en	silverside
+35862	en	sea horse
+35878	en	pipefish
+35914	en	scorpionfish
+35920	en	perch-like fish
+154394	en	perch-like fish
+35988	en	glass-perchlet
+36236	en	sword fish
+36241	en	flatfish
+36322	en	reptile
+36325	en	turtle
+99806	en	turtle
+142340	en	turtle
+36332	en	loggerhead
+36335	en	green sea turtle
+36379	en	lizard
+100290	en	lizard
+308834	en	lizard
+364672	en	lizard
+36454	en	plesiosaur
+128879	en	plesiosaur
+246043	en	plesiosaur
+308826	en	plesiosaur
+36529	en	placodont
+172480	en	placodont
+254283	en	placodont
+308827	en	placodont
+36543	en	ichthyosaur
+267386	en	ichthyosaur
+308822	en	ichthyosaur
+361813	en	ichthyosaur
+36582	en	crocodilian
+38309	en	crocodilian
+96626	en	crocodilian
+100029	en	crocodilian
+209377	en	crocodilian
+308845	en	crocodilian
+358781	en	crocodilian
+36616	en	bird
+98802	en	bird
+143429	en	bird
+162965	en	bird
+308083	en	bird
+36626	en	penguin
+104308	en	penguin
+36628	en	petrel
+36632	en	diving-petrel
+36640	en	shorebird
+36651	en	mammal
+99798	en	mammal
+36652	en	whale
+81220	en	whale
+94033	en	whale
+95911	en	whale
+147596	en	whale
+351937	en	whale
+36676	en	bowhead whale
+36678	en	rorqual
+146657	en	rorqual
+36699	en	beluga
+112501	en	beluga
+112502	en	beluga
+36703	en	common dolphin
+36714	en	gray whale
+42979	en	gray whale
+36715	en	right whale
+36721	en	pilot whale
+69229	en	pilot whale
+36760	en	humpback whale
+36775	en	narwhal
+36787	en	killer whale
+36837	en	false killer whale
+102687	en	false killer whale
+36873	en	sirenian
+86537	en	sirenian
+98823	en	sirenian
+306661	en	sirenian
+307457	en	sirenian
+36885	en	Steller's sea cow
+36903	en	manatee
+36905	en	carnivoran
+363145	en	carnivoran
+36909	en	fur seal
+103864	en	fur seal
+36912	en	fur seal
+148547	en	fur seal
+36913	en	hooded seal
+36919	en	Steller sea lion
+36926	en	monk seal
+36929	en	Australian sea lion
+36931	en	walrus
+104996	en	walrus
+36932	en	sea lion
+36936	en	seal
+36954	en	California sea lion
+146905	en	California sea lion
+36955	en	desmostylian
+91123	en	desmostylian
+37332	en	caecilian
+308052	en	caecilian
+37333	en	common caecilian
+37350	en	hellbender
+361758	en	hellbender
+37351	en	giant salamander
+37352	en	hellbender
+37354	en	mudpuppy
+37358	en	Old World blind cave salamander
+37367	en	amphiuma
+37370	en	giant salamander
+37374	en	Pacific giant salamander
+37377	en	mole salamander
+361759	en	mole salamander
+362423	en	mole salamander
+37378	en	mole salamander
+362458	en	mole salamander
+37385	en	lungless salamander
+37390	en	woodland salamander
+37393	en	newt
+37398	en	European brook salamander
+37401	en	Caucasian salamander
+37408	en	spectacled salamander
+37409	en	western newt
+37411	en	crocodile salamander
+37412	en	siren
+37413	en	siren
+37415	en	dwarf siren
+37423	en	tailed frog
+37426	en	painted frog
+37427	en	painted frog
+37435	en	clawed frog
+37441	en	clawed frog
+37442	en	burrowing toad
+37444	en	burrowing toad
+37449	en	spadefoot toad
+37453	en	spadefoot toad
+37454	en	spadefoot toad
+37455	en	parsley frog
+37464	en	toad
+37467	en	South American horned frog
+37469	en	tree frog
+37470	en	cricket frog
+37471	en	tree frog
+37473	en	chorus frog
+37476	en	moss frog
+36323	en	anapsid
+37483	en	anapsid
+37589	en	sideneck turtle
+86276	en	sideneck turtle
+235461	en	sideneck turtle
+241947	en	sideneck turtle
+37598	en	African helmeted turtle
+37599	en	river turtle
+37647	en	mud turtle
+37648	en	mud turtle
+37649	en	Mexican musk turtle
+37656	en	Mesoamerican river turtle
+37671	en	pig-nose turtle
+37674	en	softshell turtle
+276092	en	softshell turtle
+37685	en	sea turtle
+128699	en	sea turtle
+165649	en	sea turtle
+37693	en	leatherback
+128718	en	leatherback
+365010	en	leatherback
+37706	en	snapping turtle
+37717	en	painted turtle
+37720	en	Asian box turtle
+37722	en	Blanding's turtle
+37723	en	pond turtle
+37730	en	roofed turtle
+37731	en	pond turtle
+37737	en	box turtle
+37741	en	gopher tortoise
+37742	en	hingeback tortoise
+37768	en	diapsid
+92205	en	diapsid
+135387	en	diapsid
+37784	en	choristodere
+202143	en	choristodere
+347445	en	choristodere
+37785	en	champsosaur
+37832	en	lizard
+199119	en	lizard
+249032	en	lizard
+308831	en	lizard
+37857	en	anole
+37858	en	helmeted basilisk
+37859	en	collared lizard
+37860	en	spinytail iguana
+37861	en	rock iguana
+37863	en	dessert iguana
+37866	en	lesser earless lizard
+37867	en	iguana
+37868	en	casquehead iguana
+37869	en	curly-tailed lizard
+37874	en	horned lizard
+37876	en	chuckwalla
+37877	en	spiny lizard
+37880	en	side-blotched lizard
+37887	en	spiny-tailed lizard
+37888	en	chameleon
+362445	en	chameleon
+37899	en	gecko
+359885	en	gecko
+37900	en	croacking gecko
+37902	en	banded gecko
+37903	en	bow-fingered gecko
+37905	en	gecko
+37909	en	Madagascar ground gecko
+37911	en	leaf-toed gecko
+37913	en	round-fingered gecko
+37914	en	wall gecko
+37915	en	turnip-tailed gecko
+37923	en	night lizard
+202639	en	night lizard
+37924	en	tropical night lizard
+37926	en	night lizard
+37929	en	whiptail lizard
+37933	en	whiptail lizard
+37936	en	caiman lizard
+37945	en	tegu
+37946	en	skink
+37965	en	spinytail lizard
+37971	en	worm lizard
+250300	en	worm lizard
+37982	en	worm lizard
+37993	en	slow worm
+37994	en	legless lizard
+38001	en	alligator lizard
+38009	en	glass lizard
+362505	en	glass lizard
+38033	en	beaded lizard
+38035	en	monitor lizard
+38049	en	mosasaur
+38069	en	snake
+164090	en	snake
+38071	en	blind snake
+38072	en	blind snake
+38079	en	pipe snake
+359893	en	pipe snake
+38086	en	boa
+365014	en	boa
+38099	en	anaconda
+38127	en	colubrid snake
+38129	en	racer
+38131	en	ringneck snake
+38135	en	hog-nosed snake
+38138	en	water snake
+38141	en	water snake
+38151	en	short-tailed snake
+38154	en	cobra
+38156	en	viper
+38157	en	puff adder
+38159	en	rattlesnake
+36427	en	nothosaur
+38167	en	nothosaur
+308824	en	nothosaur
+312558	en	nothosaur
+38175	en	elasmosaur
+38182	en	archosauromorph
+99802	en	archosauromorph
+38205	en	rhynchosaur
+159212	en	rhynchosaur
+308818	en	rhynchosaur
+359604	en	rhynchosaur
+38215	en	archosaur
+92299	en	archosaur
+95309	en	archosaur
+99812	en	archosaur
+162962	en	archosaur
+38245	en	lagosuchid
+38246	en	rabbit crocodile
+38249	en	rauisuchid
+184610	en	rauisuchid
+38266	en	China lizard
+38337	en	hallopodid
+52996	en	hallopodid
+90266	en	hallopodid
+100598	en	hallopodid
+38415	en	gharial
+38423	en	alligator
+38428	en	early alligator
+38430	en	black caiman
+38431	en	caiman
+38435	en	crocodile
+80568	en	crocodile
+38441	en	crocodile
+54214	en	crocodile
+38460	en	false gharial
+38461	en	pterosaur
+105658	en	pterosaur
+145190	en	pterosaur
+156251	en	pterosaur
+358683	en	pterosaur
+38484	en	ctenochasmatid
+156763	en	ctenochasmatid
+38493	en	Herbst lizard
+38505	en	saurischian
+91969	en	saurischian
+308839	en	saurischian
+338631	en	saurischian
+38510	en	herrerasaurid
+38513	en	theropod
+91970	en	theropod
+94209	en	theropod
+162964	en	theropod
+38517	en	before elegant jaw
+38537	en	compsognathid
+38538	en	elegant jaw
+38539	en	ornithomimid
+359248	en	ornithomimid
+38548	en	Garudi mimic
+38589	en	allosaurid
+38606	en	tyrannosaurid
+38607	en	Alberta lizard
+38613	en	tyrant lizard
+38634	en	prosauropod
+118243	en	prosauropod
+162292	en	prosauropod
+359558	en	prosauropod
+38635	en	anchisaurid
+38646	en	melanorosaurid
+38653	en	sauropod
+95571	en	sauropod
+96955	en	sauropod
+162966	en	sauropod
+312562	en	sauropod
+38654	en	cetiosaurid
+52770	en	cetiosaurid
+38664	en	diplodocid
+319108	en	diplodocid
+38673	en	brachiosaurid
+342075	en	brachiosaurid
+38680	en	titanosaurid
+38684	en	Algoa lizard
+157209	en	Algoa lizard
+38696	en	camarasaurid
+38699	en	euhelopodid
+54844	en	euhelopodid
+192449	en	euhelopodid
+251816	en	euhelopodid
+38712	en	ornithischian
+91106	en	ornithischian
+91973	en	ornithischian
+95327	en	ornithischian
+100287	en	ornithischian
+338632	en	ornithischian
+38713	en	bird foot dinosaur
+91107	en	bird foot dinosaur
+105779	en	bird foot dinosaur
+147918	en	bird foot dinosaur
+325919	en	bird foot dinosaur
+333260	en	bird foot dinosaur
+344232	en	bird foot dinosaur
+38718	en	Fabre's lizard
+38720	en	Tawa lizard
+38722	en	heterodontosaurid
+156841	en	heterodontosaurid
+38734	en	hypsilophodontid
+80828	en	hypsilophodontid
+38744	en	iguanodontid
+38755	en	hadrosaurid
+89219	en	hadrosaurid
+268193	en	hadrosaurid
+364121	en	hadrosaurid
+38779	en	southern horn face
+38819	en	heavy foot lizard
+38851	en	ceratopsid
+106302	en	ceratopsid
+38882	en	synapsid
+92206	en	synapsid
+99791	en	synapsid
+38883	en	pelycosaur
+138244	en	pelycosaur
+148318	en	pelycosaur
+361778	en	pelycosaur
+38884	en	ophiacodont
+358785	en	ophiacodont
+38935	en	therapsid
+145256	en	therapsid
+164288	en	therapsid
+38996	en	dicynodont
+157517	en	dicynodont
+164268	en	dicynodont
+164713	en	dicynodont
+312556	en	dicynodont
+39267	en	tinamou
+39276	en	ostrich
+39278	en	ostrich
+39283	en	rhea
+39285	en	cassowary
+39287	en	cassowary
+39292	en	elephant bird
+39302	en	kiwi
+39304	en	kiwi
+39306	en	cuckoo
+39312	en	cuckoo
+39316	en	raptor
+39319	en	falcon
+39320	en	caracara
+39321	en	Secretary bird
+39323	en	hawk
+39325	en	hawk
+39328	en	osprey
+39329	en	osprey
+39330	en	fowl
+39332	en	chachalaca
+39335	en	megapode
+98831	en	megapode
+39338	en	guineafowl
+98840	en	guineafowl
+39340	en	pheasant
+39341	en	turkey
+39343	en	quail
+39347	en	buttonquail
+39348	en	buttonquail
+39349	en	dove
+39350	en	sand-grouse
+39357	en	parrot
+39358	en	parrot
+39359	en	Carolina parakeet
+39364	en	mousebird
+39366	en	mousebird
+39368	en	kingfisher
+39376	en	roller
+39397	en	owl
+39403	en	true owl
+39405	en	Cuban giant owl
+39406	en	scops owl
+39407	en	barn owl
+39410	en	nightjar
+39413	en	New Zealand owlet-nightjar
+39415	en	oilbird
+39417	en	swift
+39423	en	swift
+39427	en	hummingbird
+39428	en	hornbill
+39429	en	hornbill
+39430	en	ground-hornbill
+39432	en	hoopoe
+39435	en	honeyguide
+39436	en	barbet
+39438	en	woodpecker
+39441	en	perching bird
+39446	en	crow
+39448	en	nuthatch
+39449	en	nuthatch
+39450	en	finch
+39456	en	seriema
+39461	en	terror bird
+53592	en	terror bird
+39499	en	crane
+39502	en	crane
+39505	en	limpkin
+39511	en	mesite
+39513	en	rail
+39518	en	great Chatham Island rail
+39523	en	moorhen
+39529	en	cave-rail
+39540	en	adzebill
+39541	en	heron
+39542	en	heron
+39548	en	night heron
+39551	en	grebe
+39561	en	stone-curlew
+39562	en	thick-knee
+39563	en	spoonbill
+335296	en	spoonbill
+39567	en	black ibis
+39581	en	snipe
+39584	en	lapwing
+39588	en	avocet
+39589	en	flamingo
+39602	en	skua
+39603	en	gull
+39605	en	auk
+39606	en	auk
+39614	en	puffin
+39617	en	great auk
+39620	en	waterfowl
+39624	en	duck
+39626	en	duck
+39627	en	merganser
+39631	en	shelduck
+39634	en	stork
+39640	en	shoebill
+39643	en	teratorn
+137178	en	teratorn
+39646	en	teratorn
+39647	en	vulture
+39652	en	king vulture
+146072	en	king vulture
+39653	en	Andean condor
+39656	en	tropicbird
+39669	en	frigatebird
+39672	en	pelican
+39673	en	pelican
+39676	en	booby
+39679	en	gannet
+142715	en	gannet
+39685	en	darter
+39688	en	cormorant
+39689	en	cormorant
+39692	en	albatross
+39693	en	great albatross
+39695	en	petrel
+39697	en	shearwater
+39702	en	shearwater
+39706	en	loon
+39733	en	brush-tailed penguin
+39734	en	banded penguin
+39737	en	monotreme
+358780	en	monotreme
+39738	en	platypus
+39742	en	echidna
+39745	en	triconodont
+320109	en	triconodont
+39772	en	dodocont
+39779	en	multituberculate
+91126	en	multituberculate
+147542	en	multituberculate
+186561	en	multituberculate
+39862	en	symmetrodont
+183780	en	symmetrodont
+320113	en	symmetrodont
+39937	en	marsupial
+106361	en	marsupial
+253690	en	marsupial
+309399	en	marsupial
+39945	en	opossum
+186594	en	opossum
+209128	en	opossum
+318360	en	opossum
+39952	en	woolly oppossum
+39954	en	water opossum
+103622	en	water opossum
+39959	en	large American opossum
+39968	en	Patagonian opussum
+39969	en	lutrine opossum
+39970	en	mouse opossum
+39972	en	woolly mouse opossum
+39976	en	short-tailed opossum
+39984	en	four-eyed opossum
+39991	en	fat-tailed mouse opossum
+40089	en	antechinus
+40090	en	mulgara
+40092	en	kowari
+40093	en	quoll
+40096	en	phascogale
+40097	en	marsupial shrew
+40098	en	planigale
+40099	en	Tasmanian devil
+40100	en	dunnart
+40102	en	thylacine
+314367	en	thylacine
+40103	en	Tasmanian wolf
+40104	en	numbat
+40108	en	bandicoot
+40110	en	New Guinean spiny bandicoot
+40111	en	short-nosed bandicoot
+103626	en	short-nosed bandicoot
+40112	en	long-nosed bandicoot
+40123	en	wrist-winged glider
+233998	en	wrist-winged glider
+40124	en	cuscus
+40125	en	brushtail possum
+40129	en	Leadbeater's possum
+40130	en	green ringtail
+40131	en	ring-tailed possum
+234470	en	ring-tailed possum
+40134	en	pygmy possum
+40135	en	feathertail glider
+40137	en	pygmy possum
+40140	en	kangaroo
+96047	en	kangaroo
+40141	en	rufous rat-kangaroo
+40142	en	bettong
+40144	en	desert rat-kangaroo
+40145	en	tree kangaroo
+40146	en	New Guinea forest wallaby
+40151	en	musky rat-kangaroo
+40152	en	hare-wallaby
+40155	en	nail-tailed wallaby
+40158	en	rock wallaby
+162520	en	rock wallaby
+40159	en	potoroo
+40164	en	quokka
+40167	en	pademelon
+40171	en	swamp wallaby
+40173	en	koala
+40177	en	koala
+40179	en	wombat
+40180	en	hairy-nosed wombat
+40184	en	common wombat
+40294	en	treeshrew
+40295	en	tree shrew
+106374	en	tree shrew
+40297	en	elephant shrew
+253380	en	elephant shrew
+254115	en	elephant shrew
+40298	en	elephant shrew
+40310	en	colugo
+186607	en	colugo
+40337	en	insectivoran
+106373	en	insectivoran
+363147	en	insectivoran
+40367	en	hedgehog
+96017	en	hedgehog
+40401	en	star-nosed mole
+40402	en	Russian desman
+40407	en	Pyrenean desman
+40416	en	shrew mole
+40426	en	Short-faced mole
+40428	en	Long-tailed mole
+40431	en	greater Japanese shrew-mole
+40443	en	shrew
+40452	en	mole shrew
+40457	en	American short-tailed shrew
+40458	en	Asiatic short-tailed shrew
+40464	en	small-eared shrew
+40474	en	water shrew
+40476	en	gray shrew
+40486	en	long-tailed shrew
+40531	en	tenrec
+40535	en	golden mole
+40536	en	African golden mole
+40538	en	Cape golden mole
+40543	en	tillodont
+165636	en	tillodont
+40556	en	pantodont
+165637	en	pantodont
+40591	en	uintathere
+308276	en	uintathere
+40609	en	taeniodont
+106379	en	taeniodont
+165635	en	taeniodont
+40622	en	bat
+95976	en	bat
+40623	en	fruit bat
+40624	en	fruit bat
+40636	en	sac-winged bat
+40640	en	false vampire
+40641	en	Heart-nosed bat
+40644	en	horseshoe bat
+40647	en	leaf-nosed bat
+40649	en	roundleaf bat
+40655	en	vampire bat
+40661	en	sucker-footed bat
+40663	en	vesper bat
+40665	en	pallid bat
+40671	en	house bat
+40675	en	hairy-tailed bat
+40676	en	bend-winged bat
+40683	en	pipistrelle bat
+40693	en	free-tailed bat
+40694	en	mastiff bat
+40696	en	funnel-eared bat
+40700	en	primate
+40771	en	lemur
+40777	en	loris
+66290	en	loris
+40786	en	monkey lemur
+40792	en	tarsier
+95856	en	tarsier
+40843	en	monkey
+147567	en	monkey
+203516	en	monkey
+40860	en	monkey
+40869	en	macaque
+54361	en	macaque
+40871	en	baboon
+232583	en	baboon
+40878	en	douc langur
+40879	en	gelada
+40883	en	ape
+40889	en	gibbon
+40897	en	orangutan
+40899	en	ape
+40900	en	australopithecine
+40901	en	human
+40902	en	creodont
+106372	en	creodont
+162129	en	creodont
+40997	en	civet
+40999	en	marsh mongoose
+232104	en	marsh mongoose
+41000	en	dwarf mongoose
+41001	en	African civet
+41002	en	yellow mongoose
+41004	en	dwarf mongoose
+41008	en	Celebes palm civet
+41015	en	meerkat
+41019	en	small Indian civet
+41020	en	hyaena
+41030	en	brown hyaena
+41036	en	false sabre-tooth
+41045	en	cat
+41046	en	cheetah
+41055	en	cat
+41058	en	lynx
+160982	en	lynx
+41073	en	cougar
+41079	en	saber-toothed cat
+41086	en	mustelid carnivore
+41092	en	clawless otter
+41094	en	hog badger
+41104	en	hog-nosed skunk
+41107	en	sea otter
+41111	en	grison
+41112	en	wolverine
+41115	en	speckle-throated otter
+41116	en	striped polecat
+41121	en	otter
+41122	en	otter
+233972	en	otter
+41124	en	Patagonian weasel
+41126	en	marten
+41129	en	badger
+41132	en	ratel
+41139	en	weasel
+41156	en	badger
+41175	en	badger
+41183	en	marbled polecat
+41186	en	seal
+41189	en	canid
+41193	en	Arctic fox
+41198	en	canine
+41200	en	crab-eating fox
+41202	en	maned wolf
+41204	en	dhole
+41209	en	Falkland Island wolf
+311162	en	Falkland Island wolf
+41225	en	raccoon dog
+41228	en	bat-eared fox
+41247	en	gray fox
+41248	en	fox
+41249	en	procyonid carnivore
+41252	en	ringtail
+41257	en	coati
+41262	en	raccoon
+41266	en	bear-dog
+41301	en	bear
+41304	en	giant panda
+41313	en	Malayan sun bear
+41324	en	Asiatic black bear
+41336	en	walrus
+104975	en	walrus
+41370	en	rodent
+147571	en	rodent
+41453	en	mountain beaver
+41455	en	mountain beaver
+41486	en	squirrel
+41489	en	antelope squirrel
+41496	en	prairie dog
+41497	en	chipmunk
+41500	en	flying squirrel
+41502	en	marmot
+41513	en	Giant flying squirrel
+41515	en	small flying squirrel
+41521	en	Asian giant squirrel
+41524	en	Chinese rock squirrel
+41525	en	squirrel
+41528	en	ground squirrel
+41529	en	chipmunk
+103744	en	chipmunk
+41532	en	African ground squirrel
+41534	en	beaver
+41539	en	beaver
+41540	en	giant beaver
+41578	en	dormouse
+41588	en	Japanese dormouse
+41592	en	Balearic Dormice
+41651	en	pocket gopher
+41652	en	pocket gopher
+41675	en	pocket mouse
+41678	en	kangaroo rat
+41688	en	pocket mouse
+41700	en	jumping mouse
+41715	en	birch mouse
+41723	en	mouse
+41728	en	akodont
+41741	en	pygmy mouse
+41744	en	bolo mouse
+41763	en	lemming
+41765	en	mole-vole
+41767	en	steppe lemming
+41785	en	marsh rat
+41807	en	harvest mouse
+41810	en	vole
+41811	en	bog lemming
+96484	en	bog lemming
+41815	en	zokor
+41822	en	pack rat
+41826	en	muskrat
+41827	en	grasshopper mouse
+41828	en	rice rat
+41837	en	deer mouse
+41868	en	bunny rat
+41869	en	harvest mouse
+41876	en	cotton rat
+41882	en	large naked-soled gerbil
+41892	en	mouse
+41893	en	(African) spiny mice
+41894	en	rock rat
+41897	en	Eurasian field mouse
+41898	en	grass rat
+41901	en	African climbing mice
+41907	en	striped grass mouse
+41909	en	broad-toothed rat
+41911	en	house mouse
+41913	en	short-tailed bandicoot rat
+41920	en	groove-toothed swamp rat
+41923	en	rat
+41924	en	striped mouse
+41927	en	pouched mouse
+41929	en	fat mouse
+41939	en	greater bamboo rat
+41942	en	gundi
+233234	en	gundi
+41965	en	springhare
+41968	en	springhaas
+103738	en	springhaas
+41970	en	scaly-tailed squirrel
+41973	en	flightless scaly-tailed squirrel
+41999	en	mole rat
+42003	en	naked mole-rat
+42009	en	porcupine
+96025	en	porcupine
+42010	en	porcupine
+103660	en	porcupine
+42022	en	cane rat
+42038	en	caviomorph
+97910	en	caviomorph
+100372	en	caviomorph
+42051	en	spiny rat
+96814	en	spiny rat
+42068	en	chinchilla rat
+42070	en	hutia
+42075	en	chinchilid
+42077	en	viscacha
+42111	en	guinea pig
+42115	en	mara
+42128	en	capybara
+103727	en	capybara
+159143	en	capybara
+233511	en	capybara
+42135	en	porcupine
+42136	en	prehensile-tailed porcupine
+42139	en	North American porcupine
+103662	en	North American porcupine
+42155	en	pika
+42159	en	pika
+42163	en	rabbit
+42169	en	pygmy rabbit
+42176	en	hare
+42193	en	cottontail rabbit
+42198	en	condylarth
+42230	en	condylarth
+42243	en	condylarth
+42266	en	condylarth
+42284	en	condylarth
+42381	en	pig
+42389	en	giant forest hog
+42404	en	warthog
+103841	en	warthog
+42416	en	pig
+42420	en	peccary
+42423	en	Chacoan peccary
+42443	en	anthracothere
+42479	en	hippopotamus
+42480	en	pygmy hippo
+42481	en	hippo
+83606	en	hippo
+83607	en	hippo
+42484	en	agriochoerid
+42488	en	oreodont
+42513	en	camel
+42521	en	camel
+42572	en	protoceratid
+42587	en	ruminant
+183403	en	ruminant
+42598	en	chevrotain
+42602	en	mouse deer
+42640	en	musk deer
+42648	en	musk deer
+42652	en	deer
+42653	en	moose
+42658	en	marsh deer
+149406	en	marsh deer
+161495	en	marsh deer
+42660	en	roe
+42661	en	stag moose
+42665	en	muntjac
+42667	en	fallow deer
+231768	en	fallow deer
+42669	en	Pere David's deer
+42675	en	Andean deer
+42676	en	Chinese water deer
+42678	en	Irish elk
+42680	en	muntjak
+103822	en	muntjak
+42688	en	reindeer
+42690	en	giraffe
+42695	en	giraffe
+42720	en	pronghorn
+42721	en	pronghorn
+42742	en	antelope
+42743	en	impala
+42744	en	hartebeest
+42745	en	springbok
+42748	en	hirola
+42751	en	bison
+42753	en	ox
+42754	en	nilgai
+42755	en	water buffalo
+42757	en	takin
+42759	en	goat
+42760	en	duiker
+42764	en	antelope
+42770	en	shrub-ox
+42774	en	gazelle
+42793	en	dikdik
+42810	en	mountain goat
+42812	en	klipspringer
+42814	en	oryx
+42815	en	muskox
+42816	en	sheep
+42823	en	chiru
+42853	en	reedbuck
+42854	en	bontebok
+42858	en	saiga
+42879	en	African buffalo
+42898	en	mesonychian
+183499	en	mesonychian
+183660	en	mesonychian
+42905	en	condylarth
+42909	en	condylarth
+42951	en	beaked whale
+68467	en	beaked whale
+102799	en	beaked whale
+42953	en	dolphin
+42967	en	sperm whale
+42976	en	gray whale
+100715	en	gray whale
+42977	en	rorqual
+42978	en	right whale
+42984	en	horse
+42996	en	horse
+43027	en	brontothere
+350594	en	brontothere
+43076	en	chalicothere
+43129	en	tapir
+96781	en	tapir
+43137	en	tapir
+43187	en	rhinoceros
+106424	en	rhinoceros
+43195	en	white rhino
+43197	en	wooly rhino
+43200	en	black rhino
+43222	en	one-horned rhinoceros
+189247	en	one-horned rhinoceros
+43230	en	proboscidean
+86188	en	proboscidean
+96036	en	proboscidean
+105150	en	proboscidean
+157500	en	proboscidean
+166847	en	proboscidean
+43240	en	gomphothere
+43263	en	elephant
+43264	en	elephant
+43265	en	elephant
+43266	en	mammoth
+43273	en	mastodon
+43274	en	mastodon
+43279	en	deinothere
+96686	en	deinothere
+43286	en	dugong
+43292	en	hyrax
+43293	en	hyrax
+43295	en	Cape hyrax
+43314	en	aardvark
+147948	en	aardvark
+43318	en	aardvark
+43320	en	notoungulate
+43529	en	naked-tailed armadillo
+43530	en	hairy armadillo
+43538	en	six-banded armadillo
+43561	en	three-banded armadillo
+103845	en	three-banded armadillo
+43568	en	glyptodon
+176099	en	glyptodon
+43654	en	giant anteater
+103848	en	giant anteater
+43658	en	pangolin
+147944	en	pangolin
+43677	en	pangolin
+44110	en	mountain beaver
+44187	en	mountain beaver
+44135	en	pronghorn
+44137	en	pronghorn
+231746	en	pronghorn
+44274	en	Florida cave bear
+52411	en	Florida cave bear
+44282	en	hoary marmot
+47895	en	hoary marmot
+44283	en	Columbian ground squirrel
+51688	en	Columbian ground squirrel
+235235	en	Columbian ground squirrel
+44285	en	yellow-bellied marmot
+47897	en	yellow-bellied marmot
+44288	en	black-tailed prairie dog
+45497	en	black-tailed prairie dog
+44277	en	giant short-faced bear
+44309	en	giant short-faced bear
+52415	en	giant short-faced bear
+44332	en	northern bog lemming
+48612	en	northern bog lemming
+51946	en	northern bog lemming
+96485	en	northern bog lemming
+44335	en	sagebrush vole
+47462	en	sagebrush vole
+47506	en	sagebrush vole
+48577	en	sagebrush vole
+44339	en	southern red-backed vole
+45177	en	southern red-backed vole
+46491	en	southern red-backed vole
+44344	en	long-tailed vole
+48589	en	long-tailed vole
+44346	en	Mexican vole
+48593	en	Mexican vole
+44348	en	montane vole
+48595	en	montane vole
+44351	en	golden mouse
+49270	en	golden mouse
+50263	en	golden mouse
+44450	en	ringtail
+44454	en	ringtail
+44543	en	Mexican small-eared shrew
+45375	en	Mexican small-eared shrew
+44587	en	Florida glyptodont
+46667	en	Florida glyptodont
+44611	en	yak
+44824	en	dhole
+45383	en	dhole
+43788	en	dire wolf
+44828	en	dire wolf
+43789	en	dire wolf
+44837	en	dire wolf
+43911	en	Arctic fox
+44853	en	Arctic fox
+235344	en	Arctic fox
+44854	en	coyote
+44860	en	gray wolf
+44879	en	red wolf
+236066	en	red wolf
+44888	en	swift fox
+52690	en	swift fox
+44890	en	red fox
+52691	en	red fox
+44957	en	American beaver
+43850	en	moose
+45013	en	moose
+45016	en	Canadian elk
+45017	en	red deer
+45019	en	mule deer
+45527	en	mule deer
+49284	en	mule deer
+45024	en	reindeer
+51308	en	reindeer
+45175	en	St. Lawrence Island red-backed vole
+45363	en	northern pocket gopher
+52281	en	northern pocket gopher
+45364	en	spotted hyaena
+236823	en	spotted hyaena
+236829	en	spotted hyaena
+45377	en	Oaxacan broad-tailed shrew
+45496	en	white-tailed prairie dog
+45499	en	Mexican prairie dog
+45501	en	Utah prairie dog
+45528	en	white-tailed deer
+49288	en	white-tailed deer
+45695	en	northern collared lemming
+45705	en	Virginia opossum
+233983	en	Virginia opossum
+45820	en	agile kangaroo rat
+45821	en	Gulf Coast kangaroo rat
+45822	en	desert kangaroo rat
+45828	en	Merriam's kangaroo rat
+45830	en	Ord's kangaroo rat
+45832	en	bannertail kangaroo rat
+45958	en	Wagner's bonneted bat
+46396	en	Wagner's bonneted bat
+46016	en	American mastodon
+47865	en	American mastodon
+47930	en	American mastodon
+160931	en	American mastodon
+46017	en	Columbian mammoth
+46387	en	Columbian mammoth
+47873	en	Columbian mammoth
+49983	en	Columbian mammoth
+119566	en	Columbian mammoth
+162104	en	Columbian mammoth
+44253	en	pygmy mammoth
+46019	en	pygmy mammoth
+47874	en	pygmy mammoth
+44255	en	imperial mammoth
+46022	en	imperial mammoth
+46388	en	imperial mammoth
+47877	en	imperial mammoth
+119568	en	imperial mammoth
+46027	en	wooly mammoth
+47863	en	wooly mammoth
+47880	en	wooly mammoth
+46259	en	horse
+46275	en	onager
+104800	en	onager
+104801	en	onager
+46363	en	shrub ox
+46440	en	Beaver Mountain chipmunk
+46444	en	Sacramento Mountain chipmunk
+46447	en	gray-tailed chipmunk
+46448	en	gray-headed chipmunk
+46450	en	Olympic chipmunk
+46452	en	Wasatch chipmunk
+46455	en	Hopi chipmunk
+46456	en	Hollister chipmunk
+46462	en	timberline chipmunk
+46463	en	Palmer's chipmunk
+45176	en	western red-backed vole
+46485	en	western red-backed vole
+46513	en	puma
+51265	en	puma
+46516	en	puma
+46521	en	lion
+49734	en	lion
+46524	en	jaguar
+49735	en	jaguar
+46525	en	ocelot
+47513	en	ocelot
+46528	en	bobcat
+47824	en	bobcat
+160983	en	bobcat
+160990	en	bobcat
+233951	en	bobcat
+46532	en	margay
+47514	en	margay
+46533	en	jaguarundi
+46888	en	jaguarundi
+47515	en	jaguarundi
+224063	en	jaguarundi
+45351	en	smoky pocket gopher
+46614	en	smoky pocket gopher
+49759	en	smoky pocket gopher
+45352	en	Llano pocket gopher
+46617	en	Llano pocket gopher
+49760	en	Llano pocket gopher
+50399	en	Llano pocket gopher
+45353	en	Merriam's pocket gopher
+46620	en	Merriam's pocket gopher
+49761	en	Merriam's pocket gopher
+46632	en	Townsend's pocket gopher
+52282	en	Townsend's pocket gopher
+161270	en	Townsend's pocket gopher
+46633	en	southern pocket gopher
+52283	en	southern pocket gopher
+46927	en	canyon mouse
+50239	en	canyon mouse
+46930	en	cotton mouse
+50247	en	cotton mouse
+46932	en	deer mouse
+50256	en	deer mouse
+44419	en	northern pygmy mouse
+46934	en	northern pygmy mouse
+46936	en	pinyon mouse
+50274	en	pinyon mouse
+46952	en	forest spiny pocket mouse
+46953	en	Mexican spiny pocket mouse
+47712	en	Mexican spiny pocket mouse
+47264	en	northern grasshopper mouse
+49351	en	northern grasshopper mouse
+47265	en	prairie vole
+48598	en	prairie vole
+50073	en	prairie vole
+50380	en	prairie vole
+331624	en	prairie vole
+46320	en	North American porcupine
+47333	en	North American porcupine
+47369	en	greater long-nosed bat
+47600	en	greater long-nosed bat
+47494	en	northern yellow bat
+47507	en	Siberian brown lemming
+47508	en	brown lemming
+47635	en	antelope jackrabbit
+47636	en	snowshoe hare
+47637	en	swamp rabbit
+47703	en	swamp rabbit
+51907	en	swamp rabbit
+161791	en	swamp rabbit
+47639	en	desert cottontail
+51908	en	desert cottontail
+161396	en	desert cottontail
+47642	en	black-tailed jackrabbit
+47644	en	Mexican cottontail
+51911	en	Mexican cottontail
+44653	en	pygmy rabbit
+47648	en	pygmy rabbit
+48515	en	pygmy rabbit
+51914	en	pygmy rabbit
+47654	en	American pika
+49267	en	American pika
+47655	en	mountain hare
+47656	en	white-tailed jackrabbit
+161273	en	white-tailed jackrabbit
+47951	en	brocket deer
+46659	en	Harlan's ground sloth
+48020	en	Harlan's ground sloth
+48889	en	Harlan's ground sloth
+49881	en	Harlan's ground sloth
+48035	en	sloth
+48022	en	Jefferson's ground sloth
+48050	en	Jefferson's ground sloth
+161799	en	Jefferson's ground sloth
+48136	en	prairie spotted skunk
+51747	en	prairie spotted skunk
+45219	en	eastern hog-nosed skunk
+48138	en	eastern hog-nosed skunk
+44667	en	short-faced skunk
+48145	en	short-faced skunk
+46397	en	western mastiff bat
+48789	en	western mastiff bat
+48833	en	bushy-tailed woodrat
+49115	en	bushy-tailed woodrat
+45696	en	Ungava collared lemming
+48836	en	Ungava collared lemming
+44291	en	groundhog
+47902	en	groundhog
+48838	en	groundhog
+133140	en	groundhog
+133141	en	groundhog
+48602	en	meadow vole
+48839	en	meadow vole
+46655	en	southern flying squirrel
+48842	en	southern flying squirrel
+233644	en	southern flying squirrel
+48843	en	white-footed mouse
+50253	en	white-footed mouse
+48848	en	stoat
+48850	en	long-tailed weasel
+46742	en	wolverine
+48854	en	wolverine
+46078	en	sea otter
+48855	en	sea otter
+233614	en	sea otter
+48860	en	black-footed ferret
+48861	en	least weasel
+47925	en	fisher
+48864	en	fisher
+308912	en	fisher
+48923	en	giant anteater
+233564	en	giant anteater
+233568	en	giant anteater
+49088	en	chipmunk
+49122	en	desert woodrat
+49126	en	Mexican woodrat
+49127	en	southern plains woodrat
+49228	en	Shasta ground sloth
+49231	en	Shasta ground sloth
+48048	en	Mexican shrew
+49234	en	Mexican shrew
+45378	en	Phillips' small-eared shrew
+49236	en	Phillips' small-eared shrew
+49249	en	Mexican free-tailed bat
+51982	en	Mexican free-tailed bat
+49458	en	marsh rice rat
+49517	en	bighorn sheep
+49519	en	Dall sheep
+45825	en	giant kangaroo rat
+50176	en	giant kangaroo rat
+45033	en	narrow-skulled pocket mouse
+50190	en	narrow-skulled pocket mouse
+45034	en	Bailey's pocket mouse
+50191	en	Bailey's pocket mouse
+45035	en	California pocket mouse
+50193	en	California pocket mouse
+45036	en	San Diego pocket mouse
+50198	en	San Diego pocket mouse
+45037	en	long-tailed pocket mouse
+50202	en	long-tailed pocket mouse
+45038	en	Goldman's pocket mouse
+50205	en	Goldman's pocket mouse
+45039	en	hispid pocket mouse
+50207	en	hispid pocket mouse
+45040	en	rock pocket mouse
+50209	en	rock pocket mouse
+45041	en	lined pocket mouse
+50210	en	lined pocket mouse
+45042	en	Nelson's pocket mouse
+50217	en	Nelson's pocket mouse
+45043	en	desert pocket mouse
+50220	en	desert pocket mouse
+45044	en	Sinaloan pocket mouse
+50221	en	Sinaloan pocket mouse
+45045	en	spiny pocket mouse
+50225	en	spiny pocket mouse
+50267	en	white-ankled mouse
+50337	en	western heather vole
+45354	en	QuerÃ©taro pocket gopher
+49762	en	QuerÃ©taro pocket gopher
+50400	en	QuerÃ©taro pocket gopher
+45358	en	Zinser's pocket gopher
+49765	en	Zinser's pocket gopher
+50404	en	Zinser's pocket gopher
+50428	en	Townsend's big-eared bat
+45348	en	yellow-faced pocket gopher
+46612	en	yellow-faced pocket gopher
+49758	en	yellow-faced pocket gopher
+51216	en	yellow-faced pocket gopher
+51271	en	polecat
+47814	en	mink
+48869	en	mink
+51277	en	mink
+51315	en	fulvous harvest mouse
+51482	en	Douglas squirrel
+52034	en	Douglas squirrel
+161239	en	Douglas squirrel
+51484	en	American red squirrel
+52035	en	American red squirrel
+51486	en	golden-mantled ground squirrel
+51702	en	golden-mantled ground squirrel
+235236	en	golden-mantled ground squirrel
+51490	en	fox squirrel
+51495	en	eastern chipmunk
+52031	en	eastern chipmunk
+50359	en	western pipistrelle
+51504	en	western pipistrelle
+51548	en	hispid cotton rat
+51409	en	eastern mole
+51629	en	eastern mole
+233577	en	eastern mole
+44538	en	northern short-tailed shrew
+51632	en	northern short-tailed shrew
+44539	en	southern short-tailed shrew
+51633	en	southern short-tailed shrew
+51634	en	cinereus shrew
+49233	en	Crawford's gray shrew
+51636	en	Crawford's gray shrew
+48542	en	American pygmy shrew
+51645	en	American pygmy shrew
+51649	en	southeastern shrew
+51654	en	montane shrew
+45376	en	North American least shrew
+51658	en	North American least shrew
+45494	en	Gunnison's prairie dog
+51697	en	Gunnison's prairie dog
+51722	en	Townsend's ground squirrel
+51745	en	western spotted skunk
+46453	en	cliff chipmunk
+49094	en	cliff chipmunk
+52010	en	cliff chipmunk
+43983	en	white-tailed antelope squirrel
+51703	en	white-tailed antelope squirrel
+52014	en	white-tailed antelope squirrel
+46459	en	least chipmunk
+49098	en	least chipmunk
+52018	en	least chipmunk
+49668	en	stout-legged llama
+52043	en	stout-legged llama
+45559	en	beautiful armadillo
+52084	en	beautiful armadillo
+52085	en	eland
+52174	en	pack rat
+52278	en	pocket gopher
+52602	en	black bear
+104038	en	black bear
+52604	en	brown bear
+50729	en	raccoon
+52607	en	raccoon
+52609	en	polar bear
+104037	en	polar bear
+52093	en	American badger
+52612	en	American badger
+46252	en	big brown bat
+52640	en	big brown bat
+49246	en	evening bat
+52641	en	evening bat
+47488	en	silver-haired bat
+52645	en	silver-haired bat
+44138	en	pallid bat
+52646	en	pallid bat
+50360	en	eastern pipistrelle bat
+52648	en	eastern pipistrelle bat
+48919	en	cave myotis
+52649	en	cave myotis
+48150	en	eastern spotted skunk
+51752	en	eastern spotted skunk
+52658	en	eastern spotted skunk
+52775	en	dinosaur
+90099	en	dinosaur
+90264	en	dinosaur
+91968	en	dinosaur
+94270	en	dinosaur
+96820	en	dinosaur
+308836	en	dinosaur
+338630	en	dinosaur
+363045	en	dinosaur
+52837	en	vulcanodontid
+52960	en	atlantosaurid
+52987	en	cartilage bone lizard
+53000	en	tiny bulky lizard
+53001	en	coelurid
+359608	en	coelurid
+53026	en	mamenchisaurid
+65671	en	mamenchisaurid
+53075	en	cooter
+53078	en	worm snake
+362483	en	worm snake
+53082	en	brown snake
+53084	en	garter snake
+53086	en	cottonmouth
+53087	en	pit viper
+161798	en	pit viper
+53090	en	Northern leopard frog
+53093	en	Florida red-bellied turtle
+53096	en	green anole
+53101	en	prairie kingsnake
+53103	en	milk snake
+53104	en	timber rattlesnake
+53124	en	dugong
+53126	en	manatee
+95918	en	manatee
+53135	en	Cuesta sea cow
+53170	en	anchitheriine horse
+53189	en	amniote
+92208	en	amniote
+53190	en	tetrapod
+137279	en	tetrapod
+53211	en	avialan
+53226	en	small lizard
+53229	en	salamander
+110708	en	salamander
+156376	en	salamander
+53235	en	true sand boa
+53255	en	pygmy right whale
+255589	en	pygmy right whale
+53256	en	pygmy sperm whale
+53270	en	pinniped
+105020	en	pinniped
+105191	en	pinniped
+105195	en	pinniped
+105196	en	pinniped
+53277	en	elephant seal
+98707	en	elephant seal
+53279	en	seal
+53280	en	bearded seal
+147021	en	bearded seal
+53335	en	plane tree
+53374	en	tetanuran
+53382	en	hadrosaurine
+364122	en	hadrosaurine
+53394	en	lambeosaurine
+64296	en	lambeosaurine
+53401	en	crocodilian
+209375	en	crocodilian
+209376	en	crocodilian
+53430	en	red-toothed shrew
+53510	en	laurel
+53532	en	hackberry
+53543	en	sedge
+53867	en	duckweed
+53940	en	coelurosaur
+91971	en	coelurosaur
+97931	en	coelurosaur
+359245	en	coelurosaur
+53943	en	carnosaur
+91967	en	carnosaur
+346049	en	carnosaur
+359249	en	carnosaur
+53961	en	dicraeosaurid
+319107	en	dicraeosaurid
+53976	en	arowana
+53979	en	knifefish
+53981	en	hering
+53983	en	lancetfish
+53986	en	Cardinalfish
+54118	en	teal
+54130	en	crested rat
+54138	en	African soft-furred rat
+54139	en	jird
+54157	en	plateosaurid
+90265	en	plateosaurid
+54189	en	camptosaurid
+54194	en	rhynchocephalian
+54232	en	snake
+105614	en	snake
+308832	en	snake
+54309	en	Eurasian beaver
+54499	en	elasmobranch
+150278	en	elasmobranch
+354649	en	elasmobranch
+54568	en	tree fern
+54575	en	palm
+54580	en	willow
+54583	en	hickory
+54588	en	alder
+54589	en	birch
+54608	en	katsura
+54614	en	magnolia
+54615	en	magnolia
+54617	en	cinnamon
+54631	en	hydrangea
+54637	en	sweetgum
+54685	en	sumac
+54686	en	cashew
+54688	en	maple
+54721	en	dogwood
+54800	en	cycads
+54803	en	jointfir
+54808	en	red algae
+54811	en	green algae
+54820	en	China raptor
+54822	en	sinraptorid
+54828	en	ferns
+54833	en	tyrant lizard king
+167090	en	tyrant lizard king
+54982	en	otter
+55036	en	Florida gopher tortoise
+105227	en	Florida gopher tortoise
+173017	en	Florida gopher tortoise
+55037	en	kangaroo
+55041	en	brown dorcopsis
+55062	en	pine
+55065	en	fir
+55066	en	hornbeam
+55067	en	ginkgo
+55068	en	coast redwood
+55253	en	Chinese swamp cypress
+55255	en	dawn redwood
+55292	en	wingnut
+55294	en	birch
+55363	en	turret shell
+55381	en	custard apple
+55476	en	coelophysoid
+55483	en	avetheropod
+55491	en	ornithomimosaur
+192947	en	ornithomimosaur
+55514	en	common reed
+55515	en	true grass
+55887	en	Fujian cypress
+55942	en	walnut
+55955	en	poplar
+55969	en	beech
+55972	en	chestnut
+55984	en	elm
+56055	en	linden
+56059	en	spikenard
+56210	en	zelkova
+56397	en	neotheropod
+56420	en	Siam tyrant
+56452	en	ultra lizard
+56475	en	turtle
+92207	en	turtle
+142397	en	turtle
+56535	en	bowfin
+56635	en	burrowing mayfly
+56636	en	Mayfly
+56637	en	insect
+222098	en	insect
+56641	en	grasshopper
+56642	en	true crickets
+56931	en	oriental viper
+318141	en	oriental viper
+56994	en	white-toothed shrew
+57094	en	frog-like amphibian
+106735	en	frog-like amphibian
+57250	en	ornithodiran
+57323	en	millipede
+207441	en	millipede
+291093	en	millipede
+57393	en	clam shrimp
+57404	en	Gressly's lizard
+57456	en	giant reptile
+57473	en	spider
+207445	en	spider
+57475	en	hackled orb-weaver
+57477	en	cobweb spider
+207467	en	cobweb spider
+57481	en	money spider/sheet weaver
+57485	en	orb-weaving spider
+57486	en	wolf spider
+57516	en	camel spider
+57521	en	pseudoscorpion
+57668	en	lungfish
+118057	en	lungfish
+150281	en	lungfish
+57669	en	Australian lungfish
+58166	en	softshell turtle
+276091	en	softshell turtle
+58206	en	swimming crab
+58207	en	crab
+58250	en	knobbed trophon
+58426	en	ibis
+58496	en	eagle-owl
+58730	en	parsley frog
+58739	en	worm lizard
+95477	en	worm lizard
+202960	en	worm lizard
+253017	en	worm lizard
+361954	en	worm lizard
+58925	en	saltasaurine
+59048	en	apple snail
+59403	en	watering pot shell
+59409	en	true whelk
+59432	en	frog shell
+59508	en	slipper shell
+59532	en	cockle
+59620	en	cerith snail
+120390	en	cerith snail
+59662	en	jewel box
+59819	en	cone shell
+59889	en	ribbed mitre
+60026	en	purple-mouthed cowry
+91941	en	purple-mouthed cowry
+60036	en	Isabell cowry
+91945	en	Isabell cowry
+91946	en	Isabell cowry
+91947	en	Isabell cowry
+91949	en	Isabell cowry
+115683	en	Isabell cowry
+115684	en	Isabell cowry
+335326	en	Isabell cowry
+60047	en	cowry
+60263	en	wentletrap
+60359	en	fig shell
+60547	en	sea angel
+60569	en	abalone
+60658	en	hoof shell
+60663	en	rudist
+60868	en	file clam
+60935	en	periwinkle
+60938	en	periwinkle
+61053	en	margin shell
+61164	en	mitre shell
+61223	en	murex snail
+61232	en	softshell clam
+61248	en	mussel
+61313	en	moon snail
+61317	en	moon snail
+61320	en	moon snail
+61323	en	nautiloid
+97337	en	nautiloid
+61453	en	pointed nut clam
+61454	en	nut clam
+61455	en	sea slug
+15911	en	octopus
+61473	en	octopus
+61486	en	olive snail
+61529	en	oyster
+61660	en	scallop
+109901	en	scallop
+61772	en	pea clam
+61893	en	horn snail
+61894	en	horn snail
+61910	en	mud scallop
+61995	en	pearl oyster
+62009	en	pulmonate
+62082	en	triton shell
+62224	en	bobtail squid
+62288	en	Awning Clam
+62294	en	sunset shell
+62302	en	fingernail clam
+62364	en	true conch
+62381	en	slug
+312895	en	slug
+62468	en	tellin clam
+62493	en	auger snail
+62536	en	tun shell
+62601	en	top snail
+62680	en	turrid
+360188	en	turrid
+62728	en	freshwater mussel
+62739	en	vampire squids
+62779	en	venus clam
+62787	en	worm shell
+62834	en	volute
+62877	en	carrier shell
+62911	en	sperm whale
+63010	en	sand tiger shark
+117650	en	sand tiger shark
+63015	en	wobbegong
+63019	en	guitarfish
+63023	en	angel shark
+63031	en	gar
+63111	en	naked catfish
+63114	en	Ariid catfish
+63195	en	ray
+154061	en	ray
+218955	en	ray
+63294	en	hermit crab
+63314	en	stone crab
+63535	en	beaked whale
+63539	en	Chinese river dolphin
+63560	en	pygmy killer whale
+103943	en	pygmy killer whale
+204339	en	pygmy killer whale
+63574	en	Fraser's dolphin
+63583	en	pygmy killer whale
+63612	en	sawfish
+63613	en	whiptail stingray
+352772	en	whiptail stingray
+63619	en	paddlefish
+63624	en	jungle toad
+63683	en	gray whale
+324298	en	gray whale
+63795	en	teratosaurid
+63851	en	tropical bottlenose whale
+63871	en	(RÃ­o) Limay lizard
+64112	en	allosauroid
+64190	en	sand shark
+223920	en	sand shark
+64193	en	carp-like fish
+64335	en	saltasaurid
+64488	en	gray whale
+64489	en	gray whale
+69858	en	gray whale
+81900	en	gray whale
+64491	en	humpback whale
+70685	en	humpback whale
+64534	en	short-beaked common dolphin
+191639	en	short-beaked common dolphin
+64540	en	orca
+64541	en	orca
+89110	en	orca
+306430	en	orca
+64543	en	false killer whale
+64544	en	false killer whale
+80713	en	false killer whale
+142529	en	false killer whale
+64683	en	bowhead whale
+64897	en	tiger snake
+64904	en	coral snake
+64924	en	rock python
+64930	en	pitviper
+64976	en	Amazonian manatee
+64977	en	Amazonian manatee
+64979	en	West African manatee
+65025	en	Taveiro lizard
+65094	en	thick lizard face
+65244	en	dwarf boa
+65307	en	badger
+65316	en	badger
+100738	en	badger
+65352	en	tyrannosaurine
+65579	en	hipparionine horse
+65580	en	horse
+65654	en	helmeted water toad
+65679	en	first jaw lizard
+65916	en	diplodocine
+319099	en	diplodocine
+66059	en	dune mole rat
+66061	en	African Bush Squirrel
+66120	en	killer whale
+102684	en	killer whale
+66258	en	thorn lizard
+66275	en	diprotodont marsupial
+66276	en	feather-tailed possum
+66281	en	bumblebee bat
+66282	en	colugo
+66285	en	smoky bat
+66293	en	ghost-faced bat
+66295	en	New Zealand short-tailed bat
+66296	en	pygmy right whale
+66297	en	bulldog bat
+66299	en	slit-faced bat
+66303	en	leaf-nosed bat
+66304	en	ringtail possum
+234467	en	ringtail possum
+66305	en	mouse-tailed bat
+66307	en	disk-winged bat
+66476	en	snakehead
+266136	en	snakehead
+66545	en	giant lizard
+66593	en	Anasazi lizard
+66658	en	Camp lizard
+66739	en	rhabdodontid
+67089	en	Tawa lizard
+67135	en	velvet worm
+67137	en	water bear
+272408	en	water bear
+67138	en	arthropod
+67149	en	vertebrate
+179042	en	vertebrate
+67268	en	softshell turtle
+67305	en	map turtle
+67314	en	mud turtle
+359875	en	mud turtle
+359876	en	mud turtle
+359877	en	mud turtle
+67317	en	big-headed turtle
+357876	en	big-headed turtle
+67344	en	jawed fish
+229694	en	jawed fish
+67345	en	ray-finned fish
+266403	en	ray-finned fish
+330923	en	ray-finned fish
+67348	en	lobe-finned fish
+150289	en	lobe-finned fish
+219184	en	lobe-finned fish
+266392	en	lobe-finned fish
+67353	en	New World quail
+98838	en	New World quail
+67455	en	mammaliamorph
+67456	en	mammaliaform
+67485	en	sand boa
+99996	en	sand boa
+67532	en	whip snake
+67536	en	crayfish snake
+67554	en	gopher snake
+362496	en	gopher snake
+67624	en	python
+99994	en	python
+67686	en	duck
+67688	en	duck
+67689	en	passenger pigeon
+67831	en	orange leaf-nosed bat
+67840	en	trident bat
+40398	en	mole
+67887	en	mole
+67892	en	vole
+83666	en	vole
+68065	en	musk turtle
+68066	en	slider
+68384	en	enigmatic lizard
+68469	en	minke whale
+247116	en	minke whale
+69089	en	True's beaked whale
+81908	en	True's beaked whale
+69090	en	herring
+220139	en	herring
+69131	en	crabeater seal
+147012	en	crabeater seal
+69148	en	beetle
+69175	en	reticulated beetle
+175323	en	reticulated beetle
+328475	en	reticulated beetle
+69176	en	telephone pole beetle
+69180	en	wrinkled bark beetle
+69181	en	ant nest beetle
+262587	en	ant nest beetle
+69182	en	tiger beetle
+302586	en	tiger beetle
+69183	en	ground beetle
+329119	en	ground beetle
+69184	en	false ground beetle
+69185	en	crawling water beetle
+328715	en	crawling water beetle
+69186	en	trout-stream beetle
+69188	en	burrowing water beetle
+69189	en	predaceous diving beetle
+346388	en	predaceous diving beetle
+69190	en	whirligig beetle
+69197	en	skiff beetle
+69201	en	water scavenger beetle
+69202	en	minute moss beetle
+69260	en	belemnite
+69268	en	water scavenger beetle
+69271	en	false clown beetle
+69273	en	clown beetle
+69276	en	feather-winged beetle
+69279	en	round fungus beetle
+346355	en	round fungus beetle
+346356	en	round fungus beetle
+69280	en	antlike stone beetle
+69961	en	antlike stone beetle
+346363	en	antlike stone beetle
+69281	en	carrion beetle
+69284	en	rove beetle
+69289	en	minute beetle
+69292	en	plate-thigh beetle
+69296	en	soft bodied plant beetle
+69298	en	cicada parasite beetle
+69300	en	scarab beetle
+69301	en	stag beetle
+329269	en	stag beetle
+69302	en	hide beetle
+69304	en	bess beetle
+346387	en	bess beetle
+69305	en	rain beetle
+69306	en	earth-boring dung beetle
+69307	en	sand-loving scarab beetle
+69309	en	scavenger scarab beetle
+69310	en	bumble bee scarab beetle
+69312	en	scarab beetle
+69316	en	pill beetle
+69318	en	forest stream beetle
+69321	en	water penny beetle
+69322	en	riffle beetle
+69340	en	robust marsh loving beetle
+69341	en	long toed water beetle
+346212	en	long toed water beetle
+69342	en	minute marsh loving beetle
+69343	en	Variegated mud-loving beetle
+69345	en	jewel beetle
+346369	en	jewel beetle
+69347	en	soft bodied plant beetle
+70089	en	soft bodied plant beetle
+69353	en	click beetle
+69359	en	false click beetle
+69367	en	net-winged beetle
+69373	en	soldier beetle
+69377	en	tooth-necked fungus beetle
+69378	en	wounded tree beetle
+69379	en	skin beetle
+329267	en	skin beetle
+69386	en	false powderpost beetle
+226480	en	false powderpost beetle
+69389	en	spider beetle
+69394	en	shield beetle
+69396	en	bark gnawing beetle
+69399	en	checkered beetle
+69402	en	soft-winged flower beetle
+346380	en	soft-winged flower beetle
+69406	en	twisted-winged parasite
+69413	en	longhorned beetle
+69420	en	leaf beetle
+69421	en	weevil
+202896	en	weevil
+69422	en	pine flower snout beetle
+69423	en	fungus weevil
+346218	en	fungus weevil
+69431	en	leaf rolling weevil
+346219	en	leaf rolling weevil
+69436	en	snout beetle
+69437	en	bark beetle
+259621	en	bark beetle
+69438	en	ambrosia beetle
+259619	en	ambrosia beetle
+69440	en	sap beetle
+69450	en	cryptic slime mold beetle
+69457	en	parasitic flat bark beetle
+69462	en	silken fungus beetle
+69466	en	false skin beetle
+69470	en	pleasing fungus beetle
+69476	en	minute hooded beetle
+69478	en	handsome fungus beetle
+346381	en	handsome fungus beetle
+69479	en	ladybug or ladybird
+69487	en	jugular-horned beetle
+69488	en	hairy fungus beetle
+346378	en	hairy fungus beetle
+69491	en	polypore fungus beetle
+346210	en	polypore fungus beetle
+69492	en	false darkling beetle
+346379	en	false darkling beetle
+69494	en	tumbling flower beetle
+69495	en	wedge shaped beetle
+69530	en	false blister beetle
+69534	en	ant like flower beetle
+69537	en	blister beetle
+69538	en	false flower beetle
+346241	en	false flower beetle
+69551	en	narrow-waisted bark beetle
+346375	en	narrow-waisted bark beetle
+69554	en	palm and flower beetle
+69557	en	ironclad beetle
+69559	en	darkling beetle
+69560	en	comb-clawed beetle
+70649	en	comb-clawed beetle
+328871	en	comb-clawed beetle
+346397	en	comb-clawed beetle
+69587	en	diatom
+69904	en	minute bog beetle
+69956	en	primitive carrion beetle
+70019	en	enigmatic scarab beetle
+70036	en	dor beetle
+284505	en	dor beetle
+70053	en	rhinoceras beetle
+70060	en	marsh beetle
+346332	en	marsh beetle
+70333	en	ship-timber beetle
+346359	en	ship-timber beetle
+70365	en	palmetto beetle
+70366	en	root eating beetle
+346395	en	root eating beetle
+69483	en	minute brown scavenger beetle
+70407	en	minute brown scavenger beetle
+70507	en	true bug
+196177	en	true bug
+246900	en	true bug
+288156	en	true bug
+70508	en	planthopper
+196180	en	planthopper
+70511	en	mayfly
+70517	en	leaf-footed bug
+70527	en	fly
+70528	en	march fly
+70548	en	minute tree-fungus beetle
+70696	en	blue whale
+70697	en	blue whale
+140487	en	blue whale
+70708	en	sawfly
+70711	en	wood wasp
+196443	en	wood wasp
+209521	en	wood wasp
+70712	en	cimbicid sawfly
+70716	en	honey bee
+70717	en	Chinese Miocene honey bee
+283689	en	Chinese Miocene honey bee
+70719	en	unicorn fly
+70722	en	love bug
+70726	en	wasp
+70728	en	ant
+70731	en	ant
+206865	en	ant
+70733	en	apoid wasp
+70740	en	false fire-colored beetle
+349436	en	false fire-colored beetle
+756	en	foram
+71228	en	foram
+288974	en	foram
+71309	en	New York weevil
+261516	en	New York weevil
+346246	en	tooth-nosed snout weevil
+71353	en	dragonfly
+71355	en	grayback dragonfly
+71357	en	darner dragonfly
+290053	en	darner dragonfly
+71359	en	cockroach
+256999	en	cockroach
+71364	en	band-winged grasshopper
+257184	en	band-winged grasshopper
+71366	en	slant-faced grasshopper
+71368	en	katydid
+71371	en	earwig
+71372	en	common earwig
+207818	en	common earwig
+71382	en	giant water bug
+71388	en	stink bug
+71428	en	moth
+71461	en	flower chafer
+284566	en	flower chafer
+71480	en	ichneumon wasp
+71548	en	potter wasp
+231120	en	potter wasp
+270645	en	potter wasp
+71554	en	cockroach wasp
+210464	en	cockroach wasp
+71724	en	stream mayfly
+71727	en	narrow-winged damselfly
+71728	en	wisp
+71731	en	clubtail dragonfly
+71733	en	green-eyed skimmer
+71735	en	river cruiser
+71739	en	termite
+181620	en	termite
+269502	en	termite
+277547	en	termite
+71745	en	cicada
+71790	en	fulgorid planthopper
+71802	en	water boatman
+71813	en	lace bug
+71853	en	New Zealand sea lion
+148545	en	New Zealand sea lion
+71879	en	pinniped
+72036	en	weaver ant
+72082	en	aphid wasp
+179788	en	aphid wasp
+280859	en	aphid wasp
+72088	en	mason bee
+72089	en	crane fly
+72092	en	non biting midge
+72116	en	grey seal
+72121	en	Ross seal
+72122	en	leopard seal
+72123	en	Weddell seal
+147009	en	Weddell seal
+72187	en	Saharan striped weasel
+72212	en	ratel
+72256	en	Arctic seal
+106335	en	Arctic seal
+72258	en	harp seal
+147298	en	harp seal
+72259	en	ribbon seal
+147025	en	ribbon seal
+72262	en	ring-tailed lemur
+72347	en	crocodile eggshell
+76778	en	dark-winged fungus gnat
+76780	en	robber fly
+77272	en	cottonmouth
+362482	en	cottonmouth
+77326	en	pygmy hippo
+77338	en	hippo
+80574	en	shark
+127070	en	shark
+218949	en	shark
+80575	en	skate
+80577	en	eagle ray
+80587	en	mackerel shark
+80601	en	megalodon
+80603	en	megalodon
+202672	en	megalodon
+280904	en	megalodon
+280905	en	megalodon
+80614	en	river shark
+34900	en	coelacanth
+80820	en	coelacanth
+80878	en	basket star
+53136	en	Steller's sea cow
+80943	en	Steller's sea cow
+86934	en	Steller's sea cow
+86935	en	Steller's sea cow
+104060	en	Steller's sea cow
+80952	en	Takikawa sea cow
+80953	en	Takikawa sea cow
+81001	en	horseshoe crab
+81027	en	dogfish shark
+81178	en	scallop
+244109	en	scallop
+81585	en	sword fish
+4792	en	tabulate coral
+81676	en	tabulate coral
+81693	en	Galve lizard
+81902	en	Eden's whale
+247119	en	Eden's whale
+81903	en	Bryde's whale
+247120	en	Bryde's whale
+63566	en	Chinese white dolphin
+82053	en	Chinese white dolphin
+82054	en	Chinese white dolphin
+112971	en	Chinese white dolphin
+82064	en	long-beaked common dolphin
+82072	en	Gulf of California Harbor Porpoise
+82139	en	conifer
+82142	en	juniper
+82267	en	lanternfish
+301261	en	lanternfish
+82270	en	sand perch
+82281	en	sea robin
+82350	en	clawed lobster
+82351	en	lobster
+82629	en	crustacean
+222096	en	crustacean
+329167	en	crustacean
+82932	en	periwinkle
+83035	en	tamandua
+83063	en	australopithecine
+83087	en	Neanderthal
+83088	en	human
+83104	en	cow shark
+83113	en	guitarfish
+83114	en	sawfish
+83121	en	bull ray
+83122	en	cow-nosed ray
+170198	en	cow-nosed ray
+83125	en	collared carpetshark
+131693	en	collared carpetshark
+83128	en	nurse shark
+83129	en	whale shark
+83153	en	thresher shark
+83165	en	basking shark
+83173	en	great white shark
+83174	en	great white shark
+356940	en	great white shark
+83175	en	cat shark
+352995	en	cat shark
+83176	en	hound shark
+34644	en	school shark
+83177	en	school shark
+83183	en	requiem shark
+353108	en	requiem shark
+83206	en	hammerhead shark
+83215	en	pike
+83219	en	conger eel
+83231	en	hake
+83267	en	bluefish
+83279	en	perch
+353971	en	perch
+83282	en	black drum
+83283	en	barracuda
+83297	en	Leatherjacket
+83306	en	Ridley sea turtle
+83323	en	bone-crushing dog
+83342	en	horned grebe
+83343	en	horned grebe
+83375	en	Audubon's shearwater
+83382	en	skua
+83416	en	goose
+83418	en	swan
+83426	en	black goose
+83434	en	mallard
+83443	en	eider
+83449	en	merganser
+83464	en	whooping crane
+83465	en	whooping crane
+83469	en	African crowned crane
+83478	en	snipe
+83479	en	snipe
+83487	en	flamingo
+83491	en	true thrush
+83609	en	Brazilian tapir
+83610	en	Brazilian tapir
+83628	en	larch
+83629	en	spruce
+83660	en	perch
+83661	en	musk turtle
+83662	en	turkey
+83690	en	sunfish
+83707	en	oyster
+244068	en	oyster
+83725	en	Brazilian guinea pig
+83727	en	Pampas deer
+83795	en	hocicudo
+83806	en	big hairy armadillo
+84228	en	blue coral
+85575	en	Nut Clam
+86860	en	mackerel shark
+87510	en	Atlantic Nut Clam
+274343	en	Atlantic Nut Clam
+87521	en	pointed nut clam
+87522	en	pointed nut clam
+87523	en	pointed nut clam
+108618	en	pointed nut clam
+109869	en	pointed nut clam
+42307	en	even-toed ungulate
+86207	en	even-toed ungulate
+87634	en	even-toed ungulate
+87644	en	haptophyte alga
+89502	en	plownose chimaera
+89507	en	sleeper shark
+89631	en	whelk
+54164	en	ceratosaur
+84515	en	ceratosaur
+90100	en	ceratosaur
+90123	en	whale barnacle
+55578	en	leptoceratopsid
+90273	en	leptoceratopsid
+66286	en	galago
+90334	en	galago
+238588	en	galago
+90349	en	trogon
+90479	en	Western box turtle
+362513	en	Western box turtle
+90482	en	box turtle
+90484	en	Florida box turtle
+90523	en	button snail
+90652	en	Grevy's zebra
+239411	en	Grevy's zebra
+239412	en	Grevy's zebra
+90654	en	cave bear
+90655	en	canine
+65310	en	skunk
+90658	en	skunk
+59074	en	rusty ark
+90840	en	rusty ark
+90841	en	rusty ark
+91094	en	doris
+91095	en	spindle lymnaea
+91096	en	galeommatid
+91097	en	capshell
+91098	en	false doris
+91099	en	elktoe
+91195	en	Delicate Ark
+91193	en	Delicate Ark
+91192	en	Delicate Ark
+91421	en	spider crab
+91424	en	king crab
+91435	en	mud shrimp
+34139	en	lamprey
+91451	en	lamprey
+91456	en	lamprey
+352195	en	lamprey
+91464	en	blind mole
+91487	en	hobbit
+91601	en	sea squirt
+91606	en	jawless fish
+150274	en	jawless fish
+91688	en	african lungfish
+91691	en	Queensland lungfish
+91819	en	horseshoe crab
+91901	en	narwhal
+91902	en	narwhal
+91939	en	Ivory Cowry
+91940	en	Ivory Cowry
+91953	en	black fish of South Sea Whalers
+91965	en	placental
+148780	en	placental
+91998	en	Delicate Ark
+92033	en	box jellyfish
+92044	en	marine crocodile
+209383	en	marine crocodile
+245645	en	marine crocodile
+92056	en	bonefish
+92066	en	jellynose fish
+92129	en	greater mastiff bat
+139826	en	greater mastiff bat
+60946	en	Cock's Comb Oyster
+92149	en	Cock's Comb Oyster
+92151	en	Cock's Comb Oyster
+60687	en	Honeycomb Oyster
+92155	en	Honeycomb Oyster
+92156	en	Honeycomb Oyster
+100245	en	Honeycomb Oyster
+111682	en	Honeycomb Oyster
+60471	en	royal cloak scallop
+92157	en	royal cloak scallop
+92158	en	royal cloak scallop
+99968	en	royal cloak scallop
+118419	en	royal cloak scallop
+215260	en	royal cloak scallop
+215261	en	royal cloak scallop
+92204	en	eureptile
+135042	en	eureptile
+92242	en	Malayan tapir
+237889	en	Malayan tapir
+92328	en	dodo
+92329	en	dodo
+92332	en	solitaire
+92333	en	solitaire
+92507	en	Palm squirrel
+92508	en	Asian pygmy squirrel
+92509	en	Sulawesi giant squirrel
+92510	en	Sulawesi tree squirrel
+92512	en	Asian striped squirrel
+92513	en	red-cheeked squirrel
+92514	en	Black-eared pygmy squirrel
+92515	en	Sunda squirrel
+92516	en	ant-eating squirrel
+92517	en	Indochinese ground squirrel
+92518	en	Asian striped ground squirrel
+92519	en	Sculptor squirrel
+92520	en	tree squirrel
+92521	en	Rope Squirrel
+92522	en	Splendid-tailed Squirrel
+92523	en	African giant squirrel
+92524	en	Sun Squirrel
+92526	en	long-clawed ground squirrel
+92527	en	Chinese flying squirrel
+92528	en	complex-toothed flying squirrel
+92530	en	smoky flying squirrel
+92531	en	large black flying squirrel
+92532	en	woolly flying squirrel
+92533	en	Eurasian flying squirrel
+92535	en	pygmy flying squirrel
+92537	en	dwarf squirrel
+92538	en	Central American montane squirrel
+92539	en	Tassle-eared ground squirrel
+92540	en	pygmy squirrel
+92568	en	stick insect
+223104	en	stick insect
+247368	en	stick insect
+92570	en	true leaf insect
+92589	en	monkey
+92590	en	monkey
+101405	en	monkey
+106865	en	monkey
+163992	en	monkey
+336995	en	monkey
+92602	en	howler monkey
+92604	en	woolly spider monkey
+92605	en	woolly monkey
+92606	en	uakari
+92607	en	titi
+92608	en	bearded saki
+92609	en	saki
+92615	en	capuchin monkey
+92616	en	squirrel monkey
+92695	en	talapoin
+92697	en	lutung
+92703	en	vervet monkey
+92704	en	vervet monkey
+92707	en	vervet monkey
+233953	en	vervet monkey
+93750	en	black finless porpoise
+93849	en	box crab
+93890	en	Corsican Hyperoodon
+93895	en	Sechelle Ziphius
+102716	en	Sechelle Ziphius
+129547	en	Sechelle Ziphius
+93914	en	horseshoe crab
+93915	en	horseshoe crab
+93916	en	pill bug
+93967	en	mountain tapir
+93972	en	Indian rhinoceros
+94064	en	black soled frog
+94068	en	sea snake
+269562	en	sea snake
+94077	en	killer kangaroo
+94178	en	midwife toad
+94212	en	argali
+94213	en	argali
+94227	en	damselfly
+94228	en	winged insect
+94230	en	true bug
+94234	en	spiny lobster
+94480	en	Bedriaga's rock lizard
+94488	en	eagle
+94489	en	golden eagle
+94797	en	HeLa
+37808	en	lepidosaur
+95312	en	lepidosaur
+99809	en	lepidosaur
+148774	en	lepidosaur
+365008	en	lepidosaur
+95403	en	belemnite
+95977	en	fruit bat
+95978	en	Pyrenean desman
+43527	en	armadillo
+96034	en	armadillo
+103842	en	armadillo
+176094	en	armadillo
+96382	en	American crocodile
+363062	en	American crocodile
+96479	en	chicken turtle
+96482	en	ninespine stickleback
+96483	en	freshwater drum
+96486	en	quail
+67882	en	red panda
+95962	en	red panda
+96674	en	red panda
+106391	en	red panda
+41335	en	eared seal
+96678	en	eared seal
+59114	en	laciniated dolphin shell
+96894	en	laciniated dolphin shell
+96895	en	laciniated dolphin shell
+127534	en	laciniated dolphin shell
+96896	en	Spherule Delphinula
+96897	en	Spherule Delphinula
+96934	en	protohippines
+97058	en	African palm civet
+37422	en	frog
+97112	en	frog
+150288	en	frog
+210843	en	frog
+97132	en	giant rat
+97133	en	water rat
+97136	en	cane mice
+97164	en	Pen-tailed tree shrew
+97177	en	chimpanzee
+97178	en	gorilla
+97840	en	spectacled bear
+97841	en	spectacled bear
+43524	en	edentate
+97907	en	edentate
+105151	en	edentate
+188830	en	edentate
+98244	en	tree hyrax
+236854	en	tree hyrax
+98316	en	stonewort
+98553	en	Concentric Nut Clam
+98554	en	Concentric Nut Clam
+102595	en	Concentric Nut Clam
+71849	en	Australian sea lion
+98723	en	Australian sea lion
+98726	en	organ pipe coral
+98901	en	schoebill
+98933	en	buttonquail
+98965	en	tern
+276243	en	tern
+99060	en	New World vulture
+99094	en	cockatoo
+99130	en	ground roller
+99133	en	toucan
+99137	en	lyrebird
+99145	en	songbird
+99148	en	helmeted guineafowl
+99150	en	junglefowl
+99163	en	tit
+99164	en	sparrow
+99558	en	swimming flamingo
+229905	en	swimming flamingo
+99560	en	flamingo
+99665	en	Plains spadefoot
+99692	en	Plains spadefoot
+110936	en	Plains spadefoot
+99683	en	Eastern spadefoot toad
+99685	en	Eastern spadefoot toad
+110840	en	Eastern spadefoot toad
+362476	en	Eastern spadefoot toad
+99686	en	Hurter's spadefoot toad
+99687	en	Hurter's spadefoot toad
+99688	en	Couch's spadefoot toad
+99689	en	Couch's spadefoot toad
+99690	en	Western spadefoot toad
+99691	en	Western spadefoot toad
+249617	en	Western spadefoot toad
+99693	en	Great Basin spadefoot toad
+99694	en	Great Basin spadefoot toad
+249614	en	Great Basin spadefoot toad
+99705	en	moonrat
+99706	en	Philippine gymnure
+99708	en	steppe hedgehog
+99778	en	parareptile
+138228	en	parareptile
+99862	en	bullhead shark
+353113	en	bullhead shark
+99967	en	Royal Cloak Scallop
+99989	en	Asian pipe snake
+99990	en	shieldtail snake
+99992	en	Mexican burrowing snake
+100108	en	southwest diver
+100116	en	toad
+90480	en	box turtle
+100124	en	box turtle
+100139	en	box turtle
+100190	en	Eastern box turtle
+100193	en	Gulf Coast box turtle
+100207	en	Auffenberg's snapping turtle
+291355	en	Auffenberg's snapping turtle
+100209	en	alligator snapping turtle
+105351	en	alligator snapping turtle
+172868	en	alligator snapping turtle
+62155	en	Commercial Rock Oyster
+100226	en	Commercial Rock Oyster
+100227	en	Commercial Rock Oyster
+100250	en	foliate oyster
+100251	en	foliate oyster
+115646	en	foliate oyster
+115647	en	foliate oyster
+135089	en	foliate oyster
+100259	en	belemnite
+300850	en	belemnite
+305353	en	belemnite
+100507	en	okapi
+100621	en	brown mouse
+100624	en	climbing rat
+100635	en	climbing mouse
+100675	en	small dessert hamster
+100681	en	khanyou
+100797	en	pacarana
+59140	en	Chemnitz's Venus
+101014	en	Chemnitz's Venus
+101015	en	Chemnitz's Venus
+59723	en	Script Venus
+101020	en	Script Venus
+101022	en	Script Venus
+101390	en	tarsier
+101429	en	Fine-ridged Tellen
+101430	en	Fine-ridged Tellen
+101438	en	Trigonal Mactra
+101439	en	Trigonal Mactra
+101440	en	Trigonal Mactra
+101719	en	Half Heart Cockle
+101722	en	Half Heart Cockle
+102699	en	pilot whale
+42964	en	porpoise
+53269	en	porpoise
+102804	en	porpoise
+220874	en	porpoise
+103123	en	slender loris
+103136	en	spear-nosed bat
+103143	en	long-tongued bat
+103145	en	flying fox
+103153	en	bulldog bat
+54140	en	gerbil
+91466	en	gerbil
+103740	en	gerbil
+103839	en	babirusa
+103840	en	babirusa
+103869	en	fur seal
+103879	en	fur seal
+103975	en	turkey vulture
+137176	en	turkey vulture
+103990	en	giant pangolin
+234143	en	giant pangolin
+104009	en	Pelecypoda
+104015	en	giant panda
+104016	en	giant panda
+104018	en	giant panda
+104017	en	giant panda
+104029	en	Asian black bear
+104030	en	Asian black bear
+105085	en	Asian black bear
+104031	en	sloth bear
+104032	en	sloth bear
+105072	en	sloth bear
+105100	en	sloth bear
+104036	en	sun bear
+104033	en	sun bear
+45697	en	Arctic lemming
+104089	en	Arctic lemming
+104113	en	lobster
+104118	en	Barbary macaque
+232422	en	Barbary macaque
+104119	en	mandrill
+201788	en	mandrill
+232550	en	mandrill
+104121	en	lion-tailed macaque
+232427	en	lion-tailed macaque
+232623	en	lion-tailed macaque
+104123	en	red-faced spider monkey
+232428	en	red-faced spider monkey
+104124	en	Diana monkey
+232429	en	Diana monkey
+104125	en	moustached guenon
+232430	en	moustached guenon
+104127	en	Hamadryas baboon
+232436	en	Hamadryas baboon
+232611	en	Hamadryas baboon
+104128	en	common marmoset
+232437	en	common marmoset
+232522	en	common marmoset
+104129	en	cottontop tamarin
+232438	en	cottontop tamarin
+104130	en	red-handed tamarin
+232439	en	red-handed tamarin
+238652	en	red-handed tamarin
+104132	en	tufted capuchin
+232441	en	tufted capuchin
+104134	en	capuchin monkey
+232443	en	capuchin monkey
+233955	en	capuchin monkey
+104135	en	common squirrel monkey
+232446	en	common squirrel monkey
+232523	en	common squirrel monkey
+104136	en	Philippine tarsier
+232447	en	Philippine tarsier
+232448	en	Philippine tarsier
+238737	en	Philippine tarsier
+104139	en	Philippine flying lemur
+206240	en	Philippine flying lemur
+234296	en	Philippine flying lemur
+104140	en	large flying fox
+233600	en	large flying fox
+104141	en	spectral bat
+233601	en	spectral bat
+104142	en	Seba's short-tailed bat
+233603	en	Seba's short-tailed bat
+104143	en	lesser false vampire bat
+233609	en	lesser false vampire bat
+104144	en	greater bulldog bat
+233610	en	greater bulldog bat
+104145	en	common long-eared bat
+233611	en	common long-eared bat
+104147	en	Asian elephant
+104149	en	Linnaeus's two toed sloth
+233221	en	Linnaeus's two toed sloth
+104151	en	southern tamandua
+233569	en	southern tamandua
+104154	en	striped hyaena
+232134	en	striped hyaena
+90651	en	tiger
+104157	en	tiger
+72185	en	leopard
+104158	en	leopard
+104159	en	cat
+104160	en	Eurasian lynx
+160980	en	Eurasian lynx
+104161	en	Egyptian mongoose
+206226	en	Egyptian mongoose
+233613	en	Egyptian mongoose
+104163	en	large Indian civet
+104165	en	European otter
+157463	en	European otter
+104166	en	tayra
+232924	en	tayra
+233616	en	tayra
+233621	en	tayra
+104167	en	European pine marten
+157450	en	European pine marten
+104168	en	European polecat
+104169	en	ferret
+104170	en	sable
+157449	en	sable
+104171	en	European badger
+157470	en	European badger
+104176	en	southern naked-tailed armadillo
+233573	en	southern naked-tailed armadillo
+233713	en	southern naked-tailed armadillo
+233715	en	southern naked-tailed armadillo
+233717	en	southern naked-tailed armadillo
+104177	en	three banded armadillo
+231784	en	three banded armadillo
+104179	en	six banded armadillo
+233574	en	six banded armadillo
+104180	en	seven-banded armadillo
+161189	en	seven-banded armadillo
+104181	en	hedgehog
+104183	en	Cape golden mole
+233576	en	Cape golden mole
+104186	en	gray four-eyed opposum
+233579	en	gray four-eyed opposum
+233816	en	gray four-eyed opposum
+104187	en	Linnaeus's mouse opossum
+233580	en	Linnaeus's mouse opossum
+104189	en	black rhinoceros
+197764	en	black rhinoceros
+104191	en	Asiatic brush-tailed porcupine
+233582	en	Asiatic brush-tailed porcupine
+104197	en	guinea pig
+233628	en	guinea pig
+104198	en	red-rumped agouti
+233629	en	red-rumped agouti
+104199	en	Norway lemming
+233630	en	Norway lemming
+47899	en	Alpine marmot
+104200	en	Alpine marmot
+104202	en	European water vole
+104943	en	European water vole
+104203	en	European water vole
+233631	en	European water vole
+104204	en	black rat
+232003	en	black rat
+233634	en	black rat
+104205	en	house mouse
+104207	en	wood mouse
+233639	en	wood mouse
+104208	en	typical striped grass mouse
+233640	en	typical striped grass mouse
+104210	en	lesser Egyptian jerboa
+233643	en	lesser Egyptian jerboa
+104235	en	Eurasian red squirrel
+104238	en	Barbary ground squirrel
+233646	en	Barbary ground squirrel
+104244	en	musk deer
+104246	en	fallow deer
+149389	en	fallow deer
+104248	en	European roe deer
+149382	en	European roe deer
+104250	en	domestic goat
+104251	en	Alpine ibex
+104252	en	chamois
+149673	en	chamois
+233560	en	chamois
+104255	en	royal antelope
+233655	en	royal antelope
+104256	en	gemsbok
+149593	en	gemsbok
+104257	en	blackbuck
+149565	en	blackbuck
+104258	en	Dorcas gazelle
+149567	en	Dorcas gazelle
+104259	en	common duiker
+231406	en	common duiker
+233656	en	common duiker
+104261	en	domestic sheep
+104264	en	cow
+104269	en	donkey
+239540	en	donkey
+104270	en	mountain zebra
+104790	en	mountain zebra
+104791	en	mountain zebra
+104440	en	giant golden mole
+104443	en	Grant's golden mole
+104445	en	Arend's golden mole
+104739	en	lobster
+104740	en	spiny lobster
+104743	en	skunk
+104745	en	giant otter
+233430	en	giant otter
+41746	en	vesper mouse
+104810	en	vesper mouse
+104844	en	northern cricket frog
+104845	en	spotted chorus frog
+104847	en	barking treefrog
+104848	en	squirrel treefrog
+104869	en	Florida spotted skunk
+104895	en	swamp rat
+104915	en	Malagasy giant rat
+104917	en	tufted-tailed rat
+104920	en	giant pouched rat
+104949	en	common vole
+104950	en	common vole
+104962	en	water vole
+104963	en	water vole
+105014	en	ringed seal
+137344	en	ringed seal
+105133	en	pinniped
+105149	en	agouti
+105179	en	western pond turtle
+105180	en	western pond turtle
+105181	en	western pond turtle
+96385	en	wood turtle
+96475	en	wood turtle
+105189	en	wood turtle
+96480	en	bog turtle
+96481	en	bog turtle
+105190	en	bog turtle
+105193	en	bog turtle
+105352	en	bog turtle
+105335	en	yellow mud turtle
+105336	en	yellow mud turtle
+105338	en	yellow mud turtle
+105337	en	mud turtle
+105340	en	three-toed box turtle
+80527	en	Blanding's turtle
+105341	en	Blanding's turtle
+105342	en	Blanding's turtle
+105343	en	common map turtle
+105344	en	common map turtle
+105345	en	peninsula cooter
+105346	en	peninsula cooter
+105347	en	American red-bellied turtle
+105348	en	American red-bellied turtle
+105349	en	painted turtle
+105350	en	painted turtle
+105354	en	common musk turtle
+105355	en	common musk turtle
+105356	en	common snapping turtle
+105357	en	common snapping turtle
+53091	en	eastern mud turtle
+105360	en	eastern mud turtle
+105364	en	Mississippi map turtle
+105365	en	Mississippi map turtle
+105366	en	diamondback terrapin
+105368	en	diamondback terrapin
+105367	en	diamondback terrapin
+37711	en	alligator snapping turtle
+105403	en	alligator snapping turtle
+105404	en	snapping turtle
+291356	en	snapping turtle
+105484	en	volcano rabbit
+105485	en	Amami rabbit
+105486	en	striped rabbit
+105581	en	grouse
+105599	en	Old World vulture
+137189	en	Old World vulture
+105609	en	common crane
+105610	en	common crane
+105630	en	common teal
+105634	en	upland sandpiper
+105678	en	jay
+105718	en	black hawk
+105720	en	limpkin
+105723	en	buzzard-eagle
+105727	en	sandhill crane
+105728	en	sandhill crane
+105729	en	sandhill crane
+105730	en	sandhill crane
+105731	en	sandhill crane
+42980	en	odd-toed ungulate
+106418	en	odd-toed ungulate
+147595	en	odd-toed ungulate
+106738	en	turtle
+37582	en	turtle
+106739	en	turtle
+175823	en	turtle
+235113	en	turtle
+357871	en	turtle
+106862	en	hagfish
+106863	en	hagfish
+217375	en	hagfish
+352181	en	hagfish
+107094	en	true dragonfly
+177941	en	true dragonfly
+107608	en	Dolphin-toothed Nut Clam
+107609	en	Dolphin-toothed Nut Clam
+274359	en	Dolphin-toothed Nut Clam
+108500	en	hispid hare
+108501	en	hispid hare
+108551	en	clawed frog
+108650	en	Mexican burrowing toad
+110209	en	limpet
+110224	en	Redonda (Formation) lizard
+110600	en	hellbender
+110601	en	hellbender
+110606	en	Japanese giant salamander
+110607	en	Japanese giant salamander
+191095	en	Japanese giant salamander
+110609	en	Chinese giant salamander
+110610	en	Chinese giant salamander
+191096	en	Chinese giant salamander
+110631	en	catfish
+110692	en	North American worm lizard
+110693	en	North American worm lizard
+110740	en	runner foot
+110742	en	Shandong bird track
+110823	en	American alligator
+110824	en	American alligator
+110825	en	cribo
+110826	en	cribo
+110827	en	kingsnake
+110828	en	kingsnake
+178473	en	kingsnake
+53089	en	Eastern narrowmouth toad
+110831	en	Eastern narrowmouth toad
+110832	en	Eastern narrowmouth toad
+110834	en	greater siren
+110835	en	dwarf siren
+110836	en	tiger salamander
+110837	en	tiger salamander
+362461	en	tiger salamander
+110838	en	Eastern newt
+110839	en	Eastern newt
+110841	en	American bullfrog
+110842	en	Southern toad
+110843	en	Southern toad
+110844	en	southern cricket frog
+110845	en	southern cricket frog
+110846	en	ornate chorus frog
+110847	en	ornate chorus frog
+104849	en	American green tree frog
+110849	en	American green tree frog
+110871	en	Woodhouse's toad
+133748	en	Woodhouse's toad
+110872	en	eastern fence lizard
+110873	en	eastern fence lizard
+110874	en	six-lined racerunner
+110875	en	six-lined racerunner
+110876	en	northern water snake
+110877	en	northern water snake
+155181	en	northern water snake
+53100	en	fox snake
+110879	en	fox snake
+110894	en	spot-winged falconet
+110895	en	laughing falcon
+110896	en	forest falcon
+110937	en	western chorus frog
+110938	en	western chorus frog
+110939	en	gray tree frog
+110948	en	great blue heron
+110950	en	Canada goose
+110951	en	Canada goose
+110952	en	wild turkey
+110986	en	crow shark
+110987	en	crow shark
+111091	en	cliff chirping frog
+111367	en	guitarfish
+111403	en	Wealden newt
+112568	en	Aguja horned face
+112867	en	black bass
+112901	en	Suzhou lizard
+113308	en	Pearly Nautilus
+113766	en	ground lizard
+113767	en	leopard lizard
+113770	en	pigmy rattlesnake
+113808	en	tailed frog
+113813	en	fire-bellied toad
+113861	en	sail forehead
+114187	en	imbricated oyster
+305591	en	imbricated oyster
+305598	en	imbricated oyster
+305599	en	imbricated oyster
+305600	en	imbricated oyster
+305601	en	imbricated oyster
+114376	en	Uberaba crocodile
+114380	en	pug-nosed crocodile
+114396	en	Mahajanga crocodile
+114397	en	Chenane crocodile
+114650	en	stork
+114654	en	peafowl
+115551	en	lacewing
+115697	en	lance lacewing
+115822	en	white rhinoceros
+115823	en	white rhinoceros
+115833	en	Sumatran rhino
+115834	en	Sumatran rhino
+237890	en	Sumatran rhino
+237892	en	Sumatran rhino
+117149	en	frozen lizard
+117397	en	round-eared bat
+117399	en	fringe-lipped bat
+117401	en	fringe-lipped bat
+117402	en	big-eared bat
+117403	en	lesser yellow bat
+117669	en	goblin shark
+118070	en	forest dweller wing
+118076	en	escuercito
+118077	en	Budgett's frog
+118950	en	rock rattlesnake
+118951	en	rock rattlesnake
+362480	en	rock rattlesnake
+119228	en	Siam crocodile
+119492	en	two horned
+119495	en	small horned
+119546	en	Pab beast
+119647	en	gray bat
+119652	en	Brohi lizard
+119852	en	Mourlonia
+119854	en	Mourlonia
+120404	en	pike whale
+120842	en	Malakhel lizard
+120868	en	Cuban night lizard
+120906	en	surfclam
+171574	en	surfclam
+121042	en	trilobite-like
+121422	en	Frond
+121426	en	Spindle
+121427	en	Spindle
+121428	en	Spindle
+121478	en	Barbour's map turtle
+121521	en	Florida softshell turtle
+121522	en	Florida softshell turtle
+121523	en	smooth softshell turtle
+121524	en	smooth softshell turtle
+121525	en	spiny softshell turtle
+121526	en	spiny softshell turtle
+53092	en	eastern river cooter
+121569	en	eastern river cooter
+121570	en	Alabama red-bellied turtle
+121571	en	slider
+121572	en	slider
+121581	en	slider
+121573	en	North Antillean slider
+121574	en	North Antillean slider
+121575	en	Central Antillean slider
+121576	en	Central Antillean slider
+121577	en	Jamaican slider
+121578	en	Jamaican slider
+121579	en	Hispaniolan slider
+121580	en	Hispaniolan slider
+121605	en	moon-snail
+122473	en	Neuquen crocodile
+124206	en	nightjar
+124211	en	roller
+124288	en	finch
+128739	en	capybara
+128740	en	capybara
+131369	en	capybara
+159144	en	capybara
+129151	en	stiff-tailed duck
+129747	en	sharp-tailed grouse
+129783	en	bobwhite
+129787	en	American woodcock
+129806	en	flicker
+129810	en	woodpecker
+129823	en	phoebe
+129833	en	jay
+129836	en	jay
+129837	en	blue jay
+129840	en	American thrashers
+129843	en	thrush
+133795	en	thrush
+129849	en	sparrow
+129850	en	white-throated sparrow
+130646	en	Zempoaltepec vole
+130647	en	Guatemalan vole
+130648	en	Tarabundi vole
+130649	en	field vole
+130650	en	field vole
+130651	en	sibling vole
+130713	en	prairie chicken
+130717	en	owl
+130718	en	northern hawk owl
+130721	en	woodpecker
+130723	en	horned lark
+130726	en	meadowlark
+130728	en	rosefinch
+130730	en	pine grosbeak
+130734	en	towhee
+131079	en	true wing bird
+131415	en	catfish
+131416	en	airbreathing catfish
+131417	en	lates
+131419	en	bichir
+131420	en	bichir
+131421	en	elephantfish
+131422	en	aba knifefish
+131423	en	African arowana
+131425	en	upside down catfish
+131681	en	gulper shark
+131683	en	wedgefish
+131700	en	bowmouth guitarfish
+131915	en	Mouse-tailed dormouse
+132395	en	belemnite
+132402	en	belemnite
+132603	en	true dermopteran
+132604	en	colugo
+132768	en	red-footed tortoise
+132769	en	red-footed tortoise
+132797	en	red-footed tortoise
+132770	en	yellow-footed tortoise
+132771	en	yellow-footed tortoise
+132799	en	yellow-footed tortoise
+358470	en	yellow-footed tortoise
+132772	en	Chaco tortoise
+132773	en	Chaco tortoise
+132798	en	Chaco tortoise
+132774	en	Galapagos giant tortoise
+132775	en	Galapagos giant tortoise
+132800	en	Galapagos giant tortoise
+133093	en	simple tooth
+133142	en	Alaska marmot
+133148	en	pygmy hog
+133149	en	pygmy hog
+133150	en	pygmy hog
+133151	en	Vietnam warty pig
+133152	en	Philippine warty pig
+133153	en	Visayan warty pig
+133154	en	bearded pig
+133155	en	Javan warty pig
+133156	en	Sulawesi pig
+133157	en	desert warthog
+133159	en	desert warthog
+133160	en	common warthog
+133161	en	common warthog
+133207	en	tadpole shrimp
+133270	en	shrimp
+133417	en	clam shrimp
+222095	en	clam shrimp
+133514	en	catfish
+133732	en	sand bird
+133769	en	grebe
+133776	en	sea eagle
+133779	en	American kestrel
+133780	en	greater prairie chicken
+133781	en	greater prairie chicken
+161518	en	greater prairie chicken
+133794	en	flycatcher
+133800	en	ghost frog
+133802	en	Seychelles frog
+133826	en	blue wildebeest
+133827	en	blue wildebeest
+236272	en	blue wildebeest
+133828	en	black wildebeest
+133830	en	black wildebeest
+133833	en	black wildebeest
+42761	en	wildebeest
+133829	en	wildebeest
+133849	en	tarantula
+133853	en	woodlouse hunter spider
+133859	en	sac spider
+133870	en	crab spider
+133873	en	orb-weaving spider
+133877	en	stretch spider
+133879	en	golden silk orb-weaver
+133884	en	harvestman
+133900	en	springtail
+280925	en	springtail
+354032	en	springtail
+133906	en	stonefly
+133941	en	dobsonfly
+133945	en	snakefly
+133982	en	spongillafly
+346393	en	spongillafly
+133985	en	brown lacewing
+133993	en	green lacewing
+134010	en	beaded lacewing
+134015	en	mantidfly
+134020	en	dustywing
+134029	en	thread-winged antlion
+134037	en	silky lacewing
+182014	en	silky lacewing
+202388	en	silky lacewing
+290488	en	silky lacewing
+134056	en	split-footed lacewing
+134068	en	antlion
+134071	en	owlfly
+134123	en	caddisfly
+134171	en	belemnite
+134289	en	finger-net caddisfly
+134308	en	microcaddisfly
+134331	en	net-spinning caddisfly
+134338	en	large caddisfly
+207778	en	large caddisfly
+134431	en	mousebird
+134444	en	carpenter moth
+134448	en	tortrix moth
+134482	en	dipper
+134484	en	starling
+134487	en	starling
+134690	en	sedge
+134696	en	auklet
+134729	en	double-crested cormorant
+134730	en	double-crested cormorant
+134731	en	Brandt's cormorant
+134732	en	Brandt's cormorant
+134733	en	bagworm moth
+134822	en	picture-winged leaf moth
+134825	en	skipper
+134830	en	swallowtail butterfly
+134879	en	horned screamer
+134880	en	crested screamer
+134881	en	magpie goose
+134930	en	long-horned caddisfly
+135023	en	two-toed amphiuma
+135024	en	one-toed amphiuma
+135025	en	three-toed amphiuma
+135150	en	brush-footed butterfly
+135173	en	snout butterfly
+245002	en	snout butterfly
+135191	en	legless lizard
+135192	en	European glass lizard
+135193	en	European glass lizard
+135343	en	ground roller
+135344	en	ground roller
+135345	en	ground roller
+135346	en	great albatross
+135377	en	Surinam toad
+135383	en	African dwarf frog
+135384	en	dwarf gray frog
+135435	en	helmeted water toad
+135545	en	mountain snail
+135550	en	disk snail
+135843	en	earless monitor lizard
+135844	en	Nile monitor
+135845	en	Nile monitor
+135846	en	Bengal monitor
+135847	en	Bengal monitor
+135848	en	savannah monitor
+135849	en	savannah monitor
+136150	en	Crenulate Nut Clam
+136151	en	Reef Nut Clam
+136152	en	Aegean Nut Clam
+136153	en	Aegean Nut Clam
+136154	en	West Indian Awning Clam
+274417	en	West Indian Awning Clam
+136155	en	Atlantic Awning Clam
+274415	en	Atlantic Awning Clam
+136166	en	Wood's Little Nut Clam
+136167	en	Wood's Little Nut Clam
+136168	en	Carpenter's Smooth Nut Clam
+136169	en	Carpenter's Smooth Nut Clam
+136170	en	Polished Nut Clam
+136171	en	Seed Nut Clam
+136172	en	Seed Nut Clam
+136173	en	Barbed Nut Clam
+136174	en	Barbed Nut Clam
+136175	en	Glassy Nut Clam
+136176	en	Glassy Nut Clam
+136177	en	Jamaican Nut Clam
+136178	en	Jamaican Nut Clam
+136325	en	gossamer-winged butterfly
+136330	en	geometer moth
+136558	en	lava lizard
+136561	en	casque-head lizard
+136564	en	Madagascar iguana
+136565	en	Chinese crocodile lizar
+136637	en	Owston's palm civet
+136640	en	aquatic genet
+136648	en	aquatic genet
+136642	en	banded palm civet
+232040	en	banded palm civet
+232041	en	banded palm civet
+136643	en	masked palm civet
+136649	en	banded linsang
+136653	en	small-toothed palm civet
+136654	en	African linsang
+136689	en	Dorset hunter
+136708	en	scorpionfly
+136761	en	torrent salamander
+136809	en	stork
+136812	en	jabiru
+137020	en	common scorpionfly
+137025	en	short-faced scorpionfly
+137033	en	hangingfly
+137071	en	flea
+137136	en	girdled lizard
+137137	en	southern alligator lizard
+137139	en	southern alligator lizard
+137138	en	alligator lizard
+137170	en	Merriam's teratorn
+137175	en	vulture
+137180	en	California condor
+137182	en	California condor
+137184	en	California condor
+137195	en	cinereous vulture
+137204	en	hawk-eagle
+137542	en	Asian leaf turtle
+137544	en	black marsh turtle
+137545	en	eyed turtle
+137546	en	yellow pond turtle
+137547	en	yellow pond turtle
+137548	en	yellow pond turtle
+137550	en	Japanese pond turtle
+137551	en	Japanese pond turtle
+137552	en	Japanese pond turtle
+137553	en	Japanese pond turtle
+137554	en	Caspian turtle
+137555	en	Caspian turtle
+137556	en	Caspian turtle
+137557	en	Caspian turtle
+138148	en	primitive crane fly
+138284	en	moth fly
+138305	en	meniscus midge
+138308	en	mosquito
+138345	en	biting midge
+138362	en	black fly
+138435	en	minute black scavenger fly
+138453	en	fungus gnat
+138552	en	Hubei tooth
+138555	en	scorpion hunter
+138665	en	gall midge
+206771	en	gall midge
+138724	en	soldier fly
+199330	en	soldier fly
+138771	en	water snipe fly
+138774	en	snipe fly
+138863	en	horse fly
+138867	en	spider fly
+138873	en	tangle-veined fly
+138883	en	bee fly
+138916	en	stiletto fly
+296626	en	stiletto fly
+138923	en	mydas fly
+139008	en	dagger fly
+213545	en	dagger fly
+139094	en	long-legged fly
+206932	en	long-legged fly
+139123	en	flat-footed fly
+139138	en	scuttle fly
+139155	en	ironic fly
+139158	en	big-headed fly
+139165	en	hover fly
+139171	en	hoverfly
+195107	en	hoverfly
+139197	en	thick-headed fly
+139200	en	picture-winged fly
+139205	en	fruit fly
+139219	en	stilt-legged fly
+139226	en	stalk-eyed fly
+139278	en	rust fly
+139287	en	snail-killing fly
+139293	en	aphid fly
+139318	en	cheese skipper
+139325	en	druid fly
+139399	en	leaf-miner fly
+139403	en	bird fly
+139408	en	upside-down fly
+139427	en	fruit fly
+139428	en	fruit fly
+139444	en	dung fly
+139450	en	house fly
+139453	en	tsetse fly
+139457	en	blow fly
+139460	en	louse fly
+139551	en	argid sawfly
+139612	en	conifer sawfly
+139652	en	stem sawfly
+139686	en	horntail
+139825	en	free-tailed bat
+140007	en	crown wasp
+140425	en	storm petrel
+140517	en	Amarga titan
+140520	en	Nopcsa vertebra
+140554	en	Amarga crocodile
+140693	en	long bodied crane fly
+140698	en	winter crane fly
+140727	en	Gobi horn face
+140785	en	Alberta claw
+140836	en	phantom crane fly
+140853	en	Malargüe lizard
+140881	en	southern snake
+140936	en	TrapalcÃ³ beast
+140942	en	ensign wasp
+141161	en	acritarcs
+142800	en	egret
+142806	en	pond heron
+143017	en	true lemur
+143018	en	ruffed lemur
+143019	en	sifaka
+103120	en	indri
+143020	en	indri
+143021	en	avahi
+103126	en	dwarf lemur
+143022	en	dwarf lemur
+143023	en	dwarf lemur
+143024	en	mouse lemur
+143025	en	sportive lemur
+143026	en	aye aye
+143089	en	golden potto
+143090	en	potto
+103124	en	slow loris
+143091	en	slow loris
+143095	en	shrew mole
+143096	en	shrew mole
+143100	en	blind mole
+143101	en	insular mole
+143103	en	insular mole
+143656	en	Cape hyrax
+143657	en	Cape hyrax
+143658	en	Cape hyrax
+98243	en	rock hyrax
+143659	en	rock hyrax
+143660	en	rock hyrax
+143662	en	rock hyrax
+143663	en	rock hyrax
+236852	en	rock hyrax
+144345	en	belemnite
+144597	en	frond
+146035	en	hawk
+146037	en	harrier
+146111	en	grebe
+146112	en	grebe
+146356	en	fan-tail bird
+146361	en	far eating lizard
+146456	en	slender raptor
+146611	en	Pectinate
+146612	en	Pectinate
+146799	en	triangle
+4761	en	gorgonian
+147057	en	gorgonian
+147764	en	mud shrimp
+149206	en	Norway lobster
+149207	en	Norway lobster
+149376	en	greater mouse-deer
+149377	en	greater mouse-deer
+234262	en	greater mouse-deer
+149378	en	Java mouse-deer
+149379	en	Java mouse-deer
+238402	en	Java mouse-deer
+149395	en	Fea's muntjac
+149396	en	Fea's muntjac
+54358	en	sambar
+149436	en	sambar
+149438	en	chital
+149439	en	chital
+149440	en	Himalayan musk deer
+149443	en	Alpine musk deer
+149536	en	freshwater crayfish
+149556	en	bay duiker
+149573	en	Grant's gazelle
+231764	en	Grant's gazelle
+149586	en	Gunther's dik-dik
+149589	en	Sharpe's grysbok
+149590	en	steenbok
+149599	en	sable antelope
+149690	en	suni
+149702	en	saola
+149704	en	bongo
+149705	en	sitatunga
+149706	en	mountain nyala
+149709	en	common eland
+149710	en	giant eland
+149711	en	nyala
+235879	en	nyala
+149719	en	African buffalo
+149949	en	hagfish
+150275	en	heterokonts
+150513	en	fig wasp
+150541	en	fairyfly
+151338	en	sleeper shark
+151359	en	crown diapsid
+151823	en	spiny dogfish
+151866	en	Port Jackson shark
+151867	en	Port Jackson shark
+151885	en	cuckoo wasp
+151894	en	common guitarfish
+151895	en	common guitarfish
+152045	en	velvet ant
+152137	en	spider wasp
+152451	en	digger wasp
+209095	en	digger wasp
+152477	en	sweat bee
+152483	en	mason bee
+152494	en	bumble bee
+152495	en	small carpenter bee
+152922	en	cuttlefish
+153545	en	Australiasian treefrog
+153546	en	Australian green tree frog
+153547	en	Australian green tree frog
+154003	en	torpedo
+154006	en	finless sleeper ray
+154023	en	round ray
+154072	en	numbfish
+154073	en	electric ray
+154077	en	coffin ray
+154083	en	apron ray
+154084	en	sleeper ray
+154088	en	blind electric ray
+154360	en	cottonmouth
+154732	en	giant devil ray
+155160	en	hooded merganser
+155164	en	northern rubber boa
+155165	en	northern rubber boa
+155167	en	glossy snake
+53102	en	prairie kingsnake
+155168	en	prairie kingsnake
+155169	en	black rat snake
+155170	en	black rat snake
+155171	en	corn snake
+155172	en	corn snake
+155173	en	pine snake
+155174	en	pine snake
+362497	en	pine snake
+155175	en	eastern hognosed snake
+155176	en	eastern hognosed snake
+362502	en	eastern hognosed snake
+155178	en	southern hognose snake
+155179	en	southern hognose snake
+155180	en	western hognose snake
+155184	en	queen snake
+155185	en	queen snake
+155188	en	striped crayfish snake
+155189	en	striped crayfish snake
+155190	en	Graham's crayfish snake
+155191	en	glossy crayfish snake
+155192	en	glossy crayfish snake
+155663	en	oribatid mite
+155664	en	mite
+308560	en	mite
+155665	en	mite
+195017	en	mite
+156384	en	torrent salamander
+156412	en	cup coral
+156825	en	Asian caecilian
+157190	en	1982
+157332	en	hophornbeam
+157333	en	wingceltis
+157335	en	water lily
+157337	en	sassafras
+157338	en	pipli
+157339	en	mock-orange
+157340	en	shadbush
+157341	en	hawthorn
+157342	en	plum
+157343	en	rose
+157344	en	redbud
+157345	en	yellowwood
+157348	en	golden rain tree
+157349	en	ceanothus
+157350	en	grapevine
+157352	en	madrone
+157353	en	rhododendron
+157354	en	silverbell
+157453	en	yellow-throated marten
+238838	en	yellow-throated marten
+157457	en	Siberian weasel
+157459	en	Oriental small-clawed otter
+157460	en	Oriental small-clawed otter
+159276	en	Oriental small-clawed otter
+206185	en	Oriental small-clawed otter
+231848	en	Oriental small-clawed otter
+157497	en	olingo
+157817	en	African elephant
+157818	en	African elephant
+157819	en	African forest elephant
+157820	en	African forest elephant
+233332	en	African forest elephant
+233336	en	African forest elephant
+157890	en	chimpanzee
+157891	en	chimpanzee
+158096	en	Nile crocodile
+158097	en	mugger crocodile
+158098	en	mugger crocodile
+158294	en	vasa parrot
+158295	en	coua
+158462	en	brush-warbler
+158465	en	paradise flycatcher
+158466	en	white-eye
+158468	en	vanga
+158469	en	vanga
+158471	en	blue vanga
+158473	en	weaver
+158474	en	foudy
+158495	en	large-eared tenrec
+158496	en	shrew tenrec
+158497	en	lesser hedgehog tenrec
+158498	en	greater hedgehog tenrec
+103579	en	tail-less tenrec
+158499	en	tail-less tenrec
+158501	en	rousette
+158502	en	Malagasy civet
+158504	en	fossa
+158505	en	big-footed mouse
+158508	en	zonosaur
+158509	en	plated lizard
+158510	en	boa
+158511	en	Malagasy hognose snake
+158788	en	harlequin bat
+158789	en	bamboo bat
+158791	en	clouded leopard
+158792	en	shrew mole
+158793	en	Asiatic water shrew
+158794	en	brush-tailed porcupine
+158795	en	long-tailed porcupine
+158796	en	marmoset rat
+158797	en	snub-nosed monkey
+240787	en	snub-nosed monkey
+158798	en	Chinese pygmy dormouse
+158799	en	pencil-tailed tree mouse
+158822	en	hoolock gibbon
+158826	en	western hoolock gibbon
+158830	en	western hoolock gibbon
+158833	en	western hoolock gibbon
+158834	en	western hoolock gibbon
+158835	en	siamang
+158836	en	siamang
+158842	en	black crested gibbon
+158843	en	black crested gibbon
+158846	en	black crested gibbon
+158849	en	black crested gibbon
+158853	en	eastern hoolock gibbon
+158854	en	eastern hoolock gibbon
+159080	en	calico scallop
+159102	en	fig-eating bat
+159104	en	Neotropical fruit bat
+159105	en	fruit-eating bat
+159106	en	leaf-nosed bat
+159107	en	solenodon
+159108	en	mustached bat
+159109	en	big-eared woolly bat
+159110	en	nectar bat
+159111	en	acouchi
+159112	en	bush dog
+159113	en	tayra
+159114	en	brown four-eyed opposum
+159115	en	spiny tree rat
+159116	en	brush-tailed rat
+159117	en	spiny rat
+159118	en	paca
+103846	en	giant armadillo
+159119	en	giant armadillo
+232022	en	giant armadillo
+233762	en	giant armadillo
+233765	en	giant armadillo
+233767	en	giant armadillo
+159120	en	bristly mouse
+159121	en	bamboo rat
+159122	en	pygmy rice rat
+159123	en	pygmy marmoset
+159124	en	gracile  opposum
+159127	en	proboscis bat
+159131	en	tailless bat
+159133	en	short-tailed fruit bat
+159134	en	broad-nosed bat
+159135	en	yellow-shouldered bat
+159137	en	funnel-eared bat
+159138	en	thumbless bat
+159142	en	punarÃ©
+160951	en	Mexican mouse opposum
+160953	en	sac-winged bat
+160954	en	Thomas's sac-winged bat
+160956	en	Jamaican fruit bat
+160964	en	Peale's free-tailed bat
+160966	en	Peale's free-tailed bat
+160974	en	fulvous pygmy rice rat
+160975	en	fulvous pygmy rice rat
+161114	en	trumpeter swan
+161115	en	trumpeter swan
+161168	en	Llanos long-nosed armadillo
+161183	en	Llanos long-nosed armadillo
+161181	en	greater long-nosed armadillo
+161182	en	greater long-nosed armadillo
+364453	en	southern long-nosed armadillo
+161186	en	southern long-nosed armadillo
+161187	en	southern long-nosed armadillo
+161188	en	southern long-nosed armadillo
+161190	en	Yepes's mulita
+161238	en	mountain pocket gopher
+161398	en	rock squirrel
+161399	en	rock squirrel
+161536	en	rock squirrel
+161430	en	tapir
+161509	en	western grebe
+161510	en	western grebe
+161511	en	black vulture
+161512	en	black vulture
+161513	en	Cooper's hawk
+161514	en	Cooper's hawk
+161515	en	Swainson's hawk
+161516	en	prairie falcon
+161519	en	lesser prairie chicken
+161520	en	lesser prairie chicken
+161524	en	mountain quail
+161525	en	mountain quail
+161526	en	great horned owl
+161527	en	great horned owl
+161529	en	short-eared owl
+161530	en	short-eared owl
+161532	en	yellow-headed blackbird
+161533	en	yellow-headed blackbird
+161534	en	crossbill
+161535	en	common crossbill
+161539	en	plains harvest mouse
+161540	en	plains harvest mouse
+161560	en	plains harvest mouse
+161649	en	red tree vole
+161652	en	red tree vole
+161654	en	white-footed vole
+161655	en	white-footed vole
+161656	en	Sonoma tree vole
+161714	en	dark kangaroo mouse
+161715	en	chisel-toothed kangaroo rat
+161716	en	chisel-toothed kangaroo rat
+161742	en	elf owl
+161746	en	zebra-tailed lizard
+93968	en	Baird's tapir
+161793	en	Baird's tapir
+161796	en	Baird's tapir
+47646	en	eastern cottontail
+51912	en	eastern cottontail
+161906	en	eastern cottontail
+31227	en	sea cucumber
+161964	en	sea cucumber
+162065	en	amber snail
+162068	en	true glass snail
+162070	en	kiang
+162072	en	kiang
+239413	en	kiang
+162481	en	ningaui
+162482	en	eastern grey kangaroo
+162495	en	eastern grey kangaroo
+162493	en	kangaroo
+162500	en	western grey kangaroo
+162501	en	western grey kangaroo
+162516	en	antilopine kangaroo
+162517	en	antilopine kangaroo
+162518	en	Woodward's wallaroo
+162519	en	Woodward's wallaroo
+162521	en	eastern wallaroo
+162522	en	eastern wallaroo
+234411	en	eastern wallaroo
+162527	en	red kangaroo
+162528	en	red kangaroo
+234857	en	red kangaroo
+162530	en	wallaby
+162531	en	agile wallaby
+162532	en	agile wallaby
+234858	en	agile wallaby
+162536	en	red-necked wallaby
+162537	en	red-necked wallaby
+162538	en	tammar wallaby
+162539	en	tammar wallaby
+162540	en	pretty-faced wallaby
+162541	en	pretty-faced wallaby
+162543	en	black-striped wallaby
+162544	en	black-striped wallaby
+162545	en	western brush wallaby
+162546	en	western brush wallaby
+162548	en	toolache wallaby
+162549	en	toolache wallaby
+162550	en	parma wallaby
+162551	en	parma wallaby
+166763	en	Hackett's Giant Echidna
+166853	en	New Zealand wren
+167522	en	mollusk
+168549	en	heart urchin
+168555	en	pencil urchin
+168682	en	heart urchin
+32733	en	sea urchin
+168786	en	sea urchin
+32782	en	pencil urchin
+168929	en	pencil urchin
+170227	en	cockroach
+170238	en	ice crawler
+170249	en	common skimmer
+170254	en	spring stonefly
+170258	en	shore bug
+170285	en	giant shield bug
+226394	en	giant shield bug
+364302	en	giant shield bug
+170291	en	mayfly
+277691	en	mayfly
+171927	en	Section HK-12, HÃ¡rskÃºt, KÃ¶zÃ¶skÃºt Ravine, Bakony Mts, Hungary
+172018	en	flying squirrel
+172019	en	scaly-tailed squirrel
+172056	en	Futaba Suzuki Ryu
+172062	en	northern white rhinoceros
+172063	en	northern white rhinoceros
+172064	en	northern white rhinoceros
+172251	en	predatory fungus gnat
+261051	en	predatory fungus gnat
+172254	en	sand fly
+172714	en	Mexican giant musk turtle
+172715	en	Mexican giant musk turtle
+172716	en	Chiapas giant musk turtle
+172717	en	narrow-bridged musk turtle
+172718	en	narrow-bridged musk turtle
+172849	en	Mesoamerican river turtle
+172986	en	softshell turtle
+173237	en	Chinese alligator
+173277	en	American crocodile
+173278	en	American crocodile
+173279	en	caiman
+173280	en	common caiman
+173281	en	common caiman
+173374	en	Morelet's crocodile
+173375	en	Morelet's crocodile
+173376	en	Morelet's crocodile
+173398	en	green turtle
+173399	en	green turtle
+363063	en	green turtle
+173401	en	hawksbill turtle
+173402	en	hawksbill turtle
+173506	en	francolin
+173845	en	emu
+174977	en	griffinfly
+175116	en	snakefly
+175309	en	hangingfly
+175337	en	Jewel Beetle
+175505	en	leafhopper
+175561	en	giant cockroach
+175970	en	froghopper
+175975	en	hairy cicada
+250165	en	hairy cicada
+176012	en	booklice
+176071	en	hump-winged cricket
+180286	en	hump-winged cricket
+196074	en	hump-winged cricket
+176075	en	hump-winged cricket
+176535	en	hump-winged cricket
+180234	en	hump-winged cricket
+192823	en	hump-winged cricket
+176220	en	pygmy mole cricket
+176421	en	splay-footed cricket
+176445	en	scentless plant bug
+176536	en	cixiid planthopper
+176538	en	aphid
+176540	en	water strider
+176541	en	dinidorid bug
+176543	en	burrowing bug
+207088	en	burrowing bug
+208668	en	burrowing bug
+176545	en	palm bruchid
+336961	en	palm bruchid
+176587	en	thrips
+331300	en	thrips
+176716	en	rock-crawler
+176747	en	giant lacewing
+177842	en	two-pronged bristletails
+177846	en	Silverfish
+177847	en	silverfish
+177848	en	silverfish
+177907	en	damsel-dragonflies
+178542	en	plectreurid spider
+178553	en	gladiator
+178664	en	small darner
+190054	en	small darner
+178671	en	little earwig
+178672	en	little earwig
+178688	en	leafhopper
+228954	en	leafhopper
+178710	en	achilid planthopper
+178787	en	greenling
+179151	en	rainbow boa
+179362	en	bush cockroach
+179490	en	dwarf boa
+288305	en	dwarf boa
+179616	en	cichlid
+179654	en	grass fly
+179800	en	mason bee
+179815	en	sierolomorphid wasp
+179822	en	globular springtail
+179823	en	tropical king skimmer
+179824	en	drywood termite
+277582	en	drywood termite
+179827	en	termite
+179829	en	booklouse
+217792	en	booklouse
+179832	en	milkweed bug
+179954	en	stingless bee
+179955	en	stingless bee
+179957	en	orchid bee
+255326	en	orchid bee
+179961	en	cuckoo bumblebee
+179993	en	Henshaw's honey bee
+283667	en	Henshaw's honey bee
+179995	en	praying mantis
+307866	en	praying mantis
+180000	en	mantis
+191590	en	mantis
+71729	en	hawker dragonfly
+180090	en	hawker dragonfly
+288731	en	hawker dragonfly
+180158	en	bluet
+180290	en	leaf-rolling cricket
+181102	en	aphid
+181137	en	terror bird
+182004	en	alderfly
+296645	en	silky lacewing
+182301	en	Hoekmanâ€™s blunt-snouted dolphin
+182320	en	ice crawler
+222332	en	ice crawler
+182359	en	dance fly
+182545	en	fungus gnat
+182769	en	belemnite
+182773	en	belemnite
+40209	en	eutherian
+137726	en	eutherian
+182911	en	eutherian
+321749	en	eutherian
+39936	en	metatherian
+166541	en	metatherian
+183662	en	metatherian
+183684	en	creeping water bug
+183851	en	jumping bristletails
+183858	en	bark louse
+207479	en	bark louse
+183859	en	parasitic louse
+283952	en	parasitic louse
+185144	en	Armbruster's honey bee
+283686	en	Armbruster's honey bee
+185299	en	cloud rat
+185583	en	false fairy wasp
+296937	en	false fairy wasp
+186528	en	colorful foliage ground beetle
+138660	en	wood gnat
+187114	en	wood gnat
+187139	en	minute pirate bug
+187146	en	jumping plant louse
+276102	en	jumping plant louse
+187147	en	jumping plant louse
+187513	en	worker ant
+187514	en	worker ant
+187755	en	biting midge
+189897	en	tick
+308554	en	tick
+308608	en	tick
+189898	en	soft tick
+190116	en	froghopper
+190329	en	tube-dwelling spider
+306021	en	tube-dwelling spider
+190361	en	giant bettong
+190415	en	spread-winged damselfly
+190417	en	goblin spider
+190418	en	disc web spider
+190419	en	wall spider
+190427	en	worker ant
+190428	en	worker ant
+337119	en	worker ant
+190460	en	velvety shore bug
+190488	en	Orb-weaver spider
+190507	en	Pale Burrower
+190708	en	Mayfly
+190722	en	Mayfly
+190725	en	Mayfly
+190726	en	Mayfly
+190727	en	Mayfly
+190729	en	Mayfly
+190730	en	Mayfly
+190776	en	Gharial
+190856	en	webspinners
+213610	en	webspinners
+190948	en	short-faced kangaroo
+191025	en	anabathron
+191243	en	moonfish
+192702	en	monkey grasshopper
+192748	en	pygmy grasshopper
+192769	en	true leaf insect
+192814	en	katydid
+192820	en	mole cricket
+192900	en	sandgroper
+192902	en	bladder grasshopper
+192904	en	toad grasshopper
+192905	en	gaudy grasshopper
+181100	en	short-horned grasshopper
+192906	en	short-horned grasshopper
+193104	en	water treader
+193106	en	semi-aquatic bug
+138369	en	net-winged midge
+193188	en	net-winged midge
+193501	en	moth lacewing
+193525	en	thorny lacewing
+193627	en	Caddis fly
+193628	en	micro caddis fly
+193629	en	micro caddis fly
+193649	en	malachite
+193728	en	sweat bee
+193735	en	broad-winged damselfly
+193738	en	bee
+193747	en	stingless bee
+193772	en	larder beetle
+193775	en	assassin bug
+193800	en	hairy cicada
+193849	en	spur-throated grasshopper
+193857	en	jumping bristletail
+193858	en	primitive bristletail
+194042	en	Narrow-winged Locust
+194044	en	Narrow-winged Locust
+194196	en	forktail
+194367	en	emperor dragonfly
+194370	en	vagrant emperor
+194371	en	lesser emperor
+194372	en	lesser emperor
+194654	en	flatwing
+195007	en	mormon cricket
+195018	en	gall mite
+195111	en	stink bug
+196010	en	shore bug
+196193	en	scale insect
+196455	en	winter stonefly
+196736	en	common shrew opossum
+196938	en	cockroach
+197544	en	Malakhel lizard
+197591	en	jerusalem cricket
+197767	en	Javan rhinoceros
+66287	en	mongoose
+199984	en	mongoose
+200463	en	damp wood termite
+200465	en	damp wood termite
+200517	en	emerald
+200582	en	large carpenter bee
+200583	en	carpenter bee
+200709	en	brown lacewing
+200852	en	lesser meadow katydid
+201676	en	sawfly
+201698	en	Leaf-rolling sawfly
+201747	en	jumping cockroach
+203359	en	toad bug
+203531	en	forest hingeback tortoise
+203532	en	forest hingeback tortoise
+203533	en	cape tortoise
+204504	en	pine bark scales
+204696	en	water strider
+204701	en	spittle bug
+204816	en	bulldog ant
+205031	en	metallic wood-boring beetle
+205063	en	reed leaf beetle
+205077	en	centipede
+288299	en	centipede
+290412	en	centipede
+205085	en	croton bug
+205130	en	metallic shield bug
+288396	en	metallic shield bug
+205233	en	whirligig beetle
+287850	en	whirligig beetle
+205284	en	metallic wood-boring beetle
+205652	en	pelycosaur
+206111	en	bee fly
+206189	en	banded mongoose
+206191	en	banded mongoose
+206193	en	banded mongoose
+206219	en	banded mongoose
+206224	en	banded mongoose
+206211	en	salmonfly
+206229	en	common kusimanse
+206579	en	browns
+245008	en	browns
+206600	en	armoured scale insect
+206962	en	water scavenger beetle
+206983	en	soldier beetle
+207023	en	furniture beetle
+71319	en	tooth-nosed snout weevil
+207031	en	tooth-nosed snout weevil
+207068	en	phantom midge
+207079	en	birch bark beetle
+208843	en	birch bark beetle
+207080	en	bark beetle
+207097	en	assassin bug
+207102	en	peanut-headed lanternfly
+207115	en	ground cricket
+207310	en	tortoise beetle
+207311	en	flea beetle
+207372	en	bot fly
+207492	en	alderfly
+207859	en	soft scale
+208188	en	riffle bug
+208236	en	crinoid
+208298	en	seed bug
+363511	en	seed bug
+208308	en	crinoid
+208309	en	crinoid
+208548	en	cotton stainer bug
+208566	en	broad-headed bug
+225331	en	broad-headed bug
+297037	en	broad-headed bug
+208644	en	field cricket
+330548	en	field cricket
+208647	en	leaf-footed bug
+208968	en	elaterate
+209050	en	mara
+209839	en	sea skater
+210279	en	plant bug
+210451	en	gull
+210575	en	false fairy wasp
+210827	en	palm bruchid
+210944	en	flea beetle
+211053	en	marsh treader
+211379	en	whitefly
+211403	en	termite bug
+211406	en	flat bug
+211626	en	dump fly
+211661	en	stilt bug
+211669	en	water cricket
+211984	en	hooded tickspider
+311065	en	hooded tickspider
+212048	en	fishfly
+212239	en	crane fly
+212522	en	treehopper
+212998	en	butterfly
+213084	en	small winter stonefly
+213177	en	rolled-winged stonefly
+213374	en	ensign scale insect
+213375	en	scale insect
+213442	en	white-legged damselfly
+213468	en	long-horned earwig
+213483	en	book louse
+213538	en	unique-headed bug
+213570	en	common bark louse
+213601	en	wedge shaped beetle
+346389	en	wedge shaped beetle
+213751	en	window fly
+214020	en	long beaked fungus gnat
+216434	en	jumping soil bug
+216546	en	chalcid wasp
+216731	en	parasitic wood wasp
+217408	en	spider web bug
+217413	en	palm bug
+217424	en	armored mayfly
+217433	en	bush cricket
+276227	en	bush cricket
+217456	en	eucharitid wasp
+217480	en	sweat bee
+217534	en	giant water bug
+217781	en	cave barklouse
+217783	en	scaly-winged bark louse
+217795	en	thick barklouse
+224643	en	thick barklouse
+217802	en	tropical barklouse
+217805	en	fateful barklouse
+217808	en	ancient barklouse
+192843	en	tree cricket
+218474	en	tree cricket
+218506	en	black earwig
+218539	en	ash grey leaf bug
+218550	en	scaly cricket
+218610	en	pleasing lacewing
+219261	en	wood wasp
+219333	en	frog biting midge
+219350	en	bird louse
+219370	en	sawfly
+219902	en	tiger dragonfly
+220124	en	flatwing
+220296	en	elliptical bark louse
+220299	en	lash-faced psocid
+220305	en	outer barklouse
+220307	en	mouse like barklouse
+220435	en	thick barklouse
+220449	en	lizard barklouse
+220488	en	hairy-eyed cranefly
+220515	en	jumping plant louse
+276123	en	jumping plant louse
+220532	en	granary booklouse
+220539	en	false lizard barklouse
+220596	en	hairy-winged barklouse
+220610	en	loving barklouse
+220612	en	damp barklouse
+221185	en	jewel damselfly
+221730	en	common stonefly
+221800	en	plasterer bee
+221981	en	shore fly
+222052	en	lesser dung fly
+222170	en	perlodid stonefly
+245288	en	perlodid stonefly
+222173	en	green stonefly
+331005	en	green stonefly
+135398	en	snail-case caddisfly
+222488	en	snail-case caddisfly
+222710	en	treehopper
+288126	en	treehopper
+224042	en	wildcat
+224043	en	African wildcat
+224044	en	Chinese mountain cat
+224045	en	sand cat
+224046	en	black-footed cat
+224047	en	jungle cat
+233944	en	jungle cat
+224048	en	Pallas's cat
+224050	en	Pallas's cat
+224052	en	rusty-spotted cat
+224053	en	rusty-spotted cat
+224056	en	fishing cat
+224057	en	fishing cat
+224058	en	flat-headed cat
+224059	en	flat-headed cat
+237534	en	flat-headed cat
+309280	en	flat-headed cat
+224060	en	Iberian lynx
+224061	en	Iberian lynx
+47819	en	Canadian lynx
+224062	en	Canadian lynx
+224064	en	cheetah
+224065	en	cheetah
+232085	en	cheetah
+224066	en	Andean mountain cat
+224067	en	Andean mountain cat
+224068	en	pampas cat
+224069	en	pampas cat
+224070	en	geoffroy's cat
+224071	en	geoffroy's cat
+224072	en	kodkod
+224073	en	kodkod
+224074	en	oncilla
+224075	en	oncilla
+224076	en	caracal
+224078	en	caracal
+232969	en	caracal
+233946	en	caracal
+224079	en	African golden cat
+224080	en	African golden cat
+224081	en	serval
+224082	en	serval
+224089	en	bay cat
+224091	en	bay cat
+224092	en	Asian golden cat
+224093	en	Asian golden cat
+235889	en	Asian golden cat
+224094	en	marbled cat
+224095	en	marbled cat
+224096	en	snow leopard
+224097	en	snow leopard
+232968	en	snow leopard
+224098	en	clouded leopard
+224099	en	clouded leopard
+224167	en	earwigfly
+224294	en	rock bristletail
+194024	en	spur-throated grasshopper
+224464	en	spur-throated grasshopper
+226365	en	thorny lacewing
+226387	en	mealybug
+226717	en	velvet water bug
+227214	en	felt scale
+227248	en	potter wasp
+227448	en	net-casting spider
+228519	en	crevice weaver
+229078	en	pseudoscorpion
+229906	en	flamingo
+229916	en	goose
+229917	en	shelduck
+229996	en	giant water bug
+230037	en	cacomistle
+230038	en	cacomistle
+230362	en	flat-footed fly
+231090	en	wormlion
+231398	en	common eland
+231399	en	common eland
+231404	en	duiker
+231411	en	South American coati
+231412	en	South American coati
+231413	en	domestic cat
+231416	en	Flores giant rat
+231418	en	Flores giant rat
+231462	en	African wild dog
+231463	en	African wild dog
+231464	en	common dwarf mongoose
+231465	en	common dwarf mongoose
+231466	en	Salvin's spiny pocket mouse
+231467	en	Salvin's spiny pocket mouse
+231468	en	brown rat
+231469	en	brown rat
+231470	en	lesser hedgehog tenrec
+231471	en	greater hedgehog tenrec
+231472	en	common tenrec
+231473	en	common tenrec
+231475	en	Asian house shrew
+231476	en	Asian house shrew
+231478	en	gray short-tailed opposum
+231479	en	gray short-tailed opposum
+231481	en	brush-tailed bettong
+231482	en	common brushtail possum
+231483	en	common brushtail possum
+231484	en	short-beaked echidna
+231485	en	short-beaked echidna
+231486	en	plains viscacha
+231487	en	plains viscacha
+231488	en	coypu
+231489	en	coypu
+231752	en	coypu
+233838	en	coypu
+231490	en	common yellow-toothed cavy
+231491	en	Patagonian mara
+231492	en	Patagonian mara
+231493	en	southern viscacha
+231495	en	southern viscacha
+231494	en	viscacha
+231496	en	gorilla
+231497	en	gorilla
+231498	en	lar gibbon
+231499	en	lar gibbon
+231500	en	siamang
+231501	en	siamang
+232344	en	siamang
+234329	en	siamang
+238898	en	siamang
+231525	en	yellow baboon
+231526	en	yellow baboon
+231527	en	southern pig-tailed macaque
+231528	en	southern pig-tailed macaque
+232608	en	southern pig-tailed macaque
+231529	en	crab eating macaque
+231530	en	crab eating macaque
+231531	en	proboscis monkey
+231532	en	proboscis monkey
+231533	en	mantled guereza
+231534	en	silvery lutung
+231535	en	silvery lutung
+237542	en	silvery lutung
+237543	en	silvery lutung
+237546	en	silvery lutung
+237557	en	silvery lutung
+237559	en	silvery lutung
+237561	en	silvery lutung
+231536	en	maroon leaf monkey
+231537	en	maroon leaf monkey
+238825	en	maroon leaf monkey
+231603	en	short-tailed tree shrew
+231606	en	giant forest hog
+231621	en	yellow pygmy rice rat
+231622	en	yellow pygmy rice rat
+231624	en	Azara's grass mouse
+231625	en	Azara's grass mouse
+233298	en	Azara's grass mouse
+231626	en	Kemp's grass mouse
+231627	en	Kemp's grass mouse
+231630	en	Waterhouse's swamp rat
+231631	en	Waterhouse's swamp rat
+231632	en	small vesper mouse
+231633	en	small vesper mouse
+231634	en	bunny rat
+231635	en	bunny rat
+231636	en	Brazilian marsh rat
+231637	en	Brazilian marsh rat
+231638	en	greater marsh rat
+231653	en	Lumholtz's tree kangaroo
+231654	en	musky rat-kangaroo
+231655	en	Doria's tree kangaroo
+231739	en	Chinese shrew mole
+231740	en	long-tailed mole
+231747	en	European hare
+231749	en	Cuban hutia
+231750	en	Cuban hutia
+231757	en	brown-mantled tamarin
+231758	en	brown-mantled tamarin
+149574	en	dama gazelle
+231759	en	dama gazelle
+231761	en	dama gazelle
+231767	en	dama gazelle
+231760	en	gazelle
+231763	en	gazelle
+149569	en	Cuvier's gazelle
+231762	en	Cuvier's gazelle
+149575	en	Soemmerring's gazelle
+231765	en	Soemmerring's gazelle
+231766	en	Soemmerring's gazelle
+231769	en	Mhorr gazelle
+231770	en	Mhorr gazelle
+231771	en	Mhorr gazelle
+231772	en	Mhorr gazelle
+231773	en	Mhorr gazelle
+231774	en	Mhorr gazelle
+231775	en	Mhorr gazelle
+231779	en	giant otter shrew
+231780	en	giant otter shrew
+231782	en	giant otter shrew
+231797	en	chinchilla
+231798	en	long-tailed chinchilla
+231799	en	long-tailed chinchilla
+231801	en	long-tailed chinchilla
+231804	en	long-tailed chinchilla
+231805	en	long-tailed chinchilla
+231806	en	long-tailed chinchilla
+231840	en	web-footed tenrec
+231841	en	Eurasian water shrew
+231842	en	Eurasian water shrew
+156976	en	giant otter
+231845	en	giant otter
+233432	en	giant otter
+231851	en	fish eating rat
+231852	en	montane fish eating rat
+231853	en	water mouse
+231854	en	Chibchan water mouse
+231856	en	aquatic rat
+231859	en	crab eating rat
+231860	en	Chibchan water mouse
+231861	en	Chibchan water mouse
+231863	en	Tweedy's crab eating rat
+231868	en	Pittier's crab eating rat
+231872	en	water mouse
+231873	en	Mexican water mouse
+231874	en	Goldman's water mouse
+231875	en	Thomas's water mouse
+231876	en	Underwood's water mouse
+231966	en	civet cat
+231967	en	civet cat
+231969	en	rasse
+231970	en	rasse
+231977	en	pygmy slow loris
+231987	en	Pallas's squirrel
+231988	en	Pallas's squirrel
+232011	en	Malagasy civet
+232012	en	Malagasy civet
+232026	en	spotted linsang
+232027	en	banded linsang
+232028	en	banded linsang
+232029	en	banded linsang
+232036	en	small-toothed palm civet
+232037	en	small-toothed palm civet
+232038	en	small-toothed palm civet
+232065	en	small-toothed palm civet
+232042	en	banded palm civet
+232043	en	banded palm civet
+232044	en	banded palm civet
+232066	en	banded palm civet
+232048	en	Hose's palm civet
+232049	en	Hose's palm civet
+232050	en	Owston's palm civet
+232052	en	Celebes palm civet
+232053	en	Celebes palm civet
+232054	en	binturong
+232055	en	binturong
+232059	en	otter civet
+232063	en	king genet
+232064	en	king genet
+232069	en	African palm civet
+232070	en	African palm civet
+232088	en	Malayan civet
+232089	en	large spotted civet
+232091	en	Cape genet
+232092	en	Cape genet
+232093	en	West African large spotted genet
+232106	en	marsh mongoose
+232107	en	marsh mongoose
+232108	en	marsh mongoose
+236848	en	marsh mongoose
+232110	en	slender mongoose
+232115	en	dwarf mongoose
+232116	en	dwarf mongoose
+232117	en	Gambian mongoose
+232118	en	Gambian mongoose
+236770	en	Gambian mongoose
+232126	en	ring-tailed mongoose
+232131	en	brown hyaena
+241935	en	brown hyaena
+53881	en	spotted hyaena
+232133	en	spotted hyaena
+232141	en	stripe necked mongoose
+232142	en	bushy-tailed mongoose
+232145	en	Meller's mongoose
+240277	en	Meller's mongoose
+232148	en	meerkat
+232149	en	meerkat
+232150	en	falanouc
+232151	en	fossa
+232154	en	aardwolf
+232155	en	aardwolf
+232161	en	yellow mongoose
+232162	en	yellow mongoose
+232239	en	narrow-striped mongoose
+232240	en	narrow-striped mongoose
+232243	en	broad-striped Malagasy mongoose
+232244	en	broad-striped Malagasy mongoose
+232127	en	brown-tailed mongoose
+232128	en	brown-tailed mongoose
+232250	en	brown-tailed mongoose
+232251	en	brown-tailed mongoose
+232252	en	brown-tailed mongoose
+232253	en	slender mongoose
+235233	en	slender mongoose
+236846	en	slender mongoose
+232256	en	Somalian slender mongoose
+232257	en	Somalian slender mongoose
+183261	en	Bornean orangutan
+232338	en	Bornean orangutan
+232339	en	Sumatran orangutan
+232346	en	Sumatran orangutan
+237586	en	Sumatran orangutan
+237587	en	Sumatran orangutan
+232432	en	red-shanked douc
+232433	en	red-shanked douc
+232434	en	black-shanked douc
+232449	en	Philippine tarsier
+232454	en	indri
+232455	en	indri
+232456	en	indri
+232462	en	indri
+232485	en	gray mouse lemur
+232487	en	gray mouse lemur
+232494	en	brown mouse lemur
+232495	en	brown mouse lemur
+232505	en	mongoose lemur
+239196	en	mongoose lemur
+232513	en	eastern woolly lemur
+232514	en	eastern woolly lemur
+232515	en	eastern woolly lemur
+232516	en	eastern woolly lemur
+232518	en	common brown lemur
+239189	en	common brown lemur
+232519	en	white-headed lemur
+232520	en	white-headed lemur
+239202	en	white-headed lemur
+232521	en	black lemur
+232779	en	black lemur
+232525	en	southern muriqui
+232531	en	southern muriqui
+232528	en	black-handed spider monkey
+232529	en	brown woolly monkey
+232530	en	brown woolly monkey
+232671	en	brown woolly monkey
+232532	en	black howler
+232533	en	black howler
+232534	en	red-handed howler
+232535	en	red-handed howler
+232536	en	Venezuelan red howler
+232537	en	Venezuelan red howler
+232542	en	Venezuelan red howler
+232538	en	white-fronted capuchin
+232539	en	white-fronted capuchin
+232540	en	rhesus monkey
+232541	en	rhesus monkey
+232552	en	olive baboon
+232553	en	olive baboon
+232556	en	olive baboon
+232559	en	Guinea baboon
+232560	en	Guinea baboon
+232575	en	drill
+232576	en	drill
+232590	en	drill
+232615	en	bonnet macaque
+232616	en	bonnet macaque
+238678	en	bonnet macaque
+232617	en	capped langur
+232618	en	capped langur
+236466	en	capped langur
+232621	en	toque macaque
+232622	en	toque macaque
+233954	en	toque macaque
+238677	en	toque macaque
+238682	en	toque macaque
+232624	en	northern plains gray langur
+232625	en	northern plains gray langur
+236717	en	northern plains gray langur
+236718	en	northern plains gray langur
+232628	en	green monkey
+232629	en	green monkey
+232630	en	Sykes' monkey
+232631	en	Sykes' monkey
+232634	en	greater spot-nosed monkey
+232635	en	greater spot-nosed monkey
+232649	en	silvery Javan gibbon
+232651	en	silvery Javan gibbon
+232672	en	gray wooly monkey
+232673	en	gray wooly monkey
+232675	en	gray wooly monkey
+232689	en	black-headed uacari
+232690	en	black-headed uacari
+232691	en	black-headed uacari
+232700	en	black-headed uacari
+232701	en	black-headed uacari
+232702	en	black-headed uacari
+232703	en	bald uacari
+232704	en	bald uacari
+232705	en	monk saki
+232706	en	monk saki
+232707	en	white-nosed saki
+232708	en	white-nosed saki
+232710	en	three-striped night monkey
+232711	en	three-striped night monkey
+232716	en	three-striped night monkey
+232712	en	Azara's night monkey
+232713	en	Azara's night monkey
+232720	en	Celebes crested macaque
+232721	en	Celebes crested macaque
+232724	en	Bioko Allen's bushbaby
+232725	en	Senegal bushbaby
+232726	en	mohol bushbaby
+232727	en	mohol bushbaby
+232735	en	Perodicticus calabarensis
+232736	en	Perodicticus calabarensis
+232738	en	spectral tarsier
+232744	en	spectral tarsier
+232742	en	Horsfield's tarsier
+238736	en	Horsfield's tarsier
+232752	en	aye aye
+232753	en	aye aye
+232754	en	aye aye
+232756	en	aye aye
+232757	en	aye aye
+232758	en	aye aye
+232780	en	blue-eyed black lemur
+232781	en	blue-eyed black lemur
+232854	en	white-tailed mongoose
+232856	en	white-tailed mongoose
+232864	en	white-tailed mongoose
+232909	en	lesser grison
+232910	en	lesser grison
+232911	en	greater grison
+232912	en	greater grison
+232913	en	zorilla
+232914	en	zorilla
+232915	en	honey badger
+232916	en	honey badger
+232918	en	Sunda stink badger
+232919	en	Sunda stink badger
+232920	en	Humboldt's hog-nosed skunk
+232921	en	striped hog-nosed skunk
+232922	en	striped hog-nosed skunk
+232925	en	crab eating raccoon
+232926	en	crab eating raccoon
+232927	en	kinkajou
+232928	en	kinkajou
+232929	en	white-nosed coati
+232930	en	white-nosed coati
+232931	en	Allen's olingo
+232932	en	haussa genet
+232933	en	masked palm civet
+232934	en	masked palm civet
+240134	en	masked palm civet
+232935	en	golden palm civet
+232936	en	golden palm civet
+232939	en	short-eared dog
+232941	en	short-eared dog
+232942	en	side-striped jackal
+232943	en	black-backed jackal
+235345	en	black-backed jackal
+232945	en	crab eating fox
+232946	en	crab eating fox
+232947	en	maned wolf
+232948	en	maned wolf
+232949	en	fennec fox
+232950	en	fennec fox
+232951	en	raccoon dog
+232952	en	raccoon dog
+232954	en	bush dog
+232955	en	bush dog
+232956	en	sand fox
+232957	en	sand fox
+232958	en	bat-eared fox
+232959	en	bat-eared fox
+232970	en	Mongolian gerbil
+232971	en	Mongolian gerbil
+232972	en	western lowland gorilla
+232977	en	eastern lowland gorilla
+232978	en	eastern lowland gorilla
+232980	en	mountain gorilla
+232981	en	mountain gorilla
+233044	en	long legged thrips
+233236	en	Speke's gundi
+233237	en	Speke's gundi
+233284	en	long-nosed potoroo
+233285	en	long-nosed potoroo
+92705	en	patas monkey
+92706	en	patas monkey
+233286	en	patas monkey
+233287	en	patas monkey
+233288	en	screaming hairy armadillo
+233289	en	screaming hairy armadillo
+233290	en	Chacoan naked-tailed armadillo
+233291	en	red hocicudo
+233292	en	red hocicudo
+233305	en	Budin's grass mouse
+233306	en	Budin's grass mouse
+233316	en	dingo
+157467	en	marine otter
+157468	en	marine otter
+233318	en	marine otter
+233441	en	Goeldi's marmoset
+233443	en	Goeldi's marmoset
+233444	en	Goeldi's marmoset
+233449	en	gelada
+233450	en	gelada
+149722	en	nilgai
+233533	en	nilgai
+233535	en	nilgai
+233536	en	nilgai
+233553	en	jerboa
+149597	en	Arabian oryx
+233557	en	Arabian oryx
+233558	en	scimitar oryx
+233642	en	jerboa
+233709	en	Sunda pangolin
+233756	en	giant armadillo
+233757	en	giant armadillo
+233758	en	giant armadillo
+233793	en	shiny guinea pig
+233794	en	montane guinea pig
+233795	en	greater guinea pig
+233796	en	Santa Catarina's guinea pig
+233813	en	Mauritian flying fox
+233817	en	Mauritian flying fox
+233814	en	lowland paca
+233819	en	lowland paca
+233833	en	lowland paca
+233832	en	lowland paca
+233839	en	spiny tree-rat
+233842	en	Atlantic tree-rat
+233843	en	white-faced Spiny tree-rat
+233844	en	white-faced Spiny tree-rat
+233845	en	dark spiny tree-rat
+233847	en	speckled spiny tree-rat
+233848	en	speckled spiny tree-rat
+233878	en	speckled spiny tree-rat
+233849	en	Viera's spiny tree-rat
+233851	en	painted tree-rat
+233852	en	painted tree-rat
+233853	en	Brazilian spiny tree-rat
+233866	en	Brazilian spiny tree-rat
+233886	en	Cape mole-rat
+233887	en	Cape mole-rat
+233916	en	Cape mole-rat
+233919	en	Cape dune mole rat
+233920	en	Cape dune mole rat
+233922	en	false zokor
+233925	en	false zokor
+233927	en	false zokor
+233923	en	greater mole rat
+233931	en	collared mangabey
+233932	en	collared mangabey
+233940	en	western red colobus
+233941	en	western red colobus
+236465	en	western red colobus
+236484	en	western red colobus
+224054	en	leopard cat
+224055	en	leopard cat
+233947	en	leopard cat
+47751	en	North American river otter
+47802	en	North American river otter
+233973	en	North American river otter
+233974	en	North American river otter
+47913	en	American marten
+48844	en	American marten
+233976	en	American marten
+233990	en	Horsfield's shrew
+233991	en	Horsfield's shrew
+233992	en	Greater white-toothed shrew
+233993	en	Greater white-toothed shrew
+233995	en	Cape ground squirrel
+233996	en	Cape ground squirrel
+233999	en	squirrel glider
+234000	en	squirrel glider
+234006	en	Central American red brocket
+234007	en	Central American red brocket
+234013	en	possum
+234015	en	marsupial mole
+234016	en	triok
+234017	en	feather-tailed possum
+234018	en	honey possum
+234023	en	slender opossum
+234029	en	black-shouldered opossum
+234031	en	bushy-tailed opossum
+234127	en	Namaqua dune mole rat
+234128	en	common mole rat
+234129	en	common mole rat
+234130	en	Damaraland mole rat
+234131	en	Damaraland mole rat
+234132	en	silvery mole rat
+234133	en	naked mole rat
+234147	en	tree pangolin
+234837	en	tree pangolin
+234214	en	Horsfield's treeshrew
+234224	en	large treeshrew
+234261	en	banded pig
+237887	en	banded pig
+234263	en	lesser mouse-deer
+234264	en	lesser mouse-deer
+234277	en	Philippine mouse-deer
+234284	en	Prevost's squirrel
+234290	en	black giant squirrel
+234291	en	black giant squirrel
+234294	en	cream-coloured giant squirrel
+234295	en	cream-coloured giant squirrel
+234303	en	Indonesian short-nosed fruit bat
+234304	en	Indonesian short-nosed fruit bat
+234305	en	least pipistrelle
+234306	en	least pipistrelle
+234307	en	Malayan weasel
+234308	en	Malayan weasel
+234312	en	Sunda slow loris
+234313	en	Sunda slow loris
+234324	en	Sumatran surili
+234325	en	Sumatran surili
+238667	en	Sumatran surili
+234340	en	olive colobus monkey
+234342	en	olive colobus monkey
+234341	en	colobus
+149717	en	lowland anoa
+234364	en	lowland anoa
+149721	en	four-horned antelope
+234367	en	four-horned antelope
+149707	en	bushbuck
+234373	en	bushbuck
+149703	en	lesser kudu
+234375	en	lesser kudu
+236723	en	lesser kudu
+149708	en	greater kudu
+234376	en	greater kudu
+236724	en	greater kudu
+149691	en	impala
+234377	en	impala
+234378	en	bontebok
+234379	en	bontebok
+234380	en	klipspringer
+234381	en	klipspringer
+149687	en	mountain reedbuck
+234382	en	mountain reedbuck
+234383	en	Magellanic tuco-tuco
+234384	en	white-eared opossum
+234385	en	lutrine opossum
+234386	en	lutrine opossum
+234408	en	monito del monte
+234409	en	northern brown bandicoot
+234410	en	northern brown bandicoot
+234413	en	thylacine
+234414	en	thylacine
+234426	en	false antechinus
+234429	en	tiger quoll
+234430	en	tiger quoll
+234431	en	northern quoll
+234433	en	Tasmanian devil
+234434	en	Tasmanian devil
+234435	en	dibbler
+234436	en	dibbler
+234437	en	fat-tailed false antechinus
+234438	en	fat-tailed false antechinus
+234439	en	little red kaluta
+234440	en	little red kaluta
+234441	en	brush-tailed phascogale
+234442	en	brush-tailed phascogale
+234443	en	brown antechinus
+234444	en	dusky antechinus
+234445	en	dusky antechinus
+234446	en	short-furred dasyure
+234447	en	short-furred dasyure
+234448	en	narrow-striped marsupial shrew
+234449	en	narrow-striped marsupial shrew
+234450	en	fat-tailed dunnart
+234451	en	fat-tailed dunnart
+234452	en	common planigale
+234453	en	common planigale
+234454	en	long-nosed bandicoot
+234455	en	numbat
+234462	en	bilby
+234463	en	bilby
+234548	en	common wombat
+234472	en	common wombat
+234473	en	common wombat
+234475	en	southern hairy-nosed wombat
+234476	en	southern hairy-nosed wombat
+234480	en	common ringtail possum
+234481	en	common ringtail possum
+234482	en	common spotted cuscus
+234483	en	common spotted cuscus
+241796	en	common spotted cuscus
+234485	en	koala
+234486	en	koala
+234493	en	mountain cuscus
+234496	en	northern common cuscus
+234497	en	northern common cuscus
+234499	en	ground cuscus
+234500	en	ground cuscus
+234536	en	feathertail glider
+234537	en	feathertail glider
+234538	en	eastern pygmy possum
+234541	en	eastern pygmy possum
+234540	en	southwestern pygmy possum
+234542	en	southwestern pygmy possum
+234543	en	long-tailed pygmy possum
+234544	en	long-tailed pygmy possum
+234545	en	Tasmanian pygmy possum
+234546	en	mountain pygmy possum
+234547	en	feather-tailed possum
+234549	en	northern hairy-nosed wombat
+234550	en	northern hairy-nosed wombat
+234626	en	sugar glider
+234627	en	sugar glider
+234642	en	common ringtail possum
+234643	en	common ringtail possum
+234746	en	Kuhl's pipistrelle
+234747	en	Kuhl's pipistrelle
+234748	en	Emilia's marmoset
+234752	en	ghost bat
+234757	en	yellow-crowned brush-tailed rat
+234758	en	Rio Negro brush-tailed rat
+234759	en	red acouchi
+234760	en	red acouchi
+234771	en	red acouchi
+234763	en	green acouchi
+234769	en	Emilia's short-tailed opossum
+234770	en	Emilia's short-tailed opossum
+234830	en	coruro
+234831	en	degu
+234832	en	viscacha rat
+234833	en	plains viscacha rat
+234836	en	long-tailed pangolin
+234838	en	ground pangolin
+234840	en	lesser bamboo rat
+234841	en	Michoacan pocket gopher
+234843	en	South African springhare
+234844	en	South African springhare
+234845	en	Cape porcupine
+234846	en	pacarana
+234848	en	African wading rat
+234849	en	white-eared giant rat
+234850	en	fat-tailed jerboa
+234851	en	hairy dwarf porcupine
+234852	en	hopping mouse
+234853	en	pygmy jerboa
+234859	en	swamp wallaby
+234860	en	swamp wallaby
+190677	en	quokka
+234861	en	quokka
+234862	en	red-legged pademelon
+234863	en	red-legged pademelon
+234864	en	rufous hare-wallaby
+234865	en	northern nail-tail wallaby
+234866	en	northern nail-tail wallaby
+234867	en	nabarlek
+234868	en	nabarlek
+234869	en	Goodfellow's tree-kangaroo
+234872	en	small dorcopsis
+234873	en	small dorcopsis
+234874	en	long-footed potoroo
+234875	en	rufous rat-kangaroo
+234876	en	rufous rat-kangaroo
+235167	en	Armbruster's honey bee
+235173	en	western honey bee
+235347	en	common vampire bat
+235348	en	common vampire bat
+235353	en	Hoffmann's two-toed sloth
+235354	en	blue monkey
+235366	en	mantled howler
+235367	en	mantled howler
+235372	en	Bering collard lemming
+235373	en	Bering collard lemming
+235374	en	southern multimammate mouse
+235375	en	southern multimammate mouse
+235457	en	Kirk's dik dik
+235459	en	Kirk's dik dik
+236269	en	Kirk's dik dik
+235463	en	Coke's hartebeest
+235468	en	Coke's hartebeest
+235498	en	Cape fox
+235499	en	Cape fox
+235500	en	African striped weasel
+235502	en	African striped weasel
+235503	en	Cape grey mongoose
+235547	en	eastern quoll
+235548	en	eastern quoll
+235552	en	mahogany glider
+235553	en	mahogany glider
+235802	en	bontebok
+235803	en	bontebok
+235881	en	East African oryx
+235882	en	East African oryx
+95594	en	kob
+235883	en	kob
+235885	en	kob
+235886	en	Defassa waterbuck
+235887	en	Defassa waterbuck
+236267	en	topi
+236268	en	topi
+236270	en	Burchell's zebra
+236288	en	Burchell's zebra
+236292	en	Burchell's zebra
+331468	en	Burchell's zebra
+236274	en	Cape mountain zebra
+236275	en	Hartmann's mountain zebra
+236276	en	Hartmann's mountain zebra
+236468	en	simakobu monkey
+236469	en	golden snub-nosed monkey
+236471	en	black snub-nosed monkey
+236472	en	black snub-nosed monkey
+240791	en	black snub-nosed monkey
+236473	en	Nilgiri langur
+236474	en	Nilgiri langur
+236475	en	purple-faced langur
+236476	en	purple-faced langur
+240326	en	purple-faced langur
+236478	en	Francois' langur
+236477	en	Francois' langur
+236479	en	dusky leaf monkey
+236480	en	dusky leaf monkey
+236481	en	king colobus
+236482	en	king colobus
+236483	en	Angola colobus
+236485	en	gray snub-nosed monkey
+238622	en	gray snub-nosed monkey
+240792	en	gray snub-nosed monkey
+236492	en	ruddy mongoose
+236581	en	Indian gray mongoose
+236582	en	servaline genet
+236594	en	epauletted fruit bat
+236595	en	Wahlberg's epauletted fruit bat
+236596	en	Wahlberg's epauletted fruit bat
+236597	en	southern tree hyrax
+236598	en	southern tree hyrax
+236599	en	red bush squirrel
+236600	en	red bush squirrel
+236603	en	fat mouse
+236606	en	Nancy Ma's night monkey
+236608	en	pygmy marmoset
+236609	en	pygmy marmoset
+236610	en	pygmy marmoset
+236611	en	Spix's moustached tamarin
+236612	en	Spix's moustached tamarin
+236705	en	red-eared guenon
+236707	en	golden angwantibo
+236711	en	long-nosed mongoose
+236714	en	yellow-backed duiker
+236715	en	yellow-backed duiker
+94475	en	greater horseshoe bat
+236716	en	greater horseshoe bat
+236719	en	Indian pangolin
+236720	en	Blanford's jerboa
+236721	en	Blanford's jerboa
+236771	en	Jackson's fat mouse
+236777	en	Maxwell's duiker
+236778	en	Maxwell's duiker
+236804	en	Neotropical water rat
+236805	en	Neotropical water rat
+236815	en	vervet monkey
+236849	en	Ethiopian dwarf mongoose
+236869	en	bonobo
+236870	en	bonobo
+236872	en	western chimpanzee
+236873	en	central chimpanzee
+236876	en	eastern chimpanzee
+236877	en	eastern chimpanzee
+236897	en	eastern chimpanzee
+237181	en	Lindbergh's akodont
+237182	en	Sao Paulo akodont
+237183	en	Caparao akodont
+237185	en	Caatinga laucha
+237186	en	Caatinga laucha
+237187	en	big laucha
+237188	en	big laucha
+237189	en	delicate vesper mouse
+237190	en	delicate vesper mouse
+237262	en	Texas antelope squirrel
+237263	en	Texas antelope squirrel
+237264	en	San Joaquin kangaroo rat
+237265	en	San Joaquin kangaroo rat
+237266	en	San Jose Island kangaroo rat
+237267	en	San Jose Island kangaroo rat
+237494	en	moonrat
+237495	en	moonrat
+237548	en	Javan lutung
+237549	en	Javan lutung
+237565	en	Thomas's langur
+237566	en	Thomas's langur
+237571	en	Kloss's gibbon
+237572	en	Kloss's gibbon
+238888	en	Kloss's gibbon
+237573	en	agile gibbon
+237575	en	mainland lar gibbon
+237576	en	mainland lar gibbon
+237577	en	Malayan lar gibbon
+237581	en	Sumatran lar gibbon
+237582	en	Sumatran lar gibbon
+237583	en	pileated gibbon
+237584	en	pileated gibbon
+237774	en	black-and-white ruffed lemur
+237775	en	black-and-white ruffed lemur
+237777	en	striped possum
+237903	en	Sumatran muntjac
+237904	en	Sumatran muntjac
+238324	en	Central American agouti
+238325	en	red brocket
+238326	en	red brocket
+238366	en	mountain paca
+238367	en	mountain paca
+238400	en	water chevrotain
+238401	en	water chevrotain
+238407	en	northern viscacha
+238409	en	Wolffsohn's viscacha
+238410	en	Wolffsohn's viscacha
+238411	en	leaf deer
+238412	en	Truong Son muntjac
+238413	en	Roosevelt's muntjac
+238414	en	Roosevelt's muntjac
+238415	en	Bornean yellow muntjac
+238586	en	southern needle-clawed bushbaby
+238589	en	southern needle-clawed bushbaby
+238587	en	needle-clawed bushbaby
+238591	en	needle-clawed bushbaby
+238592	en	northern needle-clawed bushbaby
+238593	en	northern needle-clawed bushbaby
+238611	en	brown four-eyed opossum
+238612	en	brown four-eyed opossum
+236470	en	golden snub-nosed monkey
+238620	en	golden snub-nosed monkey
+238621	en	golden snub-nosed monkey
+240793	en	golden snub-nosed monkey
+238625	en	northern white-cheeked gibbon
+238627	en	northern white-cheeked gibbon
+238884	en	northern white-cheeked gibbon
+238903	en	northern white-cheeked gibbon
+238628	en	Central Yunnan black crested gibbon
+238629	en	Central Yunnan black crested gibbon
+238630	en	West Yunnan black crested gibbon
+238631	en	West Yunnan black crested gibbon
+238632	en	Hainan black crested gibbon
+238633	en	Hainan black crested gibbon
+238880	en	Hainan black crested gibbon
+238636	en	eastern black crested gibbon
+238637	en	eastern black crested gibbon
+238881	en	eastern black crested gibbon
+238638	en	Laotian black crested gibbon
+238639	en	Laotian black crested gibbon
+238883	en	Laotian black crested gibbon
+238640	en	yellow-cheeked gibbon
+238641	en	yellow-cheeked gibbon
+238886	en	yellow-cheeked gibbon
+238887	en	yellow-cheeked gibbon
+238642	en	southern white-cheeked gibbon
+238643	en	southern white-cheeked gibbon
+238885	en	southern white-cheeked gibbon
+238650	en	bare-eared squirrel monkey
+238651	en	bare-eared squirrel monkey
+238653	en	silvery marmoset
+238654	en	silvery marmoset
+238659	en	Belitung Island tarsier
+238711	en	Belitung Island tarsier
+238660	en	Bornean tarsier
+238710	en	Bornean tarsier
+238739	en	Bornean tarsier
+238661	en	white-fronted surili
+238662	en	white-fronted surili
+238663	en	Hose's langur
+238664	en	Hose's langur
+238822	en	Hose's langur
+238665	en	Saban grizzled langur
+238666	en	Saban grizzled langur
+238675	en	Phayre's leaf monkey
+238676	en	Phayre's leaf monkey
+238685	en	Gee's golden langur
+238686	en	Gee's golden langur
+238689	en	white-headed langur
+238690	en	white-headed langur
+238694	en	Delacour's langur
+238695	en	Delacour's langur
+238696	en	Laotian langur
+238697	en	Laotian langur
+238698	en	Tenasserim lutung
+238699	en	Tenasserim lutung
+238700	en	Indochinese lutung
+238701	en	Indochinese lutung
+238717	en	Peleng Island tarsier
+238718	en	Peleng Island tarsier
+238719	en	Dian's tarsier
+238720	en	Dian's tarsier
+238721	en	pygmy tarsier
+238722	en	pygmy tarsier
+238733	en	Lariang tarsier
+238734	en	Siau Island tarsier
+238735	en	Wallace's tarsier
+238776	en	Boutourlini's blue monkey
+238777	en	Boutourlini's blue monkey
+238830	en	northern Müller's Bornean gibbon
+238831	en	northern Müller's Bornean gibbon
+238896	en	northern Müller's Bornean gibbon
+238873	en	eastern Müller's Bornean gibbon
+238894	en	eastern Müller's Bornean gibbon
+238874	en	Abbott's Müller's Bornean gibbon
+238875	en	Abbott's Müller's Bornean gibbon
+238876	en	Bornean white-bearded gibbon
+238877	en	Bornean white-bearded gibbon
+238895	en	Bornean white-bearded gibbon
+238878	en	Carpenter's lar gibbon
+238879	en	Yunnan lar gibbon
+239192	en	collared brown lemur
+239193	en	collared brown lemur
+239194	en	crowned lemur
+239195	en	crowned lemur
+239197	en	red-bellied lemur
+239198	en	red-bellied lemur
+239199	en	common brown lemur
+239200	en	Sanford's lemur
+239201	en	Sanford's lemur
+239203	en	red lemur
+239204	en	red lemur
+239205	en	Mayotte lemur
+239410	en	Przewalski's horse
+239419	en	African wild ass
+239420	en	African wild ass
+239535	en	African wild ass
+239422	en	Nubian wild ass
+239425	en	Somali wild ass
+239426	en	Somali wild ass
+239532	en	Somali wild ass
+239536	en	Somali wild ass
+240141	en	crab-eating mongoose
+240142	en	crab-eating mongoose
+240281	en	fat-tailed dwarf lemur
+240318	en	stump-tailed macaque
+240319	en	stump-tailed macaque
+240320	en	Formosan rock macaque
+240321	en	Formosan rock macaque
+240322	en	Tibetan macaque
+240323	en	Tibetan macaque
+240324	en	gray-cheeked mangabey
+240334	en	gray-cheeked mangabey
+240325	en	black colobus
+240333	en	crested mangabey
+240462	en	black-headed spider monkey
+240789	en	Tonkin snub-nosed monkey
+240790	en	Tonkin snub-nosed monkey
+240794	en	Burmese snub-nosed monkey
+241799	en	silky cuscus
+241800	en	eastern common cuscus
+242332	en	Mexican spider monkey
+242333	en	Mexican spider monkey
+242336	en	Colombian black spider monkey
+242337	en	Colombian black spider monkey
+242702	en	Chaco tortoise
+243100	en	scorpion
+243544	en	Florida softshell turtle
+243545	en	Florida softshell turtle
+244992	en	spider
+246627	en	brazilian lizardfish
+246630	en	horned lanternfish
+246632	en	large-finned lanternfish
+246635	en	striped codlet
+246891	en	giant water bug
+247253	en	bark mantis
+247692	en	cardinal beetle
+328330	en	cardinal beetle
+247806	en	marsupial
+327562	en	marsupial
+248223	en	tilapiine
+248543	en	false ladybird beetle
+248544	en	false ladybird beetle
+249339	en	shield bug
+249363	en	flea beetle
+249459	en	deer fly
+249611	en	Eastern spadefoot toad
+249615	en	New Mexico spadefoot toad
+249616	en	New Mexico spadefoot toad
+249950	en	clubmoss
+250469	en	orb-weaver
+251791	en	cajaro
+251792	en	cajaro
+251815	en	calcimicrobe
+251832	en	cajaro
+252064	en	smooth snake
+252560	en	elaterate
+252561	en	elaterate
+252563	en	elaterate
+252564	en	elaterate
+252576	en	small snail eating beetle
+252582	en	winter rove beetle
+252598	en	minute moss beetle
+262594	en	minute moss beetle
+252705	en	elaterate
+252706	en	elaterate
+252707	en	elaterate
+252708	en	elaterate
+252710	en	elaterate
+252711	en	elaterate
+252712	en	elaterate
+252713	en	elaterate
+252714	en	elaterate
+252715	en	elaterate
+252717	en	elaterate
+252718	en	elaterate
+252719	en	elaterate
+252720	en	elaterate
+252730	en	elaterate
+252731	en	elaterate
+252736	en	elaterate
+252737	en	elaterate
+252738	en	elaterate
+252739	en	elaterate
+252740	en	elaterate
+252741	en	elaterate
+252925	en	snakehead
+252928	en	goby
+252934	en	smooth newt
+252935	en	smooth newt
+252936	en	marbled newt
+252937	en	marbled newt
+255305	en	Quasimodo fly
+255311	en	hell ant
+255343	en	moustache wasp
+255345	en	bee
+256308	en	sawfly
+256309	en	stem sawfly
+257444	en	purse web spider
+257447	en	folding trapdoor spider
+257449	en	dwarf tarantula
+257453	en	venomous funnel-web tarantula
+257455	en	funnel-web tarantula
+257462	en	wafer trapdoor spider
+257464	en	cork-lid trapdoor spider
+257473	en	trapdoor baboon spider
+257475	en	tarantula
+257481	en	recluse spider
+257484	en	spitting spider
+257491	en	leptonetid spider
+257495	en	long-legged cave spider
+257497	en	midget ground weaver
+257504	en	daddy long-legs spider
+257514	en	armored spider
+41064	en	American cheetah
+257652	en	American cheetah
+257760	en	spiketail
+258079	en	pirate spider
+258087	en	tree trunk spider
+258154	en	cave cobweb spider
+258284	en	ray spider
+258306	en	spurred orb-weaver
+326476	en	spurred orb-weaver
+258878	en	bark beetle
+259474	en	thread-legged bug
+259616	en	pin-hole borer beetle
+259648	en	coffee borer beetle
+260160	en	marmoset
+260204	en	primitive crane fly
+261066	en	latrine fly
+261067	en	latrine fly
+262337	en	signal fly
+262571	en	bat fly
+265188	en	house cricket
+328405	en	house cricket
+265569	en	belemnite
+265718	en	ray-finned fish
+276037	en	ray-finned fish
+266305	en	temperate bass
+267398	en	caper whites
+267399	en	crawshay's caper white
+267432	en	long jawed desert termite
+267694	en	leaf-mining beetle
+267713	en	Anasazi lizard
+269389	en	olive python
+269388	en	olive python
+269500	en	cockroach
+269501	en	mantis
+269503	en	walking stick
+329192	en	walking stick
+270003	en	spider cricket
+270004	en	spider cricket
+270045	en	marine bug
+270047	en	spiny-legged bug
+270048	en	intertidal dwarf bug
+271970	en	tapir
+272064	en	whip spider
+272176	en	whip scorpion
+272181	en	phalangiotarbid
+274971	en	midwife toads
+276198	en	vinegaroon
+276228	en	bush cricket
+276332	en	ant-loving cricket
+277029	en	water flea
+279373	en	Dog-faced bats
+279375	en	Dome-palate mastiff bats
+281533	en	microwhip scorpion
+282216	en	secondary screwworm
+282217	en	secondary screwworm
+282492	en	elk
+282762	en	Sydney gumleaf katydid
+282763	en	Sydney gumleaf katydid
+283625	en	western honey bee
+328301	en	western honey bee
+283672	en	petrified honey bee
+283673	en	petrified honey bee
+283690	en	petrified honey bee
+283687	en	long-legged honey bee
+283688	en	long-legged honey bee
+283705	en	horned dung beetle
+283706	en	horned dung beetle
+346385	en	flower chafer
+284868	en	dobsonfly
+285292	en	plownose chimaera
+285848	en	elephant mosquito
+285913	en	satellite fly
+285914	en	flesh fly
+286061	en	giant scale
+330762	en	giant scale
+286591	en	night-flying dung beetle
+286592	en	night-flying dung beetle
+287305	en	coral barnacle
+288233	en	carpet python
+288236	en	carpet python
+288238	en	carpet python
+288335	en	dwarf boa
+288379	en	seed bug
+288393	en	firebug
+288401	en	negro bug
+288524	en	sea snake
+361975	en	sea snake
+289470	en	snipe
+289471	en	pygmy-owl
+289502	en	savannah sparrows
+289503	en	savannah sparrow
+289504	en	cardinals
+289505	en	northern cardinal
+289507	en	orange-crowned warbler
+289508	en	scrub jay
+289509	en	Florida scrub jay
+289510	en	pileated woodpecker
+289512	en	burrowing owl
+289513	en	spotted-tailed cuckoo
+289514	en	yellow-billed cuckoo
+289515	en	black-hawks
+289516	en	great black-hawk
+289517	en	wood ducks
+289518	en	wood duck
+289519	en	least bittern
+289520	en	least bittern
+289522	en	least grebe
+289524	en	ringed kingfisher
+289525	en	dowitcher
+289526	en	long-billed dowitcher
+289527	en	mourning dove
+289528	en	chipping sparrows
+289529	en	field sparrow
+289530	en	lark sparrow
+289531	en	lark sparrow
+289537	en	northern jacana
+289538	en	northern saw-whet owl
+289539	en	green heron
+289541	en	caracara
+289543	en	yellow-headed caracara
+289545	en	crested caracara
+289715	en	yellow-crowned night heron
+289716	en	yellow-crowned night heron
+289717	en	boat-tailed grackle
+289719	en	boat-tailed grackle
+289720	en	American crow
+289721	en	jabiru
+289750	en	golden eagle
+289532	en	common snipe
+289751	en	common snipe
+289763	en	whistling heron
+289765	en	ibis
+289766	en	ibis
+289767	en	ibis
+289768	en	ibis
+289770	en	crested duck
+289771	en	duck
+289772	en	duck
+289773	en	duck
+289774	en	vulture
+289775	en	vulture
+289776	en	condor
+289777	en	king vulture
+289778	en	eagle
+289779	en	eagle
+289780	en	crested eagle
+289782	en	caracara
+289783	en	crested plover
+289784	en	lapwing
+289788	en	sandpiper
+289789	en	stilt sandpiper
+289790	en	stilt sandpiper
+289793	en	phalarope
+289795	en	seedsnipe
+289796	en	seedsnipe
+289797	en	nightjar
+289805	en	owl
+289806	en	flightless rail
+289811	en	protohippines
+289978	en	spoonbill
+289979	en	spoonbill
+289980	en	spoonbill
+289981	en	condor
+289982	en	condor
+289984	en	duck
+289985	en	ruddy duck
+289986	en	cormorant
+289987	en	gull
+289988	en	gull
+289994	en	dove
+289995	en	ground dove
+289996	en	ground dove
+290001	en	cuckoo
+290002	en	cuckoo
+290009	en	convergent lady beetle
+290010	en	toad
+290018	en	osprey
+290019	en	rail
+290020	en	chachalaca
+290022	en	chicken from hell
+290023	en	chicken from hell
+290113	en	tree swallow
+290114	en	tree swallow
+290115	en	jay
+290116	en	wren
+290117	en	wren
+290118	en	wren
+290120	en	cowbird
+290128	en	quail
+290129	en	lapwing
+290130	en	lapwing
+290136	en	shrike
+290137	en	shrike
+290138	en	loggerhead shrike
+290140	en	caracara
+290141	en	dwarf thick-knee
+290146	en	crow
+290149	en	tinamou
+290150	en	tinamou
+290151	en	tinamou
+290205	en	cowbird
+290210	en	cormorant
+290225	en	duck
+290228	en	prairie chicken
+290229	en	quail
+290230	en	owl
+290231	en	teal
+290252	en	quail
+290668	en	duck
+290672	en	sandpiper
+290673	en	sparrow
+290674	en	sparrow
+290675	en	grebe
+290677	en	boobie
+290678	en	stork
+290679	en	crane
+290680	en	crane
+290681	en	teal
+290682	en	turkey
+290683	en	turkey
+290684	en	turkey
+290686	en	black-bellied whistling duck
+290687	en	goose
+290688	en	goose
+290689	en	coot
+291353	en	Suwannee alligator snapping turtle
+291354	en	Apalachicola alligator snapping turtle
+291366	en	eastern glass lizard
+362506	en	eastern glass lizard
+291367	en	island glass lizard
+291369	en	Simpson's siren
+291370	en	siren
+291371	en	dwarf siren
+291372	en	eastern diamondback rattlesnake
+291373	en	tree frog
+291374	en	five-lined skink
+291375	en	toad
+291376	en	tree frog
+291377	en	turnip-tailed gecko
+291378	en	Leach's anole
+291379	en	Griwald's ameiva
+291537	en	black vulture
+291539	en	vulture
+291540	en	owl
+291541	en	blue grouse
+291542	en	blue grouse
+291634	en	crested quail
+292513	en	forest caterpillar hunter
+292514	en	forest caterpillar hunter
+292577	en	large pine weevil
+292578	en	large pine weevil
+292579	en	European rhinoceros beetle
+292580	en	European rhinoceros beetle
+292666	en	lesser silver water beetle
+292667	en	lesser silver water beetle
+296224	en	lesser silver water beetle
+293556	en	thorny lacewing
+293824	en	cassins auklet
+293846	en	crenella
+293853	en	lord dwarf-venus
+293854	en	lord dwarf-venus
+293855	en	lord dwarf-venus
+293962	en	magdalena chiton
+293963	en	magdalena chiton
+293965	en	conspicuous chiton
+293966	en	conspicuous chiton
+293967	en	conspicuous chiton
+293985	en	conspicuous chiton
+293971	en	keep's chiton
+293982	en	lined red chiton
+293983	en	lined red chiton
+294002	en	Saint Helena giant earwig
+294003	en	Saint Helena giant earwig
+294079	en	armadillo
+294688	en	belemnite
+295395	en	dark giant horsefly
+300880	en	belemnite
+305307	en	belemnite
+358468	en	belemnite
+301257	en	horned lanternfish
+301390	en	garden eel
+301393	en	garden eel
+302115	en	true leaf insect
+302314	en	turtle barnacle
+303311	en	turtle barnacle
+302315	en	turtle barnacle
+304145	en	rudist
+304266	en	Japanese sleeve dog
+305362	en	belemnite
+305594	en	giant Pacific oyster
+305595	en	giant Pacific oyster
+305596	en	flat oyster
+305597	en	flat oyster
+306250	en	diplograptoid
+306265	en	graptoloid
+306266	en	graptoloid
+306570	en	praying mantis
+306692	en	chitridiomycetes
+306699	en	euglenoides
+306700	en	dinoflagellates
+306703	en	yellow-green algae
+306705	en	brown algae
+306708	en	haptophytes
+306728	en	hornworts
+306782	en	phalangiotarbid
+306788	en	phalangiotarbid
+308386	en	artiopod
+308556	en	hard tick
+308580	en	tortoise mite
+311444	en	Hawaiian monk seal
+311699	en	heart urchin
+314177	en	incongruous glass-scallop
+314178	en	incongruous glass-scallop
+314899	en	red turban
+314900	en	red turban
+362570	en	red turban
+317546	en	maidenplum
+317846	en	four-lined snake
+317848	en	four-lined snake
+317847	en	Four-lined snake
+317865	en	heron-like track
+317888	en	ladder snake
+318122	en	ladder snake
+318123	en	ladder snake
+317893	en	Montpellier snake
+317894	en	Montpellier snake
+317895	en	false smooth snake
+318124	en	southern smooth snake
+318125	en	southern smooth snake
+319065	en	common adder
+319066	en	common adder
+319067	en	common adder
+319090	en	common adder
+319089	en	sheepshead
+319607	en	climacograptid
+319608	en	climacograptid
+319670	en	lasiograptid
+319688	en	asp viper
+319689	en	asp viper
+319690	en	asp viper
+319691	en	sand viper
+319692	en	sand viper
+319693	en	sand viper
+319697	en	puff adder
+320672	en	spruce beetle
+320673	en	spruce beetle
+321259	en	Common caiman
+321697	en	shadowdamsel
+324117	en	parareptile
+346045	en	gray whale
+328313	en	praying mantis
+328328	en	praying mantis
+328314	en	katydid
+328343	en	vagrant emperor
+328345	en	vagrant emperor
+328719	en	true crickets
+329194	en	true crickets
+329113	en	silverfish
+329118	en	tiger beetle
+330716	en	ground beetle
+329131	en	checkered beetle
+329132	en	spider beetle
+329135	en	rove beetle
+346281	en	rove beetle
+329136	en	sap beetle
+329143	en	earth-boring dung beetle
+329144	en	scarab beetle
+329146	en	bark gnawing beetle
+329149	en	darkling beetle
+329154	en	tumbling flower beetle
+329158	en	snout beetle
+329161	en	false powderpost beetle
+329164	en	longhorned beetle
+329169	en	crab
+329173	en	leaf beetle
+329178	en	pleasing fungus beetle
+329185	en	cicada
+329187	en	leafhopper
+329189	en	aphid
+329191	en	praying mantis
+329193	en	mantis
+329196	en	short-horned grasshopper
+329198	en	antlion
+329199	en	brown lacewing
+329200	en	alderfly
+329201	en	common stonefly
+329202	en	termite
+329203	en	common scorpionfly
+329214	en	cuckoo wasp
+329215	en	ichneumon wasp
+329218	en	ensign wasp
+329222	en	digger wasp
+329227	en	velvet ant
+329228	en	ant
+329235	en	carpenter bee
+329237	en	mason bee
+329238	en	orchid bee
+329239	en	orchid bee
+329243	en	swallowtail butterfly
+329247	en	tortrix moth
+329251	en	crane fly
+329252	en	bee fly
+330545	en	bee fly
+329254	en	robber fly
+329256	en	horse fly
+329257	en	snipe fly
+329258	en	thick-headed fly
+329259	en	soldier fly
+329260	en	hover fly
+329261	en	house fly
+329268	en	pill beetle
+329276	en	bark beetle
+329281	en	true bug
+329753	en	winged insect
+330678	en	cuttlefish
+331581	en	fairy shrimp
+331582	en	fairy shrimp
+332947	en	Northern crested newt
+334097	en	snake
+334098	en	snake
+334112	en	kangaroo
+334315	en	snake
+334581	en	nono
+335262	en	brown booby
+335264	en	Saint Helena swamphen
+335265	en	Saint Helena crake
+335266	en	Saint Helena plover
+335267	en	Brown noddy
+335268	en	lesser noddy
+335270	en	sooty tern
+336228	en	long-legged Kauai owl
+336935	en	butterfly
+338946	en	Australian froglet
+338977	en	southern brown tree frog
+338979	en	southern brown tree frog
+338982	en	spotted marsh frog
+339019	en	bearded dragon
+339026	en	rabbit rat
+339027	en	Australian mouse
+339046	en	Australian black snake
+339048	en	Australian black snake
+339064	en	common skink
+339066	en	writhing skink
+339101	en	water skink
+339266	en	copperhead snake
+339268	en	copperhead snake
+339269	en	jacky dragon
+339271	en	jacky dragon
+339272	en	mountain dragon
+339274	en	mountain dragon
+340017	en	mustached bat
+341569	en	plum yews
+342040	en	Walker's Cowry
+342041	en	Walker's Cowry
+342042	en	Walker's Cowry
+346277	en	Asian giant hornet
+346612	en	sengi
+346972	en	diprotodon
+347894	en	house wren
+347903	en	spurred tortoise
+348028	en	South American fur seal
+348029	en	South American fur seal
+348493	en	South American fur seal
+348154	en	brittle star
+348520	en	The Brach who must not be named
+348677	en	Sacramento perch
+348716	en	land snail
+348720	en	land snail
+348834	en	belemnite
+350508	en	lungfish
+350509	en	lungfish
+351218	en	gilled mushroom
+352363	en	shark
+354180	en	Rocky Mountain locust
+354181	en	Rocky Mountain locust
+354185	en	Campestral grasshopper
+354186	en	Campestral grasshopper
+354476	en	mussel
+355779	en	cuckoo bee
+355780	en	cuckoo bee
+358366	en	heart urchin
+358368	en	heart urchin
+358369	en	heart urchin
+358370	en	heart urchin
+358371	en	heart urchin
+358372	en	heart urchin
+358373	en	heart urchin
+358374	en	heart urchin
+358375	en	heart urchin
+358377	en	heart urchin
+358378	en	heart urchin
+358379	en	heart urchin
+358388	en	Chelus colombiana
+358430	en	belemnite
+358451	en	bottletail squid
+358460	en	belemnite
+358461	en	belemnite
+358462	en	belemnite
+358463	en	belemnite
+358464	en	belemnite
+358465	en	belemnite
+358466	en	belemnite
+358467	en	belemnite
+358472	en	belemnite
+358475	en	belemnite
+358477	en	belemnite
+358478	en	belemnite
+358479	en	belemnite
+358481	en	belemnite
+358483	en	belemnite
+358484	en	belemnite
+360257	en	skink
+362245	en	anchitheriine horse
+362420	en	anchitheriine horse
+362475	en	Couch's spadefoot toad
+364026	en	side-necked turtle of Geoffroy
+364027	en	side-necked turtle of Saint Hillaire
+364628	en	coccolithophore
+364629	en	coccolithophore
+364694	en	crinoid
+364695	en	crinoid
