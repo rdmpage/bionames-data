@@ -2206,6 +2206,10 @@ $sicis=array('10.1163/187529283x00483');
 
 $sicis=array('10.1007/BF02989445');
 
+$sicis=array('10.1071/MF11063', '10.1371/journal.pone.0101427');
+
+$sicis=array('10.1007/s11230-006-9051-9');
+
 $force = false; // only find names if we don't have them already
 $force = true;
 
