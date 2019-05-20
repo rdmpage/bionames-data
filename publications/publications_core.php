@@ -13,7 +13,7 @@ require_once (dirname(__FILE__) . '/crossref.php');
 require_once (dirname(__FILE__) . '/mendeley.php');
 
 //--------------------------------------------------------------------------------------------------
-$db = NewADOConnection('mysql');
+$db = NewADOConnection('mysqli');
 $db->Connect("localhost", 
 	'root' , '' , 'ion');
 
@@ -122,6 +122,67 @@ function get_authors_pdf($pdf, &$reference)
 		
 	
 	$sql = "select * from names_authors_pdf where pdf=" . $db->qstr($pdf) . ' LIMIT 1';
+	
+	$result = $db->Execute($sql);
+	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+	
+	if ($result->NumRows() == 1)
+	{
+		$authorlist = $result->fields['authors'];
+		
+		//$authorlist = mb_convert_encoding($authorlist, 'UTF-8', 'HTML-ENTITIES');
+		
+		$a = explode(";", $authorlist);
+		
+		$reference->author = array();
+		
+		foreach ($a as $authorstring)
+		{
+			//$authorstring = utf8_encode($authorstring);
+			
+			$parts = explode(",", $authorstring);
+			if (count($parts) == 2)
+			{
+				$author = new stdClass();
+				$author->firstname = $parts[1];
+				
+				$author->firstname = trim($author->firstname);
+				$author->firstname = str_replace('.', '', $author->firstname);
+				
+				$author->lastname = $parts[0];
+				$author->name = $author->firstname . ' '  . $author->lastname;
+				$reference->author[] = $author;
+			}
+			else
+			{
+				$parts = explode(" ", $authorstring);
+				$n = count($parts);
+				if ($n > 1)
+				{
+					$author = new stdClass();
+					$author->lastname = $parts[$n-1];
+					
+					array_pop($parts);
+					$author->firstname  = join(' ', $parts);
+			
+					$author->name = $author->firstname . ' '  . $author->lastname;
+					$reference->author[] = $author;
+				}
+			}
+		}
+	}
+
+	
+	return $authors;
+}
+
+//--------------------------------------------------------------------------------------------------
+function get_authors_url($url, &$reference)
+{
+	global $db;
+		
+	
+	$sql = "select * from names_authors_url where url=" . $db->qstr($url) . ' LIMIT 1';
 	
 	$result = $db->Execute($sql);
 	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
@@ -969,6 +1030,9 @@ function get_reference($sql, &$docs, $augment = true)
 				{
 					if ($link->anchor == 'LINK')
 					{
+					
+						get_authors_url($link->url, $reference);
+					
 						if (preg_match('/http:\/\/www.ingentaconnect.com\//', $link->url))
 						{
 							// Ingenta	

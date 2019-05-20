@@ -1867,6 +1867,10 @@ $dois=array('10.1080/02724634.2010.501464','10.1080/02724634.2012.699811','10.10
 
 $dois=array('10.1007/BF02989445');
 
+$dois=array('10.1071/MF11063', '10.1371/journal.pone.0101427');
+
+$dois=array('10.1007/s11230-006-9051-9');
+
 foreach ($dois as $doi)
 {
 	//$reference = get_doi_metadata($doi, $docs);

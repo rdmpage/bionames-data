@@ -260,6 +260,7 @@ function get_jstor_thumbnail(&$reference, $jstor)
 	
 	// GIF
 	$filename = dirname(dirname(__FILE__)) . '/jstor_thumbnails/' . $jstor . '.gif';
+	$filename = '/Users/rpage/Development/jstor-thumbnails-o/' . $jstor . '.gif';
 	
 	// if no GIF try JPEG
 	if (!file_exists($filename))

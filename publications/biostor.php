@@ -32,6 +32,8 @@ function biostor_enhance (&$reference, $biostor_id)
 		
 		//print_r($obj);
 		
+		//exit();
+		
 		// title
 		$reference->title = $obj->title;
 		
@@ -71,51 +73,53 @@ function biostor_enhance (&$reference, $biostor_id)
 		
 		// untested
 		// Get any additional identifiers from BioStor (e.g., DOIs)
-		foreach ($obj->identifiers as $k => $v)
-		{
-			switch ($k)
+		if (isset($obj->identifiers)) {
+			foreach ($obj->identifiers as $k => $v)
 			{
-				case 'doi':
-					$have_doi = false;
-					foreach ($reference->identifier as $id)
-					{
-						if ($id->type == 'doi')
+				switch ($k)
+				{
+					case 'doi':
+						$have_doi = false;
+						foreach ($reference->identifier as $id)
 						{
-							$have_doi = true;
+							if ($id->type == 'doi')
+							{
+								$have_doi = true;
+							}
 						}
-					}
-					if (!$have_doi)
-					{
-						$x = new stdclass;
-						$x->type = 'doi';
-						$x->id = $v;
-						
-						$reference->identifier[] = $x;
-					}								
-					break;
-					
-				case 'zoobank':
-					$have_lsid = false;
-					foreach ($reference->identifier as $id)
-					{
-						if ($id->type == 'zoobank')
+						if (!$have_doi)
 						{
-							$have_lsid = true;
-						}
-					}
-					if (!$have_lsid)
-					{
-						$x = new stdclass;
-						$x->type = 'zoobank';
-						$x->id = $v;
+							$x = new stdclass;
+							$x->type = 'doi';
+							$x->id = $v;
 						
-						$reference->identifier[] = $x;
-					}								
-					break;
+							$reference->identifier[] = $x;
+						}								
+						break;
+					
+					case 'zoobank':
+						$have_lsid = false;
+						foreach ($reference->identifier as $id)
+						{
+							if ($id->type == 'zoobank')
+							{
+								$have_lsid = true;
+							}
+						}
+						if (!$have_lsid)
+						{
+							$x = new stdclass;
+							$x->type = 'zoobank';
+							$x->id = $v;
+						
+							$reference->identifier[] = $x;
+						}								
+						break;
 					
 					
-				default:
-					break;
+					default:
+						break;
+				}
 			}
 		}
 		
