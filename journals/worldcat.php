@@ -12,7 +12,7 @@ require_once (dirname(dirname(__FILE__)). '/couchsimple.php');
 require_once (dirname(dirname(__FILE__)) . '/lib.php');
 
 //--------------------------------------------------------------------------------------------------
-$db = NewADOConnection('mysql');
+$db = NewADOConnection('mysqli');
 $db->Connect("localhost", 
 	'root' , '' , 'ion');
 
@@ -32,7 +32,7 @@ function get_issn_thumbnail(&$journal)
 	
 	$thumbnail = '';
 
-	$sql = "SELECT * FROM issn_thumbnails WHERE issn = " . $db->qstr($issn) . " LIMIT 1;";
+	$sql = "SELECT * FROM new_issn_thumbnails WHERE issn = " . $db->qstr($issn) . " LIMIT 1;";
 	
 	$result = $db->Execute($sql);
 	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
@@ -1610,6 +1610,22 @@ $issns=array('0254-6299');
 
 // Other
 $issns=array('0374-5708');
+
+$issns=array('0075-3920');
+
+$issns=array('0075-207X');
+
+$issns=array('1133-6889','0210-6183','0210-6191','0210-6213');
+
+$issns=array('2178-2547');
+
+$issns=array('0870-3876', '1131-933X');
+
+$issns=array('1137-6120','1220-3823');
+
+$issns=array('2325-4467','2337-0173');
+
+$issns=array('1341-6707','0037-9611');
 
 $issns_processed = array();
 
