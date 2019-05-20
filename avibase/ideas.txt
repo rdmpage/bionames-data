@@ -1,0 +1,48 @@
+Casuarius casuarius intensus Rothschild, Bull. Brit. Orn. CI., 8, 1898, p. 21. (Unknown.)
+
+http://biostor.org/microcitation.php?name=Cisticola&publication=Bull. Brit. Ornith. Club., 80:146&year=1960
+
+Cisticola textrix anselli White, 1960, Bull. Brit. Ornith. Club, 80, p. 146  Minyanya Plain, western Balovale (= Zam- bezi), Northern Rhodesia.
+
+
+eol - > gbif  [EOL API]
+
+eol -> image [bionames]
+
+
+eol -> bionames clusters
+
+bionames -> publication
+
+name to cluster  (includes publication)
+
+http://bionames.org/api/name/Zosterops%20somadikartai
+
+name to concept (includes EOL /GBIF/published in)
+
+
+gbif taxa -> type [GBIF API]
+
+(note that we may need a bunch of expressions for type
+TYPE, HOLOTYPE, SYNTYPE, PARATYPE etc. )
+
+// search for types by taxonKey
+http://api.gbif.org/v1/occurrence/search?taxonKey=2419523&typeStatus=TYPE
+
+[model as a graph?]
+
+
+
+concept -> hasname
+             +
+             +--> published in -> doi
+             +
+             +--> type -> specimen
+
+========
+
+http://bionames.org/api/taxa/eol/13035342/thumbnail
+
+http://eol.org/pages/13035342/overview
+
+http://api.gbif.org/v1/occurrence/search?taxonKey=2419523&typeStatus=TYPE
