@@ -569,6 +569,8 @@ $sql = 'select * from names where Publication = "Willdenowia" and doi is NULL an
 $sql = 'select * from names where issn="1439-6092" and doi is NULL';
 $sql = 'select * from names where issn="0006-8241" and doi is NULL';
 
+$sql = 'select * from names where issn="0253-1453" and doi is NULL';
+
 
 
 //echo $sql . "\n";

@@ -2,7 +2,7 @@
 
 // martch using "remote" microcitation resolver
 
-error_reporting(E_ALL);
+error_reporting(E_ALL ^ E_DEPRECATED);
 
 require_once (dirname(dirname(__FILE__)) . '/adodb5/adodb.inc.php');
 require_once (dirname(dirname(__FILE__)) . '/lib.php');
@@ -675,10 +675,30 @@ $sql = 'select * from names where issn="0003-3847" and Collation <> "" and jstor
 
 
 
-$sql = 'select * from names where Id="77080933-1"';
+$sql = 'select * from names where Id="77151454-1"';
+
+$sql = 'select * from names where issn="0312-9764" and Collation LIKE "12%" and doi is null;';
+
+$sql = 'select * from names where issn="0524-0476" and doi is NULL';
+
+$sql = 'select * from names where issn="0253-1453" and doi is NULL';
+
+// J. Bamboo Res
+$sql = 'select * from names where issn="1000-6567" and doi is NULL AND url is NULL';
+
+$sql = 'select * from names where issn="0365-7779" and doi is NULL AND url is NULL';
+
+$sql = 'select * from names where issn="0021-7662" and doi is NULL AND url is NULL';
+
+
+
+
+
+
+
 
 $include_issue_in_search = false;
-$include_issue_in_search = true;
+//$include_issue_in_search = true;
 
 $include_authors_in_search = true;
 $include_authors_in_search = false;
@@ -731,6 +751,10 @@ while (!$result->EOF)
 	$identifier = new stdclass;
 	$identifier->type = 'issn';
 	$identifier->id = $result->fields['issn'];
+	
+	// hack, put other ISSN here (e.g., if we are using eISSN not print ISSN)
+	//$identifier->id = '1853-8460';
+	
 	$reference->journal->identifier[] = $identifier;
 	
 	
