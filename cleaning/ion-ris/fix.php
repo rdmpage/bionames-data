@@ -978,6 +978,27 @@ $sql = "select * from names where updated >= '2018-12-25' and publicationParsed=
 
 $sql = "select * from names where updated >= '2019-04-11' and publicationParsed='N'";
 
+$sql = "select * from `names-5429609` where `publication` is not null and `publicationParsed`='N'";
+
+$sql = "select * from names where sici='9deff7ecb624263a22f8b12c07c261db';";
+
+$sql = "select * from `names-5484821` where `publication` is not null and `publicationParsed`='N'";
+
+$sql = "select * from `names-5507237` where `publication` is not null and `publicationParsed`='N'";
+
+$sql = "select * from names where issn='0373-5680' and volume LIKE '35%' order by cast(volume as signed), cast(spage as signed)";
+
+$sql = "select * from `names-5541545` where `publication` is not null and `publicationParsed`='N'";
+
+$sql = "select * from names where id='" . 5527217 . "';";
+
+$sql = 'SELECT * FROM names WHERE `group` = "Gelechiidae" AND publication like "Exotic%"';
+
+
+$sql ='SELECT * FROM names WHERE `group` = "Gelechiidae" AND publication IS NOT NULL AND journal IS NULL  and title is null ORDER BY publication;';
+
+
+
 $result = $db->Execute('SET max_heap_table_size = 1024 * 1024 * 1024');
 $result = $db->Execute('SET tmp_table_size = 1024 * 1024 * 1024');
 
@@ -1019,10 +1040,40 @@ while (!$result->EOF)
 	
 	$matched = false;
 	
+	// p
+
+	if (!$matched)
+	{
+		if (preg_match('/^(?<journal>Exotic Microlepidoptera.*),?\s+(?<volume>\d+)\((?<issue>[^\)]+)\)\s+(?<year>[0-9]{4}):\s*pp.\s+(?<spage>\d+)-(?<epage>\d+)/Uu', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+			
+			//exit();
+		}
+	}	
+		
+	
+	// // 35(1-4)1975- 1976 1976: 155-173
+	if (!$matched)
+	{
+		if (preg_match('/^(?<title>.*)\s+(?<journal>Revista de la Sociedad Entomologica Argentina.*),\s+(?<volume>\d+)\((?<issue>[^\)]+)\)[0-9]{4}(\s*-\s*[0-9]{4})?\s+[0-9]{4}:\s+(?<spage>\d+)-(?<epage>\d+)\b/Uu', $obj->publication, $m))
+		{
+			//print_r($m);
+			$matched = true;
+			echo "-- " . __LINE__ . "\n";
+			
+			//exit();
+		}
+	}	
+	
+	
+	
 	// Vertebrate paleontology in the Neotropics
 	if (!$matched)
 	{
-		if (preg_match('/^^(?<title>.*)\.(.*)\.\s+(?<journal>Vertebrate paleontology in the Neotropics.*)\.,\s+(?<publisher>Smithsonian Institution Press),\s+(?<publoc>.*),.*(.*)Chapter pagination:\s+(?<spage>\d+)-(?<epage>\d+)\./Uu', $obj->publication, $m))
+		if (preg_match('/^(?<title>.*)\.(.*)\.\s+(?<journal>Vertebrate paleontology in the Neotropics.*)\.,\s+(?<publisher>Smithsonian Institution Press),\s+(?<publoc>.*),.*(.*)Chapter pagination:\s+(?<spage>\d+)-(?<epage>\d+)\./Uu', $obj->publication, $m))
 		{
 			//print_r($m);
 			$matched = true;

@@ -1627,6 +1627,8 @@ $issns=array('2325-4467','2337-0173');
 
 $issns=array('1341-6707','0037-9611');
 
+$issns=array('1314–2836');
+
 $issns_processed = array();
 
 $count = 0;

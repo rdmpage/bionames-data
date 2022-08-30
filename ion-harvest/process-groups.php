@@ -42,7 +42,9 @@ foreach ($files1 as $directory)
 				
 				$html = str_replace("\n", " ", $html);
 				
-				if (preg_match_all('/<a href="query.htm\?searchType=tree&amp;q=(?<group>\w+)">\w+<\/a>(\s+\((?<rank>\w+)\))?/', $html, $m))
+				// query.htm?searchType=tree&amp;q=
+				
+				if (preg_match_all('/<a\s+href="query.htm\?searchType=tree&amp;q=(?<group>\w+)">\w+<\/a>(\s+\((?<rank>\w+)\))?/', $html, $m))
 				{
 					$groups = $m['group'];
 					$ranks 	= $m['rank'];

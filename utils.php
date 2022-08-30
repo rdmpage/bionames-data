@@ -2,7 +2,7 @@
 
 // Make a clean, hopefully unique string for a reference
 
-function publication_to_unique_string($publication, $taxon_author = null, $doi = null, $biostor = null, $jstor = null)
+function publication_to_unique_string($publication, $taxon_author = null, $doi = null, $biostor = null, $jstor = null, $url = null)
 {
 	$publication = str_replace("\n", '', $publication);
 	$publication = str_replace("\r", '', $publication);
@@ -37,7 +37,15 @@ function publication_to_unique_string($publication, $taxon_author = null, $doi =
 			if ($jstor)
 			{
 				$publication .= ' jstor:' . $jstor;
-			}		
+			}	
+			else
+			{
+				if ($url)
+				{
+					$publication .= ' url:' . $url;
+				}		
+			}
+				
 		}
 	}	
 	

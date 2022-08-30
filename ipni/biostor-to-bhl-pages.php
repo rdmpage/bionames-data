@@ -7,39 +7,10 @@ error_reporting(E_ALL ^ E_DEPRECATED);
 require_once (dirname(dirname(__FILE__)) . '/adodb5/adodb.inc.php');
 require_once (dirname(dirname(__FILE__)) . '/lib.php');
 
-
-$cache = array();
-
-
 //--------------------------------------------------------------------------------------------------
-$db = NewADOConnection('mysqli');
-$db->Connect("localhost", 
-	'root', '', 'ipni');
 
-// Ensure fields are (only) indexed by column name
-$ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
-
-$db->EXECUTE("set names 'utf8'"); 
-
-$sql = 'SELECT * FROM names WHERE biostor IS NOT NULL';
-
-$sql .= ' AND issn="0240-8937"';
-
-//$sql .= ' AND genus="Malleastrum"';
-
-//$sql .= ' AND biostor=247133';
-
-
-
-//LIMIT 10';
-
-
-
-$result = $db->Execute($sql);
-if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
-
-while (!$result->EOF) 
-{	
+function collation_to_locators($result)
+{
 	$reference = new stdclass;
 	
 	$reference->id = $result->fields['Id'];
@@ -248,7 +219,45 @@ while (!$result->EOF)
 			//print_r($reference);
 		}
 	}
-	
+
+	return $reference;
+}
+
+//----------------------------------------------------------------------------------------
+
+
+$cache = array();
+
+
+$db = NewADOConnection('mysqli');
+$db->Connect("localhost", 
+	'root', '', 'ipni');
+
+// Ensure fields are (only) indexed by column name
+$ADODB_FETCH_MODE = ADODB_FETCH_ASSOC;
+
+$db->EXECUTE("set names 'utf8'"); 
+
+$sql = 'SELECT * FROM names WHERE biostor IS NOT NULL';
+
+$sql .= ' AND issn="0240-8937"';
+
+//$sql .= ' AND genus="Malleastrum"';
+
+//$sql .= ' AND biostor=247133';
+
+
+
+//LIMIT 10';
+
+
+
+$result = $db->Execute($sql);
+if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
+
+while (!$result->EOF) 
+{	
+	$reference = collation_to_locators($result);
 	
 	if ($matched)
 	{

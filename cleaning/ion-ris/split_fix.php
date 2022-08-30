@@ -6,7 +6,7 @@ require_once (dirname(__FILE__) . '/config.inc.php');
 require_once (dirname(dirname(dirname(__FILE__))) . '/adodb5/adodb.inc.php');
 
 //--------------------------------------------------------------------------------------------------
-$db = NewADOConnection('mysql');
+$db = NewADOConnection('mysqli');
 $db->Connect("localhost", 
 	$config['db_user'] , $config['db_passwd'] , $config['db_name']);
 
@@ -1186,6 +1186,44 @@ $extras=array(
 );
 */
 
+$journal = 'Petersburg)';
+$extras=array(
+'Parazitologiya (St'
+);
+
+$journal = 'Zoologicheskii Zhurnal';
+$extras=array(
+'Amurskii'
+);
+
+$journal = 'Lab.';
+$extras=array(
+'Notes Lyman ent. Mus. Res',
+'Publs Seto mar. biol',
+'Trudy gel\'mint',
+);
+
+
+$journal = 'Ent Amsterdam';
+$extras=array(
+'Tijdschr',
+'Tijd-schr',
+);
+
+
+
+$journal = 'Mex.';
+$extras=array(
+'Paleont',
+'An. Esc. nac.  Cienc. biol',
+'Folia ent',
+'Nat',
+);
+
+$journal = 'Path.';
+$extras=array(
+'J. Invert',
+);
 
 
 
@@ -1198,6 +1236,7 @@ foreach ($extras as $title_extra)
 	//$sql = 'SELECT * from names WHERE journal = "' . $journal . '" AND title LIKE "%] ' . $title_extra . '"';
 	//$sql = 'SELECT * from names WHERE journal = "' . $journal . '" AND title LIKE "%, ' . $title_extra . '"';
 	$sql = 'SELECT * from names WHERE journal = "' . $journal . '" AND title LIKE "% ' . $title_extra . '"';
+	$sql = 'SELECT * from names WHERE journal = "' . $journal . '" AND title LIKE  "%. ' . $title_extra . '"';
 
 	//$sql = 'SELECT * from names WHERE journal LIKE "%' . $journal . '%"';
 	
@@ -1246,6 +1285,10 @@ foreach ($extras as $title_extra)
 			case 'Wien 73':
 				$fixed_journal = $title_extra . '. ' . 'Wien';
 				break;
+				
+			case 'Zoologicheskii Zhurnal':
+				$fixed_journal = $title_extra . ' ' . $journal;
+				break;			
 				
 			default:
 				$fixed_journal = $title_extra . '. ' . $journal;

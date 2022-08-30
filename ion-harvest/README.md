@@ -38,6 +38,17 @@ php process_html_author.php > out.sql
 
 Import SQL file
 
+
+4.5. Fix parsing
+
+Try to fix errors in praising references
+
+cd bionames-data/cleaning/ion-ris
+php fix.php > f.sql
+
+Import SQL file
+
+
 5. Add ISSNs
 
 Add ISSNs to newly added articles
@@ -51,11 +62,17 @@ Import SQL file
 6. Link to DOIs, etc.
 
 cd bionames-data/cleaning/ion-ris
-php ris.php > doi.sql
+~~php ris.php > doi.sql~~
+php doi > doi.sql
+
 
 Import SQL file
 
+6.5. Update BioNames
 
+cd bionames-data/publications
+
+php test.php
 
 
 7. Clusters
@@ -74,6 +91,10 @@ php cluster_names.php
 Get list of clusters modified today, then add those
 
 SELECT cluster_id from names WHERE DATE_SUB(CURDATE(),INTERVAL 3 HOUR) <= updated;
+
+cd bionames-data/clusters
+
+php test.php
 
 
 

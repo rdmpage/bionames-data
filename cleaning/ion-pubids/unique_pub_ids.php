@@ -30,7 +30,7 @@ while (!feof($file_handle))
 	if ($id != '')
 	{
 	
-		$sql = 'SELECT publication, taxonAuthor, doi, biostor, jstor FROM names WHERE id=' . $id . ' LIMIT 1';
+		$sql = 'SELECT publication, taxonAuthor, doi, biostor, jstor, url FROM names WHERE id=' . $id . ' LIMIT 1';
 		
 		$result = $db->Execute($sql);
 		if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
@@ -44,7 +44,8 @@ while (!feof($file_handle))
 				$result->fields['taxonAuthor'], 
 				$result->fields['doi'], 
 				$result->fields['biostor'],
-				$result->fields['jstor']);
+				$result->fields['jstor'],
+				$result->fields['url']);
 				
 			$m =  md5($str);	
 			

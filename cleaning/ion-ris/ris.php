@@ -750,6 +750,8 @@ $sql = 'SELECT * from names WHERE issn = "0939-7140"';
 
 $sql = 'SELECT * from names WHERE journal = "Bull. ent. Res."';
 
+$sql = 'SELECT * from names WHERE issn = "0037-8844"';
+
 
 //$sql = 'SELECT * from names WHERE taxonAuthor like "Fain %"';
 
@@ -778,7 +780,7 @@ $sql = 'SELECT * from names WHERE journal = "Bull. ent. Res."';
 //$sql .= " AND (pdf is null)";
 
 //$sql .= " AND (biostor is null)";
- $sql .= " AND (doi is null)";
+// $sql .= " AND (doi is null)";
 
 //$sql .= " AND (url is null)";
 //$sql .= " AND (cinii is null)";
@@ -890,6 +892,11 @@ $sql = "select * from names where updated >= '2019-04-11' and publicationParsed=
 
 $sql="select * from names where issn='0073-2230'";
 
+$sql = "select * from `names-5484821` where journal LIKE 'Zoological S%'";
+
+$sql = 'SELECT * from names WHERE issn = "0037-8844" and year >= 1896 order by year, cast(volume as signed), cast(spage as signed);';
+
+$sql = 'SELECT * from names WHERE issn = "0034-7108"';
 
 
 

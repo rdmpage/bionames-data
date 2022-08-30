@@ -99,6 +99,19 @@ $sql = 'select distinct `journal` from names where updated >= "2018-12-25" AND `
 $sql = 'select distinct `journal` from names where updated >= "2019-04-11" AND `issn` IS NULL and journal is not null';
 
 
+$sql = 'select distinct `journal` from `names-5429609` where `issn` IS NULL and journal is not null';
+$sql = 'select distinct `journal` from `names-5484821` where `issn` IS NULL and journal is not null';
+
+$sql = 'select distinct `journal` from `names-5507237` where `issn` IS NULL and journal is not null';
+
+$sql = "select * from `names-5541545` where `issn` IS NULL and journal is not null";
+
+$sql = "select * from `names-4500000-4505000-update` where `issn` IS NULL and journal is not null";
+
+$sql = "select * from `names-5562820` where `issn` IS NULL and journal is not null";
+
+
+
 $result = $db->Execute('SET max_heap_table_size = 1024 * 1024 * 1024');
 $result = $db->Execute('SET tmp_table_size = 1024 * 1024 * 1024');
 

@@ -690,15 +690,111 @@ $sql = 'select * from names where issn="0365-7779" and doi is NULL AND url is NU
 
 $sql = 'select * from names where issn="0021-7662" and doi is NULL AND url is NULL';
 
+$sql = 'select * from names where issn="2156-0382" and doi is NULL AND url is NULL';
+
+
+$sql = 'select * from names where issn="0034-365X" ';
+
+$sql = 'select * from names where issn="0022-2062" AND pdf is NULL';
+
+$sql = 'select * from names where issn="0365-0790"';
+
+$sql = 'select * from names where issn="0311-4538" and doi is NULL';
+
+$sql = 'select * from names where issn="1570-3223" and url is NULL';
+
+$sql = 'select * from names where issn="0004-2625" and Collation LIKE "69%"';
+
+$sql = 'select * from names where issn="0041-1752"';
+$sql = 'select * from names where issn="0197-4033"';
+
+$sql = 'select * from names where issn="0197-4033" and Collation LIKE "37E%"';
+
+$sql = 'select * from names where issn="0120-1433"';
+
+$sql = 'select * from names where issn="0029-8948" and doi is null';
 
 
 
+$sql = 'select * from names where issn="0374-8081" and handle is null';
+
+$sql = 'select * from names where issn="0011-9970" and doi is null';
 
 
+$sql = 'select * from names where issn="0971-2313" and doi is null';
+
+$sql = 'select * from names where issn="0080-4274" and url is NULL';
+
+$sql = 'select * from names where issn="1409-3871" and doi is NULL and Collation LIKE "9%"';
+
+
+$sql = 'select * from names where issn="0008-8692" and wikidata is NULL';
+
+$sql = 'select * from names where issn="1673-5102" and wikidata is null';
+$sql = 'select * from names where issn="0128-5939" and wikidata is null';
+
+
+$sql = 'select * from names where issn="2178-0579" and doi is null';
+
+$sql = 'select * from names where issn="0022-2062" and Collation LIKE "91%" and url is null';
+
+$sql = 'select * from names where issn="2095-0845"';
+
+$sql = 'select * from names where issn="0195-6094" and jstor is NULL';
+
+$sql = 'select * from names where issn="0253-2700" and Collation LIKE "5%" and url is null';
+
+$sql = 'select * from names where issn="0085-4417" and Collation <> "" and url is null';
+
+$sql = 'select * from names where issn="0078-5237" and Collation <> "" and url is null';
+
+$sql = 'select * from names where issn="0001-804X" and wikidata is null';
+
+
+$sql = 'select * from names where issn="0006-8152" and url is null';
+
+$sql = 'select * from names where issn="0035-4902" and jstor is null';
+
+$sql = 'select * from names where issn="0006-8152" and url is null and doi is null';
+
+$sql = 'select * from names where issn="0459-8113" and biostor is null';
+
+$sql = 'select * from names where issn="0284-8422" and biostor is null';
+
+$sql = 'select * from names where issn="0373-2967"  and doi is null and Publication_year_full > 2009';
+
+$sql = 'select * from names where issn="0373-2967" and doi is null and Collation LIKE "56%"';
+
+$sql = 'select * from names where issn="0373-2967" and doi is null and Collation LIKE "3:%"';
+
+$sql = 'select * from names where issn="0373-2967"  AND doi IS NULL';
+
+$sql = 'select * from names where issn="2153-733X" AND wikidata IS NULL';
+
+$sql = 'select * from names where Publication="Fl. Austral." AND wikidata IS NULL';
+
+$sql = 'select * from names where issn="1674-4918" AND doi IS NULL';
+
+$sql = 'select * from names where issn="0529-1526" AND wikidata IS NULL AND Publication_year_full LIKE "19%"';
+
+
+//$sql = 'select * from names where issn="0008-8692" and Collation LIKE "iii.%" and wikidata is null';
+//$sql = 'select * from names where issn="0008-8692" and Collation LIKE "3:%" and wikidata is null';
+
+
+//$sql = 'select * from names where Id="194593-2"';
+
+//$sql = 'select * from names where Id="254481-2"';
+
+//$sql = 'select * from names where Id="579054-1"';
+
+//$sql = 'select * from names where Id="532933-1"';
+
+//$sql = 'select * from names where Id="77138055-1"';
 
 
 $include_issue_in_search = false;
-//$include_issue_in_search = true;
+$include_issue_in_search = true;
 
 $include_authors_in_search = true;
 $include_authors_in_search = false;
@@ -748,14 +844,23 @@ while (!$result->EOF)
 		$reference->journal->name = 'Bulletin of Miscellaneous Information (Royal Gardens, Kew)';
 	}	
 			
-	$identifier = new stdclass;
-	$identifier->type = 'issn';
-	$identifier->id = $result->fields['issn'];
+			
+	if ($result->fields['issn'] != '')
+	{			
+		$identifier = new stdclass;
+		$identifier->type = 'issn';
+		$identifier->id = $result->fields['issn'];
 	
-	// hack, put other ISSN here (e.g., if we are using eISSN not print ISSN)
-	//$identifier->id = '1853-8460';
+		// hack, put other ISSN here (e.g., if we are using eISSN not print ISSN)
+		//$identifier->id = '1853-8460';
 	
-	$reference->journal->identifier[] = $identifier;
+		if ($identifier->id == '0253-2700')
+		{
+			$identifier->id = '2096-2703';
+		}
+		
+		$reference->journal->identifier[] = $identifier;
+	}
 	
 	
 	$reference->year = $result->fields['Publication_year_full'];
@@ -812,6 +917,84 @@ while (!$result->EOF)
 			$reference->journal->pages = $m['pages'];
 		}
 	}	
+	
+	// Ceiba
+	// xi. No. 1, 69
+	if (!$matched)
+	{
+		if (preg_match('/(?<volume>[ixvl]+)\.\s+No\.\s+(?<issue>\d+),\s+(?<pages>\d+)\s+\((?<year>[0-9]{4})\)/i', $result->fields['Collation'], $m))
+		{
+			echo "-- Matched " . __LINE__ . "\n";
+			$matched = true;
+		
+		
+			//print_r($m);
+
+			$reference->journal->volume = arabic($m['volume']);
+			$reference->journal->issue = $m['issue'];
+		
+			$reference->journal->pages = $m['pages'];
+		
+			$reference->year = $m['year'];
+			
+			$reference->authors = $result->fields['Publishing_author'];
+		
+			//print_r($reference);
+			
+			//exit();
+		}
+	}	
+	
+	// i. 83.(1950).
+	if (!$matched)
+	{
+		if (preg_match('/(?<volume>[ixvl]+)\.\s+(?<pages>\d+)\.\s*\((?<year>[0-9]{4})\)/i', $result->fields['Collation'], $m))
+		{
+			echo "-- Matched " . __LINE__ . "\n";
+			$matched = true;
+		
+		
+			//print_r($m);
+
+			$reference->journal->volume = arabic($m['volume']);
+		
+			$reference->journal->pages = $m['pages'];
+		
+			$reference->year = $m['year'];
+			
+			$reference->authors = $result->fields['Publishing_author'];
+		
+			//print_r($reference);
+			
+			//exit();
+		}
+	}	
+	
+	
+	//  v. I. (1888) 108
+	if (!$matched)
+	{
+		if (preg_match('/v\.\s+(?<volume>[IVX]+)\.\s+\((?<year>[0-9]{4})\)\s+(?<pages>\d+)/', $result->fields['Collation'], $m))
+		{
+			echo "-- Matched " . __LINE__ . "\n";
+			$matched = true;
+		
+		
+			//print_r($m);
+
+			$reference->journal->volume = arabic($m['volume']);
+			$reference->journal->pages = $m['pages'];
+		
+			$reference->year = $m['year'];
+			
+			$reference->authors = $result->fields['Publishing_author'];
+		
+			//print_r($reference);
+			
+			//exit();
+		}
+	}	
+	
 	
 	// No. 29. 43 (1965)
 	if (!$matched)
@@ -1126,6 +1309,25 @@ while (!$result->EOF)
 			//print_r($reference);
 		}
 	}
+	
+	// 36E(1): 33
+	if (!$matched)
+	{
+		if (preg_match('/^(?<volume>\d+[A-Z]?)\((?<issue>\d+)\):\s*(?<pages>\d+)$/', $result->fields['Collation'], $m))
+		{
+			echo "-- Matched " . __LINE__ . "\n";
+			$matched = true;
+		
+		
+			//print_r($m);
+		
+			$reference->journal->volume = $m['volume'];
+			$reference->journal->issue = $m['issue'];
+			$reference->journal->pages = $m['pages'];
+		
+			//print_r($reference);
+		}
+	}	
 	
 	if (!$matched)
 	{
@@ -1605,6 +1807,27 @@ while (!$result->EOF)
 		}
 	}
 	
+	// 9: 40 (1974).
+	if (!$matched)
+	{
+		if (preg_match('/(?<volume>\d+):\s+(?<pages>\d+)\s*\((?<year>[0-9]{4})\)/Uu', $collation, $m))
+		{
+			echo "-- Matched " . __LINE__ . "\n";
+			$matched = true;
+			
+			//print_r($m);
+			
+			
+			
+			$reference->journal->volume = $m['volume'];
+			$reference->journal->year = $m['year'];
+			$reference->journal->pages = $m['pages'];
+			
+			//print_r($reference);
+			//exit();
+		}
+	}	
+	
 	if (!$matched)
 	{
 		if (preg_match('/(?<volume>\d+)\s*(\((?<issue>.*)\))?:\s+(?<pages>\d+)\b/Uu', $collation, $m))
@@ -1680,8 +1903,14 @@ while (!$result->EOF)
 			//print_r($m);
 			
 			
-			
-			$reference->journal->volume = $m['volume'];
+			if (1)
+			{
+				$reference->journal->volume = $m['volume'];
+			}
+			else
+			{
+				$reference->year = $m['volume'];
+			}
 			$reference->journal->pages = $m['pages'];
 			
 			//print_r($reference);
@@ -1886,8 +2115,6 @@ while (!$result->EOF)
 	
 	
 	
-	//print_r($reference);
-	
 	// hack s
 	//$reference->journal->volume = 7;
 	//$reference->journal->volume =  30;
@@ -1900,6 +2127,122 @@ while (!$result->EOF)
 		
 		$parameters = array();
 		
+		
+		// special case
+		if ($reference->journal->name == 'Fl. Austral.')
+		{
+			if (isset($reference->journal->volume))
+			{
+				$identifier = new stdclass;
+				$identifier->type = 'issn';
+			
+/*
+'10.1017/CBO9781139096010', // Volume 1: Ranunculaceae to Anacardiaceae
+'10.1017/CBO9781139096027', // Volume 2: Leguminosae to Combretaceae
+'10.1017/CBO9781139096034', // Volume 3: Myrtaceae to Compositae
+'10.1017/CBO9781139096041', // Volume 4: Stylidieae to Pedalineae
+'10.1017/CBO9781139096058', // Volume 5: Myoporineae to Proteacrea
+'10.1017/CBO9781139096065', // Volume 6: Thymeleae to Dioscorideae
+'10.1017/CBO9781139096072', // Volume 7: Roxburghiaceae to Filices
+*/			
+			
+				switch ($reference->journal->volume)
+				{
+					case 1:
+						$identifier->id = 9781139096010;
+					 	break;
+					 	
+					case 2:
+						$identifier->id = 9781139096027;
+					 	break;
+					 	
+					case 3:
+						$identifier->id = 9781139096034;
+					 	break;
+					 	
+					case 4:
+						$identifier->id = 9781139096041;
+					 	break;
+					 	
+					case 5:
+						$identifier->id = 9781139096058;
+					 	break;
+					 	
+					case 6:
+						$identifier->id = 9781139096065;
+					 	break;
+					 	
+					case 7:
+						$identifier->id = 9781139096072;
+					 	break;
+					 	
+					default:
+						break;
+				}
+				$reference->journal->identifier[] = $identifier;
+				//unset($reference->journal->volume);
+			}
+		}
+		
+		if ($reference->journal->name == 'Icones Plantarum')
+		{
+			if (isset($reference->journal->volume))
+			{
+				$identifier = new stdclass;
+				$identifier->type = 'issn';
+			
+				switch ($reference->journal->volume)
+				{
+					case 1:
+						$identifier->id = 9781139107655;
+					 	break;
+					 	
+					case 2:
+						$identifier->id = 9781139107662;
+					 	break;
+					 	
+					case 3:
+						$identifier->id = 9781139107679;
+					 	break;
+					 	
+					case 4:
+						$identifier->id = 9781139107686;
+					 	break;
+					 	
+					case 5:
+						$identifier->id = 9781139107693;
+					 	break;
+					 	
+					case 6:
+						$identifier->id = 9781139107709;
+					 	break;
+					 	
+					case 7:
+						$identifier->id = 9781139107716;
+					 	break;
+
+					case 8:
+						$identifier->id = 9781139107723;
+					 	break;
+
+					case 9:
+						$identifier->id = 9781139107730;
+					 	break;
+
+					case 10:
+						$identifier->id = 9781139107747;
+					 	break;
+					 	
+					default:
+						break;
+				}
+				$reference->journal->identifier[] = $identifier;
+				//unset($reference->journal->volume);
+			}
+		}
+		
+		
+		
 		if (isset($reference->journal->identifier))
 		{
 			foreach ($reference->journal->identifier as $identifier)
@@ -1907,7 +2250,19 @@ while (!$result->EOF)
 				switch ($identifier->type)
 				{
 					case 'issn':
-						$parameters['issn'] = $identifier->id;
+						//if (strlen($identifier->id) == 9)
+						//{
+							$parameters['issn'] = $identifier->id;
+						
+							if ($parameters['issn'] == '1028-2092')
+							{
+								$parameters['issn'] = '2224-7297';
+							}
+						//}
+						//else
+						//{
+						//	$parameters['isbn13'] = $identifier->id;
+						//}
 						break;
 					default:
 						break;
@@ -1920,8 +2275,20 @@ while (!$result->EOF)
 		
 			// temp
 			//$reference->journal->volume = 16;
+			
+			$reference->journal->volume = str_replace('/', '-', $reference->journal->volume);
 		
 			$parameters['volume'] = $reference->journal->volume;
+			
+			
+			if (isset($parameters['issn']) && ($parameters['issn'] == '0311-4538'))
+			{
+				$parameters['issue'] = $parameters['volume'];
+				$parameters['volume'] = $reference->year;
+			}
+		
+			
+			
 		}
 		
 		if ($include_issue_in_search)
@@ -2026,8 +2393,6 @@ while (!$result->EOF)
 					echo 'UPDATE names SET wikidata="' . $obj->results[0]->wikidata . '" WHERE Id="' . $reference->id . '";' . "\n";
 				}
 			
-			
-			
 				// DOI
 				if (isset($obj->results[0]->doi))
 				{
@@ -2049,13 +2414,18 @@ while (!$result->EOF)
 				// PDF
 				if (isset($obj->results[0]->pdf))
 				{
-					echo 'UPDATE names SET pdf="' . $obj->results[0]->pdf . '" WHERE Id="' . $reference->id . '";' . "\n";
+					//echo 'UPDATE names SET pdf="' . $obj->results[0]->pdf . '" WHERE Id="' . $reference->id . '";' . "\n";
 				}				
 				
 				// URL
 				if (isset($obj->results[0]->url))
 				{
 					$use_url = true;
+					
+					if (strlen($url >= 255))
+					{
+						$use_url = false;
+					}
 					
 					if (isset($obj->results[0]->jstor)) { $use_url = false; }
 					
@@ -2064,11 +2434,36 @@ while (!$result->EOF)
 						//echo  'UPDATE names SET cinii="' . str_replace('http://ci.nii.ac.jp/naid/', '', $obj->results[0]->url) . '" WHERE Id="' . $reference->id . '";' . "\n";
 					}
 					
+					if (preg_match('/https?:\/\/biostor.org\/reference\/(?<id>\d+)/', $obj->results[0]->url, $m))
+					{
+						echo  'UPDATE names SET biostor="' . $m['id'] . '" WHERE Id="' . $reference->id . '";' . "\n";
+					}
+					
+					
 					if ($use_url)
 					{
 						echo 'UPDATE names SET url="' . $obj->results[0]->url . '" WHERE Id="' . $reference->id . '";' . "\n";
 					}
 				}
+				
+				// GUID
+				if (isset($obj->results[0]->guid))
+				{
+					if (!preg_match('/10\.\d+/', $obj->results[0]->guid, $m))
+					{
+						echo  'UPDATE names SET url="' . $obj->results[0]->guid . '" WHERE Id="' . $reference->id . '";' . "\n";
+					}
+						
+					
+					if (preg_match('/https?:\/\/biostor.org\/reference\/(?<id>\d+)/', $obj->results[0]->guid, $m))
+					{
+						echo  'UPDATE names SET biostor="' . $m['id'] . '" WHERE Id="' . $reference->id . '";' . "\n";
+					}
+					
+				}	
+				
+							
+				
 				
 			}
 		}

@@ -173,7 +173,7 @@ function get_authors_pdf($pdf, &$reference)
 	}
 
 	
-	return $authors;
+	//return $authors;
 }
 
 //--------------------------------------------------------------------------------------------------
@@ -433,6 +433,9 @@ function get_sha1(&$reference, $pdf)
 	
 	$sql = "select sha1, pdf from sha1 where pdf=" . $db->qstr($pdf) . ' LIMIT 1';
 	
+	//echo $sql . "\n";
+	//exit();
+	
 	$result = $db->Execute($sql);
 	if ($result == false) die("failed [" . __FILE__ . ":" . __LINE__ . "]: " . $sql);
 	
@@ -445,7 +448,7 @@ function get_sha1(&$reference, $pdf)
 		// thumbnail
 	
 		$url = 'http://direct.bionames.org/bionames-archive/documentcloud/pages/' . $reference->file->sha1 . '/1-small';
-		$url = 'http://bionames.org/bionames-archive/documentcloud/pages/' . $reference->file->sha1 . '/1-small';
+		//$url = 'http://bionames.org/bionames-archive/documentcloud/pages/' . $reference->file->sha1 . '/1-small';
 		
 		//$url = 'http://direct.bionames.org/bionames-archive/documentcloud/pages/6bbe0757d7b4e0caec2f4c61cf861f2d8b8bb172/1-small';
 		
@@ -720,7 +723,7 @@ function get_reference($sql, &$docs, $augment = true)
 		//----------------------------------------------------------------------------------------------
 		// identifiers
 		$reference->identifier = array();
-		$keys = array('doi', 'biostor', 'cinii', 'googleBooks', 'handle', 'isbn', 'jstor', 'pmc', 'pmid', 'url', 'pdf', 'canonical_uuid', 'oclc');
+		$keys = array('doi', 'biostor', 'cinii', 'googleBooks', 'handle', 'isbn', 'jstor', 'pmc', 'pmid', 'url', 'pdf', 'canonical_uuid', 'oclc', 'wikidata');
 		
 		foreach ($keys as $k)
 		{
@@ -853,6 +856,7 @@ function get_reference($sql, &$docs, $augment = true)
 					case 'cinii':
 					case 'jstor':
 					case 'pmid':
+					case 'wikidata':
 						$identifier = new stdclass;
 						$identifier->type = $k;
 						$identifier->id = $result->fields[$k];
@@ -872,7 +876,7 @@ function get_reference($sql, &$docs, $augment = true)
 					case 'url':
 						$is_url = true;
 						
-						if (preg_match('/http:\/\/gallica.bnf.fr\/ark:\/(?<ark>.*)$/', $result->fields[$k], $m))
+						if (preg_match('/https?:\/\/gallica.bnf.fr\/ark:\/(?<ark>.*)$/', $result->fields[$k], $m))
 						{
 							$identifier = new stdclass;
 							$identifier->type = 'ark';
@@ -1203,7 +1207,6 @@ function get_reference($sql, &$docs, $augment = true)
 						get_authors_pdf($url, $reference);
 					}
 					
-					get_authors_pdf($link->url, $reference);
 					
 					if ($resolve_doi)
 					{					
@@ -1515,6 +1518,11 @@ function get_reference($sql, &$docs, $augment = true)
 		if (count($reference->identifier) == 0)
 		{
 			unset($reference->identifier);
+		}
+
+		if (count($reference->author) == 0)
+		{
+			unset($reference->author);
 		}
 		
 		print_r($reference);

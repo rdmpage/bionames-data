@@ -272,6 +272,20 @@ $filename = 'names-5353853.txt';
 
 $filename = 'names-5376656.txt';
 
+$filename = 'names-5429609.txt';
+
+$filename = 'null.txt';
+
+
+$filename = 'names-5484821.txt';
+$filename = 'names-5507237.txt';
+
+$filename = 'names-5541545.txt';
+
+$filename = 'n.txt';
+$filename = 'n2.txt';
+
+$filename = 'names-5562820.txt';
 
 $file_handle = fopen($filename, "r");
 
